@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T11:43:24.956444+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-05-13T11:50:52.114466+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 11时50分]"
         },
         {
           "title": "数看4月新能源汽车产业成绩单",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 11时50分]"
         }
       ]
     }
