@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T17:22:02.504025+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-05-14T19:32:26.240332+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 54,
+      "match_count": 67,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -17,8 +17,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 17时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 19时32分]"
+        },
+        {
+          "title": "假如有一种生物，本身有剧毒，吃了会很快被毒死，导致没人敢碰它，这种生物能笑到最后吗？",
+          "url": "https://www.zhihu.com/question/2035205756237108368",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时32分]"
         },
         {
           "title": "乘客已全部撤离汉坦病毒暴发邮轮：他们去了哪里，状况如何？",
@@ -30,6 +41,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时21分]"
+        },
+        {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            17,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 19时32分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -68,31 +94,6 @@
           "time_info": "[00时20分 ~ 17时22分]"
         },
         {
-          "title": "假如有一种生物，本身有剧毒，吃了会很快被毒死，导致没人敢碰它，这种生物能笑到最后吗？",
-          "url": "https://www.zhihu.com/question/2035205756237108368",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
-        },
-        {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 17时22分]"
-        },
-        {
           "title": "美联储调查：2025年美国民众已高度担忧物价上涨",
           "url": "https://flash.jin10.com/detail/20260513234455419800",
           "source": "金十数据",
@@ -110,9 +111,44 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "rita突袭姿态家,女友死亡凝视",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354268&amp;topic_name=rita%E7%AA%81%E8%A2%AD%E5%A7%BF%E6%80%81%E5%AE%B6%2C%E5%A5%B3%E5%8F%8B%E6%AD%BB%E4%BA%A1%E5%87%9D%E8%A7%86",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 19时32分]"
+        },
+        {
+          "title": "《新闻联播》正在直播",
+          "url": "https://www.toutiao.com/trending/7638941233317940779/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "新闻联播",
+          "url": "https://www.douyin.com/hot/2499162",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-05-13）",
@@ -137,16 +173,18 @@
           "time_info": "00时21分"
         },
         {
-          "title": "rita突袭姿态家,女友死亡凝视",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354268&amp;topic_name=rita%E7%AA%81%E8%A2%AD%E5%A7%BF%E6%80%81%E5%AE%B6%2C%E5%A5%B3%E5%8F%8B%E6%AD%BB%E4%BA%A1%E5%87%9D%E8%A7%86",
-          "source": "贴吧",
+          "title": "女子把孩子哄睡后依偎在老公怀里",
+          "url": "https://www.toutiao.com/trending/7638875905051066406/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            9
+            7,
+            13,
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 17时22分]"
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 19时32分]"
         },
         {
           "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
@@ -187,19 +225,6 @@
           "time_info": "[10时57分 ~ 17时22分]"
         },
         {
-          "title": "女子把孩子哄睡后依偎在老公怀里",
-          "url": "https://www.toutiao.com/trending/7638875905051066406/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 17时22分]"
-        },
-        {
           "title": "日本批量生成AI视频抹黑中国",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90AI%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -224,6 +249,19 @@
           "time_info": "[10时57分 ~ 17时22分]"
         },
         {
+          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 19时32分]"
+        },
+        {
           "title": "汉坦病毒病人确认:系观鸟人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354217&amp;topic_name=%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E7%97%85%E4%BA%BA%E7%A1%AE%E8%AE%A4%3A%E7%B3%BB%E8%A7%82%E9%B8%9F%E4%BA%BA",
           "source": "贴吧",
@@ -236,6 +274,30 @@
           "time_info": "[00时20分 ~ 14时26分]"
         },
         {
+          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
+          "url": "https://www.zhihu.com/question/2037926535315677917",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时32分]"
+        },
+        {
+          "title": "AI引爆全球芯片市场？台积电重磅预测：2030年市场规模将达1.5万亿美元！",
+          "url": "https://www.cls.cn/detail/2370937",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时32分]"
+        },
+        {
           "title": "AI续写轻音少女第三季",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
           "source": "bilibili 热搜",
@@ -246,18 +308,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 10时57分]"
-        },
-        {
-          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 17时22分]"
         },
         {
           "title": "汶川地震一个班 11 名幸存者，灾后 16 年仍不敢相聚，他们为何选择「回避相聚」？",
@@ -316,33 +366,11 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "AI引爆全球芯片市场？台积电重磅预测：2030年市场规模将达1.5万亿美元！",
-          "url": "https://www.cls.cn/detail/2370937",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
-        },
-        {
           "title": "“四川北川连续两天地震”不实",
           "url": "https://www.douyin.com/hot/2498747",
           "source": "抖音",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
-        },
-        {
-          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
-          "url": "https://www.zhihu.com/question/2037926535315677917",
-          "source": "知乎",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -388,9 +416,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "美国财长贝森特：Anthropic、OpenAI、谷歌的AI模型能力正不断增强。",
+          "url": "https://wallstreetcn.com/livenews/3103666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "机构：2026年第一季度全球市场AMOLED智能手机面板出货量约2.1亿片，同比下降0.7%",
+          "url": "https://wallstreetcn.com/livenews/3103661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "长债抛售警报响：30年期美债标售得标利率自07年金融危机以来首次升破5.0%",
+          "url": "https://wallstreetcn.com/articles/3772216",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "市场消息：法国科技与人工智能公司Mistral为无法使用Mythos模型的银行开发新AI模型。",
@@ -448,6 +509,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "西班牙央行：在不利情况下，先进的人工智能模型如Anthropic的Mythos可能会产生潜在的负面系统影响。",
+          "url": "https://flash.jin10.com/detail/20260514190121726800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "现代汽车在首尔总部部署机器人，推动实体人工智能发展",
           "url": "https://flash.jin10.com/detail/20260514140154153800",
           "source": "金十数据",
@@ -457,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "西班牙央行：在与西班牙银行业的会谈中已讨论与先进人工智能模型相关的风险。",
+          "url": "https://flash.jin10.com/detail/20260514190102205800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "美联储：调查显示就业焦虑上升，物价担忧广泛存在",
@@ -470,6 +553,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "科翔股份：公司子公司广州陶积电电子科技有限公司的主营业务为陶瓷印制电路板、陶瓷基板的研发和生产制造，但陶积电公司应用于AI领域的陶瓷基板目前仍处于研发打样阶段，在公司销售收入占比极小，且后续产品的量产和销售，存在较大不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3103650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "又一艘邮轮疑似暴发疫情 1人死亡",
           "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E8%89%98%E9%82%AE%E8%BD%AE%E7%96%91%E4%BC%BC%E6%9A%B4%E5%8F%91%E7%96%AB%E6%83%85+1%E4%BA%BA%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
@@ -479,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "西班牙央行：近期人工智能工具的进展可能增加网络安全攻击的风险，给金融稳定带来威胁。",
+          "url": "https://flash.jin10.com/detail/20260514190044916800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "美国波士顿联储主席Collins（2028年FOMC票委）：必须在合理的时间内让美国通胀率回落至2%。 尤其担忧通胀风险。 无法认为通胀预期被锚定是想当然的事。 长期通胀预期与2%这个目标相一致，然而，剔除住房的通胀与通胀目标并不吻合。 可以看到一个“要求FOMC维持政策紧缩”的假设场景。 当前货币政策是准备就绪的。 在“看淡”供应冲击方面的耐心降低。 长期性的能源冲击将给（美国经济）增长带来风险。 那些限制增长的风险构成通胀风险。",
@@ -580,6 +685,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "智谱创始人谈对整个AI产业的思考",
+          "url": "https://www.toutiao.com/trending/7639659633958719002/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "习近平会见随同美国总统特朗普访华的美国企业家。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3103439",
           "source": "华尔街见闻-快讯",
@@ -613,6 +729,28 @@
           "time_info": "10时57分"
         },
         {
+          "title": "美格智能：将密切关注存储芯片市场行情 调整存储芯片库存",
+          "url": "https://flash.jin10.com/detail/20260514184718803800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "美国财长贝森特：将与公司合作解决人工智能领域的漏洞问题。",
+          "url": "https://flash.jin10.com/detail/20260514184052147800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "加拿大央行：大约12%的受访加拿大企业使用人工智能（AI），在各行业的分部并不均衡。 诸多迹象表明，AI正带来生产力的小幅增长。 AI具备提振生产力、提高生活标准的潜力。 AI可能会改变人们的工作，但不会造成就业机会缩水。 AI尚未造成加拿大大规模失业。",
           "url": "https://wallstreetcn.com/livenews/3103116",
           "source": "华尔街见闻-快讯",
@@ -622,6 +760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "机构：2026年第一季度全球市场AMOLED智能手机面板出货量约2.1亿片，同比下降0.7%",
+          "url": "https://flash.jin10.com/detail/20260514183916405800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     }
