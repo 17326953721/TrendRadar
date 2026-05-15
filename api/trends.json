@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-15T17:49:22.085116+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-05-15T19:56:57.375610+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 36,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 19时56分]"
+        },
+        {
+          "title": "日本宫城县附近海域发生5.2级地震",
+          "url": "https://wallstreetcn.com/livenews/3104408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
         {
           "title": "澳新银行：金价预计迈向6,000美元 能源危机将打击经济增长",
           "url": "https://wallstreetcn.com/livenews/3104170",
@@ -17,6 +39,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
+          "url": "https://www.zhihu.com/question/2018783635805860978",
+          "source": "知乎",
+          "ranks": [
+            5,
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 19时56分]"
         },
         {
           "title": "A股新晋“股王”突发公告！源杰科技副总经理涉嫌刑事犯罪被拘留",
@@ -30,30 +66,6 @@
           "time_info": "10时58分"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
-          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
-          "url": "https://www.zhihu.com/question/2018783635805860978",
-          "source": "知乎",
-          "ranks": [
-            5,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 17时49分]"
-        },
-        {
           "title": "解读英国首相深陷下台危机",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E6%B7%B1%E9%99%B7%E4%B8%8B%E5%8F%B0%E5%8D%B1%E6%9C%BA",
           "source": "bilibili 热搜",
@@ -64,6 +76,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时58分 ~ 14时36分]"
+        },
+        {
+          "title": "武汉公安为40只退役警犬公开招募领养人：免费，有协助破获涉毒案件的功勋犬只",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33177986",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 19时56分]"
+        },
+        {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 19时56分]"
         },
         {
           "title": "腾讯辟谣“AI一号位即将离职”",
@@ -89,17 +127,16 @@
           "time_info": "[10时58分 ~ 17时49分]"
         },
         {
-          "title": "武汉公安为40只退役警犬公开招募领养人：免费，有协助破获涉毒案件的功勋犬只",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33177986",
-          "source": "澎湃新闻",
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            19,
-            14
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 17时49分]"
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 19时56分]"
         },
         {
           "title": "5月15日投资避雷针：A股“股王”突发 副总经理被刑拘",
@@ -113,16 +150,16 @@
           "time_info": "[10时58分 ~ 14时36分]"
         },
         {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
           "ranks": [
-            10,
-            8
+            11,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时36分 ~ 17时49分]"
+          "time_info": "[17时49分 ~ 19时56分]"
         },
         {
           "title": "印度暴风雨致89人死亡，一男子被刮上天",
@@ -169,17 +206,6 @@
           "time_info": "10时58分"
         },
         {
-          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
-          "url": "https://www.cls.cn/detail/2372257",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
           "title": "俄外交部：日本应重新审视对俄制裁政策",
           "url": "https://wallstreetcn.com/livenews/3104037",
           "source": "华尔街见闻-快讯",
@@ -219,7 +245,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -246,17 +272,6 @@
           "time_info": "10时58分"
         },
         {
-          "title": "云南小伙用AI制作短片爆红",
-          "url": "https://www.douyin.com/hot/2499805",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
           "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
           "url": "https://www.cls.cn/detail/2371792",
           "source": "财联社热门",
@@ -266,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "李强主持召开国务院常务会议，审议通过《加快农业农村现代化“十五五”规划》。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "方媛女孩子的配得感",
@@ -279,6 +305,28 @@
           "time_info": "10时58分"
         },
         {
+          "title": "据日本放送协会NHK：日本地震后未发布海啸警报。",
+          "url": "https://flash.jin10.com/detail/20260515192716253800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "据日本防灾科学技术研究所（NIED）通报，此次日本地震的初步震级为6.6 级。另据日本广播协会（NHK）报道，宫城县震度为“5弱”。",
+          "url": "https://flash.jin10.com/detail/20260515192703247800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "港股风电股震荡走低，金风科技(02208.HK)跌超5%，协和新能源(00182.HK)、东方电气(01072.HK)跌超3%，大唐新能源(01798.HK)跌超1%。",
           "url": "https://flash.jin10.com/detail/20260515100747051800",
           "source": "金十数据",
@@ -288,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "日本政府向宫城县、青森县、岩手县、福岛县和秋田县发布紧急地震预警。",
+          "url": "https://flash.jin10.com/detail/20260515192345681800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "rita突袭姿态家,女友死亡凝视",
@@ -301,13 +360,46 @@
           "time_info": "10时58分"
         },
         {
+          "title": "如何看待 Anthropic 估值反超 OpenAI ？",
+          "url": "https://www.zhihu.com/question/2038588162453104310",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "日本气象厅：日本宫城县附近发生地震。",
+          "url": "https://flash.jin10.com/detail/20260515192245865800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "日本本州东部附近海域6.8级左右地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A8%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F6.8%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "对话华山医院感染专家：安第斯病毒与新冠病毒有何不同？如何预防？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33178494",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -362,7 +454,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -384,7 +476,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -409,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "浙江出台13条新政策助推民营经济高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3104366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         }
       ]
     }
