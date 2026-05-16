@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T22:06:15.546852+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-05-16T23:35:31.494551+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 66,
+      "match_count": 72,
       "titles": [
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -17,8 +17,21 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 23时35分]"
+        },
+        {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时45分 ~ 22时06分]"
+          "time_info": "[13时54分 ~ 23时35分]"
         },
         {
           "title": "日本宫城县附近海域发生6.3级地震，东北新干线部分区间停运",
@@ -36,18 +49,6 @@
           "time_info": "[00时20分 ~ 20时14分]"
         },
         {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时54分 ~ 22时06分]"
-        },
-        {
           "title": "AI全员娘化,豆包变呆瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
@@ -62,8 +63,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 22时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 23时35分]"
         },
         {
           "title": "河南驻马店突发火情？谣言",
@@ -73,8 +74,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时45分 ~ 22时06分]"
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 23时35分]"
+        },
+        {
+          "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
+          "url": "https://wallstreetcn.com/articles/3772409",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 23时35分]"
         },
         {
           "title": "UP主打假毒科普",
@@ -104,17 +119,16 @@
           "time_info": "[19时03分 ~ 22时06分]"
         },
         {
-          "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
-          "url": "https://wallstreetcn.com/articles/3772409",
-          "source": "华尔街见闻",
+          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            7,
-            6
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时56分 ~ 22时06分]"
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 23时35分]"
         },
         {
           "title": "其实孩子在小时候已经报完恩了",
@@ -128,6 +142,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时03分 ~ 20时14分]"
+        },
+        {
+          "title": "中国地震台网正式测定：05月16日22时53分在新疆克孜勒苏州乌恰县（北纬40.47度，东经74.86度）发生3.4级地震，震源深度12千米。",
+          "url": "https://flash.jin10.com/detail/20260516230013372800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "OpenAI与Plaid构建合作伙伴关系，将利用ChatGPT提供个性化金融顾问服务。",
@@ -152,15 +177,26 @@
           "time_info": "20时14分"
         },
         {
-          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
-          "source": "澎湃新闻",
+          "title": "中国地震台网自动测定：05月16日22时50分在背风群岛附近（北纬17.56度，西经61.08度）发生6.1级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260516230005655800",
+          "source": "金十数据",
           "ranks": [
-            14
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时56分 ~ 22时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
+          "url": "https://flash.jin10.com/detail/20260516225206555800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "AI威胁逼近，底特律三巨头已削减超2万个美国受薪职位",
@@ -185,15 +221,15 @@
           "time_info": "13时54分"
         },
         {
-          "title": "商务部新闻发言人就中美经贸磋商初步成果答记者问",
-          "url": "https://wallstreetcn.com/livenews/3104801",
+          "title": "印度外贸总局：修改白银进口政策，将白银条的进口政策修改为“限制”类。",
+          "url": "https://wallstreetcn.com/livenews/3104808",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时06分"
+          "time_info": "23时35分"
         },
         {
           "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
@@ -219,6 +255,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 16时03分]"
+        },
+        {
+          "title": "商务部新闻发言人就中美经贸磋商初步成果答记者问",
+          "url": "https://wallstreetcn.com/livenews/3104801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时35分]"
+        },
+        {
+          "title": "德国纽伦堡一公司化学品泄漏 1人死亡约30人受伤",
+          "url": "https://wallstreetcn.com/livenews/3104782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时03分 ~ 23时35分]"
+        },
+        {
+          "title": "泰国火车与巴士相撞已致5人死亡",
+          "url": "https://wallstreetcn.com/livenews/3104779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时03分 ~ 23时35分]"
         },
         {
           "title": "孙燕姿演唱会中突发不适",
@@ -283,6 +359,18 @@
           "time_info": "[19时03分 ~ 22时06分]"
         },
         {
+          "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
+          "url": "https://wallstreetcn.com/articles/3772419",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时35分]"
+        },
+        {
           "title": "德总理说不建议孩子去美国学习工作",
           "url": "https://wallstreetcn.com/livenews/3104771",
           "source": "华尔街见闻-快讯",
@@ -296,17 +384,17 @@
           "time_info": "[17时57分 ~ 20时14分]"
         },
         {
-          "title": "德国纽伦堡一公司化学品泄漏 1人死亡约30人受伤",
-          "url": "https://wallstreetcn.com/livenews/3104782",
+          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+          "url": "https://wallstreetcn.com/livenews/3104794",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            19,
-            23
+            12,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时03分 ~ 22时06分]"
+          "time_info": "[20时14分 ~ 23时35分]"
         },
         {
           "title": "阿联酋能源部长：这一决定是在对阿联酋（原油）生产政策和未来产能进行全面评估后作出的，其唯一遵循的是阿联酋的国家利益、作为可靠能源供应商的责任以及对市场稳定的坚定承诺。",
@@ -322,17 +410,16 @@
           "time_info": "[17时57分 ~ 20时14分]"
         },
         {
-          "title": "泰国火车与巴士相撞已致5人死亡",
-          "url": "https://wallstreetcn.com/livenews/3104779",
-          "source": "华尔街见闻-快讯",
+          "title": "探秘北极超市物价有多离谱",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E5%8C%97%E6%9E%81%E8%B6%85%E5%B8%82%E7%89%A9%E4%BB%B7%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            21,
-            25
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时03分 ~ 22时06分]"
+          "time_info": "[22时05分 ~ 23时35分]"
         },
         {
           "title": "市场消息：加沙目击者表示，加沙的部分清真寺宣布哈马斯军事指挥官伊兹·丁·哈达德死亡；哈马斯方面未发表评论。",
@@ -397,6 +484,18 @@
           "time_info": "[17时56分 ~ 17时57分]"
         },
         {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗内政部长与到访的巴基斯坦内政部长举行了“详细”会谈，讨论了伊朗-巴基斯坦双边关系以及重启（美伊）和平谈判的前景。",
+          "url": "https://flash.jin10.com/detail/20260516210853480800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时35分]"
+        },
+        {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
           "url": "https://www.zhihu.com/question/2035685308566610183",
           "source": "知乎",
@@ -409,27 +508,16 @@
           "time_info": "[00时20分 ~ 10时45分]"
         },
         {
-          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
-          "url": "https://wallstreetcn.com/livenews/3104794",
-          "source": "华尔街见闻-快讯",
+          "title": "德国一小飞机坠毁致两人死亡",
+          "url": "https://flash.jin10.com/detail/20260516210303697800",
+          "source": "金十数据",
           "ranks": [
             8,
-            12
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时14分 ~ 22时06分]"
-        },
-        {
-          "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
-          "url": "https://wallstreetcn.com/articles/3772419",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
+          "time_info": "[22时06分 ~ 23时35分]"
         },
         {
           "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
@@ -444,15 +532,16 @@
           "time_info": "[17时57分 ~ 19时03分]"
         },
         {
-          "title": "探秘北极超市物价有多离谱",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E5%8C%97%E6%9E%81%E8%B6%85%E5%B8%82%E7%89%A9%E4%BB%B7%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
-          "source": "bilibili 热搜",
+          "title": "商务部新闻发言人就中美经贸磋商初步成果答记者问",
+          "url": "https://flash.jin10.com/detail/20260516201335894800",
+          "source": "金十数据",
           "ranks": [
-            14
+            12,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
+          "time_info": "[22时06分 ~ 23时35分]"
         },
         {
           "title": "海光信息：为“能源电力行业第一届人工智能创新研发交流活动”提供算力支撑",
@@ -511,17 +600,6 @@
           "time_info": "[17时56分 ~ 17时57分]"
         },
         {
-          "title": "据伊朗努尔新闻(Nour News)：伊朗内政部长与到访的巴基斯坦内政部长举行了“详细”会谈，讨论了伊朗-巴基斯坦双边关系以及重启（美伊）和平谈判的前景。",
-          "url": "https://flash.jin10.com/detail/20260516210853480800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
           "title": "3岁孩子懂事成为妈妈的“小护工”",
           "url": "https://www.toutiao.com/trending/7639309843170394122/",
           "source": "今日头条",
@@ -531,17 +609,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "德国一小飞机坠毁致两人死亡",
-          "url": "https://flash.jin10.com/detail/20260516210303697800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
         },
         {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
@@ -566,6 +633,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
+          "url": "https://wallstreetcn.com/articles/3772426",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "席瑞对话 Cecilia，他认为「AI 能给答案，但给不了孩子问出好问题的能力」，你认可这个观点吗？",
           "url": "https://www.zhihu.com/question/2038564529353839746",
           "source": "知乎",
@@ -586,17 +664,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "商务部新闻发言人就中美经贸磋商初步成果答记者问",
-          "url": "https://flash.jin10.com/detail/20260516201335894800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
         },
         {
           "title": "据英国天空新闻：英国财政大臣里夫斯计划取消部分金融危机后实施的银行“隔离”监管制度，以推动英国经济增长。",
@@ -685,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "古代把战俘的手指都砍掉再放回去是不是比坑杀更加歹毒？",
+          "url": "https://www.zhihu.com/question/2036801513306198995",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "女子和孩子下电梯前按亮所有楼层",
