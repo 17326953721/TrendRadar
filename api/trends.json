@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T00:20:26.082831+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-16T10:45:53.187486+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 15,
+      "match_count": 26,
       "titles": [
         {
           "title": "OpenAI与Plaid构建合作伙伴关系，将利用ChatGPT提供个性化金融顾问服务。",
@@ -30,15 +30,62 @@
           "time_info": "00时20分"
         },
         {
+          "title": "UP主打假毒科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%93%E5%81%87%E6%AF%92%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "日本宫城县附近海域发生6.3级地震，东北新干线部分区间停运",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33183288",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 10时45分]"
+        },
+        {
           "title": "AI全员娘化,豆包变呆瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
           "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 10时45分]"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            18,
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 10时45分]"
         },
         {
           "title": "3岁孩子懂事成为妈妈的“小护工”",
@@ -74,6 +121,28 @@
           "time_info": "00时20分"
         },
         {
+          "title": "河南驻马店突发火情？谣言",
+          "url": "https://www.toutiao.com/trending/7640064645654954025/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "席瑞对话 Cecilia，他认为「AI 能给答案，但给不了孩子问出好问题的能力」，你认可这个观点吗？",
+          "url": "https://www.zhihu.com/question/2038564529353839746",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "第十二批国采打响“发令枪” 233个品规预填报启动 政策组合拳下药企博弈反内卷新局",
           "url": "https://www.cls.cn/detail/2372509",
           "source": "财联社热门",
@@ -85,15 +154,15 @@
           "time_info": "00时20分"
         },
         {
-          "title": "日本宫城县附近海域发生6.3级地震，东北新干线部分区间停运",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33183288",
-          "source": "澎湃新闻",
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
           "ranks": [
-            15
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "10时45分"
         },
         {
           "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-05-15）",
@@ -118,15 +187,37 @@
           "time_info": "00时20分"
         },
         {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
-          "url": "https://www.zhihu.com/question/2035685308566610183",
-          "source": "知乎",
+          "title": "高校生录视频获赞“AI建模脸”出圈",
+          "url": "https://www.toutiao.com/trending/7640272730192875018/",
+          "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "10时45分"
+        },
+        {
+          "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3104694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "女子和孩子下电梯前按亮所有楼层",
+          "url": "https://www.toutiao.com/trending/7639644028963209226/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "据华尔街日报：Anthropic正寻求再融资300亿美元，人工智能实验室正在吸纳风险投资的大部分资金。",
@@ -151,6 +242,28 @@
           "time_info": "00时20分"
         },
         {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-05-16）",
+          "url": "https://flash.jin10.com/detail/20260516085947767800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "阿联酋外交部：阿联酋的所有行动均在其防御行动框架内，旨在保护其主权、平民和重要基础设施。阿联酋保留所有主权、法律、外交和军事权利，以应对任何“威胁或敌对行为”。",
+          "url": "https://flash.jin10.com/detail/20260516085149230800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "歌手温岚突发疾病入住加护病房",
           "url": "https://www.douyin.com/hot/2500185",
           "source": "抖音",
@@ -160,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "惠誉：新能源冲击打断了德国脆弱的复苏。",
+          "url": "https://flash.jin10.com/detail/20260516085052198800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "英国政府：企业应采取措施限制前沿AI模型的风险",
