@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T11:31:53.396192+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-05-22T15:03:47.088110+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 45,
+      "match_count": 54,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 11时31分]"
+        },
+        {
+          "title": "“达成协议”假新闻刺激市场，美伊谈判“分歧缩小”，但“核问题和霍尔木兹海峡”仍然“各说各的”",
+          "url": "https://wallstreetcn.com/articles/3772865",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 15时03分]"
         },
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -41,6 +53,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "关于“6张网”、人工智能、具身智能，国家发改委最新回应",
+          "url": "https://www.cls.cn/detail/2378704",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "OpenAI：AdventHealth正在部署Chatgpt以减轻行政负担，并优化其系统内的临床工作流程。",
           "url": "https://flash.jin10.com/detail/20260522010324377800",
           "source": "金十数据",
@@ -58,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -72,28 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "为何AI总会一本正经地胡说八道",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "“达成协议”假新闻刺激市场，美伊谈判“分歧缩小”，但“核问题和霍尔木兹海峡”仍然“各说各的”",
-          "url": "https://wallstreetcn.com/articles/3772865",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -113,20 +114,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "为何AI总会一本正经地胡说八道",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 15时03分]"
         },
         {
           "title": "为什么很多灾难片里说「老人孩子先走」？",
           "url": "https://www.zhihu.com/question/22334642",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 15时03分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -134,11 +148,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 15时03分]"
         },
         {
           "title": "白金大神翻车,新书被批毒点",
@@ -146,11 +161,36 @@
           "source": "贴吧",
           "ranks": [
             16,
-            22
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 15时03分]"
+        },
+        {
+          "title": "我想去农村，不上班可以靠务农活到老吗?",
+          "url": "https://www.zhihu.com/question/682815749",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时14分 ~ 11时31分]"
+          "time_info": "[11时31分 ~ 15时03分]"
+        },
+        {
+          "title": "用上AI后工作时间反而更长了",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 15时03分]"
         },
         {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
@@ -192,9 +232,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "炮制涉华假新闻韩媒遭总统痛批后道歉",
+          "url": "https://www.toutiao.com/trending/7642586565092363827/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "遭总统痛批后 韩媒就涉华假新闻道歉",
+          "url": "https://www.baidu.com/s?wd=%E9%81%AD%E6%80%BB%E7%BB%9F%E7%97%9B%E6%89%B9%E5%90%8E+%E9%9F%A9%E5%AA%92%E5%B0%B1%E6%B6%89%E5%8D%8E%E5%81%87%E6%96%B0%E9%97%BB%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "中国贸促会：第四届链博会首次设立人工智能专区 集聚英伟达等中外人工智能领域领军企业",
@@ -203,7 +287,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -217,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "涉柳州地震这些信息是谣言",
@@ -239,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "女子没来过月经却生了三个孩子",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B2%A1%E6%9D%A5%E8%BF%87%E6%9C%88%E7%BB%8F%E5%8D%B4%E7%94%9F%E4%BA%86%E4%B8%89%E4%B8%AA%E5%AD%A9%E5%AD%90%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "涉柳州地震谣言合集",
@@ -296,17 +402,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "用上AI后工作时间反而更长了",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：当前政策处于应对持续冲击的有利位置。 当前政策处于应对持续冲击的有利位置。 美联储是否需要加息，取决于企业和消费者对不断发展的形势做出何种反应。 消费者虽然“很不高兴”，但仍在继续消费。 企业迄今为止主要通过自然减员（员工离职后不补缺）而非裁员来维持和提升生产率。 忽视/看穿供给端冲击的政策在过去行之有效，但不难预见，未来我们将面临更具挑战性的环境以及更频繁的冲击。 到目前为止，长期通胀预期似乎依然得到了有效遏制。",
           "url": "https://wallstreetcn.com/livenews/3107550",
           "source": "华尔街见闻-快讯",
@@ -351,17 +446,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "我想去农村，不上班可以靠务农活到老吗?",
-          "url": "https://www.zhihu.com/question/682815749",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
           "title": "释新闻｜印尼为何专设一家国企集中管理关键资源出口？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33205210",
           "source": "澎湃新闻",
@@ -401,9 +485,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "深圳：2026年智能家居和其他智能产品给予15%补贴 最高补贴不超1500元",
+          "url": "https://flash.jin10.com/detail/20260522141527698800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "美3人死亡急救人员接触异物被隔离",
@@ -412,7 +507,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -423,9 +518,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "深圳：2026年智能家居和其他智能产品给予15%补贴 最高补贴1500元",
+          "url": "https://wallstreetcn.com/livenews/3107838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "国家发改委：已连续6年制定享受税收优惠政策的集成电路企业或项目以及软件企业清单",
@@ -434,7 +540,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -445,7 +551,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -467,7 +573,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -489,7 +595,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -500,7 +606,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
