@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-05-23T10:49:56.997386+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-05-23T14:13:03.168447+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "爆!动漫皇帝怒斥毒瘤二游痴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354524&amp;topic_name=%E7%88%86%21%E5%8A%A8%E6%BC%AB%E7%9A%87%E5%B8%9D%E6%80%92%E6%96%A5%E6%AF%92%E7%98%A4%E4%BA%8C%E6%B8%B8%E7%97%B4",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 10时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 14时13分]"
+        },
+        {
+          "title": "山西煤矿事故已致90人死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B490%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 14时13分]"
+        },
+        {
+          "title": "山西沁源一煤矿发生事故，已造成 82 人死亡、 9 人失联，目前救援进展如何？",
+          "url": "https://www.zhihu.com/question/2041415745591046959",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 14时13分]"
         },
         {
           "title": "“达成协议”假新闻刺激市场，美伊谈判“分歧缩小”，但“核问题和霍尔木兹海峡”仍然“各说各的”",
@@ -52,6 +75,18 @@
           "time_info": "[00时25分 ~ 00时26分]"
         },
         {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时13分]"
+        },
+        {
           "title": "孩子想做蚕丝被，家里养 1.2 万条蚕，全家齐助力剥茧、喂食和搭房，你觉得值吗？这种教育会怎样影响孩子？",
           "url": "https://www.zhihu.com/question/2040508570488283807",
           "source": "知乎",
@@ -62,6 +97,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 10时49分]"
+        },
+        {
+          "title": "净网 | 这些涉柳州地震的信息是谣言",
+          "url": "https://www.toutiao.com/trending/7641830125348274185/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时13分]"
+        },
+        {
+          "title": "净网|这些涉柳州地震的信息是谣言",
+          "url": "https://www.baidu.com/s?wd=%E5%87%80%E7%BD%91%7C%E8%BF%99%E4%BA%9B%E6%B6%89%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E7%9A%84%E4%BF%A1%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时13分]"
+        },
+        {
+          "title": "这些涉及柳州地震的信息是谣言",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E4%BA%9B%E6%B6%89%E5%8F%8A%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E7%9A%84%E4%BF%A1%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时13分]"
+        },
+        {
+          "title": "这些涉及柳州地震的信息是谣言",
+          "url": "https://www.douyin.com/hot/2508997",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时13分]"
         },
         {
           "title": "韩媒就涉华假新闻道歉",
@@ -100,6 +179,30 @@
           "time_info": "[00时25分 ~ 10时49分]"
         },
         {
+          "title": "山西沁源一煤矿爆炸已致8人死亡，井下38人正在全力搜救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33217003",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时13分]"
+        },
+        {
+          "title": "山西沁源县一煤矿井下一氧化碳超标，已造成4人死亡16人危重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33215772",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 14时13分]"
+        },
+        {
           "title": "郝哥李广奇回应AI买瓜",
           "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
           "source": "bilibili 热搜",
@@ -122,6 +225,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 10时49分]"
+        },
+        {
+          "title": "去年中国载人航天工程实施首次应急发射任务 为国际航天领域高效应对突发事件提供成功范例",
+          "url": "https://wallstreetcn.com/livenews/3108296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时13分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -168,6 +283,17 @@
           "time_info": "[00时25分 ~ 00时26分]"
         },
         {
+          "title": "山西大同3.2级地震系废弃矿井塌陷",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E5%A4%A7%E5%90%8C3.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%B3%BB%E5%BA%9F%E5%BC%83%E7%9F%BF%E4%BA%95%E5%A1%8C%E9%99%B7",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 14时13分]"
+        },
+        {
           "title": "深圳龙岗发洪水系谣言",
           "url": "https://www.douyin.com/hot/2508823",
           "source": "抖音",
@@ -177,6 +303,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
+        },
+        {
+          "title": "美股AI应用软件股爆发",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1AI%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6%E8%82%A1%E7%88%86%E5%8F%91%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 14时13分]"
         },
         {
           "title": "女子从没来过月经却生了三个孩子",
@@ -201,6 +338,17 @@
           "time_info": "[00时25分 ~ 00时26分]"
         },
         {
+          "title": "山西大同地震",
+          "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E8%A5%BF%E5%A4%A7%E5%90%8C%E5%9C%B0%E9%9C%87&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 14时13分]"
+        },
+        {
           "title": "马斯克重建xAI组织图曝光",
           "url": "https://www.toutiao.com/trending/7642709273591418394/",
           "source": "今日头条",
@@ -210,72 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
-        },
-        {
-          "title": "净网 | 这些涉柳州地震的信息是谣言",
-          "url": "https://www.toutiao.com/trending/7641830125348274185/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "净网|这些涉柳州地震的信息是谣言",
-          "url": "https://www.baidu.com/s?wd=%E5%87%80%E7%BD%91%7C%E8%BF%99%E4%BA%9B%E6%B6%89%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E7%9A%84%E4%BF%A1%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "这些涉及柳州地震的信息是谣言",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E4%BA%9B%E6%B6%89%E5%8F%8A%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E7%9A%84%E4%BF%A1%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "这些涉及柳州地震的信息是谣言",
-          "url": "https://www.douyin.com/hot/2508997",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "OpenAI称攻克80年数学难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "去年中国载人航天工程实施首次应急发射任务 为国际航天领域高效应对突发事件提供成功范例",
-          "url": "https://wallstreetcn.com/livenews/3108296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
         },
         {
           "title": "京东研究对The Very Group的潜在收购。（英国天空新闻）",
@@ -295,20 +377,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
         {
-          "title": "山西沁源一煤矿爆炸已致8人死亡，井下38人正在全力搜救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33217003",
-          "source": "澎湃新闻",
+          "title": "27个国家因伊朗冲突启动危机应对措施以寻求财政支持",
+          "url": "https://flash.jin10.com/detail/20260523124907607800",
+          "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时13分"
         },
         {
           "title": "去年中国载人航天工程实施首次应急发射任务 为国际航天领域高效应对突发事件提供成功范例",
@@ -317,7 +399,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -333,24 +415,13 @@
           "time_info": "00时26分"
         },
         {
-          "title": "山西沁源县一煤矿井下一氧化碳超标，已造成4人死亡16人危重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33215772",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
           "title": "我国AI大模型优势在哪",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -361,7 +432,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -372,7 +443,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -383,7 +454,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -394,9 +465,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "美银乐观预测：AI十年内每年将拉动增长约1个百分点",
+          "url": "https://flash.jin10.com/detail/20260523110713640800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "6年住家保姆打孩子被炒持刀威胁",
@@ -405,7 +487,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
