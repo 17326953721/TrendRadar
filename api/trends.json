@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T21:22:43.152666+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-05-23T22:48:32.101922+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 73,
+      "match_count": 84,
       "titles": [
         {
           "title": "爆!动漫皇帝怒斥毒瘤二游痴",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 21时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 22时48分]"
         },
         {
           "title": "山西煤矿事故已致90人死亡",
@@ -29,19 +29,69 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时12分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[14时12分 ~ 22时48分]"
         },
         {
           "title": "山西煤矿事故已致90人死亡",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B490%E4%BA%BA%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 22时48分]"
+        },
+        {
+          "title": "山西沁源县一煤矿井下一氧化碳超标，已造成4人死亡16人危重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33215772",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 22时48分]"
+        },
+        {
+          "title": "净网 | 这些涉柳州地震的信息是谣言",
+          "url": "https://www.toutiao.com/trending/7641830125348274185/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 22时48分]"
+        },
+        {
+          "title": "净网|这些涉柳州地震的信息是谣言",
+          "url": "https://www.baidu.com/s?wd=%E5%87%80%E7%BD%91%7C%E8%BF%99%E4%BA%9B%E6%B6%89%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E7%9A%84%E4%BF%A1%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 22时48分]"
+        },
+        {
+          "title": "这些涉及柳州地震的信息是谣言",
+          "url": "https://www.douyin.com/hot/2508997",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 22时48分]"
         },
         {
           "title": "OpenAI称攻克80年数学难题",
@@ -58,54 +108,6 @@
           "time_info": "[10时49分 ~ 19时42分]"
         },
         {
-          "title": "山西沁源县一煤矿井下一氧化碳超标，已造成4人死亡16人危重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33215772",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 21时22分]"
-        },
-        {
-          "title": "净网 | 这些涉柳州地震的信息是谣言",
-          "url": "https://www.toutiao.com/trending/7641830125348274185/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 21时22分]"
-        },
-        {
-          "title": "净网|这些涉柳州地震的信息是谣言",
-          "url": "https://www.baidu.com/s?wd=%E5%87%80%E7%BD%91%7C%E8%BF%99%E4%BA%9B%E6%B6%89%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E7%9A%84%E4%BF%A1%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 21时22分]"
-        },
-        {
-          "title": "这些涉及柳州地震的信息是谣言",
-          "url": "https://www.douyin.com/hot/2508997",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 21时22分]"
-        },
-        {
           "title": "山西煤矿事故已致90人死亡",
           "url": "https://www.toutiao.com/trending/7642603646710124073/",
           "source": "今日头条",
@@ -115,8 +117,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 22时48分]"
         },
         {
           "title": "山西煤矿事故已致90人死亡",
@@ -174,6 +176,39 @@
           "time_info": "[00时25分 ~ 00时26分]"
         },
         {
+          "title": "直播：山西沁源煤矿瓦斯爆炸事故救援情况新闻发布会",
+          "url": "https://www.zhihu.com/theater/55785",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "山西留神峪煤矿瓦斯爆炸事故新闻发布会现场为遇难者默哀",
+          "url": "https://wallstreetcn.com/livenews/3108398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "山西煤矿事故新闻发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "「耿同学」称有头衔学者的研究应接受更严格的监督，举报不为了赚钱，已与 MCN 解约，这种体面打假能长久吗？",
           "url": "https://www.zhihu.com/question/2041475698045498466",
           "source": "知乎",
@@ -200,6 +235,28 @@
           "time_info": "[16时35分 ~ 21时22分]"
         },
         {
+          "title": "山西煤矿爆炸事故新闻发布会",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "山西煤矿事故新闻发布会",
+          "url": "https://www.douyin.com/hot/2509889",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "俄称乌无人机袭击卢甘斯克一学校 死亡人数已升至12人",
           "url": "https://flash.jin10.com/detail/20260523184946340800",
           "source": "金十数据",
@@ -209,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/3108395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "孩子想做蚕丝被，家里养 1.2 万条蚕，全家齐助力剥茧、喂食和搭房，你觉得值吗？这种教育会怎样影响孩子？",
@@ -221,6 +289,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 10时49分]"
+        },
+        {
+          "title": "比亚迪 5 月 28 日将举办智能化战略发布会，预计宣布新突破，可能涉及什么技术？你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2041247388258362911",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时48分]"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）：巴基斯坦技术和法律代表团前往德黑兰。",
@@ -284,6 +364,33 @@
           "time_info": "[16时35分 ~ 18时27分]"
         },
         {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 22时48分]"
+        },
+        {
+          "title": "上海第十一批国家组织集采药品医保支付政策解读",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33214781",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 22时48分]"
+        },
+        {
           "title": "这些涉及柳州地震的信息是谣言",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E4%BA%9B%E6%B6%89%E5%8F%8A%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E7%9A%84%E4%BF%A1%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
           "source": "bilibili 热搜",
@@ -345,18 +452,6 @@
           "time_info": "[16时35分 ~ 19时42分]"
         },
         {
-          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 21时22分]"
-        },
-        {
           "title": "AI还原祖国人注射V1后的战斗力",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
           "source": "bilibili 热搜",
@@ -393,17 +488,16 @@
           "time_info": "[18时27分 ~ 21时22分]"
         },
         {
-          "title": "上海第十一批国家组织集采药品医保支付政策解读",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33214781",
-          "source": "澎湃新闻",
+          "title": "AI 泡沫还能持续多久？",
+          "url": "https://www.zhihu.com/question/1903030274536743238",
+          "source": "知乎",
           "ranks": [
-            20,
             14,
             15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时27分 ~ 21时22分]"
+          "time_info": "[19时42分 ~ 22时48分]"
         },
         {
           "title": "山西一石灰窑发生中毒事件 1死5伤",
@@ -430,6 +524,19 @@
           "time_info": "[00时25分 ~ 10时49分]"
         },
         {
+          "title": "AI光算力第一股上市首日暴涨380%",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 22时48分]"
+        },
+        {
           "title": "白金大神翻车,新书被批毒点",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354465&amp;topic_name=%E7%99%BD%E9%87%91%E5%A4%A7%E7%A5%9E%E7%BF%BB%E8%BD%A6%2C%E6%96%B0%E4%B9%A6%E8%A2%AB%E6%89%B9%E6%AF%92%E7%82%B9",
           "source": "贴吧",
@@ -452,6 +559,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时42分 ~ 21时22分]"
+        },
+        {
+          "title": "欧洲央行管委：央行或不可避免加冕加息，以捍卫政策公信力",
+          "url": "https://wallstreetcn.com/livenews/3108366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时48分]"
+        },
+        {
+          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
+          "url": "https://wallstreetcn.com/articles/3772963",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时48分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -543,18 +674,6 @@
           "time_info": "[14时12分 ~ 14时13分]"
         },
         {
-          "title": "AI 泡沫还能持续多久？",
-          "url": "https://www.zhihu.com/question/1903030274536743238",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 21时22分]"
-        },
-        {
           "title": "女子从没来过月经却生了三个孩子",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BB%8E%E6%B2%A1%E6%9D%A5%E8%BF%87%E6%9C%88%E7%BB%8F%E5%8D%B4%E7%94%9F%E4%BA%86%E4%B8%89%E4%B8%AA%E5%AD%A9%E5%AD%90",
           "source": "百度热搜",
@@ -564,18 +683,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
-        },
-        {
-          "title": "AI光算力第一股上市首日暴涨380%",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 21时22分]"
         },
         {
           "title": "女子从没来过月经却生了三个孩子",
@@ -611,26 +718,15 @@
           "time_info": "[00时25分 ~ 00时26分]"
         },
         {
-          "title": "比亚迪 5 月 28 日将举办智能化战略发布会，预计宣布新突破，可能涉及什么技术？你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2041247388258362911",
-          "source": "知乎",
+          "title": "俄称乌无人机袭击卢甘斯克一学校，死亡人数已升至18人",
+          "url": "https://flash.jin10.com/detail/20260523222743636800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "欧洲央行管委：央行或不可避免加冕加息，以捍卫政策公信力",
-          "url": "https://wallstreetcn.com/livenews/3108366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "22时48分"
         },
         {
           "title": "京东研究对The Very Group的潜在收购。（英国天空新闻）",
@@ -644,15 +740,15 @@
           "time_info": "00时26分"
         },
         {
-          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
-          "url": "https://wallstreetcn.com/articles/3772963",
-          "source": "华尔街见闻",
+          "title": "国内单体最大智能组串式储能电站落地内蒙古",
+          "url": "https://wallstreetcn.com/livenews/3108391",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "22时48分"
         },
         {
           "title": "山西沁源煤矿事故已致8人死亡",
@@ -666,6 +762,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "女子住院被朋友殴打昏迷数天后死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%99%A2%E8%A2%AB%E6%9C%8B%E5%8F%8B%E6%AE%B4%E6%89%93%E6%98%8F%E8%BF%B7%E6%95%B0%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "27个国家因伊朗冲突启动危机应对措施以寻求财政支持",
           "url": "https://flash.jin10.com/detail/20260523124907607800",
           "source": "金十数据",
@@ -675,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "以军轰炸加沙北部致5名警察死亡",
+          "url": "https://wallstreetcn.com/livenews/3108389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "直播丨山西煤矿瓦斯爆炸事故已致82人死亡9人失联，现场救援正在进行",
@@ -776,6 +894,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "美国疾控中心（CDC）将埃博拉病毒筛查范围扩大至亚特兰大机场。",
+          "url": "https://wallstreetcn.com/livenews/3108377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "新华社：将杨梅危机化为产业升级契机",
           "url": "https://www.toutiao.com/trending/7643007296855641638/",
           "source": "今日头条",
@@ -804,7 +933,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -837,7 +966,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -848,7 +977,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         }
