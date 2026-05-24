@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T20:02:22.644336+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-05-24T21:55:34.237734+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "直播丨山西沁源煤矿瓦斯爆炸事故新闻发布会：已致82人遇难，2人失联",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 20时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 21时55分]"
         },
         {
           "title": "爆!动漫皇帝怒斥毒瘤二游痴",
@@ -54,22 +54,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 20时02分]"
-        },
-        {
-          "title": "印度外交部长：与美国国务卿鲁比奥审议了关键矿产、人工智能和核能等议题。",
-          "url": "https://flash.jin10.com/detail/20260524195331510800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 21时55分]"
         },
         {
           "title": "重庆永川暴雨致17人失联，1人死亡",
@@ -79,11 +69,25 @@
             16,
             12,
             11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时51分 ~ 21时55分]"
+        },
+        {
+          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
+          "url": "https://wallstreetcn.com/articles/3772986",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时51分 ~ 20时02分]"
+          "time_info": "[17时22分 ~ 21时55分]"
         },
         {
           "title": "乌克兰基辅市长：俄罗斯军队凌晨对基辅市发动大规模导弹和无人机袭击，已造成至少1人死亡、13人受伤。",
@@ -108,19 +112,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时51分 ~ 18时55分]"
-        },
-        {
-          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
-          "url": "https://wallstreetcn.com/articles/3772986",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时02分]"
         },
         {
           "title": "重庆永川暴雨致17人失联 3人死亡",
@@ -187,6 +178,18 @@
           "time_info": "[17时22分 ~ 18时55分]"
         },
         {
+          "title": "印度外交部长：与美国国务卿鲁比奥审议了关键矿产、人工智能和核能等议题。",
+          "url": "https://flash.jin10.com/detail/20260524195331510800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时55分]"
+        },
+        {
           "title": "重庆永川暴雨致17人失联 1人死亡",
           "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%B0%B8%E5%B7%9D%E6%9A%B4%E9%9B%A8%E8%87%B417%E4%BA%BA%E5%A4%B1%E8%81%94+1%E4%BA%BA%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
@@ -222,6 +225,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时27分 ~ 17时22分]"
+        },
+        {
+          "title": "中疾控发布埃博拉病毒病防控提示",
+          "url": "https://www.douyin.com/hot/2510156",
+          "source": "抖音",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 21时55分]"
         },
         {
           "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
@@ -287,6 +302,18 @@
           "time_info": "[11时27分 ~ 14时51分]"
         },
         {
+          "title": "欧洲央行管委科赫尔：伊朗战争推高物价，欧洲央行面临加息压力",
+          "url": "https://flash.jin10.com/detail/20260524192443215800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时55分]"
+        },
+        {
           "title": "黎卫生部：以色列对黎巴嫩袭击已造成3123人死亡",
           "url": "https://wallstreetcn.com/livenews/3108439",
           "source": "华尔街见闻-快讯",
@@ -323,6 +350,18 @@
           "time_info": "[11时27分 ~ 14时51分]"
         },
         {
+          "title": "今年首个红色预警！水利部和中国气象局联合发布红色山洪灾害气象预警",
+          "url": "https://wallstreetcn.com/livenews/3108489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时55分]"
+        },
+        {
           "title": "当AI有一副人的身体",
           "url": "https://s.weibo.com/weibo?q=%E5%BD%93AI%E6%9C%89%E4%B8%80%E5%89%AF%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BD%93&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -340,17 +379,6 @@
           "source": "知乎",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
-        },
-        {
-          "title": "中疾控发布埃博拉病毒病防控提示",
-          "url": "https://www.douyin.com/hot/2510156",
-          "source": "抖音",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -403,6 +431,18 @@
           "time_info": "[11时27分 ~ 14时51分]"
         },
         {
+          "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
+          "url": "https://flash.jin10.com/detail/20260524184356023800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时55分]"
+        },
+        {
           "title": "为什么大众对 AI 生成代码的道德容忍度要明显高于 AI 生成的图片视频和音乐？",
           "url": "https://www.zhihu.com/question/2009963807217304580",
           "source": "知乎",
@@ -436,17 +476,6 @@
           "time_info": "14时51分"
         },
         {
-          "title": "欧洲央行管委科赫尔：伊朗战争推高物价，欧洲央行面临加息压力",
-          "url": "https://flash.jin10.com/detail/20260524192443215800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
           "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
           "url": "https://flash.jin10.com/detail/20260524095245715800",
           "source": "金十数据",
@@ -469,15 +498,15 @@
           "time_info": "14时51分"
         },
         {
-          "title": "今年首个红色预警！水利部和中国气象局联合发布红色山洪灾害气象预警",
-          "url": "https://wallstreetcn.com/livenews/3108489",
+          "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
+          "url": "https://wallstreetcn.com/livenews/3108500",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "21时55分"
         },
         {
           "title": "欧洲地中海地震中心：土耳其中部地区发生5.2级地震。",
@@ -546,15 +575,15 @@
           "time_info": "18时55分"
         },
         {
-          "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
-          "url": "https://flash.jin10.com/detail/20260524184356023800",
-          "source": "金十数据",
+          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：事故现场存在次生灾害风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221206",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "21时55分"
         },
         {
           "title": "一名外交官表示：美国总统特朗普与中东领袖们的对话“是积极的”。（福克斯新闻）",
@@ -566,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "山西留神峪煤矿瓦斯爆炸事故新闻发布会现场为遇难者默哀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221152",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         },
         {
           "title": "比亚迪 5 月 28 日将举办智能化战略发布会，预计宣布新突破，可能涉及什么技术？你有哪些期待？",
