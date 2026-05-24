@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-05-24T11:27:45.363283+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-24T14:51:19.117208+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 27,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "直播丨山西沁源煤矿瓦斯爆炸事故新闻发布会：已致82人遇难，2人失联",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33219252",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
+          "url": "https://wallstreetcn.com/articles/3772976",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "巴基斯坦一客运列车遭爆炸袭击，至少24人死亡",
+          "url": "https://wallstreetcn.com/livenews/3108460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
         {
           "title": "乌克兰基辅市长：俄罗斯军队凌晨对基辅市发动大规模导弹和无人机袭击，已造成至少1人死亡、13人受伤。",
           "url": "https://flash.jin10.com/detail/20260524110132422800",
@@ -19,48 +53,26 @@
           "time_info": "11时27分"
         },
         {
-          "title": "重庆永川暴雨致17人失联，1人死亡",
-          "url": "https://wallstreetcn.com/livenews/3108446",
+          "title": "重庆北碚区出现强降雨天气，辖区兴隆镇2人失联。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3108459",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "14时51分"
         },
         {
-          "title": "直播丨山西沁源煤矿瓦斯爆炸事故新闻发布会：已致82人遇难，2人失联",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33219252",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "重庆永川暴雨致17人失联 1人死亡",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%B0%B8%E5%B7%9D%E6%9A%B4%E9%9B%A8%E8%87%B417%E4%BA%BA%E5%A4%B1%E8%81%94+1%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
+          "title": "女子突然抱走孩子 家长狂追抱回",
+          "url": "https://www.toutiao.com/trending/7643292317364830227/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
-          "url": "https://wallstreetcn.com/articles/3772976",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "14时51分"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -74,26 +86,146 @@
           "time_info": "11时27分"
         },
         {
-          "title": "男子踩中蛇窝被毒蛇咬数口 休克昏迷",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B8%A9%E4%B8%AD%E8%9B%87%E7%AA%9D%E8%A2%AB%E6%AF%92%E8%9B%87%E5%92%AC%E6%95%B0%E5%8F%A3+%E4%BC%91%E5%85%8B%E6%98%8F%E8%BF%B7",
-          "source": "百度热搜",
+          "title": "重庆永川暴雨致17人失联，1人死亡",
+          "url": "https://wallstreetcn.com/livenews/3108446",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "重庆永川暴雨致17人失联 1人死亡",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E6%B0%B8%E5%B7%9D%E6%9A%B4%E9%9B%A8%E8%87%B417%E4%BA%BA%E5%A4%B1%E8%81%94+1%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
         },
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "男子踩中蛇窝被毒蛇咬数口 休克昏迷",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B8%A9%E4%B8%AD%E8%9B%87%E7%AA%9D%E8%A2%AB%E6%AF%92%E8%9B%87%E5%92%AC%E6%95%B0%E5%8F%A3+%E4%BC%91%E5%85%8B%E6%98%8F%E8%BF%B7",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "黎卫生部：以色列对黎巴嫩袭击已造成3123人死亡",
+          "url": "https://wallstreetcn.com/livenews/3108439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
+          "url": "https://wallstreetcn.com/articles/3772969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "美国特勤局：白宫附近枪击案嫌疑人在医院死亡",
+          "url": "https://news.ifeng.com/c/8tNfuYgk8dY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "白宫附近枪击案的嫌疑人在医院死亡",
+          "url": "https://wallstreetcn.com/livenews/3108436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "爆!动漫皇帝怒斥毒瘤二游痴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354524&amp;topic_name=%E7%88%86%21%E5%8A%A8%E6%BC%AB%E7%9A%87%E5%B8%9D%E6%80%92%E6%96%A5%E6%AF%92%E7%98%A4%E4%BA%8C%E6%B8%B8%E7%97%B4",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "当AI有一副人的身体",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93AI%E6%9C%89%E4%B8%80%E5%89%AF%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BD%93&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
+          "url": "https://www.zhihu.com/question/2040070496926922044",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
+        },
+        {
+          "title": "俄称乌无人机袭击卢甘斯克一学校，死亡人数升至21人",
+          "url": "https://wallstreetcn.com/livenews/3108430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 14时51分]"
         },
         {
           "title": "芬兰大学：新型AI聊天机器人有助抵抗错误健康信息",
@@ -107,15 +239,15 @@
           "time_info": "11时27分"
         },
         {
-          "title": "黎卫生部：以色列对黎巴嫩袭击已造成3123人死亡",
-          "url": "https://wallstreetcn.com/livenews/3108439",
-          "source": "华尔街见闻-快讯",
+          "title": "巴基斯坦一客运列车遭爆炸袭击 至少24人死亡",
+          "url": "https://flash.jin10.com/detail/20260524140245910800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "14时51分"
         },
         {
           "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
@@ -129,59 +261,26 @@
           "time_info": "11时27分"
         },
         {
-          "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
-          "url": "https://wallstreetcn.com/articles/3772969",
-          "source": "华尔街见闻",
+          "title": "俄罗斯别尔哥罗德州行动指挥部发布通报，在该州格赖沃隆市，一架无人机发生爆炸，造成一名平民死亡。",
+          "url": "https://flash.jin10.com/detail/20260524134616906800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "14时51分"
         },
         {
-          "title": "美国特勤局：白宫附近枪击案嫌疑人在医院死亡",
-          "url": "https://news.ifeng.com/c/8tNfuYgk8dY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "白宫附近枪击案的嫌疑人在医院死亡",
-          "url": "https://wallstreetcn.com/livenews/3108436",
+          "title": "塞尔维亚总统武契奇抵京，开启首次国事访问。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3108451",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "爆!动漫皇帝怒斥毒瘤二游痴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354524&amp;topic_name=%E7%88%86%21%E5%8A%A8%E6%BC%AB%E7%9A%87%E5%B8%9D%E6%80%92%E6%96%A5%E6%AF%92%E7%98%A4%E4%BA%8C%E6%B8%B8%E7%97%B4",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "当AI有一副人的身体",
-          "url": "https://s.weibo.com/weibo?q=%E5%BD%93AI%E6%9C%89%E4%B8%80%E5%89%AF%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BD%93&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "14时51分"
         },
         {
           "title": "欧洲地中海地震中心：土耳其中部地区发生5.2级地震。",
@@ -195,31 +294,42 @@
           "time_info": "11时27分"
         },
         {
-          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
-          "url": "https://www.zhihu.com/question/2040070496926922044",
-          "source": "知乎",
+          "title": "水利部针对安徽、河南、重庆、陕西4省份启动洪水防御Ⅳ级应急响应。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3108448",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时27分"
+          "time_info": "14时51分"
+        },
+        {
+          "title": "重庆永川暴雨致17人失联，1人死亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33222397",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "AI时代最不可替代的东西",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%97%B6%E4%BB%A3%E6%9C%80%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "白宫附近枪击案嫌疑人在医院死亡",
           "url": "https://www.toutiao.com/trending/7642632501906948134/",
           "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "俄称乌无人机袭击卢甘斯克一学校，死亡人数升至21人",
-          "url": "https://wallstreetcn.com/livenews/3108430",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
