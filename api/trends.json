@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T11:37:50.851271+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-05-27T16:03:10.098765+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 24,
+      "match_count": 37,
       "titles": [
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -14,20 +14,53 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 16时03分]"
         },
         {
-          "title": "AI坑爹,棒球名帅丢饭碗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
+          "title": "印度高温已致16人死亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354620&amp;topic_name=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E5%B7%B2%E8%87%B416%E4%BA%BA%E6%AD%BB%E4%BA%A1",
           "source": "贴吧",
           "ranks": [
-            2
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时03分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时03分]"
+        },
+        {
+          "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
+          "url": "https://www.cls.cn/detail/2382543",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时03分]"
+        },
+        {
+          "title": "前美国芝加哥联储主席Evans：AI虽能提高生产率 但或将加剧通胀",
+          "url": "https://wallstreetcn.com/livenews/3109929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "16时03分"
         },
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
@@ -39,6 +72,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "AI坑爹,棒球名帅丢饭碗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 16时03分]"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -58,7 +103,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -69,9 +114,72 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "释新闻｜即使霍尔木兹海峡重新开放，疏散1500艘船也面临挑战",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33236120",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 16时03分]"
+        },
+        {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 16时03分]"
+        },
+        {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 16时03分]"
+        },
+        {
+          "title": "多家AI回应高考期间是否禁用解题",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6AI%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%98%AF%E5%90%A6%E7%A6%81%E7%94%A8%E8%A7%A3%E9%A2%98%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 16时03分]"
+        },
+        {
+          "title": "当孩子想去喂小动物你却不想动时",
+          "url": "https://www.douyin.com/hot/2513585",
+          "source": "抖音",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 16时03分]"
         },
         {
           "title": "印度高温肆虐：雄鹰昏迷、牛马中暑、鸽子感染病毒",
@@ -86,40 +194,37 @@
           "time_info": "[01时26分 ~ 11时37分]"
         },
         {
-          "title": "释新闻｜即使霍尔木兹海峡重新开放，疏散1500艘船也面临挑战",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33236120",
-          "source": "澎湃新闻",
+          "title": "AIDC供电架构变革 超级电容有望成为结构性必需品",
+          "url": "https://www.cls.cn/detail/2382316",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时26分 ~ 11时37分]"
+          "time_info": "[16时02分 ~ 16时03分]"
         },
         {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
+          "title": "黄仁勋：反感很多CEO将AI与失业关联",
+          "url": "https://www.toutiao.com/trending/7643647082553655338/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时26分 ~ 11时37分]"
+          "time_info": "[16时02分 ~ 16时03分]"
         },
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
+          "title": "路透调查：伊朗战争与AI缺位或限制欧洲股市后续涨幅",
+          "url": "https://flash.jin10.com/detail/20260527154821580800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 11时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "新西兰联储主席布雷曼：货币政策委员会一致认为，官方现金利率（OCR）很可能需要比预计的更早且幅度更大地上调。",
@@ -128,7 +233,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -144,13 +249,24 @@
           "time_info": "01时26分"
         },
         {
+          "title": "外交部回应美日印澳“四边机制”近期表态：有关国家应当停止介入中国周边涉海问题。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3109917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "司法部武增：今年将制定全国统一大市场建设条例，加快推进人工智能健康发展综合性立法",
           "url": "https://wallstreetcn.com/livenews/3109789",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -166,13 +282,24 @@
           "time_info": "01时26分"
         },
         {
+          "title": "高考期间AI工具被禁用或功能被限制？豆包客服：暂未接到相关通知",
+          "url": "https://wallstreetcn.com/livenews/3109915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
           "url": "https://www.zhihu.com/question/2041893027963262258",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -216,7 +343,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -232,24 +359,35 @@
           "time_info": "01时26分"
         },
         {
+          "title": "GGL Capital的Luk称AI领域流动性过剩构成风险",
+          "url": "https://wallstreetcn.com/livenews/3109910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "国际标准化组织消费者政策委员会第47次全体会议在海口举行",
+          "url": "https://flash.jin10.com/detail/20260527153337637800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "为什么哥伦比亚的禁毒战争成功了，而墨西哥的毒贩依旧如此猖獗？",
           "url": "https://www.zhihu.com/question/351770580",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "当孩子想去喂小动物你却不想动时",
-          "url": "https://www.douyin.com/hot/2513585",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -260,20 +398,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
         {
-          "title": "多家AI回应高考期间是否禁用解题",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6AI%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%98%AF%E5%90%A6%E7%A6%81%E7%94%A8%E8%A7%A3%E9%A2%98%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "博晖创新：公司自研的埃博拉病毒检测试剂盒已科研上市",
+          "url": "https://flash.jin10.com/detail/20260527152942271800",
+          "source": "金十数据",
           "ranks": [
-            29
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "16时03分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席尼尔·卡什卡利：目前美国通胀的风险高于劳动力市场恶化的风险，但两者都需关注。 美联储未来应采取中性政策展望。 自4月我投下反对票以来，美国公布的大部分数据都显示通胀风险在上升，而非下降。 （当被问及市场对10月加息的押注时）现在预测美联储下一次行动的时间还为时过早。 中东战争给全球带来的通胀冲击波可能会持续。 担忧全球通胀正在向债券市场传导。",
+          "url": "https://wallstreetcn.com/livenews/3109892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         }
       ]
     }
