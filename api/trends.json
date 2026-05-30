@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T10:54:06.457010+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-05-30T14:23:37.031126+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 34,
+      "match_count": 45,
       "titles": [
         {
           "title": "释永信一审被判有期徒刑 24 年，涉案金额过亿，哪些信息值得关注？如何从法律角度解读？",
@@ -19,13 +19,24 @@
           "time_info": "[01时53分 ~ 10时54分]"
         },
         {
+          "title": "“我不上 孩子就没了”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%91%E4%B8%8D%E4%B8%8A+%E5%AD%A9%E5%AD%90%E5%B0%B1%E6%B2%A1%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "国家制造强国建设战略咨询委员会副主任苏波：要深度把握AI与先进制造的融合趋势，完善顶层设计",
           "url": "https://wallstreetcn.com/livenews/3111707",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -79,22 +90,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 10时54分]"
-        },
-        {
-          "title": "“广东高考将用AI批卷”不实",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 10时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 14时23分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -102,7 +103,31 @@
           "source": "贴吧",
           "ranks": [
             15,
-            16
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 14时23分]"
+        },
+        {
+          "title": "婚后妻子眼里只有孩子，对我漠不关心甚至手术都不闻不问，这段婚姻该继续吗？",
+          "url": "https://www.zhihu.com/question/1912584982687360284",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时23分]"
+        },
+        {
+          "title": "“广东高考将用AI批卷”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -164,17 +189,6 @@
           "time_info": "[10时53分 ~ 10时54分]"
         },
         {
-          "title": "婚后妻子眼里只有孩子，对我漠不关心甚至手术都不闻不问，这段婚姻该继续吗？",
-          "url": "https://www.zhihu.com/question/1912584982687360284",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
           "title": "妈妈晒自家孩子自来卷",
           "url": "https://www.toutiao.com/trending/7645059575976247342/",
           "source": "今日头条",
@@ -208,6 +222,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "苏林香会演讲谈三重危机，学者：反映中小国家共同担忧",
+          "url": "https://news.ifeng.com/c/8tXlKHZx7uz",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "美联储戴利：利用AI获得持续生产率增长的障碍很大程度上在于监管方面。 看到AI为生产率增长带来的绿色萌芽（积极迹象）。 未看到AI造成美国大规模失业或劳动力流离失所。",
           "url": "https://wallstreetcn.com/livenews/3111573",
           "source": "华尔街见闻-快讯",
@@ -230,6 +255,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
+          "url": "https://wallstreetcn.com/articles/3773482",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "美联储戴利：美联储恢复物价稳定至关重要，但不能以损害经济为代价。",
           "url": "https://flash.jin10.com/detail/20260530011506436800",
           "source": "金十数据",
@@ -239,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "“亚洲最大AI科技展”ComputeX下周开幕，黄仁勋领衔AI巨头轮番登台",
+          "url": "https://wallstreetcn.com/articles/3773430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "莫言接受央媒专访：有志气的作家不会屈服于AI压力，还是要坚持原创",
@@ -261,6 +308,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "加沙物价飞涨：1公斤西红柿5美元，1公斤辣椒15美元",
+          "url": "https://news.ifeng.com/c/8tXnVsra0a1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "陈小春要求孩子赴英读书前练好中文",
+          "url": "https://www.toutiao.com/trending/7644517344976404507/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "美联储戴利：预计不会因人工智能出现大规模失业或岗位流失情况。",
@@ -307,6 +376,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "车手张秀军意外离世 留下3个孩子",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E6%89%8B%E5%BC%A0%E7%A7%80%E5%86%9B%E6%84%8F%E5%A4%96%E7%A6%BB%E4%B8%96+%E7%95%99%E4%B8%8B3%E4%B8%AA%E5%AD%A9%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "挪威首相：期待与中国在人工智能等全球性议题上加强沟通",
           "url": "https://wallstreetcn.com/livenews/3111564",
           "source": "华尔街见闻-快讯",
@@ -340,6 +420,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "孩子觉得妈妈为了几块钱跟别人讨价还价很丢脸，你会怎么做？",
+          "url": "https://www.zhihu.com/question/2038200594087802380",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "挪威首相：期待与中国在人工智能等全球性议题上加强沟通",
           "url": "https://flash.jin10.com/detail/20260530005211462800",
           "source": "金十数据",
@@ -349,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "天津发布2025年度人工智能十大应用标杆场景，总投资超6亿元",
+          "url": "https://wallstreetcn.com/livenews/3111717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "丹麦养老基金“拉黑”SpaceX，批评其灾难性的公司治理结构",
@@ -368,9 +470,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "让小孩学AI是浪费时间吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E5%B0%8F%E5%AD%A9%E5%AD%A6AI%E6%98%AF%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "金十数据整理：昨日今晨重要新闻汇总（2026-05-30）",
@@ -379,9 +492,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "从中年“一身病”到74岁无“三高”",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%AD%E5%B9%B4%E2%80%9C%E4%B8%80%E8%BA%AB%E7%97%85%E2%80%9D%E5%88%B074%E5%B2%81%E6%97%A0%E2%80%9C%E4%B8%89%E9%AB%98%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     }
