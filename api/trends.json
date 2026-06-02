@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T16:29:12.110415+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-06-02T20:27:38.989700+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 35,
+      "match_count": 52,
       "titles": [
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 20时27分]"
         },
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -25,11 +26,23 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 20时27分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时45分 ~ 16时29分]"
+          "time_info": "[16时28分 ~ 20时27分]"
         },
         {
           "title": "【社论】如何看待“新能源车养路费”讨论",
@@ -44,15 +57,37 @@
           "time_info": "[11时45分 ~ 16时29分]"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
+          "title": "零跑月交付破 8 万，小鹏、小米、理想、蔚来超 3 万，5 月新能源渗透率预计升至 62.5%，燃油车还有机会吗？",
+          "url": "https://www.zhihu.com/question/2044851902995812571",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "俄总统新闻秘书：俄方愿“通过和谈”实现特别军事行动目标",
+          "url": "https://wallstreetcn.com/livenews/3113071",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "国务院印发《加快农业农村现代化“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2388434",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "科大智能：与华西能源签1.3亿美元设备采购框架合同",
@@ -61,7 +96,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -76,6 +111,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 16时29分]"
+        },
+        {
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 20时27分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 20时27分]"
+        },
+        {
+          "title": "狠人吃3斤临期刺身中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354748&amp;topic_name=%E7%8B%A0%E4%BA%BA%E5%90%833%E6%96%A4%E4%B8%B4%E6%9C%9F%E5%88%BA%E8%BA%AB%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 20时27分]"
         },
         {
           "title": "孩子账户20多万 父母离婚时只剩几十",
@@ -125,48 +199,12 @@
           "time_info": "[11时45分 ~ 16时29分]"
         },
         {
-          "title": "我用AI做了祖国人胜利结局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 16时29分]"
-        },
-        {
           "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
           "url": "https://m.thepaper.cn/newsDetail_forward_33282044",
           "source": "澎湃新闻",
           "ranks": [
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 16时29分]"
-        },
-        {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 16时29分]"
-        },
-        {
-          "title": "狠人吃3斤临期刺身中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354748&amp;topic_name=%E7%8B%A0%E4%BA%BA%E5%90%833%E6%96%A4%E4%B8%B4%E6%9C%9F%E5%88%BA%E8%BA%AB%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            25
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -217,6 +255,39 @@
           "time_info": "[16时28分 ~ 16时29分]"
         },
         {
+          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
+          "url": "https://wallstreetcn.com/articles/3773656",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2388416",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "2026年FOMC票委、克利夫兰联储主席哈玛克将于十分钟就货币政策发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260602202000001800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
           "url": "https://wallstreetcn.com/articles/3773561",
           "source": "华尔街见闻",
@@ -239,6 +310,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "黄金再次触底反弹？震荡格局仍未打破！多空博弈鹿死谁手？金十研究员Steven正在直播，点击进入直播间观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260602201632281800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "上海政法学院给予偷拍厕所学生开除学籍处分，该学生被警方行政拘留，其还将承担哪些法律责任？",
           "url": "https://www.zhihu.com/question/2044811939839047587",
           "source": "知乎",
@@ -248,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "从“政策牛肉”打到“互控抹黑”，李四川苏巧慧选战白热化",
+          "url": "https://news.ifeng.com/c/8tdGnzjMEmP",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "三井住友金融集团：日本央行应该明确政策路径以实现正常化，帮助稳定债券市场。",
@@ -294,6 +387,50 @@
           "time_info": "11时45分"
         },
         {
+          "title": "湖北安陆府河洪水冲断桥梁不实",
+          "url": "https://www.toutiao.com/trending/7646724678133071898/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "湖北一地洪水冲断桥梁系谣言",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E4%B8%80%E5%9C%B0%E6%B4%AA%E6%B0%B4%E5%86%B2%E6%96%AD%E6%A1%A5%E6%A2%81%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "AI引爆存储需求！SK集团董事长：计划未来五年将晶圆产能翻倍",
+          "url": "https://www.cls.cn/detail/2388372",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "伊朗副外长：地区危机并非“零散紧张”的结果，而是犹太复国主义政权的罪行及其逍遥法外造成的产物。联合国安理会必须超越表达关切和发出一般性呼吁的阶段，针对犹太复国主义政权采取具有惩罚性和约束力的决定。",
+          "url": "https://flash.jin10.com/detail/20260602201315044800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "陈妍希六一晒孩子照片",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%85%AD%E4%B8%80%E6%99%92%E5%AD%A9%E5%AD%90%E7%85%A7%E7%89%87%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -322,7 +459,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -333,7 +470,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -347,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "超微电脑(SMCI.O)美股盘前涨4.6%，与Arm合作推出节能型AI服务器。",
+          "url": "https://flash.jin10.com/detail/20260602200501660800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "美国贸易代表办公室：已确定巴西在数字贸易、某些关税和非法砍伐方面的政策符合301条款的可诉性。",
@@ -369,6 +517,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "乘联分会：5月多家主流车企新能源批发销量刷新同期历史纪录",
+          "url": "https://wallstreetcn.com/livenews/3113042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "乘联分会数据显示，2026年5月全国乘用车厂商新能源批发预估136万辆，同比增长12%，环比增长11%。",
+          "url": "https://wallstreetcn.com/livenews/3113039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "9岁儿童误吸针筒糖配件窒息死亡",
+          "url": "https://www.toutiao.com/trending/7646618694235308051/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "恶毒!faker奶奶遭死亡威胁",
@@ -402,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "孩子赊账吃零食家长拒付款怒怼店家",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%B5%8A%E8%B4%A6%E5%90%83%E9%9B%B6%E9%A3%9F%E5%AE%B6%E9%95%BF%E6%8B%92%E4%BB%98%E6%AC%BE%E6%80%92%E6%80%BC%E5%BA%97%E5%AE%B6%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
