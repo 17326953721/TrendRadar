@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-03T11:55:58.614390+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-06-03T16:55:38.626149+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 35,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 16时55分]"
+        },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
           "url": "https://wallstreetcn.com/articles/3773656",
@@ -31,17 +42,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
           "title": "欧洲AI超级工厂计划因项目延期和资金问题而遇挫。",
           "url": "https://wallstreetcn.com/livenews/3113206",
           "source": "华尔街见闻-快讯",
@@ -53,15 +53,48 @@
           "time_info": "01时04分"
         },
         {
+          "title": "印度高温或致3400人死亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354823&amp;topic_name=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%88%96%E8%87%B43400%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "印度极端高温 单日或致3400人死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9+%E5%8D%95%E6%97%A5%E6%88%96%E8%87%B43400%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
           "url": "https://www.cls.cn/detail/2388968",
           "source": "财联社热门",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "中美元首峰会后，鲁比奥最新发声：美国对台政策没有改变",
+          "url": "https://v.ifeng.com/c/8teVeKjTuTd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "零跑月交付破 8 万，小鹏、小米、理想、蔚来超 3 万，5 月新能源渗透率预计升至 62.5%，燃油车还有机会吗？",
@@ -108,15 +141,48 @@
           "time_info": "01时04分"
         },
         {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "微软全面押注智能体时代：发布新模型、展示新终端、重塑应用生态",
           "url": "https://www.cls.cn/detail/2388956",
           "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "“订单处于历史较高水平”！数据中心、AI开辟新应用场景 超级电容进入高景气周期",
+          "url": "https://www.cls.cn/detail/2389349",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "AI脸 生理性厌恶",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
@@ -124,11 +190,24 @@
           "source": "贴吧",
           "ranks": [
             3,
-            9
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 16时55分]"
+        },
+        {
+          "title": "微软Build火力全开：Web IQ要做智能体搜索的Bing，量子芯片升级瞄准2029年实用，“龙虾”搬上Windows PC",
+          "url": "https://wallstreetcn.com/articles/3773707",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时04分 ~ 11时55分]"
+          "time_info": "[11时55分 ~ 16时55分]"
         },
         {
           "title": "湖北安陆府河洪水冲断桥梁不实",
@@ -140,6 +219,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 11时55分]"
+        },
+        {
+          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
+          "url": "https://www.zhihu.com/question/2045210107105862467",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 16时55分]"
         },
         {
           "title": "AI坑健身小白买20kg哑铃",
@@ -154,15 +245,26 @@
           "time_info": "[01时04分 ~ 11时55分]"
         },
         {
-          "title": "微软Build火力全开：Web IQ要做智能体搜索的Bing，量子芯片升级瞄准2029年实用，“龙虾”搬上Windows PC",
-          "url": "https://wallstreetcn.com/articles/3773707",
-          "source": "华尔街见闻",
+          "title": "车市五月飘红！头部车企销量回暖 乘联分会：新能源将迎“双增长”",
+          "url": "https://www.cls.cn/detail/2389282",
+          "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "16时55分"
+        },
+        {
+          "title": "科威特外交部：科威特遭伊朗袭击，一人死亡。",
+          "url": "https://flash.jin10.com/detail/20260603164756758800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
@@ -187,13 +289,24 @@
           "time_info": "01时04分"
         },
         {
+          "title": "日本央行行长植田和男：随着日本央行逐步减少国债购买规模，日本国债市场的流动性正在稳步改善。 预计经济将继续温和增长，尽管增速有所放缓，但仍有望受到企业高利润、各类经济政策措施以及宽松金融环境的支撑。 CPI同比涨幅预计将大幅上升，尤其是在2026财年。 日本央行必须关注国债市场的稳定，银行的资产组合调整及个人投资者的反应预计还需一段时间。 经济和物价前景本身可能会因未来中东局势及其他因素的发展而发生重大变化，这值得关注。",
+          "url": "https://wallstreetcn.com/livenews/3113647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "比亚迪 5 月汽车销量达 38.3 万辆年内首次增长，这对其市场份额与新能源汽车行业意味着什么？",
           "url": "https://www.zhihu.com/question/2044859839910827099",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -215,9 +328,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "日本央行行长植田和男：与四年前相比，日本当前的环境发生了重大变化，通缩思维已被消除，企业的工资和定价行为也变得更加积极。 由于原油价格上涨导致的价格传导速度很可能比以往更快，且更容易扩散至更广泛的商品。 中东局势的动荡并未如最初预期那样迅速平息，目前仍不明朗。 日本央行将通过适当的货币政策努力实现其价格稳定的使命。",
+          "url": "https://wallstreetcn.com/livenews/3113646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "AI引爆存储需求！SK集团董事长：计划未来五年将晶圆产能翻倍",
@@ -237,9 +361,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "【午报】创业板指震荡走高涨近4%，AI硬件与芯片产业联袂领涨",
+          "url": "https://www.cls.cn/detail/2389313",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "【腾讯AI产业应用大会在即，即将发布系列智能体应用新品】据腾讯云官号账号信息，腾讯2026AI产业应用大会即将在北京举办。作为腾讯年度最重要的AI产品发布平台，此次将发布系列智能体应用新品，并将公布infra等基础设施升级新进展。与此同时，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生将于腾讯AI首席科学家姚顺雨同台对话，解读AI下半场腾讯在AI赛道的最新布局和思考。（澎湃新闻）",
@@ -248,7 +383,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -259,20 +394,53 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
         {
-          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
-          "url": "https://www.zhihu.com/question/2045210107105862467",
-          "source": "知乎",
+          "title": "日本央行行长植田和男：将根据经济和通胀情况继续加息。 今年的油价上涨幅度虽不及第一次石油危机，但与其他冲击事件的幅度相当。 如果判断实现基准情景的可能性上升，日本央行将以适当速度继续上调政策利率。 原油价格上涨很可能不仅会推高能源价格，还会广泛推高整体物价，尤其是多种商品的价格。 即使中东局势依然不明朗，如果判断物价上行风险大于经济活动下行风险，就有必要充分讨论上调政策利率的利弊。 将仔细审视供应冲击对经济的影响，以及油价上涨如何影响其他商品、服务价格及核心通胀。",
+          "url": "https://wallstreetcn.com/livenews/3113641",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时55分"
+          "time_info": "16时55分"
+        },
+        {
+          "title": "网民利用AI造谣“女子搭乘地铁遭掀裙摆”，被长沙警方行政拘留7日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33291195",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "日本央行行长植田和男：根据目前掌握的数据和零星信息，物价的上行风险总体上似乎更大，且可能更早显现。",
+          "url": "https://flash.jin10.com/detail/20260603164531334800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本央行必须考虑这些因素来决定政策。",
+          "url": "https://flash.jin10.com/detail/20260603164517083800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "星尘智能完成B轮超10亿元融资",
@@ -281,9 +449,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "杭州13岁小孩哥AI识毒果断报警",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E13%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%93%A5AI%E8%AF%86%E6%AF%92%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "OpenAI计划为金融、法律领域开发AI工具，从而与Anthropic竞争。",
@@ -297,6 +487,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "当你发现孩子长大后大概率会过上和你差不多普通的生活，你还会继续逼他奔跑吗？",
+          "url": "https://www.zhihu.com/question/2041440223964419664",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
           "title": "OpenAI：特定角色插件已在支持地区的Codex代码平台逐步推出。",
           "url": "https://flash.jin10.com/detail/20260603000756792800",
           "source": "金十数据",
@@ -306,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "央行逆回购规模持续调减至0 “保持市场流动性充裕”政策基调未变",
+          "url": "https://wallstreetcn.com/livenews/3113634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "OpenAI：我们还与包括WIX、BASE44、REPLIT、LOVABLE、FIGMA、WEBFLOW和EMERGENT在内的合作伙伴共同努力，构建网站合作伙伴生态系统。",
@@ -336,9 +548,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "翘楚演员回应被认成AI",
+          "url": "https://www.douyin.com/hot/2521565",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "台空军飞机坠毁致2人死亡",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E7%A9%BA%E5%86%9B%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "OpenAI：面向商业及企业客户开放预览版，Codex现已支持创建和分享交互式托管网站及应用程序。",
@@ -358,7 +592,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
