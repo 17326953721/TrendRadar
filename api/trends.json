@@ -1,196 +1,12 @@
 {
-  "generated_at": "2026-06-04T22:16:30.635226+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-06-05T01:29:45.881756+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 85,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/2045546609027408734",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 22时16分]"
-        },
-        {
-          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
-          "url": "https://www.cls.cn/detail/2390517",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 22时16分]"
-        },
-        {
-          "title": "宝妈称带五岁孩子逛山姆是「父母托举的意义」引争议，当事人致歉「跟风玩梗」，为何这种说法会引发吐槽？",
-          "url": "https://www.zhihu.com/question/2045550398900024737",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 22时16分]"
-        },
-        {
-          "title": "AI需求猛如虎！台积电CEO：数年内都无法满足芯片需求",
-          "url": "https://www.cls.cn/detail/2390489",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 22时16分]"
-        },
-        {
-          "title": "【早报】A股上新闻联播；光纤企业爆单；富时A50，纳入多只牛股",
-          "url": "https://www.cls.cn/detail/2390171",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 16时21分]"
-        },
-        {
-          "title": "达里奥警告：AI热潮已显现典型泡沫特征 最终难逃破裂命运",
-          "url": "https://www.cls.cn/detail/2390108",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 16时21分]"
-        },
-        {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时09分 ~ 22时16分]"
-        },
-        {
-          "title": "印度高温或致3400人死亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354823&amp;topic_name=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%88%96%E8%87%B43400%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 11时51分]"
-        },
-        {
-          "title": "网红白虎小孬死亡，青岛市级公园中心致歉：饲养员违规操作，两虎打斗一只伤重不治",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33307001",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 22时16分]"
-        },
-        {
-          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773812",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 22时16分]"
-        },
-        {
-          "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
-          "url": "https://www.cls.cn/detail/2390370",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 19时32分]"
-        },
-        {
-          "title": "《新闻联播》正在直播",
-          "url": "https://www.toutiao.com/trending/7647426230786261028/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "新闻联播",
-          "url": "https://www.douyin.com/hot/2523586",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "2030年AI耗水量够13亿人用一年",
-          "url": "https://s.weibo.com/weibo?q=%232030%E5%B9%B4AI%E8%80%97%E6%B0%B4%E9%87%8F%E5%A4%9F13%E4%BA%BF%E4%BA%BA%E7%94%A8%E4%B8%80%E5%B9%B4%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 19时32分]"
-        },
-        {
-          "title": "《新闻联播》披露A股重要数据",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
         {
           "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
           "url": "https://news.ifeng.com/c/8tgakiDBnfj",
@@ -198,89 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "印尼议会副议长：印度尼西亚议会已通过一项内容广泛的金融法案，使其正式成为法律。新通过的金融立法将扩大央行职权范围，并赋予议会评估金融监管机构的权力。",
-          "url": "https://flash.jin10.com/detail/20260604113125209800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "【中国信通院：即将召开研讨会 启动高质量Token服务能力攀登计划】为深入贯彻落实国家关于推动人工智能高质量发展的战略部署，推动产业加快高质量Token服务能力建设，中国信息通信研究院人工智能研究所、人工智能大模型与软硬件评测工业和信息化部重点实验室、中国人工智能产业发展联盟（AIIA）模型服务（MaaS）工作组将于6月16日在北京联合召开“高质量Token服务研讨会”。论坛将成立“高质量Token服务特别研究组”，并启动“高质量Token服务能力攀登计划”，从组织机制、能力提升方面系统布局，凝聚行业力量共同推动Token服务服务高质量发展，为Token服务产业规范化发展提供坚实底座。",
-          "url": "https://wallstreetcn.com/livenews/3114182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "美股盘前，存储芯片股延续跌势，美光科技、闪迪均跌超2%；博通跌超10%，公司上季营收超预期增48%再创新高，AI收入指引逊色。",
-          "url": "https://wallstreetcn.com/livenews/3114295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "孩子两岁两个月，白天我上班，婆婆带孩子，婆婆总是说她吃不上饭，让给她点外卖或送饭，是真的做不成饭吗？",
-          "url": "https://www.zhihu.com/question/2043642078484329799",
-          "source": "知乎",
-          "ranks": [
-            15,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 22时16分]"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
-          "url": "https://www.cls.cn/detail/2390246",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 16时21分]"
-        },
-        {
-          "title": "加快农业农村现代化",
-          "url": "https://www.toutiao.com/trending/7646724020972699674/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "01时29分"
         },
         {
           "title": "智能技术守护电网安全",
@@ -289,341 +25,108 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "01时29分"
         },
         {
-          "title": "桥水基金创始人发出预警：AI浪潮已现典型泡沫特征！",
-          "url": "https://flash.jin10.com/detail/20260604112610985800",
-          "source": "金十数据",
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时51分"
+          "time_info": "01时29分"
         },
         {
-          "title": "市场消息：普华永道与谷歌云合作加速人工智能威胁防御。",
-          "url": "https://flash.jin10.com/detail/20260604215421488800",
-          "source": "金十数据",
+          "title": "《新闻联播》披露明晟指数新纳入 19 只 A 股，各类境外投资者持有 A 股流通市值超过 4 万亿元，透露出哪些信号？",
+          "url": "https://www.zhihu.com/question/2045796914780530526",
+          "source": "知乎",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "从育儿到住房乐享民生红利",
-          "url": "https://www.douyin.com/hot/2522754",
-          "source": "抖音",
-          "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "01时29分"
         },
         {
-          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 16时21分]"
-        },
-        {
-          "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
-          "url": "https://wallstreetcn.com/articles/3773784",
+          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773812",
           "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 19时32分]"
-        },
-        {
-          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
-          "url": "https://wallstreetcn.com/articles/3773802",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 22时16分]"
-        },
-        {
-          "title": "英国监管机构给谷歌AI搜索“立新规”",
-          "url": "https://wallstreetcn.com/livenews/3114177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "人类抗癌关键性突破！Revolution Medicines新疗法让“癌王”患者生存期翻倍，死亡风险降低60%",
-          "url": "https://wallstreetcn.com/articles/3773790",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 19时32分]"
-        },
-        {
-          "title": "青岛动物园两只白虎打斗致一只死亡，经查系饲养员违规操作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33306763",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 22时16分]"
-        },
-        {
-          "title": "美拟对中日印韩等45个经济体加征12.5%额外关税，多国强烈反对",
-          "url": "https://news.ifeng.com/c/8tfzpdrlBTq",
-          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 16时21分]"
-        },
-        {
-          "title": "A股再登新闻联播释放何种信息",
-          "url": "https://www.toutiao.com/trending/7647311695521549870/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时51分 ~ 16时21分]"
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
           "url": "https://www.cls.cn/detail/2390870",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 22时16分]"
-        },
-        {
-          "title": "猎鹰崛起AI先导片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 22时16分]"
-        },
-        {
-          "title": "男子AI写歌月收入十几万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 22时16分]"
-        },
-        {
-          "title": "两名日本人在吉林处理日军遗弃化学武器，手臂染毒",
-          "url": "https://news.ifeng.com/c/8tgakiDBnfj",
-          "source": "凤凰网",
-          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
-          "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
-          "url": "https://www.zhihu.com/question/2044389352550164119",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 11时51分]"
-        },
-        {
-          "title": "物理AI",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%A9%E7%90%86AI&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 11时51分]"
-        },
-        {
-          "title": "耐克正经历一场悄无声息危机吗",
-          "url": "https://www.toutiao.com/trending/7647366113551613998/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时21分]"
-        },
-        {
-          "title": "解码万亿级参数AI大模型训练背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E7%A0%81%E4%B8%87%E4%BA%BF%E7%BA%A7%E5%8F%82%E6%95%B0AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "中文在线：AI短剧成为第一大Token消耗场景",
-          "url": "https://flash.jin10.com/detail/20260604111759224800",
-          "source": "金十数据",
+          "title": "释新闻｜德国未能赢得联合国安理会席位，为何遭遇“重大失败”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33309280",
+          "source": "澎湃新闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "我家孩子补课花了十几万，成绩却没提高，问题到底出在哪？",
-          "url": "https://www.zhihu.com/question/2015488992234217846",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "“托举孩子进山姆”为何惹众怒",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%89%98%E4%B8%BE%E5%AD%A9%E5%AD%90%E8%BF%9B%E5%B1%B1%E5%A7%86%E2%80%9D%E4%B8%BA%E4%BD%95%E6%83%B9%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "微软Build火力全开：Web IQ要做智能体搜索的Bing，量子芯片升级瞄准2029年实用，“龙虾”搬上Windows PC",
-          "url": "https://wallstreetcn.com/articles/3773707",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
-          "url": "https://www.zhihu.com/question/2045380781644763655",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "01时29分"
         },
         {
           "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "世卫组织：刚果（金）和乌干达已报告61例埃博拉死亡病例。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3113954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "01时29分"
         },
         {
-          "title": "Meta推迟了Muse Spark AI模型API的发布，原因是因软件缺陷及基础设施问题。Meta计划在6月份发布其最新AI模型的API。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3114171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
-          "url": "https://wallstreetcn.com/articles/3773733",
+          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
+          "url": "https://wallstreetcn.com/articles/3773802",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "01时29分"
+        },
+        {
+          "title": "国企回应保安只让员工孩子进门躲雨",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E5%9B%9E%E5%BA%94%E4%BF%9D%E5%AE%89%E5%8F%AA%E8%AE%A9%E5%91%98%E5%B7%A5%E5%AD%A9%E5%AD%90%E8%BF%9B%E9%97%A8%E8%BA%B2%E9%9B%A8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "孩子两岁两个月，白天我上班，婆婆带孩子，婆婆总是说她吃不上饭，让给她点外卖或送饭，是真的做不成饭吗？",
+          "url": "https://www.zhihu.com/question/2043642078484329799",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
           "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
@@ -632,207 +135,141 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "01时29分"
         },
         {
-          "title": "惠誉：油价冲击拖累全球增长前景 AI投资势头超预期",
-          "url": "https://flash.jin10.com/detail/20260604214825512800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
-          "url": "https://www.cls.cn/detail/2389857",
-          "source": "财联社热门",
+          "title": "青岛动物园雌性白虎“小孬”死亡细节：与大型雄虎打斗后死亡 ，刚十岁未有生育",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33308627",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "01时29分"
         },
         {
-          "title": "世卫组织：刚果（金）和乌干达已报告61例埃博拉死亡病例",
-          "url": "https://flash.jin10.com/detail/20260604012505722800",
-          "source": "金十数据",
+          "title": "高盛CEO：AI或将遏制银行工程师队伍的剧烈扩张",
+          "url": "https://wallstreetcn.com/livenews/3114544",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "01时29分"
         },
         {
-          "title": "惠誉：由美伊战争引发的油价危机已冲击全球增长前景，将2026年全球增长预测下调0.2个百分点至2.4%。",
-          "url": "https://flash.jin10.com/detail/20260604214226808800",
-          "source": "金十数据",
+          "title": "男子称偶遇“中国第一毒蛇”",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%81%B6%E9%81%87%E2%80%9C%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%AF%92%E8%9B%87%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "摩根士丹利：对外汇市场而言，6月份的FOMC货币政策会议（凯文·沃什就任美联储主席之后的首次利率决议）是一个关键风险。",
-          "url": "https://wallstreetcn.com/livenews/3113947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "01时29分"
         },
         {
-          "title": "【台积电魏哲家：预计今年全年营收成长仍将超过30%】台积电召开股东会，针对AI需求，董事长魏哲家指出，从生成式AI、查询模式，进一步转向代理式AI与指令行动模式，正推升大型语言模型处理文本所需的token消耗量，也使运算能力需求持续成长，进一步支撑先进半导体需求。公司客户以及客户的客户，仍持续给予对AI产业的正面展望。魏哲家强调，台积电仍对未来数年AI大趋势保持信心，半导体需求也具备根本性支撑。在技​​术差异化与广泛客户群支持下，公司维持强劲信心，若以美元计算，预计今年全年营收成长仍将超过30%。",
-          "url": "https://wallstreetcn.com/livenews/3114157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "父母离婚前妈妈将五岁儿子近 30 万存款取走，法院判其返还，如何从法律角度解读？这一判决有怎样的意义？",
-          "url": "https://www.zhihu.com/question/2045263892373140679",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "近日有学生发现，同一篇论文在知网 AI 率为 3%，但在维普却高达 67% ，差异为何如此之大？",
-          "url": "https://www.zhihu.com/question/2043265365875103119",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "《新闻联播》披露明晟指数新纳入 19 只 A 股，各类境外投资者持有 A 股流通市值超过 4 万亿元，透露出哪些信号？",
-          "url": "https://www.zhihu.com/question/2045796914780530526",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "主角结局 刘红兵和孩子都死了",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E8%A7%92%E7%BB%93%E5%B1%80%20%E5%88%98%E7%BA%A2%E5%85%B5%E5%92%8C%E5%AD%A9%E5%AD%90%E9%83%BD%E6%AD%BB%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "title": "男子AI写歌月收入十几万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "01时29分"
         },
         {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：减少真主党带来的威胁的最佳方式是加强黎巴嫩国家的力量。",
-          "url": "https://flash.jin10.com/detail/20260604214010904800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "印媒披露数据：印度极端高温，单日或致3400人死亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296992",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "马上评｜孩子判给继母而非生父？因为要最有利于孩子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33298749",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "据卡塔尔半岛电视台4日报道，以色列空袭巴勒斯坦加沙城多处民宅，已造成至少9人死亡。",
-          "url": "https://flash.jin10.com/detail/20260604105630110800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "工信部：面向沉浸式通信、工业制造、低空经济、具身智能、智慧海洋等6G潜在场景 因地制宜开展6G应用场景培育",
-          "url": "https://flash.jin10.com/detail/20260604154056787800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "惠誉评级：石油危机冲击全球增长前景。",
-          "url": "https://flash.jin10.com/detail/20260604213944671800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：货币政策的具体细节应由日本央行决定。 政府和日本央行正在交换信息和意见。 预计日本央行将采取适当的货币政策。 与日本央行保持密切沟通至关重要。",
-          "url": "https://wallstreetcn.com/livenews/3114151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
-          "url": "https://www.zhihu.com/question/2045160976878680020",
+          "title": "宝妈称带五岁孩子逛山姆是「父母托举的意义」引争议，当事人致歉「跟风玩梗」，为何这种说法会引发吐槽？",
+          "url": "https://www.zhihu.com/question/2045550398900024737",
           "source": "知乎",
           "ranks": [
-            20
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "01时29分"
+        },
+        {
+          "title": "英国央行行长就前沿AI及债务市场风险提出警告",
+          "url": "https://wallstreetcn.com/livenews/3114541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "经纬度：拓展公积金用途，更好稳市场、惠民生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33299635",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：当前，政策状态良好，但未来存在不确定性。 现在，提供前瞻指引可能会（对公众）产生误导。",
+          "url": "https://wallstreetcn.com/livenews/3114540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "好怕现实中也有人长AI这样",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33308605",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "我家孩子补课花了十几万，成绩却没提高，问题到底出在哪？",
+          "url": "https://www.zhihu.com/question/2015488992234217846",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
           "title": "男子称偶遇“中国第一毒蛇”",
@@ -841,141 +278,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "01时29分"
         },
         {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟今日同意向黎巴嫩武装部队额外提供1亿欧元援助。",
-          "url": "https://flash.jin10.com/detail/20260604213914299800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "【内塔尼亚胡承认与特朗普存在“战术分歧”，特朗普证实对其爆粗口】以色列总理内塔尼亚胡3日表示，他与美国总统特朗普“有时会出现战术层面的分歧”，但双方在“核心目标”上保持一致。 内塔尼亚胡当日在接受美国消费者新闻与商业频道采访时说，他与特朗普“每两天就会通一次电话”，双方有着共同目标，其中包括“阻止伊朗获得核武器以及确保以色列安全”。 谈及伊朗战事时，内塔尼亚胡表示，战事最终如何结束“仍是一个开放性问题”，但以色列将继续维护自身安全利益。 特朗普在3日播出的一档访谈节目中证实，他在6月1日与内塔尼亚胡通话时爆粗口，斥责内塔尼亚胡“疯了”，但称两人“合作得非常愉快”。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3113935",
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：数据还没体现出AI带来的生产力增长。 看好AI，2027年将是“试金石”。 并没有发现AI投资相关的金融稳定性顾虑。",
+          "url": "https://wallstreetcn.com/livenews/3114535",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时09分"
+          "time_info": "01时29分"
         },
         {
-          "title": "家长单程1小时给孩子送饭",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%B6%E9%95%BF%E5%8D%95%E7%A8%8B1%E5%B0%8F%E6%97%B6%E7%BB%99%E5%AD%A9%E5%AD%90%E9%80%81%E9%A5%AD",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "据天空新闻阿拉伯频道：黎巴嫩消息人士表示，本轮谈判中不会宣布黎巴嫩与以色列之间的联合意向声明。",
-          "url": "https://flash.jin10.com/detail/20260604005838240800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "刘红兵把孩子从医院偷带去游乐园",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BA%A2%E5%85%B5%E6%8A%8A%E5%AD%A9%E5%AD%90%E4%BB%8E%E5%8C%BB%E9%99%A2%E5%81%B7%E5%B8%A6%E5%8E%BB%E6%B8%B8%E4%B9%90%E5%9B%AD%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "据天空新闻阿拉伯频道：黎巴嫩消息人士表示，黎巴嫩和以色列在目前在美国举行的本轮谈判未取得实质性进展。",
-          "url": "https://flash.jin10.com/detail/20260604005713682800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "宝妈称“托举孩子进山姆” 已被禁言",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E5%A6%88%E7%A7%B0%E2%80%9C%E6%89%98%E4%B8%BE%E5%AD%A9%E5%AD%90%E8%BF%9B%E5%B1%B1%E5%A7%86%E2%80%9D+%E5%B7%B2%E8%A2%AB%E7%A6%81%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "据华尔街日报：Meta Platforms(META.O)表示计划于六月发布最新AI模型的API。",
-          "url": "https://flash.jin10.com/detail/20260604105148209800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
-          "url": "https://wallstreetcn.com/livenews/3114361",
+          "title": "中国贸促会新闻发言人就美国贸易代表办公室发起强迫劳动301调查并拟加征关税发表谈话",
+          "url": "https://wallstreetcn.com/livenews/3114530",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，因存在漏洞和基础设施问题，Meta Platforms(META.O)推迟发布Muse Spark AI模型的API。",
-          "url": "https://flash.jin10.com/detail/20260604105137143800",
-          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "瑞银将C3.ai目标价从9美元上调至12美元，此前C3.ai公布的季度收益和销售额均超出预期。",
-          "url": "https://wallstreetcn.com/livenews/3114452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "日本内阁官房长官：具体货币政策交由央行决定，政府与央行将保持充分沟通",
-          "url": "https://flash.jin10.com/detail/20260604104809586800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "time_info": "01时29分"
         }
       ]
     }
