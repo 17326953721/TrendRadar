@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T16:06:45.602915+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-06-05T19:43:01.502484+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 68,
+      "match_count": 81,
       "titles": [
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 16时06分]"
-        },
-        {
-          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
-          "url": "https://www.cls.cn/detail/2391272",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 16时06分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 19时43分]"
         },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -36,6 +25,53 @@
           "ranks": [
             5,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 19时43分]"
+        },
+        {
+          "title": "释新闻｜德国未能赢得联合国安理会席位，为何遭遇“重大失败”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33309280",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 19时43分]"
+        },
+        {
+          "title": "农业农村现代化“十五五”怎么干",
+          "url": "https://www.douyin.com/hot/2524312",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 19时43分]"
+        },
+        {
+          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
+          "url": "https://www.cls.cn/detail/2391554",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 19时43分]"
+        },
+        {
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -54,17 +90,26 @@
           "time_info": "[11时36分 ~ 16时06分]"
         },
         {
-          "title": "释新闻｜德国未能赢得联合国安理会席位，为何遭遇“重大失败”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33309280",
-          "source": "澎湃新闻",
+          "title": "《新闻联播》正在直播",
+          "url": "https://www.toutiao.com/trending/7647435305054191657/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            3,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 16时06分]"
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "新闻联播",
+          "url": "https://www.douyin.com/hot/2524616",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
@@ -106,7 +151,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -120,17 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "农业农村现代化“十五五”怎么干",
-          "url": "https://www.douyin.com/hot/2524312",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
         },
         {
           "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
@@ -150,7 +184,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -177,26 +211,27 @@
           "time_info": "01时29分"
         },
         {
-          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
-          "url": "https://www.cls.cn/detail/2391554",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
           "title": "我国科学家运用人工智能与地震仪识别布氏鲸“低语”",
           "url": "https://wallstreetcn.com/livenews/3114906",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 19时43分]"
         },
         {
           "title": "经纬度：拓展公积金用途，更好稳市场、惠民生",
@@ -221,6 +256,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 16时06分]"
+        },
+        {
+          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 19时43分]"
+        },
+        {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 19时43分]"
+        },
+        {
+          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
+          "url": "https://www.cls.cn/detail/2391541",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 19时43分]"
         },
         {
           "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
@@ -249,28 +321,81 @@
           "time_info": "[01时29分 ~ 16时06分]"
         },
         {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
           "ranks": [
-            10,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时36分 ~ 16时06分]"
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
-          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
-          "source": "澎湃新闻",
+          "title": "云南一医生全家已连续3年吃菌子中毒",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E4%B8%80%E5%8C%BB%E7%94%9F%E5%85%A8%E5%AE%B6%E5%B7%B2%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E5%90%83%E8%8F%8C%E5%AD%90%E4%B8%AD%E6%AF%92",
+          "source": "百度热搜",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时36分 ~ 16时06分]"
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "中方回应外媒称AI进入“中美争霸”",
+          "url": "https://www.toutiao.com/trending/7647807825645699126/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "中方回应外媒称AI进入中美争霸",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%96%E5%AA%92%E7%A7%B0AI%E8%BF%9B%E5%85%A5%E4%B8%AD%E7%BE%8E%E4%BA%89%E9%9C%B8%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "男子称偶遇“中国第一毒蛇”",
@@ -312,7 +437,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -323,7 +448,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -334,7 +459,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -359,17 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
         },
         {
           "title": "国企回应保安只让员工孩子进门躲雨",
@@ -416,17 +530,6 @@
           "time_info": "01时29分"
         },
         {
-          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
-          "url": "https://www.cls.cn/detail/2391541",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
           "title": "Anthropic呼吁全球暂停AI开发",
           "url": "https://s.weibo.com/weibo?q=%23Anthropic%E5%91%BC%E5%90%81%E5%85%A8%E7%90%83%E6%9A%82%E5%81%9CAI%E5%BC%80%E5%8F%91%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -455,7 +558,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -477,9 +580,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "七匹狼：拟出资1亿元认缴基金份额 主要投资于人工智能、半导体等项目",
+          "url": "https://flash.jin10.com/detail/20260605192317254800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "高盛CEO：AI或将遏制银行工程师队伍的剧烈扩张",
@@ -499,7 +613,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -598,7 +712,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -609,7 +723,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -653,9 +767,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：下周，欧盟国防部长们将讨论如何进一步加大对乌克兰的支持力度，并提升欧盟自身的国防战备水平。",
+          "url": "https://flash.jin10.com/detail/20260605191939436800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "外交部：人工智能不是大国专利，更不应滑向竞争对抗",
@@ -664,9 +789,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：康斯坦察港发生的无人机爆炸事件表明，俄罗斯发动的战争正越来越多地外溢至欧盟领土。我已与罗马尼亚外交部长就今天的事态发展进行了交谈，并向罗马尼亚表达了欧盟的全面声援。",
+          "url": "https://flash.jin10.com/detail/20260605191926471800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "深圳出台新能源车险高质量发展“深十条”",
@@ -686,7 +822,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -735,6 +871,17 @@
           "time_info": "11时36分"
         },
         {
+          "title": "盛洋科技：拟定增募资不超过10.76亿元用于卫星互联网通信终端智能制造项目",
+          "url": "https://flash.jin10.com/detail/20260605191246395800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "中国贸促会新闻发言人就美国贸易代表办公室发起强迫劳动301调查并拟加征关税发表谈话",
           "url": "https://wallstreetcn.com/livenews/3114530",
           "source": "华尔街见闻-快讯",
@@ -763,7 +910,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         }
