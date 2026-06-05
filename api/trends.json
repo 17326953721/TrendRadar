@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T11:36:50.938079+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-06-05T16:06:45.602915+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 49,
+      "match_count": 68,
       "titles": [
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 16时06分]"
         },
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
@@ -25,9 +25,46 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 16时06分]"
+        },
+        {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 16时06分]"
+        },
+        {
+          "title": "多地高考安检要求戴眼镜考生摘镜查验，以防智能眼镜作弊，如何看待这一措施？为啥今年会加强眼镜检查？",
+          "url": "https://www.zhihu.com/question/2045449711071580892",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 16时06分]"
+        },
+        {
+          "title": "释新闻｜德国未能赢得联合国安理会席位，为何遭遇“重大失败”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33309280",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 16时06分]"
         },
         {
           "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
@@ -47,7 +84,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -58,9 +95,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "原力灵机并购物流机器人公司Atomix，具身智能争夺真实场景数据",
+          "url": "https://wallstreetcn.com/livenews/3114910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "智能技术守护电网安全",
@@ -74,6 +122,17 @@
           "time_info": "01时29分"
         },
         {
+          "title": "农业农村现代化“十五五”怎么干",
+          "url": "https://www.douyin.com/hot/2524312",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
           "url": "https://www.zhihu.com/question/2045546609027408734",
           "source": "知乎",
@@ -85,13 +144,24 @@
           "time_info": "01时29分"
         },
         {
+          "title": "豆包误判蘑菇致用户中毒 高管回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E8%AF%AF%E5%88%A4%E8%98%91%E8%8F%87%E8%87%B4%E7%94%A8%E6%88%B7%E4%B8%AD%E6%AF%92+%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "中信证券：预计AI相关商品将成为我国外贸增长的新引擎",
           "url": "https://flash.jin10.com/detail/20260605111454564800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -107,38 +177,26 @@
           "time_info": "01时29分"
         },
         {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
+          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
+          "url": "https://www.cls.cn/detail/2391554",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "16时06分"
         },
         {
-          "title": "多地高考安检要求戴眼镜考生摘镜查验，以防智能眼镜作弊，如何看待这一措施？为啥今年会加强眼镜检查？",
-          "url": "https://www.zhihu.com/question/2045449711071580892",
-          "source": "知乎",
+          "title": "我国科学家运用人工智能与地震仪识别布氏鲸“低语”",
+          "url": "https://wallstreetcn.com/livenews/3114906",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "释新闻｜德国未能赢得联合国安理会席位，为何遭遇“重大失败”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33309280",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 11时36分]"
+          "time_info": "16时06分"
         },
         {
           "title": "经纬度：拓展公积金用途，更好稳市场、惠民生",
@@ -153,16 +211,29 @@
           "time_info": "[01时29分 ~ 11时36分]"
         },
         {
+          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
+          "url": "https://wallstreetcn.com/articles/3773858",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 16时06分]"
+        },
+        {
           "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33308605",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 16时06分]"
         },
         {
           "title": "AI脸泛滥成灾,建模师没活了",
@@ -170,11 +241,36 @@
           "source": "贴吧",
           "ranks": [
             19,
-            27
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 16时06分]"
+        },
+        {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时29分 ~ 11时36分]"
+          "time_info": "[11时36分 ~ 16时06分]"
+        },
+        {
+          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 16时06分]"
         },
         {
           "title": "男子称偶遇“中国第一毒蛇”",
@@ -210,15 +306,37 @@
           "time_info": "01时29分"
         },
         {
-          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
-          "url": "https://wallstreetcn.com/articles/3773858",
-          "source": "华尔街见闻",
+          "title": "鸿海：第二季度是ICT产业的传统淡季，但AI机架预计将保持持续增长趋势。 第二季度业绩远超此前预期的显著增长。 仍需密切关注全球政治和经济局势的波动影响。",
+          "url": "https://wallstreetcn.com/livenews/3114905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "如何看待「Anthropic 呼吁全员停止 AI 研究」的行为？",
+          "url": "https://www.zhihu.com/question/2046150253192206018",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "判断孩子有没有学霸潜质",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%A4%E6%96%AD%E5%AD%A9%E5%AD%90%E6%9C%89%E6%B2%A1%E6%9C%89%E5%AD%A6%E9%9C%B8%E6%BD%9C%E8%B4%A8&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "16时06分"
         },
         {
           "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
@@ -243,15 +361,15 @@
           "time_info": "01时29分"
         },
         {
-          "title": "委内瑞拉代总统访问印度，能源危机下的“双向奔赴”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310551",
-          "source": "澎湃新闻",
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "16时06分"
         },
         {
           "title": "国企回应保安只让员工孩子进门躲雨",
@@ -282,7 +400,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -298,15 +416,15 @@
           "time_info": "01时29分"
         },
         {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
+          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
+          "url": "https://www.cls.cn/detail/2391541",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "16时06分"
         },
         {
           "title": "Anthropic呼吁全球暂停AI开发",
@@ -315,7 +433,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -326,9 +444,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "鸿海：第二季度是信息通信技术行业的传统淡季，但人工智能服务器预计将保持持续增长趋势。",
+          "url": "https://flash.jin10.com/detail/20260605153502503800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "青岛动物园雌性白虎“小孬”死亡细节：与大型雄虎打斗后死亡 ，刚十岁未有生育",
@@ -342,6 +471,17 @@
           "time_info": "01时29分"
         },
         {
+          "title": "英伟达推出全模态物理AI模型 物理AI规模化落地时代加速到来",
+          "url": "https://www.cls.cn/detail/2391303",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "高盛CEO：AI或将遏制银行工程师队伍的剧烈扩张",
           "url": "https://wallstreetcn.com/livenews/3114544",
           "source": "华尔街见闻-快讯",
@@ -351,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "官方回应教练的孩子进集训队",
+          "url": "https://www.toutiao.com/trending/7647699650602663990/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "男子称偶遇“中国第一毒蛇”",
@@ -381,7 +532,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -392,7 +543,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -403,7 +554,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -425,7 +576,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -439,6 +590,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "养老金是怎样构成的",
+          "url": "https://www.toutiao.com/trending/7647173538886107172/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "博通业绩引爆AI过热警报 今晚非农数据或成削减AI押注新借口",
+          "url": "https://flash.jin10.com/detail/20260605153020575800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：当前，政策状态良好，但未来存在不确定性。 现在，提供前瞻指引可能会（对公众）产生误导。",
@@ -458,7 +631,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -474,15 +647,48 @@
           "time_info": "01时29分"
         },
         {
+          "title": "Token 带来的智能化，能对冲我们人口红利消失的难题吗？",
+          "url": "https://www.zhihu.com/question/2037900797631886075",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "外交部：人工智能不是大国专利，更不应滑向竞争对抗",
+          "url": "https://wallstreetcn.com/livenews/3114890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "深圳出台新能源车险高质量发展“深十条”",
           "url": "https://wallstreetcn.com/livenews/3114768",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "以军袭击黎南部城市提尔 致7人死亡",
+          "url": "https://wallstreetcn.com/livenews/3114888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "我家孩子补课花了十几万，成绩却没提高，问题到底出在哪？",
@@ -513,7 +719,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -524,7 +730,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -546,9 +752,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "实习医生无证拔牙致患者死亡获刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9E%E4%B9%A0%E5%8C%BB%E7%94%9F%E6%97%A0%E8%AF%81%E6%8B%94%E7%89%99%E8%87%B4%E6%82%A3%E8%80%85%E6%AD%BB%E4%BA%A1%E8%8E%B7%E5%88%91%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     }
