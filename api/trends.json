@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T10:57:27.695772+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-06T14:32:23.316334+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 13,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -15,52 +15,193 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "记者调查：智能眼镜成偷拍神器",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%88%90%E5%81%B7%E6%8B%8D%E7%A5%9E%E5%99%A8",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时32分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时32分]"
+        },
+        {
+          "title": "同样交社保30年 为何退休金不同",
+          "url": "https://www.toutiao.com/trending/7647923963103809075/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时32分"
+        },
+        {
+          "title": "以色列国防军：针对敌方飞行器侵入泽拉伊特（Zerait）地区发出警报后，监测到一架无人机在以色列国防军于黎巴嫩南部开展行动的区域附近坠落。该飞行器未进入以色列领土，未造成人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260606140145387800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "阿根廷扩大汉坦病毒调查范围",
+          "url": "https://wallstreetcn.com/livenews/3115426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "记者调查：智能眼镜成偷拍神器",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%EF%BC%9A%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%88%90%E5%81%B7%E6%8B%8D%E7%A5%9E%E5%99%A8",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时32分]"
         },
         {
           "title": "生化危机维罗妮卡重制版预告",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%BB%B4%E7%BD%97%E5%A6%AE%E5%8D%A1%E9%87%8D%E5%88%B6%E7%89%88%E9%A2%84%E5%91%8A",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时32分]"
         },
         {
           "title": "招商证券：想在A股赚钱，第一条铁律是“叙事”风向",
           "url": "https://www.cls.cn/detail/2392216",
           "source": "财联社热门",
           "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时32分]"
+        },
+        {
+          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
+          "url": "https://www.zhihu.com/question/2046268823192302620",
+          "source": "知乎",
+          "ranks": [
+            18,
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时32分]"
+        },
+        {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时32分]"
+        },
+        {
+          "title": "腾讯高管称今年大部分代码由 AI 生成，工程师更侧重架构设计，怎样看待这一变化？会成为行业趋势吗？",
+          "url": "https://www.zhihu.com/question/2046240341729042945",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时32分]"
+        },
+        {
+          "title": "开麦丨AI在电话那头等你，接还是不接？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316762",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时32分]"
+        },
+        {
+          "title": "云南一医生全家已连续3年吃菌子中毒",
+          "url": "https://www.toutiao.com/trending/7647540839737704467/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时32分]"
+        },
+        {
+          "title": "阿根廷扩大汉坦病毒调查范围",
+          "url": "https://flash.jin10.com/detail/20260606131922237800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时32分"
+        },
+        {
+          "title": "高考要用AI改卷系谣言",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%A6%81%E7%94%A8AI%E6%94%B9%E5%8D%B7%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "天博智能定于6月12日上会",
+          "url": "https://flash.jin10.com/detail/20260606130322893800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
@@ -74,26 +215,26 @@
           "time_info": "10时57分"
         },
         {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "AI模型也能流水线批量生产了",
+          "url": "https://flash.jin10.com/detail/20260606123406700800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "腾讯高管称今年大部分代码由 AI 生成，工程师更侧重架构设计，怎样看待这一变化？会成为行业趋势吗？",
-          "url": "https://www.zhihu.com/question/2046240341729042945",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时32分"
         },
         {
           "title": "哥伦比亚一煤矿发生爆炸已致7人死亡",
@@ -107,37 +248,48 @@
           "time_info": "10时57分"
         },
         {
-          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
-          "url": "https://www.zhihu.com/question/2046268823192302620",
-          "source": "知乎",
+          "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
+          "url": "https://wallstreetcn.com/livenews/3115413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "AI炒完“传、存、算”，下一张牌桌在哪里？",
+          "url": "https://flash.jin10.com/detail/20260606121259130800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时32分"
         },
         {
-          "title": "开麦丨AI在电话那头等你，接还是不接？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316762",
-          "source": "澎湃新闻",
+          "title": "月牙泉景区突发沙尘暴 游客睁不开眼",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%88%E7%89%99%E6%B3%89%E6%99%AF%E5%8C%BA%E7%AA%81%E5%8F%91%E6%B2%99%E5%B0%98%E6%9A%B4+%E6%B8%B8%E5%AE%A2%E7%9D%81%E4%B8%8D%E5%BC%80%E7%9C%BC",
+          "source": "百度热搜",
           "ranks": [
-            20
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时32分"
         },
         {
-          "title": "云南一医生全家已连续3年吃菌子中毒",
-          "url": "https://www.toutiao.com/trending/7647540839737704467/",
-          "source": "今日头条",
+          "title": "Alphabet天量融资押注AI，科技巨头为何开始向市场“要钱”？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260606120527354800",
+          "source": "金十数据",
           "ranks": [
-            26
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时32分"
         },
         {
           "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
