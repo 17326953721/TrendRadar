@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-06-09T10:56:36.749904+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-06-09T14:50:35.443286+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
+          "url": "https://www.cls.cn/detail/2394196",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 14时50分]"
+        },
+        {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 14时50分]"
+        },
+        {
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 14时50分]"
+        },
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
           "url": "https://wallstreetcn.com/articles/3774087",
@@ -42,17 +76,6 @@
           "time_info": "00时57分"
         },
         {
-          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
-          "url": "https://www.cls.cn/detail/2394196",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
           "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
           "url": "https://www.zhihu.com/question/2047267736485631665",
           "source": "知乎",
@@ -62,17 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
         },
         {
           "title": "据日经新闻：日本电信电话集团（NTT）将向美国和韩国投资者募集资金，设立规模为5亿美元的光网络基金。预计约有20家企业将参与NTT的该项基金，其中包括三星电子。",
@@ -86,15 +98,15 @@
           "time_info": "00时57分"
         },
         {
-          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
-          "url": "https://www.zhihu.com/question/2047324900080051711",
-          "source": "知乎",
+          "title": "银狐木马中毒,吧友急求大神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354995&amp;topic_name=%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC%E4%B8%AD%E6%AF%92%2C%E5%90%A7%E5%8F%8B%E6%80%A5%E6%B1%82%E5%A4%A7%E7%A5%9E",
+          "source": "贴吧",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "14时50分"
         },
         {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
@@ -120,6 +132,43 @@
           "time_info": "[00时57分 ~ 10时56分]"
         },
         {
+          "title": "播片当实机?归唐陷信任危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354982&amp;topic_name=%E6%92%AD%E7%89%87%E5%BD%93%E5%AE%9E%E6%9C%BA%3F%E5%BD%92%E5%94%90%E9%99%B7%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 14时50分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 14时50分]"
+        },
+        {
+          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
+          "url": "https://www.cls.cn/detail/2394258",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 14时50分]"
+        },
+        {
           "title": "15万买新能源车还没开回家就出问题",
           "url": "https://www.toutiao.com/trending/7648583608257069099/",
           "source": "今日头条",
@@ -132,16 +181,51 @@
           "time_info": "[00时57分 ~ 10时56分]"
         },
         {
-          "title": "播片当实机?归唐陷信任危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354982&amp;topic_name=%E6%92%AD%E7%89%87%E5%BD%93%E5%AE%9E%E6%9C%BA%3F%E5%BD%92%E5%94%90%E9%99%B7%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            22
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时57分 ~ 10时56分]"
+          "time_info": "[10时56分 ~ 14时50分]"
+        },
+        {
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 14时50分]"
+        },
+        {
+          "title": "为什么家长不能接受孩子是普通人",
+          "url": "https://www.douyin.com/hot/2527559",
+          "source": "抖音",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 14时50分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "中国地震台网正式测定：06月09日10时17分在新疆阿克苏地区温宿县发生3.6级地震，震源深度12千米。​​​",
@@ -150,29 +234,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
-          "url": "https://www.cls.cn/detail/2394258",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -199,24 +261,13 @@
           "time_info": "00时57分"
         },
         {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
           "title": "马斯克的xAI从星链“借调”高管，负责Grok训练团队",
           "url": "https://flash.jin10.com/detail/20260609101332951800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -232,13 +283,24 @@
           "time_info": "00时57分"
         },
         {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "新能源二手车越来越“香”了",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%8C%E6%89%8B%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E2%80%9C%E9%A6%99%E2%80%9D%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -249,20 +311,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
         {
-          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2394236",
+          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
+          "url": "https://www.cls.cn/detail/2394326",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "14时50分"
         },
         {
           "title": "网传“人造大米有毒”不实",
@@ -274,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
+          "url": "https://www.cls.cn/detail/2394424",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "官方辟谣“人造大米有毒”",
@@ -326,7 +399,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -359,7 +432,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -373,17 +446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "为什么家长不能接受孩子是普通人",
-          "url": "https://www.douyin.com/hot/2527559",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
         },
         {
           "title": "意大利竞争管理局结束了对Meta Platforms(META.O)关于WhatsApp人工智能聊天机器人的调查。",
@@ -403,7 +465,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -419,15 +481,37 @@
           "time_info": "00时57分"
         },
         {
+          "title": "菲律宾地震已致37人死亡百余人受伤",
+          "url": "https://www.toutiao.com/trending/7649201145222774830/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "A股机器人概念反复活跃，埃斯顿2连板，晋拓股份涨停，景业智能涨超12%，豪恩汽电、中科三环、秦川机床、征和工业等个股跟涨。消息面上，工业和信息化部、国务院国资委联合开展2026年度人形机器人与具身智能实景实训专项行动。",
           "url": "https://flash.jin10.com/detail/20260609095401249800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "滴滴率先接入微信AI生态",
+          "url": "https://wallstreetcn.com/livenews/3116571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "俄外交部发言人：俄将根据亚美尼亚实际举措调整政策",
