@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-06-09T18:35:01.022624+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-06-09T21:44:53.206261+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 58,
+      "match_count": 75,
       "titles": [
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
           "url": "https://wallstreetcn.com/articles/3774148",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 21时44分]"
+        },
+        {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时56分 ~ 18时35分]"
+          "time_info": "[14时50分 ~ 21时44分]"
         },
         {
           "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
@@ -29,6 +43,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 14时50分]"
+        },
+        {
+          "title": "银狐木马中毒,吧友急求大神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354995&amp;topic_name=%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC%E4%B8%AD%E6%AF%92%2C%E5%90%A7%E5%8F%8B%E6%80%A5%E6%B1%82%E5%A4%A7%E7%A5%9E",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时50分 ~ 21时44分]"
         },
         {
           "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
@@ -98,6 +124,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "Monte vs paiN 科隆Major",
+          "url": "https://search.bilibili.com/all?keyword=Monte%20paiN",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "据日经新闻：日本电信电话集团（NTT）将向美国和韩国投资者募集资金，设立规模为5亿美元的光网络基金。预计约有20家企业将参与NTT的该项基金，其中包括三星电子。",
           "url": "https://flash.jin10.com/detail/20260609004519849800",
           "source": "金十数据",
@@ -109,28 +146,27 @@
           "time_info": "00时57分"
         },
         {
-          "title": "银狐木马中毒,吧友急求大神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354995&amp;topic_name=%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC%E4%B8%AD%E6%AF%92%2C%E5%90%A7%E5%8F%8B%E6%80%A5%E6%B1%82%E5%A4%A7%E7%A5%9E",
-          "source": "贴吧",
+          "title": "康小伟突发疾病在国家队集训驻地逝世",
+          "url": "https://www.baidu.com/s?wd=%E5%BA%B7%E5%B0%8F%E4%BC%9F%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E5%9C%A8%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD%E9%A9%BB%E5%9C%B0%E9%80%9D%E4%B8%96",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时50分 ~ 18时35分]"
-        },
-        {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
             4
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时50分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 21时44分]"
         },
         {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
@@ -150,21 +186,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
         {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
+          "title": "富国银行：日本在央行政策会议前不太可能干预日元汇率。",
+          "url": "https://wallstreetcn.com/livenews/3116862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            8
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时56分 ~ 18时35分]"
+          "time_info": "[14时50分 ~ 21时44分]"
         },
         {
           "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
@@ -179,18 +226,6 @@
           "time_info": "[00时57分 ~ 10时56分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时50分 ~ 18时35分]"
-        },
-        {
           "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
           "url": "https://www.cls.cn/detail/2394424",
           "source": "财联社热门",
@@ -201,6 +236,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时50分 ~ 18时35分]"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 21时44分]"
         },
         {
           "title": "播片当实机?归唐陷信任危机",
@@ -250,17 +297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 14时50分]"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
-          "url": "https://www.cls.cn/detail/2394903",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 18时35分]"
         },
         {
           "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
@@ -337,9 +373,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "据美国政治新闻网站Politico：美国众议院议长约翰逊今天稍后将与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260609210838860800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "美国贸易逆差收窄 因石油出口部分抵消了AI相关进口",
+          "url": "https://flash.jin10.com/detail/20260609210828902800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "当我把今年高考语文作文题喂给AI",
@@ -386,6 +444,28 @@
           "time_info": "00时57分"
         },
         {
+          "title": "AI风暴暂息，美股盘前芯片股持续反弹、万国数据急涨8%，韩股收涨8.2%，油价走低",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "俄方将根据亚美尼亚举措调整对其政策",
+          "url": "https://www.toutiao.com/trending/7649164557180747803/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "新能源二手车越来越“香”了",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%8C%E6%89%8B%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E2%80%9C%E9%A6%99%E2%80%9D%E4%BA%86",
           "source": "百度热搜",
@@ -408,6 +488,28 @@
           "time_info": "10时56分"
         },
         {
+          "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2395176",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "苹果(AAPL.O)在多项服务中引入AI智能体验。",
+          "url": "https://flash.jin10.com/detail/20260609210628292800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
           "url": "https://www.cls.cn/detail/2394326",
           "source": "财联社热门",
@@ -425,9 +527,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "苹果：在多项服务中引入AI智能体验。",
+          "url": "https://wallstreetcn.com/livenews/3116856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "网传“人造大米有毒”不实",
@@ -447,9 +560,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "新一期储蓄国债明起发售，个人养老金账户首度加入“抢购阵营”，多家银行增设入口",
+          "url": "https://www.cls.cn/detail/2395133",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "阿波罗全球：战略平台旨在到2028年为领先的前沿人工智能实验室提供超过20吉瓦的计算能力。",
+          "url": "https://flash.jin10.com/detail/20260609210548983800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "官方辟谣“人造大米有毒”",
@@ -472,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
+          "url": "https://www.zhihu.com/question/2046196309359646371",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "私募股权科技交易额暴跌70%，AI担忧令投资者对估值越发谨慎",
@@ -513,7 +659,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -562,6 +708,39 @@
           "time_info": "00时57分"
         },
         {
+          "title": "米哈游多款游戏已接入 AI，原神未来会引入 AI 功能吗？",
+          "url": "https://www.zhihu.com/question/2041514273738847722",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "博通(AVGO.O)、阿波罗、黑石集团(BX.N)成立战略平台，以加速超过20吉瓦的全球人工智能部署。",
+          "url": "https://flash.jin10.com/detail/20260609210136059800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "国际货币基金组织：尼日利亚中央银行应维持紧缩货币政策。",
+          "url": "https://flash.jin10.com/detail/20260609210025311800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "意大利竞争管理局结束了对Meta Platforms(META.O)关于WhatsApp人工智能聊天机器人的调查。",
           "url": "https://flash.jin10.com/detail/20260609000618341800",
           "source": "金十数据",
@@ -582,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "赛豆AI汽车AIVA亮相",
+          "url": "https://www.toutiao.com/trending/7649173735878443049/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "菲律宾南部地震已造成35人死亡",
@@ -623,7 +813,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -645,7 +835,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
