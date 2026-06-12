@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-12T19:59:54.489203+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-06-12T23:32:50.788115+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
+        {
+          "title": "海南一实习医生给患者拔牙致人死亡，与牙科诊所一起赔偿 37 万元并被判 1 年半，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2046242091890630877",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 23时32分]"
+        },
         {
           "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
           "url": "https://www.cls.cn/detail/2397230",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 00时55分]"
-        },
-        {
-          "title": "海南一实习医生给患者拔牙致人死亡，与牙科诊所一起赔偿 37 万元并被判 1 年半，如何从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2046242091890630877",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
         },
         {
           "title": "复苏终结，滞胀重来？英国央行陷入政策“窄门”",
@@ -58,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -109,6 +109,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "据华尔街日报：高盛总裁表示，SpaceX IPO显示了投资者对人工智能的热情。",
+          "url": "https://flash.jin10.com/detail/20260612232213902800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "AI正在杀死音乐吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E9%9F%B3%E4%B9%90%E5%90%97",
           "source": "bilibili 热搜",
@@ -126,11 +137,25 @@
           "ranks": [
             1,
             14,
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 23时32分]"
+        },
+        {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            3,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时45分 ~ 19时59分]"
+          "time_info": "[16时24分 ~ 23时32分]"
         },
         {
           "title": "家长为防网贷让 18 岁孩子征信逾期，家长有权这么做吗？这种做法到底是保护还是伤害？",
@@ -146,16 +171,16 @@
           "time_info": "[11时45分 ~ 19时59分]"
         },
         {
-          "title": "猛男舞团翻跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
+          "title": "抖音AI创作大赛首个爆款出现",
+          "url": "https://www.douyin.com/hot/2532139",
+          "source": "抖音",
           "ranks": [
-            11,
-            3
+            20,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时24分 ~ 19时59分]"
+          "time_info": "[19时59分 ~ 23时32分]"
         },
         {
           "title": "抖音AI创作大赛来了",
@@ -205,6 +230,18 @@
           "time_info": "[11时45分 ~ 16时24分]"
         },
         {
+          "title": "熊孩子掰坏迈巴赫车标 车主：无妨",
+          "url": "https://www.baidu.com/s?wd=%E7%86%8A%E5%AD%A9%E5%AD%90%E6%8E%B0%E5%9D%8F%E8%BF%88%E5%B7%B4%E8%B5%AB%E8%BD%A6%E6%A0%87+%E8%BD%A6%E4%B8%BB%EF%BC%9A%E6%97%A0%E5%A6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 23时32分]"
+        },
+        {
           "title": "权威机构：SpaceX世纪IPO引爆“散户套现热”，热门AI股成“ATM机”！",
           "url": "https://www.cls.cn/detail/2398028",
           "source": "财联社热门",
@@ -215,6 +252,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时24分 ~ 19时59分]"
+        },
+        {
+          "title": "新能源二手车越来越「香」了，交易量走高，保值率提升，为何会出现这一变化？是短期回暖还是长期趋势？",
+          "url": "https://www.zhihu.com/question/2047600648644816926",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 23时32分]"
         },
         {
           "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
@@ -250,6 +299,17 @@
           "time_info": "[00时54分 ~ 00时55分]"
         },
         {
+          "title": "老人入住精神病院7年后查出梅毒",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%85%A5%E4%BD%8F%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A27%E5%B9%B4%E5%90%8E%E6%9F%A5%E5%87%BA%E6%A2%85%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 23时32分]"
+        },
+        {
           "title": "公积金利率决定机制拟调整引市场热议：会否引发与货币政策节奏错位？多位市场人士认为仍值得商榷",
           "url": "https://www.cls.cn/detail/2397475",
           "source": "财联社热门",
@@ -272,6 +332,17 @@
           "time_info": "[00时54分 ~ 00时55分]"
         },
         {
+          "title": "孩子的底气是跌倒脆弱时有人爱",
+          "url": "https://www.douyin.com/hot/2531915",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 23时32分]"
+        },
+        {
           "title": "硬核解析银狐木马病毒",
           "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E6%A0%B8%E8%A7%A3%E6%9E%90%E9%93%B6%E7%8B%90%E6%9C%A8%E9%A9%AC%E7%97%85%E6%AF%92",
           "source": "bilibili 热搜",
@@ -281,6 +352,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 00时55分]"
+        },
+        {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 23时32分]"
         },
         {
           "title": "据CNBC：OpenAI将收购Ona，以增强其人工智能编程助手Codex的能力。",
@@ -300,7 +383,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -333,9 +416,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-06-12）",
+          "url": "https://flash.jin10.com/detail/20260612231449253800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
@@ -347,17 +441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
-        },
-        {
-          "title": "老人入住精神病院7年后查出梅毒",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%85%A5%E4%BD%8F%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A27%E5%B9%B4%E5%90%8E%E6%9F%A5%E5%87%BA%E6%A2%85%E6%AF%92",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
         },
         {
           "title": "高盛：SpaceX、OpenAI等超级IPO不会终结AI牛市",
@@ -393,24 +476,13 @@
           "time_info": "16时24分"
         },
         {
-          "title": "新能源二手车越来越「香」了，交易量走高，保值率提升，为何会出现这一变化？是短期回暖还是长期趋势？",
-          "url": "https://www.zhihu.com/question/2047600648644816926",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
           "title": "Sharon AI(SHAZ.O)预计到2027年中期将部署超过5.5万块英伟达GPU。",
           "url": "https://flash.jin10.com/detail/20260612192434895800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -421,7 +493,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -432,7 +504,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -446,17 +518,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
-        },
-        {
-          "title": "孩子的底气是跌倒脆弱时有人爱",
-          "url": "https://www.douyin.com/hot/2531915",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
         },
         {
           "title": "央行上海总部谈金融五篇大文章：围绕制度机制优化、政策工具激励、生态体系建设等综合施策",
@@ -487,18 +548,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "抖音AI创作大赛首个爆款出现",
-          "url": "https://www.douyin.com/hot/2532139",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -520,7 +570,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -547,24 +597,24 @@
           "time_info": "11时45分"
         },
         {
+          "title": "分析师：xAI对SpaceX的营收贡献在未来有望进一步提升",
+          "url": "https://flash.jin10.com/detail/20260612223800782800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "老人入住精神病院7年后查出梅毒",
           "url": "https://s.weibo.com/weibo?q=%E8%80%81%E4%BA%BA%E5%85%A5%E4%BD%8F%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A27%E5%B9%B4%E5%90%8E%E6%9F%A5%E5%87%BA%E6%A2%85%E6%AF%92&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "全抖音都在DaiDai",
-          "url": "https://www.douyin.com/hot/2531421",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -575,18 +625,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "熊孩子掰坏迈巴赫车标 车主：无妨",
-          "url": "https://www.baidu.com/s?wd=%E7%86%8A%E5%AD%A9%E5%AD%90%E6%8E%B0%E5%9D%8F%E8%BF%88%E5%B7%B4%E8%B5%AB%E8%BD%A6%E6%A0%87+%E8%BD%A6%E4%B8%BB%EF%BC%9A%E6%97%A0%E5%A6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -597,9 +636,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "中年叛逆是什么体验",
+          "url": "https://www.douyin.com/hot/2531897",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "国家金融监督管理总局：将持续研究优化支持政策 助力上海国际金融中心进一步增强竞争力和影响力",
@@ -619,7 +669,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
