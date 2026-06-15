@@ -1,207 +1,66 @@
 {
-  "generated_at": "2026-06-14T23:25:51.746084+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-06-15T12:06:42.862511+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 30,
+      "match_count": 15,
       "titles": [
         {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 23时25分]"
-        },
-        {
-          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
-          "url": "https://wallstreetcn.com/articles/3774595",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 19时14分]"
-        },
-        {
-          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
-          "url": "https://wallstreetcn.com/articles/3774601",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 23时25分]"
-        },
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "据半岛电视台：以色列空袭黎巴嫩贝鲁特南郊造成的死亡人数升至3人，另有15人受伤。",
-          "url": "https://flash.jin10.com/detail/20260614204621734800",
-          "source": "金十数据",
+          "title": "《新华字典》改掉“孩子小成了累赘”",
+          "url": "https://www.toutiao.com/trending/7651263379553927174/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时15分"
+          "time_info": "12时06分"
         },
         {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 23时25分]"
-        },
-        {
-          "title": "《新闻联播》正在直播",
-          "url": "https://www.toutiao.com/trending/7650534513717612038/",
-          "source": "今日头条",
+          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
+          "url": "https://wallstreetcn.com/articles/3774621",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "12时06分"
         },
         {
-          "title": "现场：巴西2架飞机空中相撞致多人死亡，多次传出爆炸声",
-          "url": "https://news.ifeng.com/c/8txVEJExnWm",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "新闻联播",
-          "url": "https://www.douyin.com/hot/2534415",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
-          "url": "https://www.cls.cn/detail/2399104",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 23时25分]"
-        },
-        {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 23时25分]"
-        },
-        {
-          "title": "世界杯F组是“死亡之组”吗",
-          "url": "https://www.toutiao.com/trending/7650711063866277926/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 21时15分]"
-        },
-        {
-          "title": "球迷们喜闻乐见的“死亡之组”来了",
-          "url": "https://www.baidu.com/s?wd=%E7%90%83%E8%BF%B7%E4%BB%AC%E5%96%9C%E9%97%BB%E4%B9%90%E8%A7%81%E7%9A%84%E2%80%9C%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BB%84%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 23时25分]"
-        },
-        {
-          "title": "美禁止外国主体使用安特罗匹克最新AI模型",
-          "url": "https://wallstreetcn.com/livenews/3119219",
+          "title": "报道：字节跳动讨论购买至少5万颗天数智芯的AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3119429",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            18
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 21时15分]"
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "A股午评：创业板指半日收涨3.66% AI及半导体板块强势反弹",
+          "url": "https://flash.jin10.com/detail/20260615114032000800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
           "url": "https://wallstreetcn.com/articles/3774608",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 23时25分]"
-        },
-        {
-          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
-          "url": "https://wallstreetcn.com/articles/3774579",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 16时16分]"
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
@@ -211,151 +70,107 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 23时25分]"
-        },
-        {
-          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
-          "url": "https://wallstreetcn.com/articles/3774621",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "12时06分"
         },
         {
-          "title": "以军持续袭击加沙地带多地，至少5人死亡",
-          "url": "https://wallstreetcn.com/livenews/3119252",
-          "source": "华尔街见闻-快讯",
+          "title": "有没有懂法律的同学，你觉得如果「遇见小面」继续起诉「渝见小面」会赢吗？",
+          "url": "https://www.zhihu.com/question/2048898101641996025",
+          "source": "知乎",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "据福克斯新闻：美国政府一位高级官员表示，相信已达成一项极为出色且强有力的协议。",
-          "url": "https://flash.jin10.com/detail/20260614100312831800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时54分"
+          "time_info": "12时06分"
         },
         {
-          "title": "张国清在青海调研时强调，高质量推进盐湖产业基地建设，着力提高防范应对自然灾害能力。",
-          "url": "https://flash.jin10.com/detail/20260614151618349800",
-          "source": "金十数据",
+          "title": "影子调查｜有毒的“养生烟”：电商热销宣称“养生润肺”，神秘厂家难寻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33360714",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "12时06分"
         },
         {
-          "title": "孩子小成累赘？《新华字典》：听劝已改",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%B0%8F%E6%88%90%E7%B4%AF%E8%B5%98%EF%BC%9F%E3%80%8A%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E3%80%8B%EF%BC%9A%E5%90%AC%E5%8A%9D%E5%B7%B2%E6%94%B9",
-          "source": "百度热搜",
+          "title": "中国地震台网正式测定：06月15日11时24分在内蒙古巴彦淖尔市临河区（北纬40.72度，东经107.35度）发生3.0级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260615113001202800",
+          "source": "金十数据",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "蚂蚁集团正秘密测试AI版支付宝",
-          "url": "https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%AD%A3%E7%A7%98%E5%AF%86%E6%B5%8B%E8%AF%95AI%E7%89%88%E6%94%AF%E4%BB%98%E5%AE%9D",
-          "source": "百度热搜",
-          "ranks": [
-            18
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "12时06分"
         },
         {
-          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "像我这种没上过学，不识字也没有文化的家长，孩子作业都辅导不了，如何教育孩子呢？",
-          "url": "https://www.zhihu.com/question/1906255588486255442",
+          "title": "爷爷爸爸同日因意外去世，银行起诉 2 岁孙子「追债」50 万元被法院驳回，如何从法律角度理解此事？",
+          "url": "https://www.zhihu.com/question/2049488018772436878",
           "source": "知乎",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时54分"
+          "time_info": "12时06分"
         },
         {
-          "title": "大量日本民众抗议高市早苗政府军事扩张政策",
-          "url": "https://flash.jin10.com/detail/20260614195344098800",
+          "title": "港股天数智芯(09903.HK)涨近7.5%，百度(09888.HK)短线跌幅收窄至0.4%。消息面上，路透报道称，字节跳动正与芯片制造商天数智芯洽谈购买人工智能推理芯片事宜；字节跳动也在考虑使用百度的昆仑芯人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260615111511567800",
           "source": "金十数据",
           "ranks": [
-            20
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时15分"
+          "time_info": "12时06分"
         },
         {
-          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-06-14）",
-          "url": "https://flash.jin10.com/detail/20260614082525424800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "曝赵樱子有孩子了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%B5%B5%E6%A8%B1%E5%AD%90%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "title": "郝景芳承认用AI写作",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%9D%E6%99%AF%E8%8A%B3%E6%89%BF%E8%AE%A4%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "12时06分"
         },
         {
-          "title": "据黎巴嫩国家通讯社：初步统计显示，以色列空袭贝鲁特南郊造成1人死亡、4人受伤。",
-          "url": "https://flash.jin10.com/detail/20260614191919351800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "十项促进两岸交流合作的政策措施对接签约会在厦门举行",
-          "url": "https://wallstreetcn.com/livenews/3119151",
+          "title": "中国气象局启动重大气象灾害暴雨强对流三级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3119390",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时54分"
+          "time_info": "12时06分"
+        },
+        {
+          "title": "北京范儿百度AIGC大赛",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%8C%83%E5%84%BF%E7%99%BE%E5%BA%A6AIGC%E5%A4%A7%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "国芯科技：参股公司紫山龙霖正式发布面向企业AI与高性能计算(HPC)场景的全新产品——GalaxSphere数据智能引擎。",
+          "url": "https://flash.jin10.com/detail/20260615110933361800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         }
       ]
     }
