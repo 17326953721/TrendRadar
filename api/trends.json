@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-06-16T00:18:44.178791+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-16T11:56:26.417698+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 14,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "美军B-52轰炸机坠毁致8人死亡",
+          "url": "https://www.toutiao.com/trending/7651227608685723698/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "原来国足在世预赛“死亡小组”",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E5%9B%BD%E8%B6%B3%E5%9C%A8%E4%B8%96%E9%A2%84%E8%B5%9B%E2%80%9C%E6%AD%BB%E4%BA%A1%E5%B0%8F%E7%BB%84%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
         {
           "title": "影子调查｜有毒的“养生烟”：电商热销宣称“养生润肺”，神秘厂家难寻",
           "url": "https://m.thepaper.cn/newsDetail_forward_33360714",
@@ -19,6 +41,18 @@
           "time_info": "00时18分"
         },
         {
+          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 11时56分]"
+        },
+        {
           "title": "伊朗用AI让球员牵遇难儿童入场",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
           "source": "百度热搜",
@@ -28,6 +62,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "公安网安公布打击银狐病毒案例",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%AC%E5%AE%89%E7%BD%91%E5%AE%89%E5%85%AC%E5%B8%83%E6%89%93%E5%87%BB%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92%E6%A1%88%E4%BE%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "6月16日午间收评：创业板指半日涨超2%，AI硬件股持续走强",
+          "url": "https://wallstreetcn.com/livenews/3120042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "重庆市委书记：全面彻底肃清流毒影响",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E5%85%A8%E9%9D%A2%E5%BD%BB%E5%BA%95%E8%82%83%E6%B8%85%E6%B5%81%E6%AF%92%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "日本六氟化钨断供危机：谁在裸泳？",
+          "url": "https://wallstreetcn.com/articles/3774695",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "AI为何成为能源之战",
@@ -52,6 +130,39 @@
           "time_info": "00时18分"
         },
         {
+          "title": "日本央行：在当前时期，需要特别关注中东局势的未来走向对金融市场、外汇市场、经济和物价的影响。 必须关注全球AI相关需求以及未来外汇走势对日本经济和物价的影响。",
+          "url": "https://wallstreetcn.com/livenews/3120039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
+          "url": "https://www.cls.cn/detail/2400563",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "日本央行：油价上涨的转嫁传导一直在以相对较快的速度推进，这可能会蔓延并导致广泛商品和服务的消费者价格上涨。 核心CPI通胀率存在向上偏离并高出物价目标的风险。 日本经济增速可能会有所放缓，但预计将继续温和增长。 CPI的同比涨幅可能会加速，达到明显高于2%的水平。 薪资与物价同步温和上涨的机制将会维持。 核心CPI通胀率预计将逐渐上升，并在2026财年下半年至2027财年之间达到与物价目标相符的水平。",
+          "url": "https://wallstreetcn.com/livenews/3120038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "李想：今天的智能手机并不是真的智能",
           "url": "https://www.toutiao.com/trending/7650811553666662443/",
           "source": "今日头条",
@@ -72,6 +183,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
+          "url": "https://wallstreetcn.com/articles/3774700",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "“韶山人贩子当街抢孩子”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%9F%B6%E5%B1%B1%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%BD%93%E8%A1%97%E6%8A%A2%E5%AD%A9%E5%AD%90%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "中国地震台网自动测定：06月16日11时27分在印尼苏拉威西岛附近（南纬0.99度，东经120.29度）发生7.0级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260616113849775800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "日本央行：将根据经济活动、物价和金融状况的发展，继续提高政策利率。 在考虑政策调整的时机和步伐时，将评估实现基准预测情景的概率以及潜在风险。 预计在政策利率调整后，宽松的金融环境仍将维持，并继续坚定地支持经济活动。 日本经济已温和复苏，尽管局部仍表现出一些疲软。 与前一段时间相比，经济出现严重放缓的风险似乎有所降低。 日本经济的发展总体上符合日本央行的基准预测情景。",
+          "url": "https://wallstreetcn.com/livenews/3120035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "日本央行政策声明：加息25个基点，未来仍可能继续加息",
+          "url": "https://flash.jin10.com/detail/20260616113427322800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "珠峰向导被遗忘在死亡区6天6夜生还",
@@ -107,6 +273,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "德国地学研究中心GFZ：印度尼西亚苏拉威西地区发生6.39级地震。",
+          "url": "https://flash.jin10.com/detail/20260616113358294800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "OpenAI承诺在2026年对与AI相关的非营利问题投资5000万美元。",
           "url": "https://wallstreetcn.com/livenews/3119785",
           "source": "华尔街见闻-快讯",
@@ -116,6 +293,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "日本央行声明：以7-1的投票比例通过利率决议。 审议委员浅田统一郎对利率决议投下反对票。 审议委员高田创和田村直树对有关物价前景的描述表示反对。",
+          "url": "https://wallstreetcn.com/livenews/3120032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "重庆市委书记：全面彻底肃清流毒影响",
+          "url": "https://www.toutiao.com/trending/7651601846431629331/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "伊朗外长：我们力求通过该协议尽可能为国家创造经济突破；我们在外交政策上不放过任何机遇，但也绝不会将任何机遇视为理所当然。",
@@ -129,15 +328,37 @@
           "time_info": "00时18分"
         },
         {
-          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
+          "title": "如果人生真的只是在读书毕业、上班赚钱、结婚生子中循环，那人生的意义究竟是什么？",
+          "url": "https://www.zhihu.com/question/2044870328678184330",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "重庆市委书记：全面彻底肃清流毒影响，持续修复净化政治生态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33384225",
           "source": "澎湃新闻",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "11时56分"
+        },
+        {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "伊朗用AI让球员牵遇难儿童入场",
@@ -151,6 +372,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "国家统计局：中下游企业面临着阶段性的成本压力 相关助企政策效果有望逐步显现",
+          "url": "https://wallstreetcn.com/livenews/3120023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "亲戚来做客，跟孩子宣扬「读书无用论」，听了火大，家长该如何处理这种情况？",
           "url": "https://www.zhihu.com/question/2034319204476777226",
           "source": "知乎",
@@ -160,6 +392,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "AI版支付宝正式发布，为史上最大改版",
+          "url": "https://wallstreetcn.com/livenews/3120021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI去年支出达340亿美元。",
+          "url": "https://flash.jin10.com/detail/20260616113107944800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "半导体智能制造",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     }
