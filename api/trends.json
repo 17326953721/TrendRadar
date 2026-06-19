@@ -1,825 +1,242 @@
 {
-  "generated_at": "2026-06-18T20:25:12.241331+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-06-19T12:08:01.213669+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 73,
+      "match_count": 21,
       "titles": [
         {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 20时25分]"
-        },
-        {
-          "title": "北京密云养老院洪灾致32死 问责17人",
-          "url": "https://www.toutiao.com/trending/7652497112878350399/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "北京密云养老院洪灾致32死 问责17人",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%AF%86%E4%BA%91%E5%85%BB%E8%80%81%E9%99%A2%E6%B4%AA%E7%81%BE%E8%87%B432%E6%AD%BB+%E9%97%AE%E8%B4%A317%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "国家禁毒办：新发现35岁以下青少年吸毒人数同比下降超四成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396453",
-          "source": "澎湃新闻",
+          "title": "孩子烧光几十万手机爸爸问开不开心",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%83%A7%E5%85%89%E5%87%A0%E5%8D%81%E4%B8%87%E6%89%8B%E6%9C%BA%E7%88%B8%E7%88%B8%E9%97%AE%E5%BC%80%E4%B8%8D%E5%BC%80%E5%BF%83%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
-          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
-          "url": "https://www.cls.cn/detail/2403573",
-          "source": "财联社热门",
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
-          "title": "以色列外交部长：我别无选择，只能与欧盟外交与安全政策高级代表卡拉斯断绝一切联系，直到她撤回对世界唯一犹太国家的血腥诽谤。",
-          "url": "https://flash.jin10.com/detail/20260618164423081800",
-          "source": "金十数据",
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
-          "title": "金十图示：2026年06月18日（周四）新闻联播今日要点",
-          "url": "https://flash.jin10.com/detail/20260618201344598800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "商务部：会同相关部门落实落细各项政策举措，持续推动人工智能与消费深度融合",
-          "url": "https://wallstreetcn.com/livenews/3121577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "多品牌婴幼儿纸尿裤被检出有毒物质「甲酰胺」，什么是甲酰胺？会对婴幼儿健康有哪些危害？",
-          "url": "https://www.zhihu.com/question/2050890464476263871",
+          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
+          "url": "https://www.zhihu.com/question/2050289332632790558",
           "source": "知乎",
           "ranks": [
-            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "纸尿裤检出甲酰胺要带孩子检查吗",
+          "url": "https://www.toutiao.com/trending/7652597708466962475/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "美军称在东太平洋打击一艘“贩毒船”，致3人死亡",
+          "url": "https://news.ifeng.com/c/8u4p1poos2u",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "2026新能源汽车下乡车型目录公布",
+          "url": "https://www.douyin.com/hot/2539912",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
+          "url": "https://www.cls.cn/detail/2404033",
+          "source": "财联社热门",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 20时25分]"
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
-          "title": "克里姆林宫外交政策顾问谈及欧盟对美国总统特朗普的影响：美国总统特朗普是一位强有力的政治家，他坚持自己的观点。",
-          "url": "https://flash.jin10.com/detail/20260618164258451800",
-          "source": "金十数据",
+          "title": "岳阳发布“射击俱乐部枪支走火致人死亡”调查报告：体验者枪支脱手，击中安全员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408344",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
-          "title": "克里姆林宫外交政策顾问：七国集团的欧盟领导人坚持认为乌克兰战争应继续。",
-          "url": "https://flash.jin10.com/detail/20260618164248281800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "香港机场突发劫案 700万港元金条被抢",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E7%AA%81%E5%8F%91%E5%8A%AB%E6%A1%88+700%E4%B8%87%E6%B8%AF%E5%85%83%E9%87%91%E6%9D%A1%E8%A2%AB%E6%8A%A2",
+          "title": "这种粽子绳高温蒸煮有毒",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E7%B2%BD%E5%AD%90%E7%BB%B3%E9%AB%98%E6%B8%A9%E8%92%B8%E7%85%AE%E6%9C%89%E6%AF%92",
           "source": "百度热搜",
           "ranks": [
-            15,
-            4
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 20时25分]"
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
           "title": "有毒纸尿裤穿一夜体内甲酰胺翻倍",
           "url": "https://www.toutiao.com/trending/7652636509295709706/",
           "source": "今日头条",
           "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 20时25分]"
-        },
-        {
-          "title": "纸尿裤 有毒",
-          "url": "https://s.weibo.com/weibo?q=%E7%BA%B8%E5%B0%BF%E8%A3%A4%20%E6%9C%89%E6%AF%92&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 17时08分]"
-        },
-        {
-          "title": "五部门：开展2026年新能源汽车下乡活动 深入推进汽车以旧换新进乡村",
-          "url": "https://www.cls.cn/detail/2403340",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 20时25分]"
-        },
-        {
-          "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
-          "url": "https://www.cls.cn/detail/2403255",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 20时25分]"
-        },
-        {
-          "title": "用AI打开端午的一百种方式",
-          "url": "https://www.douyin.com/hot/2539388",
-          "source": "抖音",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 20时25分]"
-        },
-        {
-          "title": "两款有毒纸尿裤已下架",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%AC%BE%E6%9C%89%E6%AF%92%E7%BA%B8%E5%B0%BF%E8%A3%A4%E5%B7%B2%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 20时25分]"
-        },
-        {
-          "title": "五部门开展新能源汽车下乡活动",
-          "url": "https://www.douyin.com/hot/2539139",
-          "source": "抖音",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 20时25分]"
-        },
-        {
-          "title": "宣布六项政策，央行行长潘功胜详解中国金融结构变迁和金融市场现代化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397624",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 11时44分]"
-        },
-        {
-          "title": "中缅禁毒合作取得重大战果：缅甸根据中方情报捣毁13个制毒厂点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397675",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 11时44分]"
-        },
-        {
-          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
-          "url": "https://wallstreetcn.com/articles/3774852",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "毒纸尿裤中的甲酰胺有何危害",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%92%E7%BA%B8%E5%B0%BF%E8%A3%A4%E4%B8%AD%E7%9A%84%E7%94%B2%E9%85%B0%E8%83%BA%E6%9C%89%E4%BD%95%E5%8D%B1%E5%AE%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "那些新能源汽车车主又换回了燃油车，是怎么想的？",
-          "url": "https://www.zhihu.com/question/1918235574843729760",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
-          "url": "https://www.cls.cn/detail/2402436",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2050618204980863708",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
-          "url": "https://www.zhihu.com/question/14853864339",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 17时08分]"
-        },
-        {
-          "title": "丈夫脑死亡400余天 妻子执意留身边",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E8%84%91%E6%AD%BB%E4%BA%A1400%E4%BD%99%E5%A4%A9+%E5%A6%BB%E5%AD%90%E6%89%A7%E6%84%8F%E7%95%99%E8%BA%AB%E8%BE%B9",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "港股博弈现冰火两重天 建滔集团、长飞光纤光缆遭空头加码",
-          "url": "https://www.cls.cn/detail/2403381",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "北京暴雨致养老院32死 17人被问责",
-          "url": "https://www.douyin.com/hot/2539577",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "毒纸尿裤涉事品牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%92%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%B6%89%E4%BA%8B%E5%93%81%E7%89%8C%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
-          "url": "https://www.cls.cn/detail/2403645",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "狗狗不慎咬伤孩子被卖满眼惊恐",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E4%B8%8D%E6%85%8E%E5%92%AC%E4%BC%A4%E5%AD%A9%E5%AD%90%E8%A2%AB%E5%8D%96%E6%BB%A1%E7%9C%BC%E6%83%8A%E6%81%90%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "AI Agent 的核心技术是什么？",
-          "url": "https://www.zhihu.com/question/1906023807417811104",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "密云养老院洪灾致32死 问责17人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AF%86%E4%BA%91%E5%85%BB%E8%80%81%E9%99%A2%E6%B4%AA%E7%81%BE%E8%87%B432%E6%AD%BB%20%E9%97%AE%E8%B4%A317%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "我国将启动2026年新能源汽车下乡",
-          "url": "https://www.toutiao.com/trending/7652589530977517610/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
-          "url": "https://www.zhihu.com/question/2050515273640423854",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "小学四年级孩子总说「同学都有，我也要」，直接拒绝怕伤自尊，顺着买又怕攀比，怎么回应好呢？",
-          "url": "https://www.zhihu.com/question/2038763147947979042",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "丈夫脑死亡400余天 妻子执意留身边",
-          "url": "https://www.toutiao.com/trending/7652255932635070527/",
-          "source": "今日头条",
-          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
-          "title": "国标绝不是“毒纸尿裤”的遮羞布",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%A0%87%E7%BB%9D%E4%B8%8D%E6%98%AF%E2%80%9C%E6%AF%92%E7%BA%B8%E5%B0%BF%E8%A3%A4%E2%80%9D%E7%9A%84%E9%81%AE%E7%BE%9E%E5%B8%83",
+          "title": "孩子烧光几十万手机爸爸问开不开心",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E7%83%A7%E5%85%89%E5%87%A0%E5%8D%81%E4%B8%87%E6%89%8B%E6%9C%BA%E7%88%B8%E7%88%B8%E9%97%AE%E5%BC%80%E4%B8%8D%E5%BC%80%E5%BF%83",
           "source": "百度热搜",
           "ranks": [
-            19
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
-          "title": "家长吐槽六年级孩子临近毕业不认真学习，抱着「毕业就不用再用功」的心态，为啥会有这种心态？需要纠正吗？",
-          "url": "https://www.zhihu.com/question/2050628489028675256",
-          "source": "知乎",
+          "title": "日本央行副行长冰见野良三：今年夏季前后，燃料价格上涨对CPI的影响可能会更大。 我们希望在7月份更新季度预测时，就石油对通胀的影响提供更全面的分析。 即使价格上涨是由供应冲击驱动的，如果这导致广泛的价格上涨并影响到潜在的通胀，我们也需要考虑采取政策行动。 近期价格上涨也有需求驱动因素，如强劲的企业利润、稳定的工资增长、活跃的AI相关需求，都支撑着日本经济。",
+          "url": "https://wallstreetcn.com/livenews/3121959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：购买日本国债不是收紧或放松政策的手段。 在制定债券购买计划时，最重要的是允许市场自由设定价格。 我们积极地与海外当局交换意见，但最终我们在政策上做出自己的决定。 向市场仔细解释政策很重要。",
+          "url": "https://wallstreetcn.com/livenews/3121954",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
-          "title": "专家称纸尿裤是否有毒需看具体数据",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%98%AF%E5%90%A6%E6%9C%89%E6%AF%92%E9%9C%80%E7%9C%8B%E5%85%B7%E4%BD%93%E6%95%B0%E6%8D%AE&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "马斯克：Cursor和xAI都没有裁员。",
+          "url": "https://wallstreetcn.com/livenews/3121953",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
-          "title": "妻子回应强留脑死亡丈夫被质疑",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%9B%9E%E5%BA%94%E5%BC%BA%E7%95%99%E8%84%91%E6%AD%BB%E4%BA%A1%E4%B8%88%E5%A4%AB%E8%A2%AB%E8%B4%A8%E7%96%91%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "摩根大通预计：受人工智能和改革推动，日经指数年底将达到7.5万点",
+          "url": "https://wallstreetcn.com/livenews/3121949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：在指导货币政策时，日本央行还必须关注金融状况，例如银行的放贷态度。",
+          "url": "https://flash.jin10.com/detail/20260619103405964800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：日本央行的中性利率估计范围较广，仅通过测量日本央行的政策利率与估计中性利率之间的差距难以制定货币政策。",
+          "url": "https://flash.jin10.com/detail/20260619103358597800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
-          "title": "研究表明甲酰胺有胚胎毒性和致畸性",
-          "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E7%94%B2%E9%85%B0%E8%83%BA%E6%9C%89%E8%83%9A%E8%83%8E%E6%AF%92%E6%80%A7%E5%92%8C%E8%87%B4%E7%95%B8%E6%80%A7",
-          "source": "百度热搜",
+          "title": "日本央行副行长冰见野良三：日本央行暂停缩减债券购买规模的决定，并非是为财政政策服务。",
+          "url": "https://wallstreetcn.com/livenews/3121943",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
-        },
-        {
-          "title": "丈夫脑死亡400余天妻子执意留身边",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E8%84%91%E6%AD%BB%E4%BA%A1400%E4%BD%99%E5%A4%A9%E5%A6%BB%E5%AD%90%E6%89%A7%E6%84%8F%E7%95%99%E8%BA%AB%E8%BE%B9%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "黄金和AI：谁在见顶？",
-          "url": "https://wallstreetcn.com/articles/3774914",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "CrowdStrike(CRWD.O)扩展了Falcon AI检测功能。",
-          "url": "https://flash.jin10.com/detail/20260618002230664800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "多款纸尿裤被检出有毒物质",
-          "url": "https://www.toutiao.com/trending/7652536912411344939/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "吴清陆家嘴论坛讲话：扩大第五套标准适用范围至AI领域，支持港股公司境内上市",
-          "url": "https://wallstreetcn.com/articles/3774870",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "女孩酒局上以水代酒喝到水中毒",
-          "url": "https://www.toutiao.com/trending/7652331800761155603/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "AirPods五大升级",
-          "url": "https://s.weibo.com/weibo?q=%23AirPods%E4%BA%94%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "据以色列i24News：以色列外长萨尔“切断与欧盟外交与安全政策高级代表卡拉斯的所有联系”。",
-          "url": "https://flash.jin10.com/detail/20260618163737599800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "毒纸尿裤",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%92%E7%BA%B8%E5%B0%BF%E8%A3%A4&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "多款纸尿裤被曝检出有毒物质",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%BE%E7%BA%B8%E5%B0%BF%E8%A3%A4%E8%A2%AB%E6%9B%9D%E6%A3%80%E5%87%BA%E6%9C%89%E6%AF%92%E7%89%A9%E8%B4%A8",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "美联储开启政策新周期，黄金走势已脱离震荡格局？",
-          "url": "https://flash.jin10.com/detail/20260618105809144800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "英国央行：货币政策委员会一致认为，如果价格逐步走高，适当的政策反应应当是果断有力的。 投票支持维持利率不变的七名成员警告称，存在第二轮效应风险。 需求和劳动力市场疲软可能会削弱第二轮效应的强度。 最新就业数据“与劳动力市场逐步放松相一致”。 认为第一季度基础增长率为0.2%，第二季度将保持在类似水平。 能源价格风险仍偏向上行。",
-          "url": "https://wallstreetcn.com/livenews/3121667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "证监会主席吴清表示，扩大第五套标准适用范围至人工智能领域，大力支持上市公司并购及再融资，透露哪些信息？",
-          "url": "https://www.zhihu.com/question/2050547521164932018",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "新加坡冬海集团悄然进军美国市场，测试AI聊天机器人Migoo",
-          "url": "https://wallstreetcn.com/livenews/3121130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "惠与（HPE）：Vultr为AI基础设施选择本公司和英伟达。",
-          "url": "https://wallstreetcn.com/livenews/3121129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "二房东厨房改卧室致租客中毒身亡",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%88%BF%E4%B8%9C%E5%8E%A8%E6%88%BF%E6%94%B9%E5%8D%A7%E5%AE%A4%E8%87%B4%E7%A7%9F%E5%AE%A2%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "母亲将 26 岁儿子骗进戒网瘾机构，接回后称「又愧疚又懊悔但难以开口道歉」，为何家长难以向孩子认错？",
-          "url": "https://www.zhihu.com/question/2050562665215534265",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "摩根资产管理：AI热潮料推动美股续涨，下半年宜持有高风险资产",
-          "url": "https://wallstreetcn.com/livenews/3121128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "港股医药股拉升，恒生生物科技指数涨超3%，再鼎医药涨超7%，英矽智能、映恩生物、康方生物涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3121376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "天永智能：中标4680万元混动L5线设备导入项目",
-          "url": "https://flash.jin10.com/detail/20260618163056686800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "德银：沃什若避免释放政策信号，套利交易将迎来机会",
-          "url": "https://wallstreetcn.com/livenews/3121127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "男子称吃豆角中毒三天瘦八斤",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%90%83%E8%B1%86%E8%A7%92%E4%B8%AD%E6%AF%92%E4%B8%89%E5%A4%A9%E7%98%A6%E5%85%AB%E6%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "甲酰胺 生殖毒性",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B2%E9%85%B0%E8%83%BA%20%E7%94%9F%E6%AE%96%E6%AF%92%E6%80%A7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "英国央行政策利率 3.75%，预期 3.75%，前值 3.75%。",
-          "url": "https://wallstreetcn.com/livenews/3121660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "菲律宾南部强震已致78人死亡",
-          "url": "https://flash.jin10.com/detail/20260618104536275800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "汤臣倍健：拟5000万元投资原粒半导体 后者基于Chiplet技术创新打造AI推理芯片",
-          "url": "https://wallstreetcn.com/livenews/3121657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "瑞士央行行长Schlegel：瑞郎面临强劲升值压力的风险依然存在。 中期通胀压力几乎没有变化。 瑞士央行的货币政策继续发挥扩张性效应。 通胀率将在未来几个季度上升，随后回落。 瑞士央行已增强干预外汇市场的意愿。 尽管美伊达成和平协议，不确定性仍然高企。 能源价格仍由战局决定。 “如有必要”的意思就是“如有必要”。 很难说这是否意味着更多行动还是更少行动。 自上次决策以来，瑞郎已经贬值。 对声明措辞进行调整是适当的。 我的工作不会变得更容易，我并不觉得无聊。",
-          "url": "https://wallstreetcn.com/livenews/3121538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "端午和周星驰拍上AI食神大片了",
-          "url": "https://www.douyin.com/hot/2538982",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时08分"
+          "time_info": "12时08分"
         }
       ]
     }
