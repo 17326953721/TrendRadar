@@ -1,216 +1,33 @@
 {
-  "generated_at": "2026-06-19T20:59:44.549825+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-06-20T00:11:41.669846+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 31,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 17时20分]"
-        },
-        {
-          "title": "孩子烧光几十万手机爸爸问开不开心",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%83%A7%E5%85%89%E5%87%A0%E5%8D%81%E4%B8%87%E6%89%8B%E6%9C%BA%E7%88%B8%E7%88%B8%E9%97%AE%E5%BC%80%E4%B8%8D%E5%BC%80%E5%BF%83%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
           "source": "澎湃新闻",
           "ranks": [
-            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 20时59分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
-          "title": "2026新能源汽车下乡车型目录公布",
-          "url": "https://www.douyin.com/hot/2539912",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 20时59分]"
-        },
-        {
-          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
-          "url": "https://www.cls.cn/detail/2404033",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 20时59分]"
-        },
-        {
-          "title": "岳阳发布“射击俱乐部枪支走火致人死亡”调查报告：体验者枪支脱手，击中安全员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408344",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 17时20分]"
-        },
-        {
-          "title": "纸尿裤检出甲酰胺要带孩子检查吗",
-          "url": "https://www.toutiao.com/trending/7652597708466962475/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 20时59分]"
-        },
-        {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
-          "url": "https://www.zhihu.com/question/2050289332632790558",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "美军称在东太平洋打击一艘“贩毒船”，致3人死亡",
-          "url": "https://news.ifeng.com/c/8u4p1poos2u",
-          "source": "凤凰网",
+          "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260619234155159800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
-          "url": "https://wallstreetcn.com/articles/3775011",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "新能源汽车下乡车型名单公布",
-          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%8B%E4%B9%A1%E8%BD%A6%E5%9E%8B%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "警方通报「黄子韬违停、非法改装车辆被罚」，他将承担哪些具体的法律责任？",
-          "url": "https://www.zhihu.com/question/2051324058596110444",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "这种粽子绳高温蒸煮有毒",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E7%A7%8D%E7%B2%BD%E5%AD%90%E7%BB%B3%E9%AB%98%E6%B8%A9%E8%92%B8%E7%85%AE%E6%9C%89%E6%AF%92",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "有毒纸尿裤穿一夜体内甲酰胺翻倍",
-          "url": "https://www.toutiao.com/trending/7652636509295709706/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
-        },
-        {
-          "title": "AI预测科隆Major夺冠队伍",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E9%98%9F%E4%BC%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "孩子烧光几十万手机爸爸问开不开心",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E7%83%A7%E5%85%89%E5%87%A0%E5%8D%81%E4%B8%87%E6%89%8B%E6%9C%BA%E7%88%B8%E7%88%B8%E9%97%AE%E5%BC%80%E4%B8%8D%E5%BC%80%E5%BF%83",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
           "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
@@ -219,141 +36,75 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时59分"
+          "time_info": "00时11分"
         },
         {
-          "title": "德军工巨头呼吁为军事领域AI应用制定规则",
-          "url": "https://wallstreetcn.com/livenews/3122092",
-          "source": "华尔街见闻-快讯",
+          "title": "美国德克萨斯州最高法院表示，SpaceX可以继续在德克萨斯州公共海滩附近发射火箭，并得出结论，以安全为由寻求阻止SpaceX发射火箭的私人环保组织缺乏法律救济途径。",
+          "url": "https://flash.jin10.com/detail/20260619233143578800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时59分"
+          "time_info": "00时11分"
         },
         {
-          "title": "日本央行副行长冰见野良三：今年夏季前后，燃料价格上涨对CPI的影响可能会更大。 我们希望在7月份更新季度预测时，就石油对通胀的影响提供更全面的分析。 即使价格上涨是由供应冲击驱动的，如果这导致广泛的价格上涨并影响到潜在的通胀，我们也需要考虑采取政策行动。 近期价格上涨也有需求驱动因素，如强劲的企业利润、稳定的工资增长、活跃的AI相关需求，都支撑着日本经济。",
-          "url": "https://wallstreetcn.com/livenews/3121959",
-          "source": "华尔街见闻-快讯",
+          "title": "警方通报「黄子韬违停、非法改装车辆被罚」，他将承担哪些具体的法律责任？",
+          "url": "https://www.zhihu.com/question/2051324058596110444",
+          "source": "知乎",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "00时11分"
         },
         {
-          "title": "法国内政部长勒塔耶：法国必须巩固其威慑力，重建库存，投资于无人机、人工智能、军事空间，并建立一支真正的后备军。",
-          "url": "https://flash.jin10.com/detail/20260619160316949800",
+          "title": "金十数据整理：6月19日欧盘美盘重要新闻汇总",
+          "url": "https://flash.jin10.com/detail/20260619232614991800",
           "source": "金十数据",
           "ranks": [
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "00时11分"
         },
         {
-          "title": "农户10亩辣椒一夜之间全部死亡",
-          "url": "https://www.baidu.com/s?wd=%E5%86%9C%E6%88%B710%E4%BA%A9%E8%BE%A3%E6%A4%92%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4%E5%85%A8%E9%83%A8%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：购买日本国债不是收紧或放松政策的手段。 在制定债券购买计划时，最重要的是允许市场自由设定价格。 我们积极地与海外当局交换意见，但最终我们在政策上做出自己的决定。 向市场仔细解释政策很重要。",
-          "url": "https://wallstreetcn.com/livenews/3121954",
+          "title": "黎巴嫩卫生部：以军袭击已致47人死亡",
+          "url": "https://wallstreetcn.com/livenews/3122132",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "00时11分"
         },
         {
-          "title": "马斯克：Cursor和xAI都没有裁员。",
-          "url": "https://wallstreetcn.com/livenews/3121953",
+          "title": "我国首个水产育种专用智能大模型平台发布",
+          "url": "https://wallstreetcn.com/livenews/3122129",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "00时11分"
         },
         {
-          "title": "深圳打造生物医药特殊物品通关AI服务平台",
-          "url": "https://wallstreetcn.com/livenews/3122027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "摩根大通预计：受人工智能和改革推动，日经指数年底将达到7.5万点",
-          "url": "https://wallstreetcn.com/livenews/3121949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：在指导货币政策时，日本央行还必须关注金融状况，例如银行的放贷态度。",
-          "url": "https://flash.jin10.com/detail/20260619103405964800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：日本央行的中性利率估计范围较广，仅通过测量日本央行的政策利率与估计中性利率之间的差距难以制定货币政策。",
-          "url": "https://flash.jin10.com/detail/20260619103358597800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "俄罗斯堪察加彼得罗巴甫洛夫斯克发生6.6级地震。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3122016",
-          "source": "华尔街见闻-快讯",
+          "title": "终末地危机合约攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%8D%B1%E6%9C%BA%E5%90%88%E7%BA%A6%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：日本央行暂停缩减债券购买规模的决定，并非是为财政政策服务。",
-          "url": "https://wallstreetcn.com/livenews/3121943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "00时11分"
         }
       ]
     }
