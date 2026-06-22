@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-22T00:16:18.785523+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-22T12:03:02.611107+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 18,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "向佐这种家庭出身的小孩在香港还会一直被霸凌，普通人家的孩子是不是每个人都有被霸凌的经历？",
+          "url": "https://www.zhihu.com/question/2051094313749197066",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
         {
           "title": "塔克拉玛干沙漠边缘地带现洪水",
           "url": "https://www.toutiao.com/trending/7653297629428121627/",
@@ -39,6 +50,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "马上评｜滴露的“有毒广告”不能下架就完了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33424647",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 12时03分]"
+        },
+        {
+          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
+          "url": "https://wallstreetcn.com/articles/3775129",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 12时03分]"
         },
         {
           "title": "53岁脑死亡男子接受猪肝猪双肾移植",
@@ -74,6 +109,84 @@
           "time_info": "00时16分"
         },
         {
+          "title": "萌妹吸毒混黑,日漫真敢拍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355313&amp;topic_name=%E8%90%8C%E5%A6%B9%E5%90%B8%E6%AF%92%E6%B7%B7%E9%BB%91%2C%E6%97%A5%E6%BC%AB%E7%9C%9F%E6%95%A2%E6%8B%8D",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 12时03分]"
+        },
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "孩子高考完以后，我要求他去送外卖或者去肯德基锻炼赚学费，他不愿意，怎么办？有好办法吗？",
+          "url": "https://www.zhihu.com/question/2051478831144482006",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "英国政坛地震在即？首相斯塔默或于周一宣布辞职，英债率先定价政权更迭",
+          "url": "https://wallstreetcn.com/articles/3775128",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "孩子冠双姓被嘲,强行复姓太尬",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355318&amp;topic_name=%E5%AD%A9%E5%AD%90%E5%86%A0%E5%8F%8C%E5%A7%93%E8%A2%AB%E5%98%B2%2C%E5%BC%BA%E8%A1%8C%E5%A4%8D%E5%A7%93%E5%A4%AA%E5%B0%AC",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "你如何看待，高考后很多孩子要苹果手机全家桶，形成了一股热潮？",
+          "url": "https://www.zhihu.com/question/2048784446720161578",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "毒纸尿裤调查记者再发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%92%E7%BA%B8%E5%B0%BF%E8%A3%A4%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%86%8D%E5%8F%91%E5%A3%B0%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
           "title": "滴露的“有毒广告”不能下架就完了",
           "url": "https://www.baidu.com/s?wd=%E6%BB%B4%E9%9C%B2%E7%9A%84%E2%80%9C%E6%9C%89%E6%AF%92%E5%B9%BF%E5%91%8A%E2%80%9D%E4%B8%8D%E8%83%BD%E4%B8%8B%E6%9E%B6%E5%B0%B1%E5%AE%8C%E4%BA%86",
           "source": "百度热搜",
@@ -85,15 +198,15 @@
           "time_info": "00时16分"
         },
         {
-          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
-          "url": "https://wallstreetcn.com/articles/3775129",
-          "source": "华尔街见闻",
+          "title": "韩国政策负责人警示芯片红利或引发房地产风险",
+          "url": "https://flash.jin10.com/detail/20260622114446939800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "12时03分"
         },
         {
           "title": "小学三年级，班上超半数孩子在补课，想问问过来人，这笔钱和精力，到底值不值得砸？",
@@ -107,26 +220,15 @@
           "time_info": "00时16分"
         },
         {
-          "title": "萌妹吸毒混黑,日漫真敢拍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355313&amp;topic_name=%E8%90%8C%E5%A6%B9%E5%90%B8%E6%AF%92%E6%B7%B7%E9%BB%91%2C%E6%97%A5%E6%BC%AB%E7%9C%9F%E6%95%A2%E6%8B%8D",
-          "source": "贴吧",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-22）",
+          "url": "https://flash.jin10.com/detail/20260622114404450800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "马上评｜滴露的“有毒广告”不能下架就完了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33424647",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "12时03分"
         },
         {
           "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
@@ -140,6 +242,28 @@
           "time_info": "00时16分"
         },
         {
+          "title": "澳大利亚农业部长：检测已确认在西澳大利亚发现的第二只禽鸟中检出H5禽流感病毒。",
+          "url": "https://flash.jin10.com/detail/20260622114221549800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "预告：国新办就全链条扩大汽车消费有关情况举行新闻发布会",
+          "url": "https://flash.jin10.com/detail/20260622114117391800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
           "url": "https://www.cls.cn/detail/2404757",
           "source": "财联社热门",
@@ -149,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "美军在加勒比海打击“贩毒船”致2人死亡",
+          "url": "https://flash.jin10.com/detail/20260622114040630800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美国总统特朗普：必要时，美国可能会接管霍尔木兹海峡，可能会收取海峡通行费。 接管海峡将意味着美国攫取20%的石油（收益）。 我昨夜与伊朗官员们通话，用了脏话（expletive）。 告诉伊朗人，如果关闭海峡，伊朗人民将没有国家。（福克斯新闻）",
