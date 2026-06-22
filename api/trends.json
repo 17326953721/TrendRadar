@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-06-22T12:03:02.611107+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-06-22T18:22:19.203821+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 30,
+      "match_count": 41,
       "titles": [
         {
           "title": "向佐这种家庭出身的小孩在香港还会一直被霸凌，普通人家的孩子是不是每个人都有被霸凌的经历？",
           "url": "https://www.zhihu.com/question/2051094313749197066",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 18时22分]"
+        },
+        {
+          "title": "马上评｜滴露的“有毒广告”不能下架就完了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33424647",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 18时22分]"
         },
         {
           "title": "塔克拉玛干沙漠边缘地带现洪水",
@@ -50,18 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "马上评｜滴露的“有毒广告”不能下架就完了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33424647",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 12时03分]"
         },
         {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
@@ -109,6 +110,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "多部门调查“毒纸尿裤”事件",
+          "url": "https://www.douyin.com/hot/2543543",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "萌妹吸毒混黑,日漫真敢拍",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355313&amp;topic_name=%E8%90%8C%E5%A6%B9%E5%90%B8%E6%AF%92%E6%B7%B7%E9%BB%91%2C%E6%97%A5%E6%BC%AB%E7%9C%9F%E6%95%A2%E6%8B%8D",
           "source": "贴吧",
@@ -121,22 +133,35 @@
           "time_info": "[00时16分 ~ 12时03分]"
         },
         {
+          "title": "孩子高考完以后，我要求他去送外卖或者去肯德基锻炼赚学费，他不愿意，怎么办？有好办法吗？",
+          "url": "https://www.zhihu.com/question/2051478831144482006",
+          "source": "知乎",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 18时22分]"
+        },
+        {
+          "title": "你如何看待，高考后很多孩子要苹果手机全家桶，形成了一股热潮？",
+          "url": "https://www.zhihu.com/question/2048784446720161578",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 18时22分]"
+        },
+        {
           "title": "米游AI女友上线,玩家有福了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
           "source": "贴吧",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        },
-        {
-          "title": "孩子高考完以后，我要求他去送外卖或者去肯德基锻炼赚学费，他不愿意，怎么办？有好办法吗？",
-          "url": "https://www.zhihu.com/question/2051478831144482006",
-          "source": "知乎",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -165,17 +190,6 @@
           "time_info": "[12时02分 ~ 12时03分]"
         },
         {
-          "title": "你如何看待，高考后很多孩子要苹果手机全家桶，形成了一股热潮？",
-          "url": "https://www.zhihu.com/question/2048784446720161578",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        },
-        {
           "title": "毒纸尿裤调查记者再发声",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%92%E7%BA%B8%E5%B0%BF%E8%A3%A4%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%86%8D%E5%8F%91%E5%A3%B0%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -198,15 +212,48 @@
           "time_info": "00时16分"
         },
         {
+          "title": "多部门核查婴儿毒纸尿裤问题",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E9%83%A8%E9%97%A8%E6%A0%B8%E6%9F%A5%E5%A9%B4%E5%84%BF%E6%AF%92%E7%BA%B8%E5%B0%BF%E8%A3%A4%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "韩国政策负责人警示芯片红利或引发房地产风险",
           "url": "https://flash.jin10.com/detail/20260622114446939800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "高难靠挂?危机合约词条翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355337&amp;topic_name=%E9%AB%98%E9%9A%BE%E9%9D%A0%E6%8C%82%3F%E5%8D%B1%E6%9C%BA%E5%90%88%E7%BA%A6%E8%AF%8D%E6%9D%A1%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "突然理解小孩子为什么吵闹了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E5%B0%8F%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%B5%E9%97%B9%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "小学三年级，班上超半数孩子在补课，想问问过来人，这笔钱和精力，到底值不值得砸？",
@@ -226,7 +273,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -248,9 +295,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
+          "url": "https://www.cls.cn/detail/2405734",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "预告：国新办就全链条扩大汽车消费有关情况举行新闻发布会",
@@ -259,9 +317,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "李金铭农村综艺那家人居然还在发她",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%87%91%E9%93%AD%E5%86%9C%E6%9D%91%E7%BB%BC%E8%89%BA%E9%82%A3%E5%AE%B6%E4%BA%BA%E5%B1%85%E7%84%B6%E8%BF%98%E5%9C%A8%E5%8F%91%E5%A5%B9&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "数学博士生 2 年研究被 AI 抢发，这种现象会越来越普遍吗？如何看待 AI 对数学研究的冲击？",
+          "url": "https://www.zhihu.com/question/2052067691926484153",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
@@ -275,13 +355,24 @@
           "time_info": "00时16分"
         },
         {
+          "title": "【午报】三大指数集体收红，有色金属等AI上游材料概念持续活跃，大金融板块爆发",
+          "url": "https://www.cls.cn/detail/2405347",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "美军在加勒比海打击“贩毒船”致2人死亡",
           "url": "https://flash.jin10.com/detail/20260622114040630800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -308,6 +399,28 @@
           "time_info": "00时16分"
         },
         {
+          "title": "国际铝业协会（IAI）：5月份全球原铝产量为615万公吨。",
+          "url": "https://flash.jin10.com/detail/20260622180158027800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "滴露消毒液广告被指物化女性，品牌方道歉称系第三方达人创作，为何此类事件频繁发生？对品牌影响有多大？",
+          "url": "https://www.zhihu.com/question/2051710499239059925",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "父亲节用AI表达爱",
           "url": "https://www.douyin.com/hot/2542302",
           "source": "抖音",
@@ -328,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "真人短剧播不过AI剧了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E4%BA%BA%E7%9F%AD%E5%89%A7%E6%92%AD%E4%B8%8D%E8%BF%87AI%E5%89%A7%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "顾客称爱犬被海底捞带办公室后死亡",
