@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-06-23T11:01:39.453125+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-23T14:58:11.821433+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
+          "url": "https://wallstreetcn.com/articles/3775200",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 14时58分]"
+        },
+        {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 14时58分]"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 14时58分]"
+        },
+        {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 14时58分]"
+        },
         {
           "title": "米游AI女友上线,玩家有福了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
@@ -19,37 +67,15 @@
           "time_info": "[11时00分 ~ 11时01分]"
         },
         {
-          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
-          "url": "https://wallstreetcn.com/articles/3775200",
-          "source": "华尔街见闻",
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
-        },
-        {
-          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
-          "url": "https://www.cls.cn/detail/2406155",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
-        },
-        {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "孩子冠双姓被嘲,强行复姓太尬",
@@ -57,17 +83,6 @@
           "source": "贴吧",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
-        },
-        {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -85,6 +100,17 @@
           "time_info": "[11时00分 ~ 11时01分]"
         },
         {
+          "title": "武亮说峰学要拥抱AI带来的变化",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E4%BA%AE%E8%AF%B4%E5%B3%B0%E5%AD%A6%E8%A6%81%E6%8B%A5%E6%8A%B1AI%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
+        },
+        {
           "title": "萌妹吸毒混黑,日漫真敢拍",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355313&amp;topic_name=%E8%90%8C%E5%A6%B9%E5%90%B8%E6%AF%92%E6%B7%B7%E9%BB%91%2C%E6%97%A5%E6%BC%AB%E7%9C%9F%E6%95%A2%E6%8B%8D",
           "source": "贴吧",
@@ -94,6 +120,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时00分 ~ 11时01分]"
+        },
+        {
+          "title": "韩国世越号惨案一名幸存学生死亡",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%B8%96%E8%B6%8A%E5%8F%B7%E6%83%A8%E6%A1%88%E4%B8%80%E5%90%8D%E5%B9%B8%E5%AD%98%E5%AD%A6%E7%94%9F%E6%AD%BB%E4%BA%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
+        },
+        {
+          "title": "老人术后死亡三甲医院涉嫌伪造病历",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%9C%AF%E5%90%8E%E6%AD%BB%E4%BA%A1%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E6%B6%89%E5%AB%8C%E4%BC%AA%E9%80%A0%E7%97%85%E5%8E%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "李金铭农村综艺那家人已败诉",
@@ -146,7 +194,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -157,7 +205,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -168,9 +216,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "消息人士：日产汽车在去年年初已停止开发其电动版Qashqai SUV。即使重启项目，该车型也要到下个十年才能上市。",
+          "url": "https://flash.jin10.com/detail/20260623141237233800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "相关部门酝酿推出支持数字文化出口专项政策",
@@ -179,7 +238,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -190,7 +249,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -201,7 +260,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         }
