@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-24T11:25:43.372657+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-06-24T15:02:48.529602+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 43,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2407361",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 15时02分]"
+        },
         {
           "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2407151",
@@ -19,15 +30,39 @@
           "time_info": "[00时27分 ~ 11时25分]"
         },
         {
-          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2407361",
-          "source": "财联社热门",
+          "title": "宁德时代创始人曾毓群：AI用电没想象得那么可怕",
+          "url": "https://flash.jin10.com/detail/20260624145228834800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时25分"
+          "time_info": "15时02分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本经济正温和复苏。 将视经济和物价情况继续加息。 金融环境依然宽松。",
+          "url": "https://wallstreetcn.com/livenews/3123838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "小米电视紧急致歉：地震预警系研发人员误发",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439602",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 15时02分]"
         },
         {
           "title": "华为宣布对智驾系统进行「兜底」，此举将对智能驾驶行业和消费者带来哪些影响？",
@@ -39,6 +74,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
+          "url": "https://wallstreetcn.com/articles/3775302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 15时02分]"
         },
         {
           "title": "涉毒人员扔下500万现金弃车逃跑",
@@ -63,28 +110,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
-          "url": "https://wallstreetcn.com/articles/3775302",
-          "source": "华尔街见闻",
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
           "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 11时25分]"
-        },
-        {
-          "title": "小米电视紧急致歉：地震预警系研发人员误发",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439602",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
             4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 11时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "宠物犬寄存海底捞后死亡",
@@ -92,11 +126,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 15时02分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -104,11 +139,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 15时02分]"
         },
         {
           "title": "孩子冠双姓被嘲,强行复姓太尬",
@@ -116,11 +152,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 15时02分]"
         },
         {
           "title": "萌妹吸毒混黑,日漫真敢拍",
@@ -128,11 +165,48 @@
           "source": "贴吧",
           "ranks": [
             17,
-            25
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 15时02分]"
+        },
+        {
+          "title": "高盛复盘韩股暴跌：养老金撤退、散户杠杆爆仓引发芯片股雪崩",
+          "url": "https://wallstreetcn.com/articles/3775310",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时27分 ~ 11时25分]"
+          "time_info": "[11时25分 ~ 15时02分]"
+        },
+        {
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 15时02分]"
+        },
+        {
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/hot/2544441",
+          "source": "抖音",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 15时02分]"
         },
         {
           "title": "青海海西州直辖区发生5.2级地震",
@@ -157,17 +231,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "高盛复盘韩股暴跌：养老金撤退、散户杠杆爆仓引发芯片股雪崩",
-          "url": "https://wallstreetcn.com/articles/3775310",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
           "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
           "url": "https://www.cls.cn/detail/2406973",
           "source": "财联社热门",
@@ -185,7 +248,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -196,18 +259,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -256,6 +308,39 @@
           "time_info": "00时27分"
         },
         {
+          "title": "工人装修将炮钉枪口对准自身中钉死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E8%A3%85%E4%BF%AE%E5%B0%86%E7%82%AE%E9%92%89%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E8%87%AA%E8%BA%AB%E4%B8%AD%E9%92%89%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "日本央行行长植田和男：必须仔细审视中东局势、与人工智能相关投资的盈利能力以及海外非银行活动如何通过各种渠道影响金融系统。",
+          "url": "https://flash.jin10.com/detail/20260624144456688800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
           "url": "https://www.zhihu.com/question/2052673340993811952",
           "source": "知乎",
@@ -273,9 +358,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "装修工人将炮钉枪对准自身中钉死亡",
+          "url": "https://www.toutiao.com/trending/7654769671287259142/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "夫妻吃见手青中毒 丈夫以为妻子是蛇",
@@ -284,7 +380,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -295,7 +391,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -317,18 +413,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -361,7 +446,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -372,7 +457,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -383,9 +468,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：谷歌将向三家日本大银行提供最新AI技术。",
+          "url": "https://wallstreetcn.com/livenews/3123810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "中国具身机器人公司仙工智能香港IPO公开发售部分获得逾5900倍认购",
@@ -399,13 +495,24 @@
           "time_info": "00时27分"
         },
         {
+          "title": "民警开车撞向毒贩4根肋骨被撞断",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%BC%80%E8%BD%A6%E6%92%9E%E5%90%91%E6%AF%92%E8%B4%A94%E6%A0%B9%E8%82%8B%E9%AA%A8%E8%A2%AB%E6%92%9E%E6%96%AD%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "AI时代计算机专业还能学吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -482,7 +589,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
