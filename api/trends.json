@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T18:50:35.283467+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-06-26T21:11:24.985428+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 61,
+      "match_count": 73,
       "titles": [
         {
           "title": "美国5月PCE物价指数同比上升4.1%，核心PCE同比3.4%创三年新高",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时32分 ~ 18时50分]"
+        },
+        {
+          "title": "「生了我又不对我负责，凭什么别的同学有，就我没有？」孩子大吼，你怎么回应？",
+          "url": "https://www.zhihu.com/question/2049857852655906822",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时11分]"
         },
         {
           "title": "2名中国公民在委内瑞拉地震中遇难",
@@ -36,11 +48,23 @@
           "ranks": [
             2,
             3,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 21时11分]"
+        },
+        {
+          "title": "美国地质勘探局：菲律宾萨兰加尼西南偏西34公里处发生6.5级地震。",
+          "url": "https://flash.jin10.com/detail/20260626205145088800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "今天是“国际禁毒日”",
@@ -71,7 +95,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -87,15 +111,15 @@
           "time_info": "15时51分"
         },
         {
-          "title": "「生了我又不对我负责，凭什么别的同学有，就我没有？」孩子大吼，你怎么回应？",
-          "url": "https://www.zhihu.com/question/2049857852655906822",
-          "source": "知乎",
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "21时11分"
         },
         {
           "title": "中年再品《父母爱情》，看见全网大量批判之声，这份争议究竟源于观众苛责，还是剧集本身存在叙事局限？",
@@ -131,8 +155,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 21时11分]"
         },
         {
           "title": "AI机器女友发布,仿真拉满",
@@ -141,11 +165,12 @@
           "ranks": [
             13,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 21时11分]"
         },
         {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
@@ -153,11 +178,72 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 21时11分]"
+        },
+        {
+          "title": "中年叛逆期的黄毛觉醒",
+          "url": "https://www.douyin.com/hot/2547188",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 21时11分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            6,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时51分 ~ 18时50分]"
+          "time_info": "[18时50分 ~ 21时11分]"
+        },
+        {
+          "title": "中餐博大精深，也有很多油炸食品，为什么小孩子还是更喜欢西式的炸鸡？",
+          "url": "https://www.zhihu.com/question/2003837805361641384",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时11分]"
+        },
+        {
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时11分]"
+        },
+        {
+          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
+          "url": "https://wallstreetcn.com/articles/3775570",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时11分]"
         },
         {
           "title": "塔克拉玛干沙漠边缘地带下大雨出现洪水，多段高速公路中断，沙漠为什么会发洪水？",
@@ -170,6 +256,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时32分 ~ 15时51分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时11分]"
         },
         {
           "title": "“1/6的价格，打爆美国AI护城河”——智谱开源模型GLM 5.2震动硅谷",
@@ -195,16 +293,52 @@
           "time_info": "[11时32分 ~ 15时51分]"
         },
         {
-          "title": "中年叛逆期的黄毛觉醒",
-          "url": "https://www.douyin.com/hot/2547188",
-          "source": "抖音",
+          "title": "警方通报湖南「浸猪笼」游行事件，系摆拍，组织者多次摆拍低俗场景被刑拘，其还将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2053616361088054056",
+          "source": "知乎",
           "ranks": [
-            18,
-            17
+            15,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时32分 ~ 15时51分]"
+          "time_info": "[18时50分 ~ 21时11分]"
+        },
+        {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时11分]"
+        },
+        {
+          "title": "男子吃豆角中毒3天瘦8斤",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%B1%86%E8%A7%92%E4%B8%AD%E6%AF%923%E5%A4%A9%E7%98%A68%E6%96%A4",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时11分]"
+        },
+        {
+          "title": "一图看懂｜委内瑞拉地震灾情有多严重？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459797",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时11分]"
         },
         {
           "title": "特朗普政府要求OpenAI分阶段发布新模型。（英国金融时报）",
@@ -216,17 +350,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
         },
         {
           "title": "缉毒警丈夫的“遗言”被一巴掌打断",
@@ -273,17 +396,6 @@
           "time_info": "11时32分"
         },
         {
-          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
-          "url": "https://wallstreetcn.com/articles/3775570",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
           "title": "美最高法院裁决支持特朗普强硬移民政策",
           "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
           "source": "凤凰网",
@@ -293,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "曝 OpenAI GPT-5.6 系列即将登场，可能带来哪些技术突破和影响？",
+          "url": "https://www.zhihu.com/question/2051692980243894309",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "亲历日本7.2级地震的中国游客住14楼",
@@ -306,15 +429,15 @@
           "time_info": "11时32分"
         },
         {
-          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
-          "url": "https://wallstreetcn.com/articles/3775599",
+          "title": "美光长协的含金量：客户先押220亿美元，合同不可取消，还锁定“史上最赚钱”的毛利率！",
+          "url": "https://wallstreetcn.com/articles/3775569",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "21时11分"
         },
         {
           "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
@@ -328,15 +451,26 @@
           "time_info": "11时32分"
         },
         {
-          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2410276",
-          "source": "财联社热门",
+          "title": "委内瑞拉临时总统罗德里格斯：地震后将对拉瓜伊拉州实施“军事化管理”。",
+          "url": "https://flash.jin10.com/detail/20260626204048085800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "21时11分"
+        },
+        {
+          "title": "UP主亲身体验边境缉毒",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BA%B2%E8%BA%AB%E4%BD%93%E9%AA%8C%E8%BE%B9%E5%A2%83%E7%BC%89%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
@@ -367,9 +501,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "禁毒知识就这样进入我的大脑",
+          "url": "https://www.douyin.com/hot/2548061",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "14岁女孩为吸毒骗家人朋友十几万",
+          "url": "https://www.baidu.com/s?wd=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%BA%E5%90%B8%E6%AF%92%E9%AA%97%E5%AE%B6%E4%BA%BA%E6%9C%8B%E5%8F%8B%E5%8D%81%E5%87%A0%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "AIIA词元（Token）服务工作组筹备成立",
@@ -381,17 +537,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
-        },
-        {
-          "title": "中餐博大精深，也有很多油炸食品，为什么小孩子还是更喜欢西式的炸鸡？",
-          "url": "https://www.zhihu.com/question/2003837805361641384",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
         },
         {
           "title": "AI算力“烤”热培育钻石 金刚石散热现成长拐点 业内：2027年或迎放量期",
@@ -416,6 +561,17 @@
           "time_info": "11时32分"
         },
         {
+          "title": "委内瑞拉强震死亡人数上升至589人。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3125314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "短剧男主自曝因AI失业已返乡卖菜",
           "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -427,26 +583,15 @@
           "time_info": "15时51分"
         },
         {
-          "title": "AI时代如何选专业",
-          "url": "https://www.douyin.com/hot/2548080",
-          "source": "抖音",
+          "title": "缉毒警的遗言被警嫂一巴掌打断",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BC%89%E6%AF%92%E8%AD%A6%E7%9A%84%E9%81%97%E8%A8%80%E8%A2%AB%E8%AD%A6%E5%AB%82%E4%B8%80%E5%B7%B4%E6%8E%8C%E6%89%93%E6%96%AD%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "警方通报湖南「浸猪笼」游行事件，系摆拍，组织者多次摆拍低俗场景被刑拘，其还将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2053616361088054056",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "21时11分"
         },
         {
           "title": "法国已有55人因本轮热浪溺水死亡",
@@ -455,18 +600,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "男子吃豆角中毒3天瘦8斤",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%90%83%E8%B1%86%E8%A7%92%E4%B8%AD%E6%AF%923%E5%A4%A9%E7%98%A68%E6%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -493,17 +627,6 @@
           "time_info": "11时32分"
         },
         {
-          "title": "一图看懂｜委内瑞拉地震灾情有多严重？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33459797",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
           "title": "12 岁女孩感冒后服药店配药后急性心衰死亡，药店拟被罚 23 万，为何感冒服药后致死？这一处罚合理吗？",
           "url": "https://www.zhihu.com/question/2053383441366742788",
           "source": "知乎",
@@ -521,7 +644,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -532,7 +655,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -554,9 +677,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "委内瑞拉强震死亡人数上升至589人",
+          "url": "https://www.douyin.com/hot/2548890",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "如何看待九成高报师用 AI 辅助填志愿？学生跳过高报师直接用 AI 报志愿可行吗？",
@@ -609,7 +743,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -631,7 +765,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -664,9 +798,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "21岁女子被男友误导接触毒品",
+          "url": "https://www.baidu.com/s?wd=21%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%94%B7%E5%8F%8B%E8%AF%AF%E5%AF%BC%E6%8E%A5%E8%A7%A6%E6%AF%92%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "戍边缉毒警察写高考作文",
