@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T22:29:10.762613+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-06-27T23:50:57.942357+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "委内瑞拉地震中国公民遇难人数升至7人",
@@ -15,11 +15,26 @@
             14,
             11,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时55分 ~ 22时29分]"
+          "appearance_count": 10,
+          "time_info": "[10时55分 ~ 23时50分]"
+        },
+        {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时55分 ~ 23时50分]"
         },
         {
           "title": "财晓得丨委内瑞拉地震7.5级，日本地震7.2级，灾情为什么相差这么大？",
@@ -34,31 +49,18 @@
           "time_info": "[10时55分 ~ 19时12分]"
         },
         {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时55分 ~ 22时29分]"
-        },
-        {
           "title": "我喜欢的漫画被AI改编了",
           "url": "https://www.douyin.com/hot/2549059",
           "source": "抖音",
           "ranks": [
             9,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时55分 ~ 22时29分]"
+          "appearance_count": 10,
+          "time_info": "[10时55分 ~ 23时50分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -68,11 +70,12 @@
             13,
             19,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时55分 ~ 22时29分]"
+          "appearance_count": 10,
+          "time_info": "[10时55分 ~ 23时50分]"
         },
         {
           "title": "我国设立养老服务师职业资格制度",
@@ -84,6 +87,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时14分 ~ 20时53分]"
+        },
+        {
+          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
+          "url": "https://www.cls.cn/detail/2410894",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 23时50分]"
         },
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -109,52 +126,30 @@
           "time_info": "[10时55分 ~ 20时53分]"
         },
         {
-          "title": "巴黎极端高温一日超50人死亡",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E4%B8%80%E6%97%A5%E8%B6%8550%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
-        },
-        {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时29分]"
-        },
-        {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[17时14分 ~ 23时50分]"
         },
         {
           "title": "联合国：预计委内瑞拉地震可能影响约680万人。",
           "url": "https://flash.jin10.com/detail/20260627220408287800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时50分]"
         },
         {
           "title": "UP主亲身体验边境缉毒",
@@ -195,6 +190,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时55分 ~ 17时14分]"
+        },
+        {
+          "title": "巴黎极端高温一日超50人死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E9%BB%8E%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E4%B8%80%E6%97%A5%E8%B6%8550%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时50分]"
         },
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -245,6 +252,19 @@
           "time_info": "[17时14分 ~ 19时12分]"
         },
         {
+          "title": "委内瑞拉代总统：地震重灾区六成电力已恢复",
+          "url": "https://wallstreetcn.com/livenews/3125586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 23时50分]"
+        },
+        {
           "title": "委内瑞拉官员：石油生产未受地震影响",
           "url": "https://wallstreetcn.com/livenews/3125546",
           "source": "华尔街见闻-快讯",
@@ -269,17 +289,39 @@
           "time_info": "[10时55分 ~ 14时30分]"
         },
         {
-          "title": "委内瑞拉代总统：地震重灾区六成电力已恢复",
-          "url": "https://wallstreetcn.com/livenews/3125586",
-          "source": "华尔街见闻-快讯",
+          "title": "欧洲遭遇史上最严酷热浪，科学家断言若无气候危机不可能发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33466800",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            15,
-            24
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时12分 ~ 22时29分]"
+          "time_info": "[22时28分 ~ 23时50分]"
+        },
+        {
+          "title": "王小洪在吉林调研时强调 强化创新驱动 丰富政策供给 助力推动新时代东北全面振兴",
+          "url": "https://wallstreetcn.com/livenews/3125592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 23时50分]"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时50分]"
         },
         {
           "title": "欧洲遭遇最严酷热浪，科学家断言若无气候危机不可能发生",
@@ -303,6 +345,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时55分 ~ 14时30分]"
+        },
+        {
+          "title": "委内瑞拉发生百年最强地震并造成 920 人遇难，本次灾害为何破坏力巨大？",
+          "url": "https://www.zhihu.com/question/2053778417024340082",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时50分]"
         },
         {
           "title": "14岁少女谈吸毒后割腕",
@@ -353,6 +407,17 @@
           "time_info": "[14时29分 ~ 17时14分]"
         },
         {
+          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
+          "url": "https://wallstreetcn.com/livenews/3125605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时50分]"
+        },
+        {
           "title": "韩国政府组建跨部门机构应对涉AI犯罪",
           "url": "https://wallstreetcn.com/livenews/3125531",
           "source": "华尔街见闻-快讯",
@@ -376,6 +441,18 @@
           "time_info": "[22时28分 ~ 22时29分]"
         },
         {
+          "title": "欧洲地中海地震中心：阿富汗兴都库什地区发生6级地震。",
+          "url": "https://flash.jin10.com/detail/20260627214147360800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时50分]"
+        },
+        {
           "title": "委内瑞拉代总统：地震重灾区六成电力已恢复",
           "url": "https://flash.jin10.com/detail/20260627181815373800",
           "source": "金十数据",
@@ -388,32 +465,9 @@
           "time_info": "[19时12分 ~ 20时53分]"
         },
         {
-          "title": "王小洪在吉林调研时强调 强化创新驱动 丰富政策供给 助力推动新时代东北全面振兴",
-          "url": "https://wallstreetcn.com/livenews/3125592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 22时29分]"
-        },
-        {
           "title": "“毒纸尿裤事件”记者回应调查过程",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%AF%92%E7%BA%B8%E5%B0%BF%E8%A3%A4%E4%BA%8B%E4%BB%B6%E2%80%9D%E8%AE%B0%E8%80%85%E5%9B%9E%E5%BA%94%E8%B0%83%E6%9F%A5%E8%BF%87%E7%A8%8B",
           "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
-        },
-        {
-          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
-          "url": "https://wallstreetcn.com/articles/3775663",
-          "source": "华尔街见闻",
           "ranks": [
             10
           ],
@@ -434,17 +488,6 @@
           "time_info": "[19时12分 ~ 20时53分]"
         },
         {
-          "title": "欧洲遭遇史上最严酷热浪，科学家断言若无气候危机不可能发生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33466800",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
-        },
-        {
           "title": "伊朗革命卫队称将回应美军袭击 OpenAI推出旗舰大模型GPT‑5.6系列 | 环球市场",
           "url": "https://www.cls.cn/detail/2410782",
           "source": "财联社热门",
@@ -454,28 +497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时55分 ~ 17时14分]"
-        },
-        {
-          "title": "委内瑞拉发生百年最强地震并造成 920 人遇难，本次灾害为何破坏力巨大？",
-          "url": "https://www.zhihu.com/question/2053778417024340082",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
-        },
-        {
-          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
-          "url": "https://wallstreetcn.com/livenews/3125605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
         },
         {
           "title": "委内瑞拉官员：石油生产未受地震影响",
@@ -498,17 +519,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
-        },
-        {
-          "title": "欧洲地中海地震中心：阿富汗兴都库什地区发生6级地震。",
-          "url": "https://flash.jin10.com/detail/20260627214147360800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
         },
         {
           "title": "如何评价 OpenAI 发布 GPT-5.6 系列模型？这次更新最值得关注的是什么？",
@@ -619,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "四川一藏马熊从山上摔落受伤死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%97%8F%E9%A9%AC%E7%86%8A%E4%BB%8E%E5%B1%B1%E4%B8%8A%E6%91%94%E8%90%BD%E5%8F%97%E4%BC%A4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "清华校长毕业寄语高频提及人工智能",
