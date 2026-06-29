@@ -1,722 +1,352 @@
 {
-  "generated_at": "2026-06-28T23:49:44.111716+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-06-29T11:43:01.371513+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 61,
+      "match_count": 31,
       "titles": [
         {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
-          "source": "财联社热门",
+          "title": "四川宜宾地震瞬间鱼群乱跳",
+          "url": "https://www.toutiao.com/trending/7656584232357285402/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 23时49分]"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "宜宾地震瞬间鱼群乱跳",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E9%B1%BC%E7%BE%A4%E4%B9%B1%E8%B7%B3",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
           "source": "澎湃新闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时50分 ~ 23时49分]"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 23时49分]"
-        },
-        {
-          "title": "中国首批缉毒警已全体退休",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E7%BC%89%E6%AF%92%E8%AD%A6%E5%B7%B2%E5%85%A8%E4%BD%93%E9%80%80%E4%BC%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时03分 ~ 23时49分]"
-        },
-        {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            13,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 23时49分]"
-        },
-        {
-          "title": "美媒爆料，驻日美军航母成“毒窝”",
-          "url": "https://news.ifeng.com/c/8uJhzJTegOW",
-          "source": "凤凰网",
+          "title": "法拉利被4个孩子当滑梯玩",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%8B%89%E5%88%A9%E8%A2%AB4%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%BD%93%E6%BB%91%E6%A2%AF%E7%8E%A9%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时50分 ~ 18时27分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "据沙特国家通讯社：沙特阿美公司一架直升机在拉斯坦努拉（Ras Tanura）坠毁，造成14人死亡。直升机坠毁原因尚不清楚，调查正在进行中。",
-          "url": "https://flash.jin10.com/detail/20260628194106410800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时37分 ~ 22时23分]"
-        },
-        {
-          "title": "中信建投：AI算力虽景气逻辑不变但波动加剧 建议谨慎追高",
-          "url": "https://flash.jin10.com/detail/20260628193536578800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "法国地方当局称，法国南锡区附近一架民用飞机坠毁，造成11人死亡。",
-          "url": "https://flash.jin10.com/detail/20260628193226450800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "沙特阿美突发空难！14人遇难，事故发生在沙特能源重镇",
-          "url": "https://flash.jin10.com/detail/20260628225814475800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
-          "url": "https://wallstreetcn.com/articles/3775674",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 15时50分]"
-        },
-        {
-          "title": "日本山梨县地震已致20人受伤",
-          "url": "https://flash.jin10.com/detail/20260628104535862800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟已为受委内瑞拉地震影响的社区动员500万欧元的紧急援助。",
-          "url": "https://flash.jin10.com/detail/20260628143641575800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "世卫组织：欧洲高温 相关超额死亡已超1300例",
-          "url": "https://wallstreetcn.com/livenews/3125693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "小马被游客无人机惊扰 狂奔炸肺死亡",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%A9%AC%E8%A2%AB%E6%B8%B8%E5%AE%A2%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%83%8A%E6%89%B0+%E7%8B%82%E5%A5%94%E7%82%B8%E8%82%BA%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
+          "title": "四川宜宾5.5级地震已致13人轻微伤",
+          "url": "https://www.toutiao.com/trending/7656590159064075822/",
+          "source": "今日头条",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：（关于委内瑞拉地震）欧盟的哥白尼卫星系统正在支持紧急救援人员。",
-          "url": "https://flash.jin10.com/detail/20260628143437522800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
-          "url": "https://wallstreetcn.com/livenews/3125692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3125689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
           "url": "https://wallstreetcn.com/articles/3775696",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 23时49分]"
-        },
-        {
-          "title": "人民日报评“AI脸看腻了”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
-          "url": "https://flash.jin10.com/detail/20260628213314042800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "豆包和DeepSeek的博弈",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时03分 ~ 23时49分]"
-        },
-        {
-          "title": "70后农村大妈跳街舞爆火",
-          "url": "https://www.baidu.com/s?wd=70%E5%90%8E%E5%86%9C%E6%9D%91%E5%A4%A7%E5%A6%88%E8%B7%B3%E8%A1%97%E8%88%9E%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            8,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "UP主亲身体验边境缉毒",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BA%B2%E8%BA%AB%E4%BD%93%E9%AA%8C%E8%BE%B9%E5%A2%83%E7%BC%89%E6%AF%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 18时27分]"
-        },
-        {
-          "title": "特朗普发扛地球AI照，伊以都不服！",
-          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时03分 ~ 23时49分]"
-        },
-        {
-          "title": "委内瑞拉发生百年最强地震造成 1430 人遇难，中国公民遇难人数升至 8 人，本次灾害为何破坏力巨大？",
-          "url": "https://www.zhihu.com/question/2053778417024340082",
-          "source": "知乎",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 15时50分]"
-        },
-        {
-          "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
-          "url": "https://wallstreetcn.com/articles/3775673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 15时50分]"
-        },
-        {
-          "title": "孩子涂完防晒在暗处全身散发荧光绿，品牌称产品安全，有成分在灯光下有荧光反应，可能是啥成分？真的安全吗？",
-          "url": "https://www.zhihu.com/question/2052411705146267584",
-          "source": "知乎",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 15时50分]"
-        },
-        {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
+          "title": "四川宜宾发生5.5级地震",
+          "url": "https://www.douyin.com/hot/2551120",
           "source": "抖音",
           "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 20时03分]"
-        },
-        {
-          "title": "专家辟谣全球进入地震活跃期",
-          "url": "https://www.toutiao.com/trending/7655569850642943531/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时03分 ~ 23时49分]"
-        },
-        {
-          "title": "中国地震台网正式测定：06月28日11时39分在青海海西州直辖区（北纬37.87度，东经95.44度）发生4.2级地震，震源深度10千米。",
-          "url": "https://wallstreetcn.com/livenews/3125627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 20时03分]"
-        },
-        {
-          "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
-          "url": "https://www.zhihu.com/question/2053468017514602830",
-          "source": "知乎",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 15时50分]"
-        },
-        {
-          "title": "立新能源：2026年公司新增风电装机规模250万千瓦",
-          "url": "https://flash.jin10.com/detail/20260628174413332800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时27分 ~ 20时03分]"
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "富达国际资深股票分析师：具身智能投资从追本体转向掘金细分产业链",
-          "url": "https://wallstreetcn.com/livenews/3125681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
-          "url": "https://www.zhihu.com/question/2054005413406946147",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "离大谱！美军航母藏毒窝，58人被一锅端",
-          "url": "https://news.ifeng.com/c/8uKCREN9yya",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 20时03分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/0RDhkEBMWjSXyCo40ljjk.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260628210453136800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "水利部安排部署南方地区暴雨洪水防御工作",
-          "url": "https://wallstreetcn.com/livenews/3125673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "欧洲已记录到与高温相关的1300多例超额死亡",
-          "url": "https://flash.jin10.com/detail/20260628210300919800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "伊拉克外交部长侯赛因表示，他与阿拉格齐讨论了一系列共同关心的问题，包括伊拉克在近期战事中遭受的袭击，以及霍尔木兹海峡通航受阻对伊拉克财政和经济的影响。 侯赛因表示，伊拉克的政策是反对战争，通过对话和谈判解决问题。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3125669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "女子携两大包浸泡毒品旧衣入境",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%90%BA%E4%B8%A4%E5%A4%A7%E5%8C%85%E6%B5%B8%E6%B3%A1%E6%AF%92%E5%93%81%E6%97%A7%E8%A1%A3%E5%85%A5%E5%A2%83",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 20时03分]"
-        },
-        {
-          "title": "沙特一直升机坠毁致14人死亡",
-          "url": "https://wallstreetcn.com/livenews/3125665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "英国高温已致多人死亡",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%AB%98%E6%B8%A9%E5%B7%B2%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时49分]"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：（关于委内瑞拉地震）我们已启动欧洲民事保护机制。",
-          "url": "https://flash.jin10.com/detail/20260628143430807800",
-          "source": "金十数据",
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：我与德尔西委内瑞拉临时总统罗德里格斯通话，讨论了委内瑞拉遭受的毁灭性地震。",
-          "url": "https://flash.jin10.com/detail/20260628143424745800",
-          "source": "金十数据",
+          "title": "四川宜宾地震已致13人受轻微伤",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B413%E4%BA%BA%E5%8F%97%E8%BD%BB%E5%BE%AE%E4%BC%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "宜宾地震食客避难后折返 无人逃单",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%E9%A3%9F%E5%AE%A2%E9%81%BF%E9%9A%BE%E5%90%8E%E6%8A%98%E8%BF%94+%E6%97%A0%E4%BA%BA%E9%80%83%E5%8D%95",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "民警缉毒现场：毒贩扔手榴弹",
-          "url": "https://www.toutiao.com/trending/7655937261732790335/",
-          "source": "今日头条",
+          "title": "直击宜宾地震：监控剧烈摇晃",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%EF%BC%9A%E7%9B%91%E6%8E%A7%E5%89%A7%E7%83%88%E6%91%87%E6%99%83",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "鸭子洪水中摆渡救鸡 课文照进现实",
+          "url": "https://www.baidu.com/s?wd=%E9%B8%AD%E5%AD%90%E6%B4%AA%E6%B0%B4%E4%B8%AD%E6%91%86%E6%B8%A1%E6%95%91%E9%B8%A1+%E8%AF%BE%E6%96%87%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E",
+          "source": "百度热搜",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "巴林内政部：有居民楼因伊朗袭击受损，未造成人员死亡。",
-          "url": "https://flash.jin10.com/detail/20260628140858636800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "在委华人讲述地震救援情况：12层建筑坍塌，志愿者正徒手挖掘",
-          "url": "https://news.ifeng.com/c/8uJxa27cSo2",
+          "title": "3天内超额死亡约千人，法国政府警告",
+          "url": "https://news.ifeng.com/c/8uLJ1v61duZ",
           "source": "凤凰网",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "28岁产妇昏迷家人录孩子哭声鼓气",
-          "url": "https://s.weibo.com/weibo?q=%2328%E5%B2%81%E4%BA%A7%E5%A6%87%E6%98%8F%E8%BF%B7%E5%AE%B6%E4%BA%BA%E5%BD%95%E5%AD%A9%E5%AD%90%E5%93%AD%E5%A3%B0%E9%BC%93%E6%B0%94%23&t=31&band_rank=12&Refer=top",
+          "title": "四川宜宾凌晨突发5.5级地震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355714&amp;topic_name=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%87%8C%E6%99%A8%E7%AA%81%E5%8F%915.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "五粮液回应宜宾地震影响",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E7%B2%AE%E6%B6%B2%E5%9B%9E%E5%BA%94%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "头部厂商竞逐 行业座次调整 世界杯成智能眼镜热卖“加速器”？",
+          "url": "https://www.cls.cn/detail/2411150",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "四川宜宾发生5.5级地震",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%8F%91%E7%94%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "四川宜宾地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
-          "url": "https://flash.jin10.com/detail/20260628133655032800",
-          "source": "金十数据",
-          "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "聚焦三个维度 江苏楼市政策“工具箱”扩容",
-          "url": "https://flash.jin10.com/detail/20260628183635251800",
-          "source": "金十数据",
+          "title": "专家建议城乡居民养老金增至每月千元",
+          "url": "https://www.toutiao.com/trending/7655942653599957028/",
+          "source": "今日头条",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时03分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "国际清算银行：人工智能热潮的可持续性、金融脆弱性、紧张的公共财政以及通胀，都是全球经济所面临的风险。",
-          "url": "https://flash.jin10.com/detail/20260628170103760800",
-          "source": "金十数据",
+          "title": "宜宾地震瞬间母亲飞奔护住熟睡孩子",
+          "url": "https://www.toutiao.com/trending/7656568651444813866/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "四川宜宾市高县发生5.5级地震，成都、重庆等地震感明显",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33473467",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "宜宾发生5.5级地震 成都震感明显",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%BE%E5%8F%91%E7%94%9F5.5%E7%BA%A7%E5%9C%B0%E9%9C%87+%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE",
+          "source": "百度热搜",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
-          "url": "https://wallstreetcn.com/livenews/3125605",
-          "source": "华尔街见闻-快讯",
+          "title": "宜宾地震猫被吓得乱窜 家猪全惊醒",
+          "url": "https://www.toutiao.com/trending/7656482369515339803/",
+          "source": "今日头条",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "特朗普驳斥哈格曼新书为“假新闻”，重申选举胜利叙事",
-          "url": "https://flash.jin10.com/detail/20260628122518438800",
-          "source": "金十数据",
+          "title": "四川高县5.5级地震致13人受伤，均为轻微伤已送医诊疗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33473725",
+          "source": "澎湃新闻",
           "ranks": [
-            21
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "金十数据整理：昨日今晨重要新闻汇总（2026-06-28）",
-          "url": "https://flash.jin10.com/detail/20260628083331215800",
-          "source": "金十数据",
+          "title": "凌晨地震母亲飞奔护住熟睡孩子",
+          "url": "https://www.baidu.com/s?wd=%E5%87%8C%E6%99%A8%E5%9C%B0%E9%9C%87%E6%AF%8D%E4%BA%B2%E9%A3%9E%E5%A5%94%E6%8A%A4%E4%BD%8F%E7%86%9F%E7%9D%A1%E5%AD%A9%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "宜宾5.5级地震 成都震感明显",
+          "url": "https://www.toutiao.com/trending/7656482271704580115/",
+          "source": "今日头条",
           "ranks": [
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
-          "url": "https://flash.jin10.com/detail/20260628120732763800",
-          "source": "金十数据",
+          "title": "四川宜宾地震致13人受轻微伤",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%E8%87%B413%E4%BA%BA%E5%8F%97%E8%BD%BB%E5%BE%AE%E4%BC%A4",
+          "source": "百度热搜",
           "ranks": [
-            25
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "女子携两大包浸泡毒品旧衣入境",
-          "url": "https://www.toutiao.com/trending/7656279535306473491/",
-          "source": "今日头条",
+          "title": "中国首批缉毒警已全体退休",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E7%BC%89%E6%AF%92%E8%AD%A6%E5%B7%B2%E5%85%A8%E4%BD%93%E9%80%80%E4%BC%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "退休化学教授帮医药研发人员制毒",
+          "url": "https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E5%8C%96%E5%AD%A6%E6%95%99%E6%8E%88%E5%B8%AE%E5%8C%BB%E8%8D%AF%E7%A0%94%E5%8F%91%E4%BA%BA%E5%91%98%E5%88%B6%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "宜宾地震猫被吓得乱窜 家猪全惊醒",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%E7%8C%AB%E8%A2%AB%E5%90%93%E5%BE%97%E4%B9%B1%E7%AA%9C+%E5%AE%B6%E7%8C%AA%E5%85%A8%E6%83%8A%E9%86%92",
+          "source": "百度热搜",
           "ranks": [
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "小马被游客无人机惊扰狂奔炸肺死亡",
-          "url": "https://www.toutiao.com/trending/7655914721375322153/",
-          "source": "今日头条",
+          "title": "五粮液回应宜宾地震影响",
+          "url": "https://wallstreetcn.com/livenews/3125799",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "黎巴嫩军方消息人士：黎巴嫩军队是国家机构，不接受任何一方对其作出评价，仅遵守黎巴嫩法律。",
-          "url": "https://flash.jin10.com/detail/20260628195817461800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "王小洪在吉林调研时强调 强化创新驱动 丰富政策供给 助力推动新时代东北全面振兴",
-          "url": "https://wallstreetcn.com/livenews/3125592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "11时43分"
         }
       ]
     }
