@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-29T16:58:40.462483+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-06-29T21:10:16.852317+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 45,
+      "match_count": 68,
       "titles": [
+        {
+          "title": "欧洲热浪已致上百人死亡，国内却遇到「凉夏」，环球为何不同凉热？",
+          "url": "https://www.zhihu.com/question/2053430924146996760",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 21时10分]"
+        },
         {
           "title": "宜宾地震瞬间鱼群乱跳",
           "url": "https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E9%B1%BC%E7%BE%A4%E4%B9%B1%E8%B7%B3",
@@ -30,6 +42,28 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
+          "title": "警方通报「东鹏特饮创始人不喝自家饮料」，造谣者被刑拘，涉及哪些法律问题？谣言为啥能让其市值蒸发 70 亿？",
+          "url": "https://www.zhihu.com/question/2054934053560607671",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "委内瑞拉地震废墟清理作业，突发强烈燃气爆炸",
+          "url": "https://v.ifeng.com/c/8uJusN34wW4",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "法拉利被4个孩子当滑梯玩",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%8B%89%E5%88%A9%E8%A2%AB4%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%BD%93%E6%BB%91%E6%A2%AF%E7%8E%A9%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -39,6 +73,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "四川宜宾发生5.5级地震",
+          "url": "https://www.douyin.com/hot/2551120",
+          "source": "抖音",
+          "ranks": [
+            5,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 21时10分]"
         },
         {
           "title": "四川宜宾5.5级地震已致13人轻微伤",
@@ -63,6 +110,28 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "熊孩子爬豪车,维修费教做人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355737&amp;topic_name=%E7%86%8A%E5%AD%A9%E5%AD%90%E7%88%AC%E8%B1%AA%E8%BD%A6%2C%E7%BB%B4%E4%BF%AE%E8%B4%B9%E6%95%99%E5%81%9A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "四川宜宾地震瞬间鱼群乱跳",
           "url": "https://www.toutiao.com/trending/7656584232357285402/",
           "source": "今日头条",
@@ -81,18 +150,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "欧洲热浪已致上百人死亡，国内却遇到「凉夏」，环球为何不同凉热？",
-          "url": "https://www.zhihu.com/question/2053430924146996760",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -101,23 +159,51 @@
           "url": "https://www.zhihu.com/question/2054894865851184155",
           "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "四川宜宾发生5.5级地震",
-          "url": "https://www.douyin.com/hot/2551120",
-          "source": "抖音",
-          "ranks": [
             5,
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时42分 ~ 16时58分]"
+          "time_info": "[16时58分 ~ 21时10分]"
+        },
+        {
+          "title": "四川宜宾凌晨突发5.5级地震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355714&amp;topic_name=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%87%8C%E6%99%A8%E7%AA%81%E5%8F%915.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 21时10分]"
+        },
+        {
+          "title": "四川宜宾市高县发生5.5级地震，成都、重庆等地震感明显",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33473467",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 21时10分]"
+        },
+        {
+          "title": "四川高县5.5级地震致13人受伤，均为轻微伤已送医诊疗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33473725",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 21时10分]"
         },
         {
           "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
@@ -144,8 +230,19 @@
           "time_info": "[11时42分 ~ 16时58分]"
         },
         {
-          "title": "四川宜宾凌晨突发5.5级地震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355714&amp;topic_name=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%87%8C%E6%99%A8%E7%AA%81%E5%8F%915.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "title": "三项“最严国标”实施倒计时 以安全筑牢新能源汽车产业发展根基",
+          "url": "https://www.cls.cn/detail/2411509",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 21时10分]"
+        },
+        {
+          "title": "设计有毒,厕所标识像天书",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355732&amp;topic_name=%E8%AE%BE%E8%AE%A1%E6%9C%89%E6%AF%92%2C%E5%8E%95%E6%89%80%E6%A0%87%E8%AF%86%E5%83%8F%E5%A4%A9%E4%B9%A6",
           "source": "贴吧",
           "ranks": [
             9,
@@ -153,31 +250,30 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时42分 ~ 16时58分]"
+          "time_info": "[16时58分 ~ 21时10分]"
         },
         {
-          "title": "四川宜宾市高县发生5.5级地震，成都、重庆等地震感明显",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33473467",
-          "source": "澎湃新闻",
+          "title": "宜宾地震食客避难后折返 无人逃单",
+          "url": "https://www.toutiao.com/trending/7656480719053357097/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            13
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时42分 ~ 16时58分]"
+          "time_info": "[16时58分 ~ 21时10分]"
         },
         {
-          "title": "四川高县5.5级地震致13人受伤，均为轻微伤已送医诊疗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33473725",
-          "source": "澎湃新闻",
+          "title": "国内最大沙漠发洪水意味着什么",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%9C%80%E5%A4%A7%E6%B2%99%E6%BC%A0%E5%8F%91%E6%B4%AA%E6%B0%B4%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            17
+            25,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时42分 ~ 16时58分]"
+          "time_info": "[16时58分 ~ 21时10分]"
         },
         {
           "title": "宜宾地震食客避难后折返 无人逃单",
@@ -202,6 +298,17 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
+          "title": "亲妈被赶,养老防老变空话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355740&amp;topic_name=%E4%BA%B2%E5%A6%88%E8%A2%AB%E8%B5%B6%2C%E5%85%BB%E8%80%81%E9%98%B2%E8%80%81%E5%8F%98%E7%A9%BA%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "鸭子洪水中摆渡救鸡 课文照进现实",
           "url": "https://www.baidu.com/s?wd=%E9%B8%AD%E5%AD%90%E6%B4%AA%E6%B0%B4%E4%B8%AD%E6%91%86%E6%B8%A1%E6%95%91%E9%B8%A1+%E8%AF%BE%E6%96%87%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E",
           "source": "百度热搜",
@@ -224,6 +331,17 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
+          "title": "赖清德支持度陷入死亡交叉，不满意度飙至47.6％",
+          "url": "https://news.ifeng.com/c/8uLvDlb0GTE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "五粮液回应宜宾地震影响",
           "url": "https://www.baidu.com/s?wd=%E4%BA%94%E7%B2%AE%E6%B6%B2%E5%9B%9E%E5%BA%94%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%E5%BD%B1%E5%93%8D",
           "source": "百度热搜",
@@ -233,6 +351,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "法拉利被几个孩子当滑梯玩，车身出现多处划痕",
+          "url": "https://v.ifeng.com/c/8uJusN34wW0",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "宜宾5.5级地震，烧烤店老板：顾客们避险后折返，无一逃单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33474616",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
+          "url": "https://www.cls.cn/detail/2411865",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "头部厂商竞逐 行业座次调整 世界杯成智能眼镜热卖“加速器”？",
@@ -312,6 +474,17 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
+          "title": "女子发现孩子非现任亲生状告前任索赔",
+          "url": "https://www.toutiao.com/trending/7656678655938789412/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "凌晨地震母亲飞奔护住熟睡孩子",
           "url": "https://www.baidu.com/s?wd=%E5%87%8C%E6%99%A8%E5%9C%B0%E9%9C%87%E6%AF%8D%E4%BA%B2%E9%A3%9E%E5%A5%94%E6%8A%A4%E4%BD%8F%E7%86%9F%E7%9D%A1%E5%AD%A9%E5%AD%90",
           "source": "百度热搜",
@@ -321,6 +494,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "国内最大沙漠发洪水意味着什么",
+          "url": "https://www.toutiao.com/trending/7656695458340802074/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "宜宾5.5级地震 成都震感明显",
@@ -356,6 +540,17 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
+          "title": "外国游客开始涌入中国农村",
+          "url": "https://www.toutiao.com/trending/7656755374497730090/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "退休化学教授帮医药研发人员制毒",
           "url": "https://www.baidu.com/s?wd=%E9%80%80%E4%BC%91%E5%8C%96%E5%AD%A6%E6%95%99%E6%8E%88%E5%B8%AE%E5%8C%BB%E8%8D%AF%E7%A0%94%E5%8F%91%E4%BA%BA%E5%91%98%E5%88%B6%E6%AF%92",
           "source": "百度热搜",
@@ -365,6 +560,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
+        },
+        {
+          "title": "宜宾地震造成15人受轻伤",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%E9%80%A0%E6%88%9015%E4%BA%BA%E5%8F%97%E8%BD%BB%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
+          "title": "情绪价值这一块还得靠孩子",
+          "url": "https://www.douyin.com/hot/2552039",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "宜宾地震猫被吓得乱窜 家猪全惊醒",
@@ -384,29 +601,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "三项“最严国标”实施倒计时 以安全筑牢新能源汽车产业发展根基",
-          "url": "https://www.cls.cn/detail/2411509",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "设计有毒,厕所标识像天书",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355732&amp;topic_name=%E8%AE%BE%E8%AE%A1%E6%9C%89%E6%AF%92%2C%E5%8E%95%E6%89%80%E6%A0%87%E8%AF%86%E5%83%8F%E5%A4%A9%E4%B9%A6",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -417,20 +612,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
         {
-          "title": "宜宾地震食客避难后折返 无人逃单",
-          "url": "https://www.toutiao.com/trending/7656480719053357097/",
-          "source": "今日头条",
+          "title": "金十图示：2026年06月29日（周一）新闻联播今日要点",
+          "url": "https://flash.jin10.com/detail/20260629204626808800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时58分"
+          "time_info": "21时10分"
+        },
+        {
+          "title": "海川智能：拟通过股权受让形式以人民币1.3亿元购买南京集溢半导体科技有限公司15.30%的股权。标的公司主要产品为砷化镓（GaAs）晶片、原材料4N金属镓（N代表纯度），该两类产品2025年收入占比分别约为84.77%、15.02%。",
+          "url": "https://wallstreetcn.com/livenews/3126171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "清华姚班UP主详解AI专业就业",
@@ -439,9 +645,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "欧盟理事会：欧盟正在简化并精简人工智能相关规则。今日通过的新规将降低企业行政成本、为儿童提供更强保护、增强欧盟数字主权。",
+          "url": "https://flash.jin10.com/detail/20260629204504398800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "OceanBase发布AI数据库",
@@ -450,7 +667,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -461,7 +678,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -472,20 +689,42 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
         {
-          "title": "国内最大沙漠发洪水意味着什么",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E6%9C%80%E5%A4%A7%E6%B2%99%E6%BC%A0%E5%8F%91%E6%B4%AA%E6%B0%B4%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
+          "title": "海川智能：拟1.3亿元购买南京集溢半导体科技有限公司15.30%的股权",
+          "url": "https://flash.jin10.com/detail/20260629203909196800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "欧盟理事会轮值主席国塞浦路斯：欧盟理事会刚刚最终批准了一项新法规，旨在精简并简化部分有关人工智能的规则。",
+          "url": "https://flash.jin10.com/detail/20260629203806768800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时58分"
+          "time_info": "21时10分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特使威特科夫和特朗普女婿库什纳将出席伊朗会议。",
+          "url": "https://wallstreetcn.com/livenews/3126159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "一家三口吃溪石斑鱼中毒",
@@ -494,9 +733,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "市场消息：美国内布拉斯加州线上年龄验证法律被部分阻止实施。该州法律原定于7月1日生效。",
+          "url": "https://flash.jin10.com/detail/20260629203643533800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "五粮液回应宜宾地震影响",
@@ -508,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "中国地震台网自动测定：06月29日20时33分在新疆阿克苏地区拜城县附近发生4.2级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260629203506002800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     }
