@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-01T00:05:24.876030+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-01T11:39:05.403056+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 15,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "未来5年孩子上学有这些大变化",
+          "url": "https://www.douyin.com/hot/2553665",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
         {
           "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
           "url": "https://wallstreetcn.com/livenews/3126913",
@@ -39,6 +61,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "世界杯死亡之组全部淘汰",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BB%84%E5%85%A8%E9%83%A8%E6%B7%98%E6%B1%B0",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://www.cls.cn/detail/2413771",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "媒体评法拉利被孩童当滑梯划损：家长不道歉的态度刺眼，孩子小不是挡箭牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33483431",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "青海海西州5.2级地震",
+          "url": "https://www.douyin.com/hot/2553844",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "成都警方通报一起交通事故致3死1伤：排除司机酒驾毒驾嫌疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33488382",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "为什么有人愿意花百万买一个AI恋人",
+          "url": "https://www.toutiao.com/trending/7657146718630461482/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
+          "title": "法国队所在“死亡分区”不死亡",
+          "url": "https://www.toutiao.com/trending/7656325027990831110/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -74,6 +184,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "马来西亚经济部长：政府正在准备人工智能治理法案，以规范人机未来。",
+          "url": "https://flash.jin10.com/detail/20260701112605647800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "英国央行官员称AI模型犹如会说谎的青少年，智能体兴起或引发市场崩盘",
           "url": "https://wallstreetcn.com/livenews/3126902",
           "source": "华尔街见闻-快讯",
@@ -105,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "Anthropic：将与亚马逊、微软、谷歌及其他Glasswing合作伙伴共同制定评估AI越狱严重性的框架。",
+          "url": "https://flash.jin10.com/detail/20260701111702765800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "老夫妻捐500万元救助455个孩子，却节俭得把盒饭分成两顿吃",
