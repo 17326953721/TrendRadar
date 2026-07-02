@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T20:29:05.467258+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-07-02T22:42:02.343506+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 63,
+      "match_count": 78,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 20时29分]"
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 22时42分]"
         },
         {
           "title": "如何看中方在南海问题上与菲律宾打法律战？专家解读",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 20时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 22时42分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -40,8 +40,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 20时29分]"
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 22时42分]"
+        },
+        {
+          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 22时42分]"
         },
         {
           "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
@@ -55,6 +67,43 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时55分 ~ 20时29分]"
+        },
+        {
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            22,
+            21,
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 22时42分]"
+        },
+        {
+          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2415745",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 22时42分]"
+        },
+        {
+          "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
+          "url": "https://www.cls.cn/detail/2415670",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 22时42分]"
         },
         {
           "title": "据日经新闻：苹果将推出5款新iPhone型号。",
@@ -74,9 +123,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
+        },
+        {
+          "title": "哈工大校园卡设计被指侵权，当事人称询问版权遭敷衍，被诱导休学卡复学，现起诉将开庭，从法律层面如何解读？",
+          "url": "https://www.zhihu.com/question/2055663897164473199",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 22时42分]"
         },
         {
           "title": "恒生指数公司联同数码港推出主题指数探索计划 促进以人工智能驱动指数创新",
@@ -101,6 +163,41 @@
           "time_info": "11时24分"
         },
         {
+          "title": "CoreWeave垃圾债券下跌，投资者对AI繁荣产生质疑",
+          "url": "https://wallstreetcn.com/livenews/3128102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 22时42分]"
+        },
+        {
+          "title": "博主印度吃中毒,医院神补刀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 22时42分]"
+        },
+        {
           "title": "越来越多公司证明AI无法替代人工",
           "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%85%AC%E5%8F%B8%E8%AF%81%E6%98%8EAI%E6%97%A0%E6%B3%95%E6%9B%BF%E4%BB%A3%E4%BA%BA%E5%B7%A5",
           "source": "百度热搜",
@@ -123,38 +220,12 @@
           "time_info": "14时55分"
         },
         {
-          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 20时29分]"
-        },
-        {
           "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
           "url": "https://wallstreetcn.com/articles/3775997",
           "source": "华尔街见闻",
           "ranks": [
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 20时29分]"
-        },
-        {
-          "title": "如何评价AI巨头之间的混战",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            22,
-            21,
-            30
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -185,39 +256,63 @@
           "time_info": "[11时24分 ~ 14时55分]"
         },
         {
-          "title": "哈工大校园卡设计被指侵权，当事人称询问版权遭敷衍，被诱导休学卡复学，现起诉将开庭，从法律层面如何解读？",
-          "url": "https://www.zhihu.com/question/2055663897164473199",
-          "source": "知乎",
+          "title": "法拉利被熊孩子当滑梯玩 3家上门道歉",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%89%E5%88%A9%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E5%BD%93%E6%BB%91%E6%A2%AF%E7%8E%A9+3%E5%AE%B6%E4%B8%8A%E9%97%A8%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            13
+            25,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时55分 ~ 20时29分]"
+          "time_info": "[20时28分 ~ 22时42分]"
         },
         {
-          "title": "博主印度吃中毒,医院神补刀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
-          "source": "贴吧",
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            8
+            27,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 20时29分]"
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 22时42分]"
         },
         {
-          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
-          "url": "https://www.cls.cn/detail/2415416",
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 22时42分]"
+        },
+        {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
           "source": "财联社热门",
           "ranks": [
-            8
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 20时29分]"
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 22时42分]"
+        },
+        {
+          "title": "好多人为啥根本意识不到，就算 AI 崩盘，消费级 DDR 内存也不会暴跌至远低于 2024 年的低位价格？",
+          "url": "https://www.zhihu.com/question/2052018919150450628",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 22时42分]"
         },
         {
           "title": "高盛反驳AI泡沫“三大担忧”，看好这三大主题！",
@@ -290,37 +385,15 @@
           "time_info": "[11时24分 ~ 14时55分]"
         },
         {
-          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
-          "url": "https://www.cls.cn/detail/2415407",
+          "title": "【数据看盘】京东方A龙虎榜惊现19亿抢筹大战，多家机构与北向资金激烈博弈多氟多",
+          "url": "https://www.cls.cn/detail/2415462",
           "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
-        },
-        {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
-        },
-        {
-          "title": "好多人为啥根本意识不到，就算 AI 崩盘，消费级 DDR 内存也不会暴跌至远低于 2024 年的低位价格？",
-          "url": "https://www.zhihu.com/question/2052018919150450628",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
+          "time_info": "[22时41分 ~ 22时42分]"
         },
         {
           "title": "日本物价三连跳,老百姓麻了",
@@ -346,26 +419,37 @@
           "time_info": "[20时28分 ~ 20时29分]"
         },
         {
-          "title": "法拉利被熊孩子当滑梯玩 3家上门道歉",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%89%E5%88%A9%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E5%BD%93%E6%BB%91%E6%A2%AF%E7%8E%A9+3%E5%AE%B6%E4%B8%8A%E9%97%A8%E9%81%93%E6%AD%89",
+          "title": "储殷：AI正在制造新型穷人",
+          "url": "https://www.toutiao.com/trending/7657880852310789641/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 22时42分]"
+        },
+        {
+          "title": "美国AI三大巨头争抢哲学家",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
           "source": "百度热搜",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
+          "time_info": "[22时41分 ~ 22时42分]"
         },
         {
-          "title": "AI演员已经能演出情绪变化了",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "title": "美国骑行博主在广西农村被请吃饭",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%AA%91%E8%A1%8C%E5%8D%9A%E4%B8%BB%E5%9C%A8%E5%B9%BF%E8%A5%BF%E5%86%9C%E6%9D%91%E8%A2%AB%E8%AF%B7%E5%90%83%E9%A5%AD",
           "source": "百度热搜",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时28分 ~ 20时29分]"
+          "time_info": "[22时41分 ~ 22时42分]"
         },
         {
           "title": "市场大跌AI行情要结束了吗",
@@ -429,7 +513,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -456,6 +540,17 @@
           "time_info": "18时10分"
         },
         {
+          "title": "英国央行货币政策委员会（MPC）成员Catherine Mann：通胀风险与经济活动之间的权衡已经让我更加重视通胀顽固性，让我转向支持央行在更长时期内按兵不动，可能需要抵御那样的风险。 在实现重返通胀目标方面，政府的财政措施具有重要作用。 放眼未来，问题在于，财政政策是否具有上行意外。 短期、长期通胀预期仍然偏高。 如果实际结果——尤其是通胀预期方面的结果——不利于潜在的通胀进程，那么采取积极的政策举措可以使通胀预期和实际结果向2%的目标靠拢。 6月份，通胀面临的上行风险大于经济活动面临的下行风险。 6月份，以成本为导向的通胀压力正被以国内为导向的金融紧缩政策所抵消。 下半年的数据对我来说尤为重要。 在某些行业，细分的劳动力市场信号并没有整体失业率显示得那么疲软。",
+          "url": "https://wallstreetcn.com/livenews/3128101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "华润新能源上市首日涨超177%",
           "url": "https://www.douyin.com/hot/2555070",
           "source": "抖音",
@@ -465,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "报道：Anthropic正与三星洽谈定制人工智能芯片",
+          "url": "https://wallstreetcn.com/livenews/3128092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：单靠谴责的言辞无法阻止（俄罗斯）对基辅的攻击。只有对乌克兰予以持续的军事支持和加大对莫斯科的压力才能做到这一点。",
@@ -484,7 +590,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -506,7 +612,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -517,9 +623,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
+        },
+        {
+          "title": "世卫组织：乌干达出现马尔堡病毒感染病例",
+          "url": "https://flash.jin10.com/detail/20260702222247241800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "AI演员已经能演出情绪变化了",
@@ -566,6 +683,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "Anthropic据悉与三星洽谈定制人工智能芯片事宜",
+          "url": "https://flash.jin10.com/detail/20260702221853768800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "机器人概念股低开高走，宏昌科技、模塑科技拉升封板，日盈电子、锋龙股份此前涨停，三瑞智能、科德数控、智信精密、宏德股份等涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3127747",
           "source": "华尔街见闻-快讯",
@@ -588,6 +716,28 @@
           "time_info": "14时55分"
         },
         {
+          "title": "美联储戴利称货币政策略具限制性，预计通胀应该会放缓",
+          "url": "https://flash.jin10.com/detail/20260702221845628800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "世卫启动针对本迪布焦型埃博拉病毒的临床试验",
+          "url": "https://wallstreetcn.com/livenews/3128084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "AI短剧发布会",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -608,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "叙首都大马士革发生爆炸事件，已致4人死亡",
+          "url": "https://wallstreetcn.com/livenews/3128081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "女子接养婆家哥哥留下的5个孩子",
@@ -660,9 +821,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
+        },
+        {
+          "title": "世卫组织宣布与邮轮相关的汉坦病毒疫情结束",
+          "url": "https://wallstreetcn.com/livenews/3128078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "奥地利总统请求家长：让孩子熬夜看球",
@@ -704,7 +876,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -715,7 +887,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         }
