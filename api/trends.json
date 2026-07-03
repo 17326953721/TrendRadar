@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-03T17:57:29.153730+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-07-03T20:10:00.210894+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 48,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 20时10分]"
+        },
         {
           "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
           "url": "https://www.cls.cn/detail/2415999",
@@ -21,16 +33,65 @@
           "time_info": "[10时47分 ~ 17时57分]"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
           "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 20时10分]"
+        },
+        {
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
+          "source": "财联社热门",
+          "ranks": [
+            11,
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时47分 ~ 17时57分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 20时10分]"
+        },
+        {
+          "title": "欧洲高温，有网友拿软管把新能源车里的冷气直接拉到屋里，这招可行吗？空调系统和电池能扛得住吗？",
+          "url": "https://www.zhihu.com/question/2054943154923463985",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 20时10分]"
+        },
+        {
+          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://www.cls.cn/detail/2416626",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
+        },
+        {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 20时10分]"
         },
         {
           "title": "德国地学研究中心GFZ：印尼哈马黑拉发生6.3级地震。",
@@ -55,6 +116,34 @@
           "time_info": "14时32分"
         },
         {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 20时10分]"
+        },
+        {
+          "title": "博主印度吃中毒,医院神补刀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            19,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 20时10分]"
+        },
+        {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
           "url": "https://www.cls.cn/detail/2415670",
           "source": "财联社热门",
@@ -64,18 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
-        },
-        {
-          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
-          "url": "https://www.cls.cn/detail/2416232",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 17时57分]"
         },
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -90,78 +167,6 @@
           "time_info": "[10时47分 ~ 14时32分]"
         },
         {
-          "title": "汇丰：布局中国人工智能全产业链 把握产业投资潜在机会",
-          "url": "https://wallstreetcn.com/livenews/3128592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "欧洲高温，有网友拿软管把新能源车里的冷气直接拉到屋里，这招可行吗？空调系统和电池能扛得住吗？",
-          "url": "https://www.zhihu.com/question/2054943154923463985",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
-          "url": "https://www.cls.cn/detail/2416215",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 17时57分]"
-        },
-        {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时47分 ~ 17时57分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时47分 ~ 17时57分]"
-        },
-        {
-          "title": "博主印度吃中毒,医院神补刀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时47分 ~ 17时57分]"
-        },
-        {
           "title": "芬兰政策出现重大变化，俄将其列为核打击目标",
           "url": "https://news.ifeng.com/c/8uSEN276KZP",
           "source": "凤凰网",
@@ -170,8 +175,44 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 20时10分]"
+        },
+        {
+          "title": "汇丰：布局中国人工智能全产业链 把握产业投资潜在机会",
+          "url": "https://wallstreetcn.com/livenews/3128592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 20时10分]"
+        },
+        {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时31分 ~ 17时57分]"
+          "time_info": "[17时57分 ~ 20时10分]"
         },
         {
           "title": "为什么拼多多的商品比 1688 批发网上的还便宜，他们到底是怎么赚钱的，主要是从哪里进货的？",
@@ -221,16 +262,38 @@
           "time_info": "[10时47分 ~ 14时32分]"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
+          "title": "顶奢与奶茶的商标博弈真相",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A1%B6%E5%A5%A2%E4%B8%8E%E5%A5%B6%E8%8C%B6%E7%9A%84%E5%95%86%E6%A0%87%E5%8D%9A%E5%BC%88%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
           "ranks": [
-            17,
-            16
+            16,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时31分 ~ 17时57分]"
+          "time_info": "[17时57分 ~ 20时10分]"
+        },
+        {
+          "title": "外交部表示中日关系面临严重困难，责任完全在日方，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2055674408455479335",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 20时10分]"
+        },
+        {
+          "title": "中方坚决反对有关国家诋毁中国民族政策",
+          "url": "https://www.toutiao.com/trending/7657540121208127531/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
         },
         {
           "title": "全球AI疯狂重创千元机市场",
@@ -244,6 +307,28 @@
           "time_info": "[14时31分 ~ 14时32分]"
         },
         {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
+        },
+        {
+          "title": "三部门调整车船税优惠政策",
+          "url": "https://www.toutiao.com/trending/7657339568953393193/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
+        },
+        {
           "title": "AI泡沫破裂会有什么后果",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%90%8E%E6%9E%9C",
           "source": "bilibili 热搜",
@@ -253,6 +338,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "新能源汽车车船税优惠政策调整",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BD%A6%E8%88%B9%E7%A8%8E%E4%BC%98%E6%83%A0%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 20时10分]"
         },
         {
           "title": "公平竞争审查制度实施十年 全国累计审查政策措施188万件",
@@ -277,15 +373,26 @@
           "time_info": "14时32分"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
+          "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
+          "url": "https://wallstreetcn.com/livenews/3128681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "专家：车船税优惠取消对消费者购买新能源车影响小",
+          "url": "https://flash.jin10.com/detail/20260703195939529800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "20时10分"
         },
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -316,7 +423,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -327,7 +434,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -338,7 +445,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -349,18 +456,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "顶奢与奶茶的商标博弈真相",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A1%B6%E5%A5%A2%E4%B8%8E%E5%A5%B6%E8%8C%B6%E7%9A%84%E5%95%86%E6%A0%87%E5%8D%9A%E5%BC%88%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -371,7 +467,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -409,13 +505,24 @@
           "time_info": "14时32分"
         },
         {
+          "title": "交通运输部：深入实施“人工智能+交通运输”行动",
+          "url": "https://flash.jin10.com/detail/20260703194756859800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "事关中国 美国福克斯新闻又道歉了",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E4%B8%AD%E5%9B%BD+%E7%BE%8E%E5%9B%BD%E7%A6%8F%E5%85%8B%E6%96%AF%E6%96%B0%E9%97%BB%E5%8F%88%E9%81%93%E6%AD%89%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -437,18 +544,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "外交部表示中日关系面临严重困难，责任完全在日方，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2055674408455479335",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -536,7 +632,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -550,6 +646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "农业农村部召开农产品品质提升工作推进会",
+          "url": "https://wallstreetcn.com/livenews/3128642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     }
