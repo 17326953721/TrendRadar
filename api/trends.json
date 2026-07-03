@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-07-03T10:47:35.514551+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-03T14:32:20.765235+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 18,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时32分]"
+        },
+        {
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时32分]"
+        },
         {
           "title": "德国地学研究中心GFZ：印尼哈马黑拉发生6.3级地震。",
           "url": "https://flash.jin10.com/detail/20260703103833899800",
@@ -17,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "韩华集团：将在韩国投资55​​万亿韩元建设卫星、航天运载火箭和国防人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20260703140526967800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -30,37 +65,16 @@
           "time_info": "10时47分"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
-          "url": "https://www.cls.cn/detail/2415999",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2415745",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时32分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -70,8 +84,166 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时32分]"
+        },
+        {
+          "title": "为什么拼多多的商品比 1688 批发网上的还便宜，他们到底是怎么赚钱的，主要是从哪里进货的？",
+          "url": "https://www.zhihu.com/question/314900700",
+          "source": "知乎",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时32分]"
+        },
+        {
+          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
+          "url": "https://www.cls.cn/detail/2415850",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时32分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时32分]"
+        },
+        {
+          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
+          "url": "https://www.cls.cn/detail/2415788",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时32分]"
+        },
+        {
+          "title": "博主印度吃中毒,医院神补刀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 14时32分]"
+        },
+        {
+          "title": "芬兰政策出现重大变化，俄将其列为核打击目标",
+          "url": "https://news.ifeng.com/c/8uSEN276KZP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "先岛诸岛6.2级地震 上海杭州有震感",
+          "url": "https://www.baidu.com/s?wd=%E5%85%88%E5%B2%9B%E8%AF%B8%E5%B2%9B6.2%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%B8%8A%E6%B5%B7%E6%9D%AD%E5%B7%9E%E6%9C%89%E9%9C%87%E6%84%9F",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "全球AI疯狂重创千元机市场",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83AI%E7%96%AF%E7%8B%82%E9%87%8D%E5%88%9B%E5%8D%83%E5%85%83%E6%9C%BA%E5%B8%82%E5%9C%BA%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "AI泡沫破裂会有什么后果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%90%8E%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "公平竞争审查制度实施十年 全国累计审查政策措施188万件",
+          "url": "https://flash.jin10.com/detail/20260703140135229800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "14时32分"
+        },
+        {
+          "title": "预告：上海市政府7月7日举行发布会 介绍2026世界人工智能大会筹备进展",
+          "url": "https://wallstreetcn.com/livenews/3128446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -85,48 +257,15 @@
           "time_info": "10时47分"
         },
         {
-          "title": "为什么拼多多的商品比 1688 批发网上的还便宜，他们到底是怎么赚钱的，主要是从哪里进货的？",
-          "url": "https://www.zhihu.com/question/314900700",
-          "source": "知乎",
+          "title": "韩国推进开发前沿人工智能模型并扩展基础设施",
+          "url": "https://flash.jin10.com/detail/20260703135838079800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
-          "url": "https://www.cls.cn/detail/2415850",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
-          "url": "https://www.cls.cn/detail/2415788",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "博主印度吃中毒,医院神补刀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "14时32分"
         },
         {
           "title": "加拿大男孩接触蝙蝠感染狂犬病死亡",
@@ -151,15 +290,59 @@
           "time_info": "10时47分"
         },
         {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
+          "title": "据韩媒ChosunBiz：韩国政府正在研究开发自主AI基础模型，并计划扩大AI数据中心建设，预计到2029年建成8.4吉瓦的数据中心容量，到2035年再新增10吉瓦的数据中心容量。",
+          "url": "https://flash.jin10.com/detail/20260703134056042800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "14时32分"
+        },
+        {
+          "title": "上海市政府7月7日举行发布会 介绍2026世界人工智能大会筹备进展",
+          "url": "https://flash.jin10.com/detail/20260703133850179800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "花旗：随着霍尔木兹海峡危机消退，油价可能跌至每桶60美元",
+          "url": "https://flash.jin10.com/detail/20260703133746578800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "机构：三季度存储器价格受AI服务器支撑 预计将季增13-18%",
+          "url": "https://wallstreetcn.com/livenews/3128427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "KB证券：SK海力士下半年料将受益于AI投资加速",
+          "url": "https://flash.jin10.com/detail/20260703133535476800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "委内瑞拉地震已造成2595人死亡。",
@@ -171,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "日本宫古岛西北近海发生6.4级地震",
+          "url": "https://wallstreetcn.com/livenews/3128420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "黑龙江一村大面积水稻疑被恶意投毒",
