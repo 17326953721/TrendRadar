@@ -1,157 +1,44 @@
 {
-  "generated_at": "2026-07-03T22:42:00.787258+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-07-04T10:43:42.179795+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 64,
+      "match_count": 28,
       "titles": [
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 22时42分]"
-        },
-        {
-          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
-          "url": "https://www.cls.cn/detail/2415999",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时47分 ~ 17时57分]"
-        },
-        {
-          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
-          "url": "https://www.cls.cn/detail/2416626",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时09分 ~ 22时42分]"
-        },
-        {
-          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
-          "url": "https://www.cls.cn/detail/2416232",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 20时10分]"
-        },
-        {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 22时42分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 22时42分]"
-        },
-        {
-          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
-          "url": "https://www.cls.cn/detail/2416215",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 20时10分]"
-        },
-        {
-          "title": "博主印度吃中毒,医院神补刀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            19,
-            24,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 22时42分]"
-        },
-        {
-          "title": "欧洲高温，有网友拿软管把新能源车里的冷气直接拉到屋里，这招可行吗？空调系统和电池能扛得住吗？",
-          "url": "https://www.zhihu.com/question/2054943154923463985",
-          "source": "知乎",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 22时42分]"
-        },
-        {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 22时42分]"
-        },
-        {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 22时42分]"
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "豆包：智能体功能将于7月15日下线",
+          "url": "https://flash.jin10.com/detail/20260704101207903800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "常州市市长周伟调研人工智能上游产业",
+          "url": "https://flash.jin10.com/detail/20260704100159012800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "四部门出台稳岗扩岗政策",
@@ -161,588 +48,272 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 22时42分]"
-        },
-        {
-          "title": "德国地学研究中心GFZ：印尼哈马黑拉发生6.3级地震。",
-          "url": "https://flash.jin10.com/detail/20260703103833899800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "10时43分"
         },
         {
-          "title": "韩华集团：将在韩国投资55​​万亿韩元建设卫星、航天运载火箭和国防人工智能数据中心。",
-          "url": "https://flash.jin10.com/detail/20260703140526967800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
-          "url": "https://www.cls.cn/detail/2415670",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2415745",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 14时32分]"
-        },
-        {
-          "title": "农业农村部：大力发展农产品加工业，引领规范农文旅融合有序发展",
-          "url": "https://wallstreetcn.com/livenews/3128744",
+          "title": "豆包：智能体功能将于7月15日下线",
+          "url": "https://wallstreetcn.com/livenews/3128874",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "芬兰政策出现重大变化，俄将其列为核打击目标",
-          "url": "https://news.ifeng.com/c/8uSEN276KZP",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 20时10分]"
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
-          "title": "汇丰：布局中国人工智能全产业链 把握产业投资潜在机会",
-          "url": "https://wallstreetcn.com/livenews/3128592",
-          "source": "华尔街见闻-快讯",
+          "title": "明年起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策",
+          "url": "https://wallstreetcn.com/articles/3776152",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "10时43分"
         },
         {
-          "title": "顶奢与奶茶的商标博弈真相",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A1%B6%E5%A5%A2%E4%B8%8E%E5%A5%B6%E8%8C%B6%E7%9A%84%E5%95%86%E6%A0%87%E5%8D%9A%E5%BC%88%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
+          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://www.cls.cn/detail/2416626",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            28,
-            18
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 22时42分]"
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "韩国AI大跃进",
+          "url": "https://wallstreetcn.com/articles/3776121",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260704095032353800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
           "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时09分 ~ 22时42分]"
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
-          "title": "为什么拼多多的商品比 1688 批发网上的还便宜，他们到底是怎么赚钱的，主要是从哪里进货的？",
-          "url": "https://www.zhihu.com/question/314900700",
-          "source": "知乎",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 14时32分]"
-        },
-        {
-          "title": "先岛诸岛6.2级地震 上海杭州有震感",
-          "url": "https://www.baidu.com/s?wd=%E5%85%88%E5%B2%9B%E8%AF%B8%E5%B2%9B6.2%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%B8%8A%E6%B5%B7%E6%9D%AD%E5%B7%9E%E6%9C%89%E9%9C%87%E6%84%9F",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 17时57分]"
-        },
-        {
-          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
-          "url": "https://www.cls.cn/detail/2415850",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 14时32分]"
-        },
-        {
-          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
-          "url": "https://www.cls.cn/detail/2415788",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 14时32分]"
-        },
-        {
-          "title": "外交部表示中日关系面临严重困难，责任完全在日方，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2055674408455479335",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 20时10分]"
-        },
-        {
-          "title": "中方坚决反对有关国家诋毁中国民族政策",
-          "url": "https://www.toutiao.com/trending/7657540121208127531/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
-        },
-        {
-          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
-          "url": "https://wallstreetcn.com/articles/3776091",
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 22时42分]"
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
-          "title": "中国船员在被韩海警扣押期间死亡",
-          "url": "https://www.toutiao.com/trending/7658228169959276586/",
-          "source": "今日头条",
+          "title": "热浪期间，法国家中死亡人数激增90%",
+          "url": "https://news.ifeng.com/c/8uTFykgn7t1",
+          "source": "凤凰网",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 22时42分]"
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
-          "title": "4名大学生出题 AI考了0分",
-          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E9%A2%98+AI%E8%80%83%E4%BA%860%E5%88%86",
-          "source": "百度热搜",
+          "title": "Meta股价因AI进展不及预期下跌",
+          "url": "https://www.douyin.com/hot/2556589",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "金十数据整理：昨日今晨重要新闻汇总（7月4日）",
+          "url": "https://flash.jin10.com/detail/20260704085344397800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 22时42分]"
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
-          "title": "全球AI疯狂重创千元机市场",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83AI%E7%96%AF%E7%8B%82%E9%87%8D%E5%88%9B%E5%8D%83%E5%85%83%E6%9C%BA%E5%B8%82%E5%9C%BA%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
-        },
-        {
-          "title": "三部门调整车船税优惠政策",
-          "url": "https://www.toutiao.com/trending/7657339568953393193/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
-        },
-        {
-          "title": "AI泡沫破裂会有什么后果",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%90%8E%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
-        },
-        {
-          "title": "新能源汽车车船税优惠政策调整",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BD%A6%E8%88%B9%E7%A8%8E%E4%BC%98%E6%83%A0%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
-        },
-        {
-          "title": "公平竞争审查制度实施十年 全国累计审查政策措施188万件",
-          "url": "https://flash.jin10.com/detail/20260703140135229800",
+          "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
+          "url": "https://flash.jin10.com/detail/20260704084017236800",
           "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "预告：上海市政府7月7日举行发布会 介绍2026世界人工智能大会筹备进展",
-          "url": "https://wallstreetcn.com/livenews/3128446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
-          "url": "https://wallstreetcn.com/livenews/3128681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "专家：车船税优惠取消对消费者购买新能源车影响小",
-          "url": "https://flash.jin10.com/detail/20260703195939529800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "韩国推进开发前沿人工智能模型并扩展基础设施",
-          "url": "https://flash.jin10.com/detail/20260703135838079800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "国务院：开展新能源汽车、绿色智能家电、绿色建材下乡活动",
-          "url": "https://wallstreetcn.com/livenews/3128586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "三部门有关司负责人就调整节能汽车、新能源汽车车船税优惠政策答记者问",
-          "url": "https://wallstreetcn.com/livenews/3128585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "券商晨会精华：关注物理AI低位配置机会",
-          "url": "https://www.cls.cn/detail/2415985",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
-          "url": "https://wallstreetcn.com/livenews/3128579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "自然资源部对广东广西海南启动地质灾害防御Ⅳ级响应。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3128576",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "10时43分"
         },
         {
-          "title": "加拿大男孩接触蝙蝠感染狂犬病死亡",
-          "url": "https://www.toutiao.com/trending/7657098662221496371/",
-          "source": "今日头条",
+          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "10时43分"
         },
         {
-          "title": "家长为摆脱应试教育带孩子去泰国上学，却仍然忍不住「鸡娃」，为什么会这样？泰国的教育环境到底怎么样？",
-          "url": "https://www.zhihu.com/question/2055248195828163080",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "据韩媒ChosunBiz：韩国政府正在研究开发自主AI基础模型，并计划扩大AI数据中心建设，预计到2029年建成8.4吉瓦的数据中心容量，到2035年再新增10吉瓦的数据中心容量。",
-          "url": "https://flash.jin10.com/detail/20260703134056042800",
-          "source": "金十数据",
+          "title": "顶奢与奶茶的商标博弈真相",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A1%B6%E5%A5%A2%E4%B8%8E%E5%A5%B6%E8%8C%B6%E7%9A%84%E5%95%86%E6%A0%87%E5%8D%9A%E5%BC%88%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时32分"
+          "time_info": "10时43分"
         },
         {
-          "title": "交通运输部：深入实施“人工智能+交通运输”行动",
-          "url": "https://flash.jin10.com/detail/20260703194756859800",
-          "source": "金十数据",
+          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2056425679093339668",
+          "source": "知乎",
           "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时10分"
+          "time_info": "10时43分"
         },
         {
-          "title": "事关中国 美国福克斯新闻又道歉了",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E4%B8%AD%E5%9B%BD+%E7%BE%8E%E5%9B%BD%E7%A6%8F%E5%85%8B%E6%96%AF%E6%96%B0%E9%97%BB%E5%8F%88%E9%81%93%E6%AD%89%E4%BA%86",
+          "title": "中国船员在被韩海警扣押期间死亡",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%91%98%E5%9C%A8%E8%A2%AB%E9%9F%A9%E6%B5%B7%E8%AD%A6%E6%89%A3%E6%8A%BC%E6%9C%9F%E9%97%B4%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
-            20
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "10时43分"
         },
         {
-          "title": "上海市政府7月7日举行发布会 介绍2026世界人工智能大会筹备进展",
-          "url": "https://flash.jin10.com/detail/20260703133850179800",
+          "title": "欧盟委员会主席冯德莱恩：欧洲正面临住房危机。我们计划成立“欧洲住房联盟”，并将召开一场欧洲住房问题高级别峰会。",
+          "url": "https://flash.jin10.com/detail/20260704040121911800",
           "source": "金十数据",
           "ranks": [
-            20
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时32分"
+          "time_info": "10时43分"
         },
         {
-          "title": "农业农村部：大力发展农产品加工业，引领规范农文旅融合有序发展",
-          "url": "https://flash.jin10.com/detail/20260703214700323800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "乘联分会：中国6月初步统计新能源车市场零售同比下降7%，环比增长9%。",
-          "url": "https://wallstreetcn.com/livenews/3128568",
+          "title": "山火蔓延 四千例超额死亡，欧洲陷入高温热浪危机",
+          "url": "https://wallstreetcn.com/livenews/3128850",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "10时43分"
         },
         {
-          "title": "花旗：随着霍尔木兹海峡危机消退，油价可能跌至每桶60美元",
-          "url": "https://flash.jin10.com/detail/20260703133746578800",
+          "title": "委内瑞拉信息部：地震造成2,645人死亡。",
+          "url": "https://flash.jin10.com/detail/20260704035243201800",
           "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "机构：三季度存储器价格受AI服务器支撑 预计将季增13-18%",
-          "url": "https://wallstreetcn.com/livenews/3128427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "KB证券：SK海力士下半年料将受益于AI投资加速",
-          "url": "https://flash.jin10.com/detail/20260703133535476800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
-          "url": "https://flash.jin10.com/detail/20260703213623637800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "委内瑞拉地震已造成2595人死亡。",
-          "url": "https://wallstreetcn.com/livenews/3128345",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "10时43分"
         },
         {
-          "title": "日本宫古岛西北近海发生6.4级地震",
-          "url": "https://wallstreetcn.com/livenews/3128420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "黑龙江一村大面积水稻疑被恶意投毒",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E6%9D%91%E5%A4%A7%E9%9D%A2%E7%A7%AF%E6%B0%B4%E7%A8%BB%E7%96%91%E8%A2%AB%E6%81%B6%E6%84%8F%E6%8A%95%E6%AF%92",
-          "source": "百度热搜",
+          "title": "法律视角解读LV起诉茉莉奶白",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%BE%8B%E8%A7%86%E8%A7%92%E8%A7%A3%E8%AF%BBLV%E8%B5%B7%E8%AF%89%E8%8C%89%E8%8E%89%E5%A5%B6%E7%99%BD",
+          "source": "bilibili 热搜",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "10时43分"
         },
         {
-          "title": "特朗普发AI视频变身医生开可乐药方",
-          "url": "https://www.toutiao.com/trending/7657679186635030554/",
-          "source": "今日头条",
+          "title": "加纳首都及周边地区强降雨已致34人死亡",
+          "url": "https://wallstreetcn.com/livenews/3128846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "市场消息：俄罗斯对乌克兰北部城市苏梅发动大规模轰炸，击中一栋公寓楼和一家商店，造成三人死亡。",
+          "url": "https://flash.jin10.com/detail/20260704034818302800",
+          "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "10时43分"
         },
         {
-          "title": "先岛诸岛地震杭州有震感",
-          "url": "https://www.toutiao.com/trending/7658155947068309510/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "A股机器人概念股继续活跃，北纬科技、雷赛智能、首开股份竞价涨停，景兴纸业、中大力德、日盈电子、卧龙电驱跟涨，消息上，证监会同意宇树科技股份有限公司首次公开发行股票并在科创板上市的注册申请。",
-          "url": "https://wallstreetcn.com/livenews/3128339",
+          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
+          "url": "https://wallstreetcn.com/livenews/3128844",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "10时43分"
         },
         {
-          "title": "农业农村部召开农产品品质提升工作推进会",
-          "url": "https://wallstreetcn.com/livenews/3128642",
+          "title": "博主印度吃中毒,医院神补刀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355832&amp;topic_name=%E5%8D%9A%E4%B8%BB%E5%8D%B0%E5%BA%A6%E5%90%83%E4%B8%AD%E6%AF%92%2C%E5%8C%BB%E9%99%A2%E7%A5%9E%E8%A1%A5%E5%88%80",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "智利中部近海发生5.5级地震",
+          "url": "https://wallstreetcn.com/livenews/3128843",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时10分"
+          "time_info": "10时43分"
         }
       ]
     }
