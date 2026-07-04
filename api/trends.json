@@ -1,22 +1,58 @@
 {
-  "generated_at": "2026-07-04T17:05:58.669484+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-07-04T19:06:44.660028+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 40,
+      "match_count": 50,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 19时06分]"
+        },
+        {
+          "title": "豆包、千问：将下线智能体功能",
+          "url": "https://wallstreetcn.com/articles/3776193",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时43分 ~ 17时05分]"
+          "time_info": "[14时18分 ~ 19时06分]"
+        },
+        {
+          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
+          "url": "https://www.cls.cn/detail/2417079",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 19时06分]"
+        },
+        {
+          "title": "谌贻琴在陕西调研时强调 促进养老事业和养老产业发展 持续做强做大文旅产业",
+          "url": "https://wallstreetcn.com/livenews/3128936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "四部门出台稳岗扩岗政策",
@@ -51,29 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
-        },
-        {
-          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
-          "url": "https://www.cls.cn/detail/2417079",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
-          "title": "豆包、千问：将下线智能体功能",
-          "url": "https://wallstreetcn.com/articles/3776193",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 17时05分]"
         },
         {
           "title": "豆包：智能体功能将于7月15日下线",
@@ -118,11 +131,12 @@
           "ranks": [
             27,
             17,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 17时05分]"
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 19时06分]"
         },
         {
           "title": "中国船员在被韩海警扣押期间死亡",
@@ -173,6 +187,17 @@
           "time_info": "[10时43分 ~ 14时18分]"
         },
         {
+          "title": "15岁少年在家中和同学饮酒后裸身死亡，警方通报",
+          "url": "https://news.ifeng.com/c/8uT5hC5H1Bp",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 19时06分]"
+        },
+        {
           "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
           "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
           "source": "澎湃新闻",
@@ -183,6 +208,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时43分 ~ 17时05分]"
+        },
+        {
+          "title": "博主热熔拼豆致小猫中毒离世",
+          "url": "https://www.toutiao.com/trending/7658496188009873449/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 19时06分]"
+        },
+        {
+          "title": "海南平稳推进2030年禁售燃油车 新能源车占比将达45%",
+          "url": "https://wallstreetcn.com/livenews/3128906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 19时06分]"
         },
         {
           "title": "韩国AI大跃进",
@@ -196,6 +245,28 @@
           "time_info": "10时43分"
         },
         {
+          "title": "云南大理州宾川县附近发生4.2级左右地震",
+          "url": "https://flash.jin10.com/detail/20260704174057224800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "如何评价 7 月 15 日将实施的 AI 情感陪伴新规，以及豆包、千问、元宝等 App 届时将下架智能体的决定？",
+          "url": "https://www.zhihu.com/question/2056532907695649760",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "热浪期间，法国家中死亡人数激增90%",
           "url": "https://news.ifeng.com/c/8uTFykgn7t1",
           "source": "凤凰网",
@@ -205,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "美国地质调查局：印尼阿贝普拉西侧264公里处发生5.1级地震。",
+          "url": "https://flash.jin10.com/detail/20260704171737727800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
@@ -218,15 +300,15 @@
           "time_info": "10时43分"
         },
         {
-          "title": "15岁少年在家中和同学饮酒后裸身死亡，警方通报",
-          "url": "https://news.ifeng.com/c/8uT5hC5H1Bp",
-          "source": "凤凰网",
+          "title": "中国地震台网自动测定：07月04日17时00分在云南大理州宾川县附近（北纬25.95度，东经100.57度）发生3.4级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260704170302086800",
+          "source": "金十数据",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时05分"
+          "time_info": "19时06分"
         },
         {
           "title": "金十数据整理：昨日今晨重要新闻汇总（7月4日）",
@@ -251,17 +333,6 @@
           "time_info": "10时43分"
         },
         {
-          "title": "博主热熔拼豆致小猫中毒离世",
-          "url": "https://www.toutiao.com/trending/7658496188009873449/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
           "title": "宇树高管谈具身智能ChatGPT时刻",
           "url": "https://flash.jin10.com/detail/20260704110855518800",
           "source": "金十数据",
@@ -271,17 +342,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
-        },
-        {
-          "title": "海南平稳推进2030年禁售燃油车 新能源车占比将达45%",
-          "url": "https://wallstreetcn.com/livenews/3128906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
         },
         {
           "title": "顶奢与奶茶的商标博弈真相",
@@ -304,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "警方通报“15岁少年在家中和同学饮酒后死亡”：排除刑案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33514853",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "千问：拟人化互动类智能体及用户自建智能体功能将于7月10日正式下线",
@@ -334,7 +405,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -345,7 +416,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -359,6 +430,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "大理地震",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%90%86%E5%9C%B0%E9%9C%87&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "多少大厂员工正在被迫使用AI",
+          "url": "https://www.toutiao.com/trending/7658544406969978414/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：欧洲正面临住房危机。我们计划成立“欧洲住房联盟”，并将召开一场欧洲住房问题高级别峰会。",
@@ -381,6 +474,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "大理地震连发 最高4.4级",
+          "url": "https://www.toutiao.com/trending/7658595622525914650/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "云南大理州宾川县发生4.4级地震",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E5%B7%9E%E5%AE%BE%E5%B7%9D%E5%8E%BF%E5%8F%91%E7%94%9F4.4%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "委内瑞拉信息部：地震造成2,645人死亡。",
@@ -444,7 +559,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
