@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T19:30:03.226064+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-07-05T20:51:01.751484+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 19时30分]"
+          "appearance_count": 7,
+          "time_info": "[10时54分 ~ 20时51分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -26,11 +26,35 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时54分 ~ 20时51分]"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时54分 ~ 19时30分]"
+          "time_info": "[17时41分 ~ 20时51分]"
+        },
+        {
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时29分 ~ 20时51分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -57,43 +81,35 @@
           "time_info": "[17时41分 ~ 19时30分]"
         },
         {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时30分]"
-        },
-        {
           "title": "智能体下线,AI女友凉了？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时30分]"
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 20时51分]"
+        },
+        {
+          "title": "泰山135公里刀片铁丝网被质疑影响动物迁徙，一泰安市民称多次看到动物挂网死亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518570",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时54分 ~ 20时51分]"
         },
         {
           "title": "《新闻联播》正在直播",
           "url": "https://www.toutiao.com/trending/7658996566002470446/",
           "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时30分]"
-        },
-        {
-          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
-          "url": "https://wallstreetcn.com/articles/3776219",
-          "source": "华尔街见闻",
           "ranks": [
             5
           ],
@@ -135,17 +151,6 @@
           "time_info": "14时40分"
         },
         {
-          "title": "也门胡塞武装袭击政府军 致14人死亡",
-          "url": "https://flash.jin10.com/detail/20260705190219753800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时30分"
-        },
-        {
           "title": "中国地震台网自动测定：07月05日14时00分在四川德阳市绵竹市附近发生3.2级左右地震，最终结果以正式速报为准。 ​​​",
           "url": "https://flash.jin10.com/detail/20260705140345824800",
           "source": "金十数据",
@@ -168,6 +173,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "水利部针对广西启动洪水防御Ⅲ级应急响应",
+          "url": "https://flash.jin10.com/detail/20260705201328351800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
           "url": "https://wallstreetcn.com/articles/3776203",
           "source": "华尔街见闻",
@@ -180,18 +196,29 @@
           "time_info": "[10时54分 ~ 19时30分]"
         },
         {
-          "title": "泰山135公里刀片铁丝网被质疑影响动物迁徙，一泰安市民称多次看到动物挂网死亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518570",
-          "source": "澎湃新闻",
+          "title": "也门胡塞武装袭击政府军 致14人死亡",
+          "url": "https://flash.jin10.com/detail/20260705190219753800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            14,
-            13,
-            11
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 19时30分]"
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 20时51分]"
+        },
+        {
+          "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
+          "url": "https://wallstreetcn.com/livenews/3128984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时51分]"
         },
         {
           "title": "“AI+”OPC供需生态对接会在珠海举行",
@@ -218,16 +245,28 @@
           "time_info": "[14时40分 ~ 17时41分]"
         },
         {
-          "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
-          "url": "https://wallstreetcn.com/livenews/3128984",
-          "source": "华尔街见闻-快讯",
+          "title": "美国医生发现男婴在喘息仍宣告死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%8F%91%E7%8E%B0%E7%94%B7%E5%A9%B4%E5%9C%A8%E5%96%98%E6%81%AF%E4%BB%8D%E5%AE%A3%E5%91%8A%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            5,
-            10
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 19时30分]"
+          "appearance_count": 4,
+          "time_info": "[19时29分 ~ 20时51分]"
+        },
+        {
+          "title": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
+          "url": "https://www.baidu.com/s?wd=AI%E7%A7%B0%E9%87%8E%E8%98%91%E8%8F%87%E6%97%A0%E6%AF%92+9%E5%B2%81%E5%A8%83%E5%90%83%E5%AE%8C%E6%8A%A2%E6%95%918%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时29分 ~ 20时51分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -254,6 +293,17 @@
           "time_info": "[17时41分 ~ 19时30分]"
         },
         {
+          "title": "物价悄悄上涨真的很可怕",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%A9%E4%BB%B7%E6%82%84%E6%82%84%E4%B8%8A%E6%B6%A8%E7%9C%9F%E7%9A%84%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 20时51分]"
+        },
+        {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
           "url": "https://wallstreetcn.com/livenews/3128943",
           "source": "华尔街见闻-快讯",
@@ -278,17 +328,6 @@
           "time_info": "[10时54分 ~ 14时40分]"
         },
         {
-          "title": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
-          "url": "https://www.baidu.com/s?wd=AI%E7%A7%B0%E9%87%8E%E8%98%91%E8%8F%87%E6%97%A0%E6%AF%92+9%E5%B2%81%E5%A8%83%E5%90%83%E5%AE%8C%E6%8A%A2%E6%95%918%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时30分]"
-        },
-        {
           "title": "谌贻琴在陕西调研时强调 促进养老事业和养老产业发展 持续做强做大文旅产业",
           "url": "https://wallstreetcn.com/livenews/3128936",
           "source": "华尔街见闻-快讯",
@@ -301,15 +340,15 @@
           "time_info": "[10时54分 ~ 14时40分]"
         },
         {
-          "title": "美国医生发现男婴在喘息仍宣告死亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8C%BB%E7%94%9F%E5%8F%91%E7%8E%B0%E7%94%B7%E5%A9%B4%E5%9C%A8%E5%96%98%E6%81%AF%E4%BB%8D%E5%AE%A3%E5%91%8A%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=28&Refer=top",
+          "title": "美国父母早上吸毒18个月婴儿溺水",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%88%B6%E6%AF%8D%E6%97%A9%E4%B8%8A%E5%90%B8%E6%AF%9218%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%84%BF%E6%BA%BA%E6%B0%B4%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时30分]"
+          "time_info": "[20时50分 ~ 20时51分]"
         },
         {
           "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
