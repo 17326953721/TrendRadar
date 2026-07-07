@@ -1,22 +1,46 @@
 {
-  "generated_at": "2026-07-07T20:43:35.665403+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-07-07T23:43:51.978658+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 80,
+      "match_count": 90,
       "titles": [
         {
           "title": "三星电子Q2季度利润飙升19倍，超越英伟达成“全球最赚钱公司”",
           "url": "https://wallstreetcn.com/articles/3776327",
           "source": "华尔街见闻",
           "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时46分 ~ 23时43分]"
+        },
+        {
+          "title": "湖北黄石黄冈等地遭遇强对流天气，致8人死亡1人失联",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33530511",
+          "source": "澎湃新闻",
+          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时46分 ~ 20时43分]"
+          "time_info": "[14时47分 ~ 23时43分]"
+        },
+        {
+          "title": "湖北多地现龙卷风，强对流天气已致 11 人死亡，目前当地情况如何？",
+          "url": "https://www.zhihu.com/question/2057569257274041212",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 23时43分]"
         },
         {
           "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
@@ -31,27 +55,16 @@
           "time_info": "[14时46分 ~ 20时43分]"
         },
         {
-          "title": "湖北黄石黄冈等地遭遇强对流天气，致8人死亡1人失联",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33530511",
-          "source": "澎湃新闻",
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 20时43分]"
-        },
-        {
-          "title": "湖北多地现龙卷风，强对流天气已致 11 人死亡，目前当地情况如何？",
-          "url": "https://www.zhihu.com/question/2057569257274041212",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[14时46分 ~ 23时43分]"
         },
         {
           "title": "广西南宁洪涝灾害致2人死亡",
@@ -89,6 +102,19 @@
           "time_info": "[14时46分 ~ 20时43分]"
         },
         {
+          "title": "漠叔调查日本毒气战",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 23时43分]"
+        },
+        {
           "title": "水利部专题部署台风暴雨洪水防御工作",
           "url": "https://www.toutiao.com/trending/7658813927626821174/",
           "source": "今日头条",
@@ -117,18 +143,6 @@
           "ranks": [
             1,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时46分 ~ 20时43分]"
-        },
-        {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -174,7 +188,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -196,21 +210,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
         {
-          "title": "漠叔调查日本毒气战",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
-          "source": "bilibili 热搜",
+          "title": "广西因灾死亡6人失联11人",
+          "url": "https://www.toutiao.com/trending/7659763555691990554/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            15
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 20时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "洪水后蛇出逃 医院：血清带不进去",
@@ -219,7 +232,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -296,7 +309,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -324,6 +337,31 @@
           "time_info": "[14时46分 ~ 18时25分]"
         },
         {
+          "title": "专访中国水科院专家：主汛期防汛进入多线作战攻坚期，“麻痹侥幸”甚于“洪水猛兽”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33526293",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 23时43分]"
+        },
+        {
+          "title": "加拿大皇家银行：加拿大贸易流动仍受美国政策影响",
+          "url": "https://flash.jin10.com/detail/20260707233716391800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "广西洪水致蛇场被冲 多人被咬",
           "url": "https://www.toutiao.com/trending/7659602656100532250/",
           "source": "今日头条",
@@ -348,17 +386,17 @@
           "time_info": "[18时25分 ~ 20时43分]"
         },
         {
-          "title": "专访中国水科院专家：主汛期防汛进入多线作战攻坚期，“麻痹侥幸”甚于“洪水猛兽”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33526293",
-          "source": "澎湃新闻",
+          "title": "韩国总统李在明遭死亡威胁",
+          "url": "https://www.douyin.com/hot/2561667",
+          "source": "抖音",
           "ranks": [
-            14,
-            9,
-            6
+            11,
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 20时43分]"
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 23时43分]"
         },
         {
           "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
@@ -371,19 +409,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时46分 ~ 18时25分]"
-        },
-        {
-          "title": "韩国总统李在明遭死亡威胁",
-          "url": "https://www.douyin.com/hot/2561667",
-          "source": "抖音",
-          "ranks": [
-            11,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 20时43分]"
         },
         {
           "title": "AI预测葡萄牙vs西班牙赛果",
@@ -441,6 +466,18 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
+          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
+          "url": "https://wallstreetcn.com/articles/3776368",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 23时43分]"
+        },
+        {
           "title": "韩国总统李在明遭死亡威胁",
           "url": "https://www.toutiao.com/trending/7658958479646965803/",
           "source": "今日头条",
@@ -461,6 +498,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
+        },
+        {
+          "title": "网传新能源车智驾芯片新规系谣言",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E6%96%B0%E8%A7%84%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 23时43分]"
+        },
+        {
+          "title": "孩子自己去朋友家玩，把人家家长客气的「留下来吃饭」当真了，该不该纠正他的这份「实诚」？",
+          "url": "https://www.zhihu.com/question/2056708372850795631",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 23时43分]"
         },
         {
           "title": "广西洪水 超话求助",
@@ -585,6 +645,17 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
+          "title": "广西因灾死亡6人失联11人",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E5%9B%A0%E7%81%BE%E6%AD%BB%E4%BA%A16%E4%BA%BA%E5%A4%B1%E8%81%9411%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "广西洪水致养蛇场大量蛇逃逸含眼镜蛇，救援人员已前往一线，具体情况如何？在这种情况下被咬伤如何简易自救？",
           "url": "https://www.zhihu.com/question/2057818774057609057",
           "source": "知乎",
@@ -607,13 +678,35 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美国参议院民主党成员Warren施压五角大楼与多家AI公司，要求披露合同。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3130078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "广西因灾死亡6人失联11人",
+          "url": "https://www.douyin.com/hot/2562568",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "广西强降雨已致6人死亡11人失联 已紧急转移安置13万人",
           "url": "https://flash.jin10.com/detail/20260707203815400800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -635,7 +728,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -649,17 +742,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
-        },
-        {
-          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
-          "url": "https://wallstreetcn.com/articles/3776368",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "连美国政府都在担忧AI泡沫？财政部一份报告草案揭秘“隐忧”……",
@@ -695,15 +777,26 @@
           "time_info": "18时25分"
         },
         {
-          "title": "网传新能源车智驾芯片新规系谣言",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E6%96%B0%E8%A7%84%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2057930097039090211",
+          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "23时43分"
+        },
+        {
+          "title": "亚马逊全球智能枢纽仓落地长三角，上海、宁波双仓正式启用",
+          "url": "https://wallstreetcn.com/livenews/3130073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美国财政部报告草案拟警示人工智能泡沫风险。（NOTUS）",
@@ -717,24 +810,24 @@
           "time_info": "00时02分"
         },
         {
+          "title": "扎克伯格旗下“元宇宙”公司Meta Platforms：直销近期印度出现的、与Instagram广告相关的新闻报道。 承诺将加倍努力来应对相关问题，将加强（内容）审查程序。 将继续调查，确保低龄人群的安全。 （媒体）有关“我们对定向广告知情”的说法失实。",
+          "url": "https://wallstreetcn.com/livenews/3130071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "两货车司机遇洪水被困近30小时获救",
           "url": "https://www.toutiao.com/trending/7659585260430131210/",
           "source": "今日头条",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "孩子自己去朋友家玩，把人家家长客气的「留下来吃饭」当真了，该不该纠正他的这份「实诚」？",
-          "url": "https://www.zhihu.com/question/2056708372850795631",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -770,6 +863,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "美国民主党参议员沃伦施压美国国防部和人工智能公司披露合同信息。",
+          "url": "https://flash.jin10.com/detail/20260707232212193800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "智微智能：预计上半年净利润同比增长244.56%—309.65%",
@@ -836,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "广西的洪水很快要到广东了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%9A%84%E6%B4%AA%E6%B0%B4%E5%BE%88%E5%BF%AB%E8%A6%81%E5%88%B0%E5%B9%BF%E4%B8%9C%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "广东省新增11款已完成登记的生成式人工智能服务",
