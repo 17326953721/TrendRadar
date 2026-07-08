@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T13:38:36.481607+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-07-08T16:25:50.857824+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 41,
+      "match_count": 53,
       "titles": [
         {
           "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -74,15 +74,15 @@
           "time_info": "10时32分"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
+          "title": "广西横州全力防范洪水蛇伤",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%A8%AA%E5%B7%9E%E5%85%A8%E5%8A%9B%E9%98%B2%E8%8C%83%E6%B4%AA%E6%B0%B4%E8%9B%87%E4%BC%A4%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "16时25分"
         },
         {
           "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
@@ -97,6 +97,80 @@
           "time_info": "[10时32分 ~ 13时38分]"
         },
         {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 16时25分]"
+        },
+        {
+          "title": "日漫五毒俱全,哈基米上瘾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355983&amp;topic_name=%E6%97%A5%E6%BC%AB%E4%BA%94%E6%AF%92%E4%BF%B1%E5%85%A8%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E4%B8%8A%E7%98%BE",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 16时25分]"
+        },
+        {
+          "title": "免费辅导孩子的“神仙物业”撤场",
+          "url": "https://www.baidu.com/s?wd=%E5%85%8D%E8%B4%B9%E8%BE%85%E5%AF%BC%E5%AD%A9%E5%AD%90%E7%9A%84%E2%80%9C%E7%A5%9E%E4%BB%99%E7%89%A9%E4%B8%9A%E2%80%9D%E6%92%A4%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 16时25分]"
+        },
+        {
+          "title": "广西“洪水冲下很多尸体”不实",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E2%80%9C%E6%B4%AA%E6%B0%B4%E5%86%B2%E4%B8%8B%E5%BE%88%E5%A4%9A%E5%B0%B8%E4%BD%93%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 16时25分]"
+        },
+        {
+          "title": "广西因灾死亡6人失联11人",
+          "url": "https://www.toutiao.com/trending/7659763555691990554/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 16时25分]"
+        },
+        {
+          "title": "直击南宁洪灾丨横州六蓝水库坝体缺口已无洪水漫出，无人机吊运瓶装水进村",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33534270",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 16时25分]"
+        },
+        {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
           "url": "https://wallstreetcn.com/articles/3776368",
           "source": "华尔街见闻",
@@ -108,63 +182,72 @@
           "time_info": "[10时32分 ~ 13时38分]"
         },
         {
-          "title": "日漫五毒俱全,哈基米上瘾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355983&amp;topic_name=%E6%97%A5%E6%BC%AB%E4%BA%94%E6%AF%92%E4%BF%B1%E5%85%A8%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E4%B8%8A%E7%98%BE",
-          "source": "贴吧",
+          "title": "广西强降雨已致 6 人死亡 11 人失联，已紧急转移安置 13 万人，目前当地救援、安置情况如何？",
+          "url": "https://www.zhihu.com/question/2057927755694600518",
+          "source": "知乎",
           "ranks": [
-            8,
-            15
+            17,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时32分 ~ 13时38分]"
+          "time_info": "[13时38分 ~ 16时25分]"
         },
         {
-          "title": "免费辅导孩子的“神仙物业”撤场",
-          "url": "https://www.baidu.com/s?wd=%E5%85%8D%E8%B4%B9%E8%BE%85%E5%AF%BC%E5%AD%A9%E5%AD%90%E7%9A%84%E2%80%9C%E7%A5%9E%E4%BB%99%E7%89%A9%E4%B8%9A%E2%80%9D%E6%92%A4%E5%9C%BA",
+          "title": "四川宜宾市高县再次发生5.0级地震",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%AB%98%E5%8E%BF%E5%86%8D%E6%AC%A1%E5%8F%91%E7%94%9F5.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
           "source": "百度热搜",
           "ranks": [
-            9,
-            10
+            13,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时32分 ~ 13时38分]"
+          "time_info": "[13时38分 ~ 16时25分]"
         },
         {
           "title": "广西“洪水冲下很多尸体”不实",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E2%80%9C%E6%B4%AA%E6%B0%B4%E5%86%B2%E4%B8%8B%E5%BE%88%E5%A4%9A%E5%B0%B8%E4%BD%93%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "url": "https://www.douyin.com/hot/2562818",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 16时25分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "苹果在与欧盟就应用商店和iPhone规则的法律纠纷中败诉。",
+          "url": "https://wallstreetcn.com/livenews/3130483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "董宇辉陪同昆凌和孩子们爬长城",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E5%AE%87%E8%BE%89%E9%99%AA%E5%90%8C%E6%98%86%E5%87%8C%E5%92%8C%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%88%AC%E9%95%BF%E5%9F%8E",
           "source": "百度热搜",
           "ranks": [
-            11
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 13时38分]"
-        },
-        {
-          "title": "广西因灾死亡6人失联11人",
-          "url": "https://www.toutiao.com/trending/7659763555691990554/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 13时38分]"
-        },
-        {
-          "title": "直击南宁洪灾丨横州六蓝水库坝体缺口已无洪水漫出，无人机吊运瓶装水进村",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33534270",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 13时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "四川高县再发5.0级地震",
@@ -173,7 +256,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -195,7 +278,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -233,17 +316,6 @@
           "time_info": "10时32分"
         },
         {
-          "title": "四川宜宾市高县再次发生5.0级地震",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%AB%98%E5%8E%BF%E5%86%8D%E6%AC%A1%E5%8F%91%E7%94%9F5.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
           "title": "智谱(02513.HK)涨超10%，成交额超60亿港元，报道称智谱考虑自研AI芯片，以应对GLM模型需求快速增长。",
           "url": "https://flash.jin10.com/detail/20260708100531718800",
           "source": "金十数据",
@@ -255,24 +327,13 @@
           "time_info": "10时32分"
         },
         {
-          "title": "广西“洪水冲下很多尸体”不实",
-          "url": "https://www.douyin.com/hot/2562818",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
           "title": "老人吃胡萝卜窒息死亡 保姆判赔20万",
           "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%90%83%E8%83%A1%E8%90%9D%E5%8D%9C%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E4%BF%9D%E5%A7%86%E5%88%A4%E8%B5%9420%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -283,9 +344,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "人社部：到2030年人社行业大模型成熟完备，人工智能应用体系基本健全",
+          "url": "https://wallstreetcn.com/livenews/3130471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "四川高县5.0级地震",
@@ -321,13 +393,24 @@
           "time_info": "10时32分"
         },
         {
+          "title": "财政部、应急管理部紧急预拨5000万元中央自然灾害救灾资金，支持湖北、甘肃做好灾害应急抢险救灾工作。（财政部网站）",
+          "url": "https://wallstreetcn.com/livenews/3130469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "7 月 8 日四川宜宾市高县一天内两次发生 5.0 级地震，当地具体情况如何？你那里有震感吗？",
           "url": "https://www.zhihu.com/question/2058088753860540088",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -338,18 +421,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "广西强降雨已致 6 人死亡 11 人失联，已紧急转移安置 13 万人，目前当地救援、安置情况如何？",
-          "url": "https://www.zhihu.com/question/2057927755694600518",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         },
@@ -360,9 +432,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "人社部：建立人社行业领域人工智能应用协调机制，积极拓宽资金支持渠道",
+          "url": "https://wallstreetcn.com/livenews/3130465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "人社部：加快建立人工智能就业影响评估体系，引导创新资源向创造就业潜力大的方向倾斜",
+          "url": "https://wallstreetcn.com/livenews/3130464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "澳洲养老基金UniSuper无视AI泡沫担忧，计划逢低买入科技股",
@@ -371,9 +465,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "人社部：搭建人工智能应用平台，建设行业高质量数据集和人工智能语料库",
+          "url": "https://wallstreetcn.com/livenews/3130463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "横州被毒蛇咬伤村民发声",
+          "url": "https://www.baidu.com/s?wd=%E6%A8%AA%E5%B7%9E%E8%A2%AB%E6%AF%92%E8%9B%87%E5%92%AC%E4%BC%A4%E6%9D%91%E6%B0%91%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "泰国央行会议纪要：宽松的货币政策以及经济刺激措施在短期内有助于支持经济。",
@@ -420,6 +536,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "孩子列出高考标配清单压垮家长",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%88%97%E5%87%BA%E9%AB%98%E8%80%83%E6%A0%87%E9%85%8D%E6%B8%85%E5%8D%95%E5%8E%8B%E5%9E%AE%E5%AE%B6%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "澳洲联储助理主席Hunter：大型经济冲击可能会带来不确定性、降低信心并抑制消费。 澳洲联储委员会将根据需要采取行动，以确保通胀重回目标水平。 到目前为止，几乎没有迹象表明经济活动出现了明显的放缓。 石油冲击可能会改变通胀预期。 供给冲击并不会降低维持低且稳定通胀率的重要性。 货币政策有可能限制间接影响和第二轮效应。 如果通胀预期上升，可能需要经历一段低通胀和高失业率率的时期。 某些经济代价是无法避免的，政策制定者所能做的只有取得平衡。",
           "url": "https://wallstreetcn.com/livenews/3130269",
           "source": "华尔街见闻-快讯",
@@ -453,13 +580,24 @@
           "time_info": "10时32分"
         },
         {
+          "title": "乘联分会：6月新能源车厂商批发渗透率为62.8%",
+          "url": "https://flash.jin10.com/detail/20260708160916157800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "广西洪水",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
         }
