@@ -1,12 +1,43 @@
 {
-  "generated_at": "2026-07-08T20:21:18.516106+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-07-08T22:56:41.872514+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 72,
+      "match_count": 82,
       "titles": [
+        {
+          "title": "日漫五毒俱全,哈基米上瘾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355983&amp;topic_name=%E6%97%A5%E6%BC%AB%E4%BA%94%E6%AF%92%E4%BF%B1%E5%85%A8%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E4%B8%8A%E7%98%BE",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            15,
+            21,
+            24,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 22时56分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10,
+            13,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时38分 ~ 22时56分]"
+        },
         {
           "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
           "url": "https://www.cls.cn/detail/2419748",
@@ -28,35 +59,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时35分 ~ 18时36分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            10,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 20时21分]"
-        },
-        {
-          "title": "日漫五毒俱全,哈基米上瘾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355983&amp;topic_name=%E6%97%A5%E6%BC%AB%E4%BA%94%E6%AF%92%E4%BF%B1%E5%85%A8%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E4%B8%8A%E7%98%BE",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            15,
-            21,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 20时21分]"
         },
         {
           "title": "新西兰联储：货币政策委员会对通胀前景的看法不一。",
@@ -81,6 +83,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "我国人工智能产业加速发展壮大",
+          "url": "https://www.douyin.com/hot/2563823",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "新西兰联储：由于通胀仍高于目标，且经济活动预计将走强，可能需要进一步减少货币刺激措施，以使通胀回落至2%的目标中点。 未来的官方现金利率（OCR）决策将取决于经济数据、定价行为以及经济活动强度将如何影响中期通胀压力。 中期通胀压力的前景取决于近期成本上涨在多大程度上转化为更高的价格。 尽管能源价格有所下降，但此次冲击的影响仍将持续一段时间，中期通胀压力的前景依然存在不确定性。 货币政策立场的调整旨在使通胀回落至目标水平，同时避免引发不必要的经济动荡。",
           "url": "https://wallstreetcn.com/livenews/3130307",
           "source": "华尔街见闻-快讯",
@@ -101,6 +114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "直击洪水洪峰过境",
+          "url": "https://www.douyin.com/hot/2563858",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "孩子列出高考标配清单压垮家长",
@@ -143,9 +167,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 22时56分]"
         },
         {
           "title": "广西“洪水冲下很多尸体”不实",
@@ -209,19 +247,6 @@
           "time_info": "[10时32分 ~ 13时38分]"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 20时21分]"
-        },
-        {
           "title": "免费辅导孩子的“神仙物业”撤场",
           "url": "https://www.baidu.com/s?wd=%E5%85%8D%E8%B4%B9%E8%BE%85%E5%AF%BC%E5%AD%A9%E5%AD%90%E7%9A%84%E2%80%9C%E7%A5%9E%E4%BB%99%E7%89%A9%E4%B8%9A%E2%80%9D%E6%92%A4%E5%9C%BA",
           "source": "百度热搜",
@@ -233,6 +258,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时32分 ~ 16时25分]"
+        },
+        {
+          "title": "脱口秀演员唐香玉因拒不道歉被强制执行，此前发文意指脱口秀演员埃克偷拍，被诉侵害名誉权，法律上如何解读？",
+          "url": "https://www.zhihu.com/question/2057978038147609237",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 22时56分]"
         },
         {
           "title": "贵港一高校8000师生被洪水围困",
@@ -282,6 +319,42 @@
           "time_info": "[10时32分 ~ 13时38分]"
         },
         {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 22时56分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 22时56分]"
+        },
+        {
+          "title": "丈夫掐脖灌水致出轨妻子死亡获刑",
+          "url": "https://www.toutiao.com/trending/7660052066710372406/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 22时56分]"
+        },
+        {
           "title": "广西横州3个偏远村被洪水围困",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%A8%AA%E5%B7%9E3%E4%B8%AA%E5%81%8F%E8%BF%9C%E6%9D%91%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%9B%B4%E5%9B%B0%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -314,17 +387,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 16时25分]"
-        },
-        {
-          "title": "脱口秀演员唐香玉因拒不道歉被强制执行，此前发文意指脱口秀演员埃克偷拍，被诉侵害名誉权，法律上如何解读？",
-          "url": "https://www.zhihu.com/question/2057978038147609237",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "广东肇庆洪水或淹到一楼天花板",
@@ -366,7 +428,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -380,28 +442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
-        },
-        {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
         },
         {
           "title": "国家发展改革委紧急安排5000万元中央预算内投资支持湖北风雹等灾害灾后应急恢复",
@@ -437,17 +477,6 @@
           "time_info": "10时32分"
         },
         {
-          "title": "丈夫掐脖灌水致出轨妻子死亡获刑",
-          "url": "https://www.toutiao.com/trending/7660052066710372406/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
           "title": "四川高县5.0级地震",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%B7%9D%E9%AB%98%E5%8E%BF5.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
           "source": "bilibili 热搜",
@@ -476,9 +505,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        },
+        {
+          "title": "替代HBM4？英特尔公布AI内存新专利 采用定制化封装方案",
+          "url": "https://www.cls.cn/detail/2420295",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "智谱(02513.HK)涨超10%，成交额超60亿港元，报道称智谱考虑自研AI芯片，以应对GLM模型需求快速增长。",
@@ -492,6 +532,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "广西洪水现状",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "老人吃胡萝卜窒息死亡 保姆判赔20万",
           "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%90%83%E8%83%A1%E8%90%9D%E5%8D%9C%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E4%BF%9D%E5%A7%86%E5%88%A4%E8%B5%9420%E4%B8%87",
           "source": "百度热搜",
@@ -501,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "孩子看牙后痊愈 家长报警要求退诊费",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E7%9C%8B%E7%89%99%E5%90%8E%E7%97%8A%E6%84%88+%E5%AE%B6%E9%95%BF%E6%8A%A5%E8%AD%A6%E8%A6%81%E6%B1%82%E9%80%80%E8%AF%8A%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "中国地震台网正式测定：07月08日13时05分在四川宜宾市高县（北纬28.51度，东经104.68度）发生3.0级地震，震源深度6千米。",
@@ -580,6 +642,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "Mistral AI 发布机器人模型，助力“具身智能”发展",
+          "url": "https://wallstreetcn.com/livenews/3130753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "7 月 8 日四川宜宾市高县一天内两次发生 5.0 级地震，当地具体情况如何？你那里有震感吗？",
           "url": "https://www.zhihu.com/question/2058088753860540088",
           "source": "知乎",
@@ -602,15 +675,37 @@
           "time_info": "13时38分"
         },
         {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "孩子看牙后痊愈 家长报警要求退诊费",
           "url": "https://www.toutiao.com/trending/7659999485712039999/",
           "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        },
+        {
+          "title": "直击南宁洪灾丨村民用抓木机在洪水中打捞生猪：等失主认领，无主猪将捐出",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33540460",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
@@ -644,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "大叔将咬人毒蛇剪两段 蛇头跑了",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8F%94%E5%B0%86%E5%92%AC%E4%BA%BA%E6%AF%92%E8%9B%87%E5%89%AA%E4%B8%A4%E6%AE%B5+%E8%9B%87%E5%A4%B4%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "澳洲养老基金UniSuper无视AI泡沫担忧，计划逢低买入科技股",
@@ -707,7 +813,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -718,7 +824,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -800,6 +906,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "据报道，特朗普政府解除对OpenAI GPT 5.6的限制。",
+          "url": "https://wallstreetcn.com/livenews/3130739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "广西洪水",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -817,7 +934,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         }
