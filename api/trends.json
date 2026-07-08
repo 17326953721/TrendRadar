@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T18:36:17.165317+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-07-08T20:21:18.516106+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 62,
+      "match_count": 72,
       "titles": [
         {
           "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
@@ -28,6 +28,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 20时21分]"
+        },
+        {
+          "title": "日漫五毒俱全,哈基米上瘾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355983&amp;topic_name=%E6%97%A5%E6%BC%AB%E4%BA%94%E6%AF%92%E4%BF%B1%E5%85%A8%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E4%B8%8A%E7%98%BE",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            15,
+            21,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 20时21分]"
         },
         {
           "title": "新西兰联储：货币政策委员会对通胀前景的看法不一。",
@@ -86,19 +115,6 @@
           "time_info": "[16时25分 ~ 18时36分]"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 18时36分]"
-        },
-        {
           "title": "新西兰联储：委员会一致认为，所有这些上行和下行风险都与中期通胀前景相关，并将对今后的货币政策立场产生重要影响。",
           "url": "https://flash.jin10.com/detail/20260708100750476800",
           "source": "金十数据",
@@ -121,18 +137,15 @@
           "time_info": "16时25分"
         },
         {
-          "title": "日漫五毒俱全,哈基米上瘾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355983&amp;topic_name=%E6%97%A5%E6%BC%AB%E4%BA%94%E6%AF%92%E4%BF%B1%E5%85%A8%2C%E5%93%88%E5%9F%BA%E7%B1%B3%E4%B8%8A%E7%98%BE",
-          "source": "贴吧",
+          "title": "航拍直击横州洪水现状",
+          "url": "https://www.douyin.com/hot/2563258",
+          "source": "抖音",
           "ranks": [
-            8,
-            15,
-            21,
-            24
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 18时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "广西“洪水冲下很多尸体”不实",
@@ -144,6 +157,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时32分 ~ 18时36分]"
+        },
+        {
+          "title": "广西强降雨已致 6 人死亡 11 人失联，已紧急转移安置 13 万人，目前当地救援、安置情况如何？",
+          "url": "https://www.zhihu.com/question/2057927755694600518",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 20时21分]"
+        },
+        {
+          "title": "广西“洪水冲下很多尸体”不实",
+          "url": "https://www.douyin.com/hot/2562818",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 20时21分]"
         },
         {
           "title": "广西因灾死亡6人失联11人",
@@ -172,40 +209,17 @@
           "time_info": "[10时32分 ~ 13时38分]"
         },
         {
-          "title": "广西强降雨已致 6 人死亡 11 人失联，已紧急转移安置 13 万人，目前当地救援、安置情况如何？",
-          "url": "https://www.zhihu.com/question/2057927755694600518",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 18时36分]"
-        },
-        {
-          "title": "广西“洪水冲下很多尸体”不实",
-          "url": "https://www.douyin.com/hot/2562818",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 18时36分]"
-        },
-        {
           "title": "日本高中生携AI爆破被捕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
           "source": "贴吧",
           "ranks": [
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时36分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 20时21分]"
         },
         {
           "title": "免费辅导孩子的“神仙物业”撤场",
@@ -219,6 +233,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时32分 ~ 16时25分]"
+        },
+        {
+          "title": "贵港一高校8000师生被洪水围困",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E6%B8%AF%E4%B8%80%E9%AB%98%E6%A0%A18000%E5%B8%88%E7%94%9F%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%9B%B4%E5%9B%B0",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 20时21分]"
         },
         {
           "title": "直击南宁洪灾丨横州六蓝水库坝体缺口已无洪水漫出，无人机吊运瓶装水进村",
@@ -290,17 +316,6 @@
           "time_info": "[13时38分 ~ 16时25分]"
         },
         {
-          "title": "贵港一高校8000师生被洪水围困",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E6%B8%AF%E4%B8%80%E9%AB%98%E6%A0%A18000%E5%B8%88%E7%94%9F%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%9B%B4%E5%9B%B0",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
-        },
-        {
           "title": "脱口秀演员唐香玉因拒不道歉被强制执行，此前发文意指脱口秀演员埃克偷拍，被诉侵害名誉权，法律上如何解读？",
           "url": "https://www.zhihu.com/question/2057978038147609237",
           "source": "知乎",
@@ -345,6 +360,17 @@
           "time_info": "16时25分"
         },
         {
+          "title": "自然资源部：未来几天受“巴威”影响，风暴潮、海浪灾害最高预警级别预计均将达到红色",
+          "url": "https://wallstreetcn.com/livenews/3130670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "四川高县再发5.0级地震",
           "url": "https://www.douyin.com/hot/2562710",
           "source": "抖音",
@@ -354,6 +380,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "国家发展改革委紧急安排5000万元中央预算内投资支持湖北风雹等灾害灾后应急恢复",
@@ -389,6 +437,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "丈夫掐脖灌水致出轨妻子死亡获刑",
+          "url": "https://www.toutiao.com/trending/7660052066710372406/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "四川高县5.0级地震",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%B7%9D%E9%AB%98%E5%8E%BF5.0%E7%BA%A7%E5%9C%B0%E9%9C%87",
           "source": "bilibili 热搜",
@@ -409,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "广西洪水捐款",
+          "url": "https://www.douyin.com/hot/2563619",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "智谱(02513.HK)涨超10%，成交额超60亿港元，报道称智谱考虑自研AI芯片，以应对GLM模型需求快速增长。",
@@ -450,7 +520,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -532,6 +602,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "孩子看牙后痊愈 家长报警要求退诊费",
+          "url": "https://www.toutiao.com/trending/7659999485712039999/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
           "url": "https://wallstreetcn.com/livenews/3130368",
           "source": "华尔街见闻-快讯",
@@ -604,7 +685,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -618,6 +699,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "张雨霏发视频AI模仿哈兰德",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%8F%91%E8%A7%86%E9%A2%91AI%E6%A8%A1%E4%BB%BF%E5%93%88%E5%85%B0%E5%BE%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "男子提及被洪水冲散家人满脸自责",
+          "url": "https://www.toutiao.com/trending/7659794302717853759/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "新西兰联储：货币政策的立场经过精心调整，旨在将通胀率恢复至目标水平，同时避免造成不必要的经济不稳定。",
@@ -670,7 +773,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -706,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "中国央行：要继续实施适度宽松的货币政策，加大逆周期和跨周期调节力度",
+          "url": "https://wallstreetcn.com/livenews/3130638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     }
