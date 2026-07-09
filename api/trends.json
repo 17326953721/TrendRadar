@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T18:24:31.845733+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-07-09T21:29:07.691112+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 54,
+      "match_count": 65,
       "titles": [
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
@@ -17,8 +17,59 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时47分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[10时47分 ~ 21时29分]"
+        },
+        {
+          "title": "一图看懂 | 下周打新，科创板最能赚钱的企业要来了",
+          "url": "https://www.cls.cn/detail/2421703",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 21时29分]"
+        },
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 21时29分]"
+        },
+        {
+          "title": "直击南宁洪灾丨横州一蛇场被冲毁有村民被毒蛇咬伤身亡，有村民称割开伤口用嘴吸出毒血",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544488",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时47分 ~ 21时29分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            24,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时47分 ~ 21时29分]"
         },
         {
           "title": "六蓝水库溃口洪灾致26人死亡",
@@ -78,6 +129,17 @@
           "time_info": "[14时42分 ~ 18时24分]"
         },
         {
+          "title": "美联储威廉姆斯：资产负债表规模不应主导监管政策调整。监管规则制定应以银行稳健安全为核心。",
+          "url": "https://flash.jin10.com/detail/20260709210919360800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
           "url": "https://www.cls.cn/detail/2421292",
           "source": "财联社热门",
@@ -90,15 +152,15 @@
           "time_info": "[14时42分 ~ 18时24分]"
         },
         {
-          "title": "一图看懂 | 下周打新，科创板最能赚钱的企业要来了",
-          "url": "https://www.cls.cn/detail/2421703",
-          "source": "财联社热门",
+          "title": "四川宜宾5.0级地震造成4人受轻微伤 震区社会秩序总体平稳",
+          "url": "https://flash.jin10.com/detail/20260709210754467800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "21时29分"
         },
         {
           "title": "俄罗斯国家杜马通过人工智能监管法案",
@@ -112,41 +174,16 @@
           "time_info": "10时48分"
         },
         {
-          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
-          "url": "https://wallstreetcn.com/articles/3776526",
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
           "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "直击南宁洪灾丨横州一蛇场被冲毁有村民被毒蛇咬伤身亡，有村民称割开伤口用嘴吸出毒血",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544488",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            13
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时47分 ~ 18时24分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时47分 ~ 18时24分]"
+          "time_info": "[14时42分 ~ 21时29分]"
         },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -173,6 +210,18 @@
           "time_info": "[10时47分 ~ 14时43分]"
         },
         {
+          "title": "广西贵港动物园草食动物被洪水冲散，工作人员：提前将猛兽锁在笼舍内，有狮子被淹死",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544451",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 21时29分]"
+        },
+        {
           "title": "四川宜宾市高县 7 月 9 日发生 4.8 级地震，目前情况怎么样？哪些地方有震感？",
           "url": "https://www.zhihu.com/question/2058462111974385367",
           "source": "知乎",
@@ -197,16 +246,40 @@
           "time_info": "[10时47分 ~ 14时43分]"
         },
         {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
+          "title": "地震只是最后一击：海滨小城的两周自救与三重崩塌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33535058",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            6
+            17,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时42分 ~ 18时24分]"
+          "time_info": "[18时24分 ~ 21时29分]"
+        },
+        {
+          "title": "广西贵港动物园上百只动物因洪水走失，园方发布紧急寻物启事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547355",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 21时29分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 21时29分]"
         },
         {
           "title": "乌克兰无人机打穿俄能源防线？十大炼油厂九家遇袭，普京紧急开会商讨燃油危机",
@@ -275,6 +348,50 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
+          "title": "海力士美股IPO点燃AI热情，美光盘前涨3%、康宁涨5%，韩股弱势反弹，黄金触及4100",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "“广西横州抗蛇毒血清告急”不实",
+          "url": "https://www.toutiao.com/trending/7660474456149659146/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "“广西横州抗蛇毒血清告急”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E8%A5%BF%E6%A8%AA%E5%B7%9E%E6%8A%97%E8%9B%87%E6%AF%92%E8%A1%80%E6%B8%85%E5%91%8A%E6%80%A5%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "四川宜宾高县发生4.8级地震，震源深度6千米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546925",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
           "title": "熊孩子捅毁燕窝5只燕宝宝全部死亡",
           "url": "https://www.baidu.com/s?wd=%E7%86%8A%E5%AD%A9%E5%AD%90%E6%8D%85%E6%AF%81%E7%87%95%E7%AA%9D5%E5%8F%AA%E7%87%95%E5%AE%9D%E5%AE%9D%E5%85%A8%E9%83%A8%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
@@ -284,6 +401,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "“横州抗蛇毒血清告急”消息不实",
+          "url": "https://www.douyin.com/hot/2563303",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "宜宾高县地震",
@@ -319,15 +447,15 @@
           "time_info": "[10时47分 ~ 10时48分]"
         },
         {
-          "title": "广西贵港动物园草食动物被洪水冲散，工作人员：提前将猛兽锁在笼舍内，有狮子被淹死",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544451",
-          "source": "澎湃新闻",
+          "title": "AI预测法国夺冠概率居首",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BD%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%B1%85%E9%A6%96%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时43分]"
+          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "蛇场被冲毁 有村民被咬伤用嘴吸毒血",
@@ -361,6 +489,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "洪水漫腰妻子被困 丈夫游一公里寻妻",
+          "url": "https://www.toutiao.com/trending/7660380526028931078/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "广西洪水农户冒雨抢收仅剩的花生",
@@ -435,7 +574,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -446,7 +585,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -457,7 +596,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -468,7 +607,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -484,37 +623,26 @@
           "time_info": "14时43分"
         },
         {
-          "title": "地震只是最后一击：海滨小城的两周自救与三重崩塌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33535058",
-          "source": "澎湃新闻",
+          "title": "据The Information：初创公司PrismML称已将270亿参数的AI模型压缩至可在iPhone上运行。苹果已与PrismML讨论其可能利用该技术的方式。",
+          "url": "https://flash.jin10.com/detail/20260709210417731800",
+          "source": "金十数据",
           "ranks": [
-            17
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "21时29分"
         },
         {
-          "title": "广西贵港动物园上百只动物因洪水走失，园方发布紧急寻物启事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547355",
-          "source": "澎湃新闻",
+          "title": "“普洱茶第一股”澜沧古茶自曝内控危机：前高管私挪千万公款，库存盘亏35吨茶叶",
+          "url": "https://wallstreetcn.com/livenews/3131380",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "21时29分"
         },
         {
           "title": "网络平台数据显示，截至目前，2026年度电影总票房已突破180亿元。（央视新闻）",
@@ -523,7 +651,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -534,7 +662,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -567,7 +695,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -578,7 +706,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -611,7 +739,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
