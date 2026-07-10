@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T20:42:18.376907+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-07-10T23:32:34.582661+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 85,
+      "match_count": 96,
       "titles": [
         {
           "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 20时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 23时32分]"
         },
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -33,18 +33,6 @@
           "time_info": "[00时13分 ~ 14时44分]"
         },
         {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 14时44分]"
-        },
-        {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
@@ -55,8 +43,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 20时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 23时32分]"
+        },
+        {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 23时32分]"
+        },
+        {
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 14时44分]"
         },
         {
           "title": "广西洪水致大批学生被困，「救援航母」开入校园，这是种什么装备？救灾中还有哪些硬核科技派上了用场？",
@@ -72,17 +85,43 @@
           "time_info": "[10时50分 ~ 18时23分]"
         },
         {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
+          "title": "当救援航母驶入洪水校园",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%95%91%E6%8F%B4%E8%88%AA%E6%AF%8D%E9%A9%B6%E5%85%A5%E6%B4%AA%E6%B0%B4%E6%A0%A1%E5%9B%AD",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            6,
-            5
+            15,
+            25,
+            20,
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 20时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 23时32分]"
+        },
+        {
+          "title": "台风来袭！请收好这份法律小贴士",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD%EF%BC%81%E8%AF%B7%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BD%E6%B3%95%E5%BE%8B%E5%B0%8F%E8%B4%B4%E5%A3%AB",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 23时32分]"
+        },
+        {
+          "title": "山东「六毛网吧」吃饭上网日均 25 元，为何会成为中年失意男人的「避难所」？",
+          "url": "https://www.zhihu.com/question/2057778953075561733",
+          "source": "知乎",
+          "ranks": [
+            15,
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 23时32分]"
         },
         {
           "title": "AI投资已成通胀主要推手？美联储“三把手”：或被迫加息应对！",
@@ -97,18 +136,6 @@
           "time_info": "[18时23分 ~ 20时42分]"
         },
         {
-          "title": "山东「六毛网吧」吃饭上网日均 25 元，为何会成为中年失意男人的「避难所」？",
-          "url": "https://www.zhihu.com/question/2057778953075561733",
-          "source": "知乎",
-          "ranks": [
-            15,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 20时42分]"
-        },
-        {
           "title": "谷歌(GOOG.O)：推出广告主控制功能以披露生成性人工智能的使用；广告上可能会出现标签。",
           "url": "https://flash.jin10.com/detail/20260710000936587800",
           "source": "金十数据",
@@ -120,6 +147,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "水利部针对浙江福建启动洪水防御Ⅳ级应急响应",
+          "url": "https://flash.jin10.com/detail/20260710232340527800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "AI原生信用卡Kimi信用卡敲定美国运通、农业银行",
           "url": "https://wallstreetcn.com/livenews/3131795",
           "source": "华尔街见闻-快讯",
@@ -129,20 +167,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
-        },
-        {
-          "title": "当救援航母驶入洪水校园",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%95%91%E6%8F%B4%E8%88%AA%E6%AF%8D%E9%A9%B6%E5%85%A5%E6%B4%AA%E6%B0%B4%E6%A0%A1%E5%9B%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            25,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 20时42分]"
         },
         {
           "title": "一图看懂 | 下周打新，科创板最能赚钱的企业要来了",
@@ -212,17 +236,6 @@
           "time_info": "[00时13分 ~ 10时51分]"
         },
         {
-          "title": "台风来袭！请收好这份法律小贴士",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD%EF%BC%81%E8%AF%B7%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BD%E6%B3%95%E5%BE%8B%E5%B0%8F%E8%B4%B4%E5%A3%AB",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "东方电热：公司电子皮肤产品主要用于新能源汽车智能座舱 且已开始量产",
           "url": "https://flash.jin10.com/detail/20260710175224340800",
           "source": "金十数据",
@@ -245,13 +258,24 @@
           "time_info": "00时13分"
         },
         {
+          "title": "据日经新闻：大众汽车正寻求与日产合作，在美国开发一款大型SUV。",
+          "url": "https://flash.jin10.com/detail/20260710232121996800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "黄金震荡反复无常，多空博弈鹿死谁手？市场在等什么信号？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
           "url": "https://flash.jin10.com/detail/20260710201658568800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -302,6 +326,18 @@
           "time_info": "[14时43分 ~ 20时42分]"
         },
         {
+          "title": "争洛阳扑街,曹操成票房毒药",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356071&amp;topic_name=%E4%BA%89%E6%B4%9B%E9%98%B3%E6%89%91%E8%A1%97%2C%E6%9B%B9%E6%93%8D%E6%88%90%E7%A5%A8%E6%88%BF%E6%AF%92%E8%8D%AF",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 23时32分]"
+        },
+        {
           "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
           "source": "澎湃新闻",
@@ -312,6 +348,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 10时51分]"
+        },
+        {
+          "title": "洪水肆虐养猪场,老板血亏500万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356065&amp;topic_name=%E6%B4%AA%E6%B0%B4%E8%82%86%E8%99%90%E5%85%BB%E7%8C%AA%E5%9C%BA%2C%E8%80%81%E6%9D%BF%E8%A1%80%E4%BA%8F500%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 23时32分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 23时32分]"
         },
         {
           "title": "“广西横州抗蛇毒血清告急”不实",
@@ -336,28 +396,28 @@
           "time_info": "[00时13分 ~ 10时51分]"
         },
         {
-          "title": "争洛阳扑街,曹操成票房毒药",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356071&amp;topic_name=%E4%BA%89%E6%B4%9B%E9%98%B3%E6%89%91%E8%A1%97%2C%E6%9B%B9%E6%93%8D%E6%88%90%E7%A5%A8%E6%88%BF%E6%AF%92%E8%8D%AF",
-          "source": "贴吧",
+          "title": "消失的集体悲愤：印度的“嫁妆死亡”为何正淡出公众视野？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33550973",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            12
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 20时42分]"
+          "time_info": "[20时42分 ~ 23时32分]"
         },
         {
-          "title": "洪水肆虐养猪场,老板血亏500万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356065&amp;topic_name=%E6%B4%AA%E6%B0%B4%E8%82%86%E8%99%90%E5%85%BB%E7%8C%AA%E5%9C%BA%2C%E8%80%81%E6%9D%BF%E8%A1%80%E4%BA%8F500%E4%B8%87",
-          "source": "贴吧",
+          "title": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
+          "url": "https://www.zhihu.com/question/2056407322340103396",
+          "source": "知乎",
           "ranks": [
-            9,
-            13
+            13,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 20时42分]"
+          "time_info": "[20时42分 ~ 23时32分]"
         },
         {
           "title": "洪水把剧毒银环蛇冲进家 躲在抽屉里",
@@ -365,18 +425,6 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 20时42分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
-          "ranks": [
-            12,
             10
           ],
           "is_new": false,
@@ -571,6 +619,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "广西60岁老人被洪水卷来的眼镜蛇咬伤后去世，全村仍在排雷式搜蛇",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33555877",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "应对台风“巴威”，自然资源部对浙江福建启动地质灾害防御Ⅲ级响应。（央视）",
           "url": "https://wallstreetcn.com/livenews/3131456",
           "source": "华尔街见闻-快讯",
@@ -593,6 +652,17 @@
           "time_info": "10时51分"
         },
         {
+          "title": "美联储半年度货币政策报告：美国劳动力市场大致稳定，生产率强劲。 由于移民放缓和人口结构转变，劳动力供给增长有所下降。 与人工智能（AI）相关的数据中心投资推动了强劲的工厂产出；美国的生产能力正以“稳健的步伐”提升。 2026年上半年，受中东冲突和美国关税的逆风影响，外国经济活动增长疲软，但部分被AI投资所抵消。 原本已经处于高位的通胀在春季进一步抬头。 高通胀在一定程度上反映了供给冲击。 通胀依然处于高位，主要受关税、中东战争相关因素以及AI的推动。 包括截尾均值在内的一些通胀指标有所下降。 尽管伊朗战争带来了较高的不确定性，经济活动仍以稳健的步伐扩张。 重申维持价格稳定的承诺。 准备动用一切工具来实现双重使命（实现充分就业+维持价格稳定）。",
+          "url": "https://wallstreetcn.com/livenews/3132157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "报道：Meta自研AI芯片“Iris”计划9月量产，2027年算力拟翻倍至14吉瓦",
           "url": "https://wallstreetcn.com/articles/3776581",
           "source": "华尔街见闻",
@@ -604,6 +674,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
+          "url": "https://wallstreetcn.com/articles/3776629",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "广西贵港动物园上百只动物因洪水走失，园方发布紧急寻物启事",
           "url": "https://m.thepaper.cn/newsDetail_forward_33547355",
           "source": "澎湃新闻",
@@ -613,17 +694,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
-        },
-        {
-          "title": "消失的集体悲愤：印度的“嫁妆死亡”为何正淡出公众视野？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33550973",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "市场监管总局举办AI赋能信用监管专题讲座",
@@ -714,24 +784,13 @@
           "time_info": "00时13分"
         },
         {
-          "title": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
-          "url": "https://www.zhihu.com/question/2056407322340103396",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "五大AI预测世界杯4强名单",
           "url": "https://www.toutiao.com/trending/7659706463520997419/",
           "source": "今日头条",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -742,9 +801,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "高盛：人工智能带来的内存、软件和电力价格综合上涨效应，正为美国核心PCE同比通胀贡献超过0.2个百分点，且到年底这一贡献将升至0.5个百分点。",
+          "url": "https://flash.jin10.com/detail/20260710231356546800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "金十数据整理：欧盘美盘重要新闻汇总（2026-07-10）",
+          "url": "https://flash.jin10.com/detail/20260710231335619800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "“00后”人工智能学者唐晨宇已任北大助理教授、博导",
@@ -780,13 +861,24 @@
           "time_info": "14时44分"
         },
         {
+          "title": "美联储：AI相关投资推动产出强劲增长 伊朗战争不确定性仍是主要风险",
+          "url": "https://flash.jin10.com/detail/20260710231132564800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "财政部、应急管理部再次紧急预拨8000万元中央自然灾害救灾资金，支持广西重点做好受灾群众救助工作。（财政部网站）",
           "url": "https://wallstreetcn.com/livenews/3132051",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -841,9 +933,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
+        },
+        {
+          "title": "SK主席Chey Tae Won：我们已经在美国IPO问题上等待了十五年。 如果回报不错，我们希望能扩大（SK海力士的）ADR规模。 人工智能（AI）扩张，意味着“这是我们的时机”。 AI agents繁荣，意味着人们需要大量的存储芯片。 在AI冲击到AGI之前，对存储芯片的需求不会正常化。 （我们）既定的扩张计划是不够的。 需求将会增长，我对此有一些信心。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3132144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "“全球首款智能体手机”已备货8万至10万台？知情人士：假的！",
@@ -855,6 +958,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "“网智融合，开源向善”边会呼吁AI普惠向善发展",
+          "url": "https://wallstreetcn.com/livenews/3132143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "男子进山捡菌子死亡：或遭熊袭击",
@@ -899,6 +1013,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "虾塘老板洪水中冒死救回守夜工人",
+          "url": "https://www.toutiao.com/trending/7659752876708872198/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "万字解析BLG战胜HLE博弈",
