@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T19:52:06.436897+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-07-11T21:15:11.008132+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 63,
+      "match_count": 69,
       "titles": [
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 19时52分]"
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 21时15分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -30,8 +30,53 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时27分 ~ 19时52分]"
+          "appearance_count": 9,
+          "time_info": "[13时27分 ~ 21时15分]"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 21时15分]"
+        },
+        {
+          "title": "争洛阳扑街,曹操成票房毒药",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356071&amp;topic_name=%E4%BA%89%E6%B4%9B%E9%98%B3%E6%89%91%E8%A1%97%2C%E6%9B%B9%E6%93%8D%E6%88%90%E7%A5%A8%E6%88%BF%E6%AF%92%E8%8D%AF",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            18,
+            19,
+            21,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 21时15分]"
+        },
+        {
+          "title": "洪水肆虐养猪场,老板血亏500万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356065&amp;topic_name=%E6%B4%AA%E6%B0%B4%E8%82%86%E8%99%90%E5%85%BB%E7%8C%AA%E5%9C%BA%2C%E8%80%81%E6%9D%BF%E8%A1%80%E4%BA%8F500%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            19,
+            20,
+            22,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 21时15分]"
         },
         {
           "title": "国产新能源重卡组团出海",
@@ -69,49 +114,6 @@
           "time_info": "[10时29分 ~ 17时08分]"
         },
         {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 19时52分]"
-        },
-        {
-          "title": "争洛阳扑街,曹操成票房毒药",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356071&amp;topic_name=%E4%BA%89%E6%B4%9B%E9%98%B3%E6%89%91%E8%A1%97%2C%E6%9B%B9%E6%93%8D%E6%88%90%E7%A5%A8%E6%88%BF%E6%AF%92%E8%8D%AF",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            18,
-            19,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 19时52分]"
-        },
-        {
-          "title": "洪水肆虐养猪场,老板血亏500万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356065&amp;topic_name=%E6%B4%AA%E6%B0%B4%E8%82%86%E8%99%90%E5%85%BB%E7%8C%AA%E5%9C%BA%2C%E8%80%81%E6%9D%BF%E8%A1%80%E4%BA%8F500%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            19,
-            20,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 19时52分]"
-        },
-        {
           "title": "东京2.7万人集会促高市早苗下台，希望中日友好关系传承下去",
           "url": "https://news.ifeng.com/c/8ufZNmkjeaH",
           "source": "凤凰网",
@@ -119,8 +121,46 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时25分 ~ 21时15分]"
+        },
+        {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时08分 ~ 21时15分]"
+        },
+        {
+          "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33557236",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时25分 ~ 19时52分]"
+          "time_info": "[18时41分 ~ 21时15分]"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 21时15分]"
         },
         {
           "title": "台风来袭！请收好这份法律小贴士",
@@ -140,18 +180,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "中国地震台网正式测定：07月11日19时14分在云南大理州洱源县（北纬26.12度，东经99.86度）发生3.3级地震，震源深度11千米。",
-          "url": "https://wallstreetcn.com/livenews/3132349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -174,18 +203,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "湖北启动地质灾害防御Ⅲ级响应",
-          "url": "https://wallstreetcn.com/livenews/3132348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -215,30 +233,6 @@
           "time_info": "13时27分"
         },
         {
-          "title": "南大西洋南桑威奇群岛发生6.4级地震",
-          "url": "https://wallstreetcn.com/livenews/3132347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时08分 ~ 19时52分]"
-        },
-        {
           "title": "自然资源部对天津辽宁吉林启动地质灾害防御Ⅳ级响应",
           "url": "https://wallstreetcn.com/livenews/3132307",
           "source": "华尔街见闻-快讯",
@@ -264,6 +258,19 @@
           "time_info": "[13时27分 ~ 15时25分]"
         },
         {
+          "title": "越南富国岛快艇倾覆事故已致15人死亡",
+          "url": "https://wallstreetcn.com/livenews/3132336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时15分]"
+        },
+        {
           "title": "两部门紧急预拨4000万元中央自然灾害救灾资金 支持福建、浙江做好“巴威”台风应急抢险救灾工作",
           "url": "https://flash.jin10.com/detail/20260711183253607800",
           "source": "金十数据",
@@ -274,6 +281,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时42分 ~ 19时52分]"
+        },
+        {
+          "title": "中国地震台网正式测定：07月11日19时14分在云南大理州洱源县（北纬26.12度，东经99.86度）发生3.3级地震，震源深度11千米。",
+          "url": "https://wallstreetcn.com/livenews/3132349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时15分]"
         },
         {
           "title": "美国疾病控制与预防中心报告称，刚果（金）一名美国公民确诊感染本迪布焦埃博拉病毒。",
@@ -288,18 +307,6 @@
           "time_info": "[10时29分 ~ 13时27分]"
         },
         {
-          "title": "直播丨台风“巴威”，威力不减！澎湃新闻多路“追风小队”直击抗台防汛第一线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33557236",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 19时52分]"
-        },
-        {
           "title": "中国新能源重卡刷新出海纪录",
           "url": "https://wallstreetcn.com/livenews/3132283",
           "source": "华尔街见闻-快讯",
@@ -312,16 +319,16 @@
           "time_info": "[10时29分 ~ 13时27分]"
         },
         {
-          "title": "越南富国岛快艇倾覆事故已致15人死亡",
-          "url": "https://wallstreetcn.com/livenews/3132336",
+          "title": "湖北启动地质灾害防御Ⅲ级响应",
+          "url": "https://wallstreetcn.com/livenews/3132348",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时52分]"
+          "time_info": "[19时52分 ~ 21时15分]"
         },
         {
           "title": "发现大家赚钱的思路好清晰",
@@ -337,15 +344,39 @@
           "time_info": "[15时25分 ~ 18时42分]"
         },
         {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.toutiao.com/trending/7660829419656888339/",
-          "source": "今日头条",
+          "title": "南大西洋南桑威奇群岛发生6.4级地震",
+          "url": "https://wallstreetcn.com/livenews/3132347",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            5,
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时15分]"
+        },
+        {
+          "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
+          "url": "https://www.zhihu.com/question/2058964046766945142",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时41分 ~ 19时52分]"
+          "time_info": "[18时41分 ~ 21时15分]"
+        },
+        {
+          "title": "孩子发烧邹市明在房间里打游戏",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%8F%91%E7%83%A7%E9%82%B9%E5%B8%82%E6%98%8E%E5%9C%A8%E6%88%BF%E9%97%B4%E9%87%8C%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时51分 ~ 21时15分]"
         },
         {
           "title": "水利部针对浙江福建洪水防御应急响应提升至Ⅲ级。",
@@ -445,6 +476,18 @@
           "time_info": "[18时42分 ~ 19时52分]"
         },
         {
+          "title": "财政部、应急管理部紧急预拨4000万元中央自然灾害救灾资金，支持福建、浙江做好“巴威”台风应急抢险救灾工作。",
+          "url": "https://wallstreetcn.com/livenews/3132341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时15分]"
+        },
+        {
           "title": "三菱地所（Mitsubishi Estate）将投资1.5万亿日元用于日本数据中心建设。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3132297",
           "source": "华尔街见闻-快讯",
@@ -468,6 +511,17 @@
           "time_info": "[18时41分 ~ 18时42分]"
         },
         {
+          "title": "日本砸钱抢印度AI精英赢面几何",
+          "url": "https://www.toutiao.com/trending/7661191119467712042/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
           "title": "一位家长说自己不限制孩子玩手机，等到孩子玩腻了、感觉无聊了就不玩了，请问这有可能吗？",
           "url": "https://www.zhihu.com/question/2056407322340103396",
           "source": "知乎",
@@ -478,17 +532,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时29分 ~ 13时27分]"
-        },
-        {
-          "title": "家长投诉孩子期末考试无分数，只有考试等级，教育部称减负不是剥夺家长知分权，学校该如何解决家长这一诉求？",
-          "url": "https://www.zhihu.com/question/2058964046766945142",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -534,17 +577,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时29分 ~ 13时27分]"
-        },
-        {
-          "title": "孩子发烧邹市明在房间里打游戏",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%8F%91%E7%83%A7%E9%82%B9%E5%B8%82%E6%98%8E%E5%9C%A8%E6%88%BF%E9%97%B4%E9%87%8C%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 19时52分]"
         },
         {
           "title": "当哈佛学生高喊「f*ckAI」，复旦学生已开始考 AI，这反映了东西方教育理念对人工智能的何种差异？",
@@ -619,20 +651,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
         {
-          "title": "财政部、应急管理部紧急预拨4000万元中央自然灾害救灾资金，支持福建、浙江做好“巴威”台风应急抢险救灾工作。",
-          "url": "https://wallstreetcn.com/livenews/3132341",
-          "source": "华尔街见闻-快讯",
+          "title": "据沙特国家新闻社：沙特工业和矿产资源大臣班达尔·阿尔-霍拉耶夫被解除职务。",
+          "url": "https://flash.jin10.com/detail/20260711203910216800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "21时15分"
         },
         {
           "title": "德国地学研究中心GFZ：南桑威奇群岛地区发生6.6级地震。",
@@ -641,9 +673,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "据沙特国家新闻社：沙特王室任命能源大臣阿卜杜勒阿齐兹·本·沙特国王萨勒曼兼任工业和矿产资源大臣。",
+          "url": "https://flash.jin10.com/detail/20260711203809182800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "日元暴跌何以可能引发美国金融危机",
+          "url": "https://flash.jin10.com/detail/20260711203120435800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "习近平同朝鲜劳动党总书记、国务委员会委员长金正恩就《中朝友好合作互助条约》签订65周年互致贺电。（央视新闻）",
@@ -666,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "金十图示：2026年07月11日（周六）新闻联播今日要点",
+          "url": "https://flash.jin10.com/detail/20260711202845480800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "刚果民主共和国：确认的埃博拉病例数量上升至1830例，其中包括648例死亡。",
@@ -721,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "“滦河2026年第1号洪水”形成 海河防总启动防汛Ⅲ级应急响应",
+          "url": "https://flash.jin10.com/detail/20260711194606296800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "山西长治潞州区突发大火",
