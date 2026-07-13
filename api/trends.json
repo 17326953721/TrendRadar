@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T17:54:23.994366+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-07-13T20:32:25.131891+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 46,
+      "match_count": 58,
       "titles": [
         {
           "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -43,6 +43,32 @@
           "time_info": "[10时35分 ~ 14时16分]"
         },
         {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时35分 ~ 20时32分]"
+        },
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 20时32分]"
+        },
+        {
           "title": "突然觉得带孩子很轻松",
           "url": "https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E8%A7%89%E5%BE%97%E5%B8%A6%E5%AD%A9%E5%AD%90%E5%BE%88%E8%BD%BB%E6%9D%BE&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -63,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "解锁2026世界人工智能大会新亮点",
+          "url": "https://www.toutiao.com/trending/7661668281069223946/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "据消息人士透露，日本目前没有计划改变GPIF（日本政府养老金投资基金）的目标资产配置，但可能会在现有范围内引导更多资金投资于国内资产。",
@@ -93,7 +130,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -109,28 +146,31 @@
           "time_info": "10时36分"
         },
         {
-          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
-          "source": "澎湃新闻",
+          "title": "美国共和党「鹰派」参议员林赛·格雷厄姆在家中突发疾病去世，他有哪些政治主张？其去世会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2059657075496575156",
+          "source": "知乎",
           "ranks": [
-            18,
-            11,
-            5
+            6,
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 17时54分]"
+          "appearance_count": 5,
+          "time_info": "[10时35分 ~ 20时32分]"
         },
         {
-          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            17,
+            13,
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时35分 ~ 20时32分]"
         },
         {
           "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
@@ -143,18 +183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时16分 ~ 17时54分]"
-        },
-        {
-          "title": "美国共和党「鹰派」参议员林赛·格雷厄姆在家中突发疾病去世，他有哪些政治主张？其去世会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2059657075496575156",
-          "source": "知乎",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 17时54分]"
         },
         {
           "title": "新能源车成「快消品」，平均车龄仅 1.8 年，年轻人为何把电车当手机一样换这么频繁？",
@@ -179,19 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时16分 ~ 17时54分]"
-        },
-        {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 17时54分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -226,6 +241,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 10时36分]"
+        },
+        {
+          "title": "曝具俊晔拟推翻放弃遗产声明，准备争夺大 S 儿女继承的 2/3 遗产，如何看待这一消息？从法律上看他能如愿吗？",
+          "url": "https://www.zhihu.com/question/2059706549161944571",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 20时32分]"
         },
         {
           "title": "手机成大模型竞争新赛场 AI“超级载体”利好哪些硬件环节？",
@@ -295,26 +321,37 @@
           "time_info": "14时16分"
         },
         {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "AI需求蔓延至成熟制程 台积电拟上调报价 预计明年1月生效",
           "url": "https://www.cls.cn/detail/2424076",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
         {
-          "title": "曝具俊晔拟推翻放弃遗产声明，准备争夺大 S 儿女继承的 2/3 遗产，如何看待这一消息？从法律上看他能如愿吗？",
-          "url": "https://www.zhihu.com/question/2059706549161944571",
-          "source": "知乎",
+          "title": "阶跃星辰AI手机STEPX Neo正式亮相，同步发布大模型原生终端品牌",
+          "url": "https://wallstreetcn.com/livenews/3132900",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时54分"
+          "time_info": "20时32分"
         },
         {
           "title": "A股AI应用概念局部异动，中国软件直线涨停，浪潮软件触及涨停，国子软件、绿盟科技、诚迈科技、久其软件等快速冲高。",
@@ -328,13 +365,24 @@
           "time_info": "14时16分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850571&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/AfOYXJJQ0W6SRBhGQoCiF.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260713201510817800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "【《扩大消费“十五五”规划》： 持续巩固资本市场稳中向好发展态势 多渠道增加城乡居民财产性收入】国务院批复《扩大消费“十五五”规划》，多渠道促进居民增收。健全按要素分配政策制度，促进多劳者多得、技高者多得、创新者多得。完善劳动者工资决定、合理增长、支付保障机制，健全最低工资标准调整机制，稳步提高最低工资标准，加强企业工资分配宏观指导。持续改善小微企业和个体工商户经营环境。促进房地产市场持续健康发展，持续巩固资本市场稳中向好发展态势，多渠道增加城乡居民财产性收入。加强税收、社会保障、转移支付等再分配调节。",
           "url": "https://wallstreetcn.com/livenews/3132770",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -345,7 +393,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -378,9 +426,53 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "【生益电子：预计上半年净利润10.82亿元到11.37亿元，同比增加104%到114%】受益于AI算力及高速通信等下游领域的高景气需求，公司紧扣战略定位，深入实施“市场引领，双轮驱动”方针，持续聚焦高端市场的结构性增长机会，优化产品结构，有序推进增资扩产项目建设，尤其是智能算力中心高多层高密互连电路板项目按计划高效落地并快速释放效益。同时公司在技术演进与供应链重构中持续构建经营韧性，不断夯实质量管理根基，市场竞争优势进一步巩固。2026年半年度营业收入和净利润较上年同期实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3132894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "【TCL科技：预计上半年净利润同比增长96%-108%】TCL科技公告，预计2026年上半年净利润为37亿元—39.2亿元，同比增长96%—108%。报告期内，公司聚焦半导体显示、新能源光伏和半导体材料业务的核心主业发展，坚持战略引领、创新驱动、先进制造、全球经营，持续提升相对竞争力，实现高质量可持续发展。",
+          "url": "https://wallstreetcn.com/livenews/3132890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "【胜宏科技：网络平台上流传关于公司产品、市场份额、项目进展等负面传闻，内容严重失实】1、网络流传相关言论不属实。公司是国内外AI头部大客户的长期战略合作伙伴，胜宏科技始终将“品质”和“安全”视为企业的生命线，公司严格按照客户标准管理。 2、当前，AI相关PCB产品需求旺盛，公司在手订单持续增长。公司生产、出货一切正常，头部客户订单持续增加。 3、公司与核心客户保持密切沟通，与客户合作开发的研发迭代产品正顺利推进当中。部分客户已释放2027–2028年长期需求，公司对后续生产经营及效益实现充满信心。",
+          "url": "https://wallstreetcn.com/livenews/3132888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "英国政府将伊斯兰革命卫队列为恐怖组织。（英国天空新闻）",
+          "url": "https://wallstreetcn.com/livenews/3132882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美国参议员林赛·格雷厄姆突发急病死亡，终年71岁",
@@ -444,9 +536,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "韩国品牌用肖战形象做AI广告",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%93%81%E7%89%8C%E7%94%A8%E8%82%96%E6%88%98%E5%BD%A2%E8%B1%A1%E5%81%9AAI%E5%B9%BF%E5%91%8A%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：希望欧盟各国外长周一就针对俄罗斯的250个新增制裁对象达成一致；目前尚未就第21轮制裁方案达成协议。",
@@ -466,7 +569,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -488,9 +591,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "酷暑难耐 研究估算热浪或已致英格兰和威尔士2700人死亡",
+          "url": "https://wallstreetcn.com/livenews/3132864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "新兴市场基金降低对AI三巨头的集中持仓 中国科技股等机会进入视野",
@@ -499,9 +613,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "广西洪水过后村民站废墟上感叹",
+          "url": "https://www.toutiao.com/trending/7660877986104541238/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "白宫计划就AI电力成本达成自愿承诺。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3132855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "辽宁洪水",
@@ -510,7 +646,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -521,7 +657,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         }
