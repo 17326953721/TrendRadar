@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-14T20:48:32.877585+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-07-14T22:49:26.665498+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 69,
+      "match_count": 84,
       "titles": [
-        {
-          "title": "疑AI照片拿了摄影比赛一等奖",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 20时48分]"
-        },
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
           "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
@@ -27,11 +15,25 @@
             15,
             9,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时17分 ~ 20时48分]"
+          "appearance_count": 8,
+          "time_info": "[10时17分 ~ 22时49分]"
+        },
+        {
+          "title": "疑AI照片拿了摄影比赛一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 22时49分]"
         },
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -39,17 +41,6 @@
           "source": "澎湃新闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时17分 ~ 15时26分]"
-        },
-        {
-          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -65,11 +56,37 @@
             18,
             13,
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时17分 ~ 20时48分]"
+          "appearance_count": 8,
+          "time_info": "[10时17分 ~ 22时49分]"
+        },
+        {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时17分 ~ 15时26分]"
+        },
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 22时49分]"
         },
         {
           "title": "疑AI生成环卫工照片获摄影比赛一等奖",
@@ -96,20 +113,6 @@
           "time_info": "[10时17分 ~ 19时07分]"
         },
         {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 20时48分]"
-        },
-        {
           "title": "伊朗外交部：英国自身有长期干涉他国内政和在全球（尤其是西亚地区）推行殖民政策的历史，且在近期美以对伊朗的军事侵略中，北约秘书长也承认，英国作为侵略者的共犯和直接参与者行事。因此，英国在道义上毫无资格指控他人。",
           "url": "https://flash.jin10.com/detail/20260714171116804800",
           "source": "金十数据",
@@ -119,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "美联储主席沃什：美联储必须强力避开美国联邦政府的财政政策。",
+          "url": "https://wallstreetcn.com/livenews/3133719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "AI预测法国vs西班牙赛果",
@@ -141,7 +155,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -168,6 +182,17 @@
           "time_info": "17时25分"
         },
         {
+          "title": "美联储主席沃什：美联储必须做好工作，以避免财政政策的干扰。",
+          "url": "https://flash.jin10.com/detail/20260714223746652800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "国新办将于十分钟后就2026年上半年进出口情况举行新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260714095000000800",
           "source": "金十数据",
@@ -179,6 +204,17 @@
           "time_info": "10时17分"
         },
         {
+          "title": "美联储主席沃什：资产负债表政策的任何变动都将提前预告。",
+          "url": "https://flash.jin10.com/detail/20260714223731148800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "摄影比赛一等奖确系AI生成 官方通报",
           "url": "https://www.toutiao.com/trending/7662295509886697491/",
           "source": "今日头条",
@@ -188,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
+        },
+        {
+          "title": "美联储主席沃什：资产负债表是货币政策的一部分。",
+          "url": "https://flash.jin10.com/detail/20260714223713888800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "当地时间7月14日，约旦方面称拦截并击落了四枚从伊朗进入约旦领空的导弹。（央视新闻）",
@@ -217,11 +264,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 20时48分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 22时49分]"
         },
         {
           "title": "于东来亮相新闻联播",
@@ -258,6 +306,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时24分 ~ 19时07分]"
+        },
+        {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 22时49分]"
         },
         {
           "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
@@ -308,6 +368,17 @@
           "time_info": "[17时24分 ~ 19时07分]"
         },
         {
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 22时49分]"
+        },
+        {
           "title": "UP主解读AI浪潮下的资本周期",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
           "source": "bilibili 热搜",
@@ -319,16 +390,16 @@
           "time_info": "[17时24分 ~ 17时25分]"
         },
         {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            6
+            6,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时07分 ~ 20时48分]"
+          "time_info": "[20时48分 ~ 22时49分]"
         },
         {
           "title": "看陈泽AI跳舞是一种挑战",
@@ -366,6 +437,18 @@
           "time_info": "[13时14分 ~ 15时26分]"
         },
         {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 22时49分]"
+        },
+        {
           "title": "男生晨跑18公里突发热射病",
           "url": "https://www.toutiao.com/trending/7662151324124938259/",
           "source": "今日头条",
@@ -399,17 +482,6 @@
           "time_info": "15时26分"
         },
         {
-          "title": "AI生成环卫工照片获摄影比赛一等奖",
-          "url": "https://www.toutiao.com/trending/7662295509886697491/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
           "title": "中日真有事，还需要动用潜射战略导弹吗？",
           "url": "https://news.ifeng.com/c/8ujWBc7bA83",
           "source": "凤凰网",
@@ -419,17 +491,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
-        },
-        {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "据《日经新闻》：英伟达正考虑在其下一代工厂中采用三菱重工的冷却系统及能源管理技术。",
@@ -460,9 +521,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
+        },
+        {
+          "title": "美联储主席沃什：我对2020年版本美联储框架持非常批判的态度，这并非什么秘密。 当年的美联储框架是一个错误，没有得到讨论。 我很高兴我的前任们摒弃了2020年美联储的政策框架。",
+          "url": "https://wallstreetcn.com/livenews/3133713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "伊朗努尔新闻：伊朗南部布什尔省部分地区遭到美国新一轮袭击。",
@@ -482,9 +554,64 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
+        },
+        {
+          "title": "养老金向低收入群体倾斜",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%BB%E8%80%81%E9%87%91%E5%90%91%E4%BD%8E%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E5%80%BE%E6%96%9C%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美联储主席沃什：外部工作组将首先与政策制定者分享他们的调查成果。",
+          "url": "https://flash.jin10.com/detail/20260714223528111800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "江浙沪孩子最苦的可能就是退休后",
+          "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%AD%A9%E5%AD%90%E6%9C%80%E8%8B%A6%E7%9A%84%E5%8F%AF%E8%83%BD%E5%B0%B1%E6%98%AF%E9%80%80%E4%BC%91%E5%90%8E&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "【数据看盘】超15亿元资金抢筹PCB人气股，多家机构和外资激烈博弈东山精密",
+          "url": "https://www.cls.cn/detail/2426004",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "英伟达与三菱重工拟在AI数据中心冷却及电力领域展开合作",
+          "url": "https://flash.jin10.com/detail/20260714223303543800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "工信部部长称愿同沙特加强数字基础设施等领域的政策经验交流",
@@ -504,18 +631,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -586,6 +702,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "经纬度：中国人工智能发展的战略定力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574020",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "LG电子与GS E&C共同开发下一代AI家居解决方案",
           "url": "https://flash.jin10.com/detail/20260714094041891800",
           "source": "金十数据",
@@ -619,6 +746,17 @@
           "time_info": "10时17分"
         },
         {
+          "title": "据日经新闻：根据协议，三菱重工将为AI数据中心供应冷却系统和能源管理设备。",
+          "url": "https://flash.jin10.com/detail/20260714222942860800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "Omdia：二季度全球智能手机市场下滑4% 苹果与三星逆势增长",
           "url": "https://wallstreetcn.com/livenews/3133305",
           "source": "华尔街见闻-快讯",
@@ -636,7 +774,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -652,13 +790,24 @@
           "time_info": "15时26分"
         },
         {
+          "title": "据日经新闻：英伟达与三菱重工就人工智能数据中心的冷却和电力合作进行洽谈。",
+          "url": "https://flash.jin10.com/detail/20260714222805053800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "金十图示：2026年07月14日（周二）新闻联播今日要点",
           "url": "https://flash.jin10.com/detail/20260714200530535800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -696,13 +845,24 @@
           "time_info": "17时25分"
         },
         {
+          "title": "提醒：北京时间22:00，美联储主席沃什定于7月14-15日出席国会货币政策听证会（众议院）。",
+          "url": "https://wallstreetcn.com/livenews/3133695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "布鲁塞尔市中心一大楼发生火灾致多人死亡",
           "url": "https://flash.jin10.com/detail/20260714200326321800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -716,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：这是我们近六年来看到的最好的通胀报告。 能源价格已经大幅下降。 将汽油价格降至每加仑3美元是现实的。 当前物价波动由伊朗局势引发。 我们在CPI数据中看到了特朗普政策取得成效的迹象。 有信心让石油从海湾流出，以稳定市场。 核心通胀势头正朝美联储目标靠近。",
+          "url": "https://wallstreetcn.com/livenews/3133694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "黄瓜这种情况比砒霜还毒",
@@ -779,7 +950,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
