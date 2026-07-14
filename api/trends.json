@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T15:26:27.356281+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-07-14T17:25:10.815862+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 38,
+      "match_count": 51,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -30,6 +30,39 @@
           "time_info": "[10时17分 ~ 15时26分]"
         },
         {
+          "title": "疑AI照片拿了摄影比赛一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "疑AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.baidu.com/s?wd=%E7%96%91AI%E7%94%9F%E6%88%90%E7%8E%AF%E5%8D%AB%E5%B7%A5%E7%85%A7%E7%89%87%E8%8E%B7%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "伊朗外交部：英国自身有长期干涉他国内政和在全球（尤其是西亚地区）推行殖民政策的历史，且在近期美以对伊朗的军事侵略中，北约秘书长也承认，英国作为侵略者的共犯和直接参与者行事。因此，英国在道义上毫无资格指控他人。",
+          "url": "https://flash.jin10.com/detail/20260714171116804800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "解锁2026世界人工智能大会新亮点",
           "url": "https://www.toutiao.com/trending/7661668281069223946/",
           "source": "今日头条",
@@ -39,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
+        },
+        {
+          "title": "油涨、债跌、AI拥挤，全球市场的三重夹击已至| 每日市场观察07.14",
+          "url": "https://flash.jin10.com/detail/20260714170926202800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "国新办将于十分钟后就2026年上半年进出口情况举行新闻发布会。",
@@ -52,15 +96,29 @@
           "time_info": "10时17分"
         },
         {
-          "title": "AI预测法国vs西班牙赛果",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
-          "source": "bilibili 热搜",
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
           "ranks": [
-            5
+            8,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 17时25分]"
+        },
+        {
+          "title": "恐慌抛售引发3442亿韩元强制平仓潮，韩国股市陷信用盘危机",
+          "url": "https://wallstreetcn.com/articles/3776811",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时17分 ~ 17时25分]"
         },
         {
           "title": "当地时间7月14日，约旦方面称拦截并击落了四枚从伊朗进入约旦领空的导弹。（央视新闻）",
@@ -74,6 +132,44 @@
           "time_info": "13时14分"
         },
         {
+          "title": "AI预测法国vs西班牙赛果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 17时25分]"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时17分 ~ 17时25分]"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时17分 ~ 17时25分]"
+        },
+        {
           "title": "于东来亮相新闻联播",
           "url": "https://www.toutiao.com/trending/7662036390519128110/",
           "source": "今日头条",
@@ -84,19 +180,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时17分 ~ 13时14分]"
-        },
-        {
-          "title": "恐慌抛售引发3442亿韩元强制平仓潮，韩国股市陷信用盘危机",
-          "url": "https://wallstreetcn.com/articles/3776811",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时17分 ~ 15时26分]"
         },
         {
           "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
@@ -112,28 +195,60 @@
           "time_info": "[10时17分 ~ 15时26分]"
         },
         {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
+          "title": "AI杀死时尚行业",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时17分 ~ 15时26分]"
+          "time_info": "[15时26分 ~ 17时25分]"
         },
         {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
+          "title": "BW为何让中年人热泪盈眶",
+          "url": "https://search.bilibili.com/all?keyword=BW%E4%B8%BA%E4%BD%95%E8%AE%A9%E4%B8%AD%E5%B9%B4%E4%BA%BA%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6",
+          "source": "bilibili 热搜",
           "ranks": [
-            17,
-            20,
-            18
+            25,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时17分 ~ 15时26分]"
+          "time_info": "[15时26分 ~ 17时25分]"
+        },
+        {
+          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "UP主解读AI浪潮下的资本周期",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%94%9F%E6%88%90%E7%8E%AF%E5%8D%AB%E5%B7%A5%E7%85%A7%E7%89%87%E8%8E%B7%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "看陈泽AI跳舞是一种挑战",
@@ -159,13 +274,46 @@
           "time_info": "[13时14分 ~ 15时26分]"
         },
         {
+          "title": "AI短剧为何共用一张脸",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "男生晨跑18公里突发热射病",
+          "url": "https://www.toutiao.com/trending/7662151324124938259/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "日本一男子因物价高涨计划杀人求死刑",
+          "url": "https://www.toutiao.com/trending/7662241247758843913/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
           "title": "23岁女生感染HPV病毒很震惊",
           "url": "https://www.toutiao.com/trending/7661439386332119078/",
           "source": "今日头条",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -187,7 +335,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -201,28 +349,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
-        },
-        {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "AI杀死时尚行业",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
         },
         {
           "title": "工信部部长称愿同沙特加强数字基础设施等领域的政策经验交流",
@@ -242,7 +368,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -264,7 +390,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -297,7 +423,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -352,7 +478,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -374,20 +500,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
         {
-          "title": "BW为何让中年人热泪盈眶",
-          "url": "https://search.bilibili.com/all?keyword=BW%E4%B8%BA%E4%BD%95%E8%AE%A9%E4%B8%AD%E5%B9%B4%E4%BA%BA%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6",
-          "source": "bilibili 热搜",
+          "title": "【赣锋锂业：预计上半年净利润为36.5亿元–46亿元，同比扭亏为盈】赣锋锂业公告，预计2026年上半年净利润为36.5亿元–46亿元，上年同期亏损5.31亿元。报告期内，受益于全球新能源产业快速发展，下游客户对锂盐的需求增长，公司锂盐产品的销售价格较上年同期显著上涨；同时，随着锂资源项目的产能逐步释放，公司成本结构有效优化。叠加储能市场需求持续增长，锂电池板块产销量明显提升，共同推动公司经营业绩同比增长。",
+          "url": "https://wallstreetcn.com/livenews/3133476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "【通富微电：预计上半年净利润16亿元-18亿元，同比增长288.26%-336.80%】上半年，在AI算力建设带动需求提升，存储市场景气上行，国产化加速等驱动下，半导体行业迎来强劲增长。公司积极进取，产能利用率提升，营业收入增幅上升，特别是中高端产品营业收入明显增加。同时，得益于加强经营管理及成本费用的管控，公司整体效益显著提升。",
+          "url": "https://wallstreetcn.com/livenews/3133473",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "17时25分"
         },
         {
           "title": "黄瓜这种情况比砒霜还毒",
@@ -399,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
+        },
+        {
+          "title": "英国央行行长贝利：英国物价传导的软性证据显示，成品油价格并未如预期般回落。",
+          "url": "https://flash.jin10.com/detail/20260714165548114800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：两艘“违规超级油轮”在霍尔木兹海峡遭到袭击并失去动力。 油轮无视警告、关闭导航系统并试图强行通过“布雷航线”。 在霍尔木兹海峡与“侵略者敌人”合作将推迟该航道的重新开放，并引发全球能源危机。",
