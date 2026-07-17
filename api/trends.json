@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T19:21:18.050987+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-07-17T20:43:33.277722+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 88,
+      "match_count": 97,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时29分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[10时29分 ~ 20时43分]"
+        },
+        {
+          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
+          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 20时43分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -32,15 +43,18 @@
           "time_info": "[13时28分 ~ 19时21分]"
         },
         {
-          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
-          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
-          "source": "凤凰网",
+          "title": "国家发改委发布《人工智能合作发展行动计划》",
+          "url": "https://www.cls.cn/detail/2429332",
+          "source": "财联社热门",
           "ranks": [
-            2
+            11,
+            4,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时34分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 20时43分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -53,21 +67,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 20时43分]"
         },
         {
-          "title": "国家发改委发布《人工智能合作发展行动计划》",
-          "url": "https://www.cls.cn/detail/2429332",
-          "source": "财联社热门",
+          "title": "2026世界人工智能大会何以圈粉",
+          "url": "https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BD%95%E4%BB%A5%E5%9C%88%E7%B2%89%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            4,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 20时43分]"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时29分 ~ 20时43分]"
         },
         {
           "title": "男子酒驾后购置棺材「假死」潜逃，家人配合「下葬」，这会面临哪些法律责任？",
@@ -78,22 +104,42 @@
             5,
             3,
             2,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 20时43分]"
         },
         {
-          "title": "2026世界人工智能大会何以圈粉",
-          "url": "https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BD%95%E4%BB%A5%E5%9C%88%E7%B2%89%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "释新闻｜从港口东迁到重修废弃管道，海湾诸国如何摆脱对霍尔木兹的依赖？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33597892",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            14,
+            13,
+            10,
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[10时29分 ~ 20时43分]"
+        },
+        {
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            11,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时29分 ~ 20时43分]"
         },
         {
           "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
@@ -106,8 +152,60 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 20时43分]"
+        },
+        {
+          "title": "财政部等三部门：调整部分电池消费税政策",
+          "url": "https://www.cls.cn/detail/2429579",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时34分 ~ 19时21分]"
+          "time_info": "[17时56分 ~ 20时43分]"
+        },
+        {
+          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://wallstreetcn.com/articles/3777168",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 20时43分]"
+        },
+        {
+          "title": "严母管太狠,孩子想跟爸遭拒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356256&amp;topic_name=%E4%B8%A5%E6%AF%8D%E7%AE%A1%E5%A4%AA%E7%8B%A0%2C%E5%AD%A9%E5%AD%90%E6%83%B3%E8%B7%9F%E7%88%B8%E9%81%AD%E6%8B%92",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            11,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 20时43分]"
+        },
+        {
+          "title": "UP主手搓WAIC逛展小助手",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时43分]"
         },
         {
           "title": "伊朗：造成大量美军人员死亡",
@@ -122,59 +220,43 @@
           "time_info": "[15时34分 ~ 19时21分]"
         },
         {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时29分 ~ 19时21分]"
-        },
-        {
-          "title": "严母管太狠,孩子想跟爸遭拒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356256&amp;topic_name=%E4%B8%A5%E6%AF%8D%E7%AE%A1%E5%A4%AA%E7%8B%A0%2C%E5%AD%A9%E5%AD%90%E6%83%B3%E8%B7%9F%E7%88%B8%E9%81%AD%E6%8B%92",
+          "title": "中国拉群搞AI,28国兄弟入伙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
           "source": "贴吧",
           "ranks": [
-            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时43分]"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 20时43分]"
+        },
+        {
+          "title": "Bin毒蔓延?Viper自封世一AD",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356264&amp;topic_name=Bin%E6%AF%92%E8%94%93%E5%BB%B6%3FViper%E8%87%AA%E5%B0%81%E4%B8%96%E4%B8%80AD",
+          "source": "贴吧",
+          "ranks": [
+            5,
             6,
-            11,
-            12
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 19时21分]"
-        },
-        {
-          "title": "释新闻｜从港口东迁到重修废弃管道，海湾诸国如何摆脱对霍尔木兹的依赖？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33597892",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时29分 ~ 19时21分]"
-        },
-        {
-          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时29分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 20时43分]"
         },
         {
           "title": "财联社、科创板日报记者探营WAIC 2026：从超节点算力到进厂机器人 AI与物理世界开启“无界融合”",
@@ -189,62 +271,17 @@
           "time_info": "[10时29分 ~ 13时28分]"
         },
         {
-          "title": "UP主手搓WAIC逛展小助手",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
-        },
-        {
-          "title": "财政部等三部门：调整部分电池消费税政策",
-          "url": "https://www.cls.cn/detail/2429579",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时21分]"
-        },
-        {
-          "title": "Bin毒蔓延?Viper自封世一AD",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356264&amp;topic_name=Bin%E6%AF%92%E8%94%93%E5%BB%B6%3FViper%E8%87%AA%E5%B0%81%E4%B8%96%E4%B8%80AD",
-          "source": "贴吧",
+          "title": "沈阳音乐学院教授夫妇突发事故罹难",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E5%A4%AB%E5%A6%87%E7%AA%81%E5%8F%91%E4%BA%8B%E6%95%85%E7%BD%B9%E9%9A%BE",
+          "source": "百度热搜",
           "ranks": [
             5,
-            6
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时21分]"
-        },
-        {
-          "title": "中国拉群搞AI,28国兄弟入伙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
-        },
-        {
-          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://wallstreetcn.com/articles/3777168",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 20时43分]"
         },
         {
           "title": "《新闻联播》正在直播",
@@ -282,16 +319,29 @@
           "time_info": "[13时28分 ~ 19时21分]"
         },
         {
-          "title": "沈阳音乐学院教授夫妇突发事故罹难",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2%E6%95%99%E6%8E%88%E5%A4%AB%E5%A6%87%E7%AA%81%E5%8F%91%E4%BA%8B%E6%95%85%E7%BD%B9%E9%9A%BE",
-          "source": "百度热搜",
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            12
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 20时43分]"
+        },
+        {
+          "title": "紫光展锐携手中国联通 推动“AI+eSIM”方案商用落地",
+          "url": "https://flash.jin10.com/detail/20260717201230288800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "管理规模达470亿美元的南非基金经理减持AI芯片股 转而加码印度股市",
@@ -305,17 +355,31 @@
           "time_info": "15时34分"
         },
         {
-          "title": "玉渊谭天丨中国AI的发展逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）",
+          "url": "https://www.cls.cn/detail/2429345",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 20时43分]"
+        },
+        {
+          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
           "source": "澎湃新闻",
           "ranks": [
+            19,
             20,
             18,
             16
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时28分 ~ 19时21分]"
+          "time_info": "[15时34分 ~ 20时43分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -408,8 +472,8 @@
           "time_info": "17时57分"
         },
         {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://wallstreetcn.com/articles/3777174",
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
           "source": "华尔街见闻",
           "ranks": [
             10,
@@ -418,33 +482,20 @@
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时34分 ~ 19时21分]"
+          "time_info": "[17时56分 ~ 20时43分]"
         },
         {
-          "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）",
-          "url": "https://www.cls.cn/detail/2429345",
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主席声明（全文）",
+          "url": "https://www.cls.cn/detail/2429383",
           "source": "财联社热门",
           "ranks": [
             11,
             10,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时34分 ~ 19时21分]"
-        },
-        {
-          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时34分 ~ 19时21分]"
+          "time_info": "[17时56分 ~ 20时43分]"
         },
         {
           "title": "优刻得与上海理工在WAIC 2026发布“太空算力”样机",
@@ -471,28 +522,16 @@
           "time_info": "[10时29分 ~ 13时28分]"
         },
         {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
+          "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
+          "url": "https://www.zhihu.com/question/2059240244864611894",
+          "source": "知乎",
           "ranks": [
-            10,
-            9
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时21分]"
-        },
-        {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主席声明（全文）",
-          "url": "https://www.cls.cn/detail/2429383",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时43分]"
         },
         {
           "title": "财晓得｜中国AI跑出加速度背后的四重底气",
@@ -519,15 +558,16 @@
           "time_info": "[15时34分 ~ 17时57分]"
         },
         {
-          "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
-          "url": "https://www.zhihu.com/question/2059240244864611894",
-          "source": "知乎",
+          "title": "世界人工智能大会今日开幕",
+          "url": "https://www.douyin.com/hot/2574489",
+          "source": "抖音",
           "ranks": [
-            17
+            12,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "time_info": "[13时28分 ~ 20时43分]"
         },
         {
           "title": "成都突发车祸一车烧成空壳",
@@ -607,6 +647,17 @@
           "time_info": "17时57分"
         },
         {
+          "title": "大瓦特·让每一度电都有AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604737",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "AI估值担忧加剧 欧洲信用违约保障成本上升",
           "url": "https://flash.jin10.com/detail/20260717174120946800",
           "source": "金十数据",
@@ -624,7 +675,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -638,6 +689,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603374",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -734,20 +796,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "世界人工智能大会今日开幕",
-          "url": "https://www.douyin.com/hot/2574489",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "19时21分"
         },
         {
           "title": "辽源市委书记沈德生突发疾病逝世",
@@ -789,9 +840,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604314",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "智微智能：2026年上半年营业收入30.5亿元，同比增长56.64%。净利润3.88亿元，同比增长281.92%。",
+          "url": "https://wallstreetcn.com/livenews/3135680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "东北师大看着长大的孩子",
@@ -805,6 +878,28 @@
           "time_info": "15时34分"
         },
         {
+          "title": "AI，刻在Shanghai的名字里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33593577",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "女子睡梦中睁眼和毒蛇对视上了",
+          "url": "https://www.toutiao.com/trending/7663335066064437289/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "TVB演员梁爱在养老院去世",
           "url": "https://www.baidu.com/s?wd=TVB%E6%BC%94%E5%91%98%E6%A2%81%E7%88%B1%E5%9C%A8%E5%85%BB%E8%80%81%E9%99%A2%E5%8E%BB%E4%B8%96",
           "source": "百度热搜",
@@ -814,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上发表主旨讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603517",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "《国际人工智能伦理治理行动计划》发布",
@@ -844,7 +950,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -965,7 +1071,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1001,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "六部门联合印发《土壤、地下水和农业农村生态环境保护“十五五”规划》",
+          "url": "https://flash.jin10.com/detail/20260717194733966800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主席声明（全文）发布",
