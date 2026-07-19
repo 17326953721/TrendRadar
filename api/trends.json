@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T18:07:45.101711+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-07-19T19:36:50.641709+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 81,
+      "match_count": 101,
       "titles": [
         {
           "title": "遭伊朗袭击，在约旦美军2人死亡、1人失踪",
@@ -20,6 +20,18 @@
           "time_info": "[10时31分 ~ 18时07分]"
         },
         {
+          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
+          "url": "https://wallstreetcn.com/articles/3777329",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 19时36分]"
+        },
+        {
           "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
           "url": "https://wallstreetcn.com/articles/3777307",
           "source": "华尔街见闻",
@@ -32,17 +44,6 @@
           "time_info": "[10时31分 ~ 16时14分]"
         },
         {
-          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
-          "url": "https://wallstreetcn.com/articles/3777329",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 18时07分]"
-        },
-        {
           "title": "中国AI站上全球治理主场",
           "url": "https://www.douyin.com/hot/2577012",
           "source": "抖音",
@@ -50,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时13分 ~ 18时07分]"
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 19时36分]"
         },
         {
           "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
@@ -76,6 +77,66 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时31分 ~ 13时38分]"
+        },
+        {
+          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
+          "url": "https://www.cls.cn/detail/2430120",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 19时36分]"
+        },
+        {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 19时36分]"
+        },
+        {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 19时36分]"
+        },
+        {
+          "title": "和孩子沟通困难，明明是讨论，但家长提出问题，为什么孩子却不能理解和接受？",
+          "url": "https://www.zhihu.com/question/2055979572177458096",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 19时36分]"
+        },
+        {
+          "title": "美企抄袭中国AI玩双标被点名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            25,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 19时36分]"
         },
         {
           "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
@@ -111,18 +172,6 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
-          "url": "https://www.cls.cn/detail/2430120",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 18时07分]"
-        },
-        {
           "title": "这一秒过火 AI片头",
           "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -134,50 +183,15 @@
           "time_info": "13时38分"
         },
         {
-          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
-          "url": "https://www.cls.cn/detail/2430308",
-          "source": "财联社热门",
+          "title": "新闻联播",
+          "url": "https://www.douyin.com/hot/2577516",
+          "source": "抖音",
           "ranks": [
-            10
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 18时07分]"
-        },
-        {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 18时07分]"
-        },
-        {
-          "title": "和孩子沟通困难，明明是讨论，但家长提出问题，为什么孩子却不能理解和接受？",
-          "url": "https://www.zhihu.com/question/2055979572177458096",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 18时07分]"
-        },
-        {
-          "title": "美企抄袭中国AI玩双标被点名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 18时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "陕西首条专业化星载激光通信终端智能产线在西安投产",
@@ -186,7 +200,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -236,6 +250,17 @@
           "time_info": "[10时31分 ~ 16时14分]"
         },
         {
+          "title": "诊疗方案与病历书写两大赛道，全国上百支队伍在沪比拼AI临床应用",
+          "url": "https://wallstreetcn.com/livenews/3136258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "女孩卧室囤大量“吧唧”致甲醛中毒",
           "url": "https://www.toutiao.com/trending/7664025440365494308/",
           "source": "今日头条",
@@ -249,6 +274,17 @@
           "time_info": "[13时38分 ~ 18时07分]"
         },
         {
+          "title": "《新闻联播》正在直播",
+          "url": "https://www.toutiao.com/trending/7663635043625192996/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "俄罗斯对基辅的导弹袭击造成至少一人死亡，13人受伤，多个住宅受损。",
           "url": "https://flash.jin10.com/detail/20260719124808170800",
           "source": "金十数据",
@@ -258,6 +294,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "陈茂波：香港将出台政策支持中小企业采用AI",
+          "url": "https://flash.jin10.com/detail/20260719190518960800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "AI加速进入民生场景 北电数智聚焦医疗、教育、工业实践",
+          "url": "https://wallstreetcn.com/livenews/3136257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "张国清赶赴重庆彭水县指导山体崩塌灾害现场搜救和应急处置工作",
@@ -273,6 +331,43 @@
           "time_info": "[10时31分 ~ 16时14分]"
         },
         {
+          "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33615517",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 19时36分]"
+        },
+        {
+          "title": "女子身份信息被吸毒人员冒用，警方通报",
+          "url": "https://news.ifeng.com/c/8usnEhy0GOL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 19时36分]"
+        },
+        {
+          "title": "上海突发强雷暴",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E7%AA%81%E5%8F%91%E5%BC%BA%E9%9B%B7%E6%9A%B4&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 19时36分]"
+        },
+        {
           "title": "摩尔线程WAIC 2026披露三大“AI工厂”进展",
           "url": "https://wallstreetcn.com/livenews/3136123",
           "source": "华尔街见闻-快讯",
@@ -285,40 +380,17 @@
           "time_info": "[10时32分 ~ 13时38分]"
         },
         {
-          "title": "女子身份信息被吸毒人员冒用，警方通报",
-          "url": "https://news.ifeng.com/c/8usnEhy0GOL",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 18时07分]"
-        },
-        {
-          "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615517",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 18时07分]"
-        },
-        {
           "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
           "url": "https://www.cls.cn/detail/2430367",
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时13分 ~ 18时07分]"
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 19时36分]"
         },
         {
           "title": "世界两大AI组织都是狠角色",
@@ -378,6 +450,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时31分 ~ 13时38分]"
+        },
+        {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 19时36分]"
         },
         {
           "title": "美官员称“约旦美军基地5天遭4袭，美军两人死亡”，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -491,15 +575,15 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
+          "title": "有道AI耳机在WAIC首秀：让会议记录变成“可追问的Agent”",
+          "url": "https://wallstreetcn.com/livenews/3136256",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "19时36分"
         },
         {
           "title": "美国地质调查局：墨西哥布里萨斯·巴拉·德·苏基亚特西南91公里处发生了4.4级地震。",
@@ -530,9 +614,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "“中国AI只差两三个月”，硅谷坐不住了",
+          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "百型智能在WAIC发布企业本体OntoZ",
@@ -568,6 +663,28 @@
           "time_info": "13时38分"
         },
         {
+          "title": "长鑫科技中签号出炉，36支社保、养老基金参与战略配售",
+          "url": "https://www.cls.cn/detail/2430460",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "蔡磊获2026年度AI特别贡献人物",
+          "url": "https://www.douyin.com/hot/2577008",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "中国平安亮相世界人工智能大会，发布医疗、保险、支付领域最新AI成果",
           "url": "https://flash.jin10.com/detail/20260719152301120800",
           "source": "金十数据",
@@ -590,6 +707,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
+          "url": "https://flash.jin10.com/detail/20260719184851120800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "多份AI安全治理成果在上海集中发布",
           "url": "https://wallstreetcn.com/livenews/3136115",
           "source": "华尔街见闻-快讯",
@@ -599,6 +727,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "陈茂波：香港将出台政策支持中小企业采用AI",
+          "url": "https://wallstreetcn.com/livenews/3136250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "实体世界智能科学论坛举办 学者：AI打破学科壁垒 人人可做科学家",
@@ -621,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "据港交所文件：奥动新能源股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260719184225351800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "知乎Tech Club新知科技大会落地WAIC 2026",
@@ -662,9 +823,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "游族网络联合国家工业信息安全发展研究中心等发起《人工智能发展与安全倡议书》",
+          "url": "https://flash.jin10.com/detail/20260719183943679800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "不筹量子发布原子量子人工智能基座“量筹一号”",
@@ -722,17 +894,6 @@
           "time_info": "16时14分"
         },
         {
-          "title": "上海突发强雷暴",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E7%AA%81%E5%8F%91%E5%BC%BA%E9%9B%B7%E6%9A%B4&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
           "title": "中国工程院院士郑纬民：智能体时代，产出稳定且低成本Token（词元）的能力非常稀缺",
           "url": "https://wallstreetcn.com/livenews/3136129",
           "source": "华尔街见闻-快讯",
@@ -788,6 +949,17 @@
           "time_info": "16时14分"
         },
         {
+          "title": "大晓机器人WAIC发布开悟世界模型3.1，具身物理智能统一评测基准平台同步亮相",
+          "url": "https://wallstreetcn.com/livenews/3136237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "据伊通社（IRNA）：根据德黑兰大学地震中心的报告，几分钟前，伊朗胡齐斯坦省的萨兰德市发生了深度12公里的五级地震。",
           "url": "https://flash.jin10.com/detail/20260719104739497800",
           "source": "金十数据",
@@ -797,6 +969,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "天数智芯WAIC发布新一代通用GPU旗舰产品天垓300",
+          "url": "https://wallstreetcn.com/livenews/3136235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "柬埔寨重申坚定奉行一个中国政策",
+          "url": "https://www.toutiao.com/trending/7663715914684383283/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "紧身衣之王ALAIA凭什么杀回顶奢",
@@ -838,9 +1032,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "讯飞AI大学堂WAIC2026推出AI Learning与AI Vault",
+          "url": "https://wallstreetcn.com/livenews/3136234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "沪光股份携手启元机器人，加速消费级具身智能规模化落地",
@@ -852,6 +1057,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "九章云极在WAIC发布“AI工厂”及九章智算云3.0",
+          "url": "https://wallstreetcn.com/livenews/3136233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "美国Inkling模型借鉴中国AI技术",
@@ -871,7 +1087,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -887,13 +1103,24 @@
           "time_info": "13时38分"
         },
         {
+          "title": "人一旦开始用AI后",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E5%BC%80%E5%A7%8B%E7%94%A8AI%E5%90%8E&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "世界人工智能合作组织未来将重点开展三方面工作",
           "url": "https://flash.jin10.com/detail/20260719163808991800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
