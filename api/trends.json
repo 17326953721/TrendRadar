@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:17:23.126162+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-07-20T17:43:26.117279+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 35,
+      "match_count": 55,
       "titles": [
         {
           "title": "2026世界人工智能大会硬核瞬间",
@@ -30,6 +30,28 @@
           "time_info": "10时46分"
         },
         {
+          "title": "2026世界人工智能大会闭幕 预计达成超200亿元意向采购金额",
+          "url": "https://wallstreetcn.com/livenews/3136762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "院士谈年轻人该如何学AI",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%A2%E5%A3%AB%E8%B0%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AD%A6AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "中国成为全球AI发展与治理关键力量",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83AI%E5%8F%91%E5%B1%95%E4%B8%8E%E6%B2%BB%E7%90%86%E5%85%B3%E9%94%AE%E5%8A%9B%E9%87%8F%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -47,9 +69,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "中国人工智能发展到什么程度了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "遗传眼病孩子问为什么要生我",
@@ -58,9 +91,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "超节点集中亮相WAIC 国产算力进入系统级竞争时代",
+          "url": "https://www.cls.cn/detail/2430847",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 17时43分]"
         },
         {
           "title": "人工智能换了一种“打开方式”|WAIC观察",
@@ -73,6 +118,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时46分 ~ 14时17分]"
+        },
+        {
+          "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
+          "url": "https://www.cls.cn/detail/2430865",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 17时43分]"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 17时43分]"
+        },
+        {
+          "title": "物价飞涨,日本增产1日元硬币",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356315&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E5%A2%9E%E4%BA%A71%E6%97%A5%E5%85%83%E7%A1%AC%E5%B8%81",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 17时43分]"
+        },
+        {
+          "title": "我爸坚决认为人活着就是为了孩子，怎么反驳他？",
+          "url": "https://www.zhihu.com/question/614398157",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 17时43分]"
+        },
+        {
+          "title": "SpaceX据称向鸿海下达巨额订单 订购价值520亿美元AI服务器机架",
+          "url": "https://www.cls.cn/detail/2430890",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 17时43分]"
         },
         {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
@@ -111,16 +217,16 @@
           "time_info": "[10时46分 ~ 14时17分]"
         },
         {
-          "title": "物价飞涨,日本增产1日元硬币",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356315&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E5%A2%9E%E4%BA%A71%E6%97%A5%E5%85%83%E7%A1%AC%E5%B8%81",
-          "source": "贴吧",
+          "title": "重点整治毒动画、规范平台推荐行为等，中央网信办部署开展未成年人网络保护专项行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33619311",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            14
+            14,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时46分 ~ 14时17分]"
+          "time_info": "[14时17分 ~ 17时43分]"
         },
         {
           "title": "男子闪婚后发现妻子吸毒坐牢患梅毒",
@@ -129,18 +235,6 @@
           "ranks": [
             12,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 14时17分]"
-        },
-        {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -159,15 +253,26 @@
           "time_info": "[10时46分 ~ 14时17分]"
         },
         {
-          "title": "我爸坚决认为人活着就是为了孩子，怎么反驳他？",
-          "url": "https://www.zhihu.com/question/614398157",
+          "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
+          "url": "https://www.zhihu.com/question/2061405940272960418",
           "source": "知乎",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时46分 ~ 14时17分]"
+          "time_info": "[14时17分 ~ 17时43分]"
+        },
+        {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "昆明警方通报“女子被冒名吸毒7年”：已将关联违法记录更正",
@@ -181,15 +286,37 @@
           "time_info": "10时46分"
         },
         {
-          "title": "超节点集中亮相WAIC 国产算力进入系统级竞争时代",
-          "url": "https://www.cls.cn/detail/2430847",
-          "source": "财联社热门",
+          "title": "美伊战火引爆危机：柴油价格飙升是美国通胀的又一“雷点”！",
+          "url": "https://flash.jin10.com/detail/20260720171820603800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "17时43分"
+        },
+        {
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+          "url": "https://www.zhihu.com/question/2062518030224061737",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "全球最大煤制油项目完成智能化改造",
@@ -203,17 +330,6 @@
           "time_info": "10时46分"
         },
         {
-          "title": "SpaceX据称向鸿海下达巨额订单 订购价值520亿美元AI服务器机架",
-          "url": "https://www.cls.cn/detail/2430890",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
           "title": "工信部：上半年规模以上制造业企业AI技术应用普及率超过30%",
           "url": "https://wallstreetcn.com/livenews/3136481",
           "source": "华尔街见闻-快讯",
@@ -225,15 +341,26 @@
           "time_info": "10时46分"
         },
         {
-          "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
-          "url": "https://www.cls.cn/detail/2430865",
-          "source": "财联社热门",
+          "title": "王祖贤肖像授权网易AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
+          "source": "贴吧",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "17时43分"
+        },
+        {
+          "title": "WAIC机器人格斗拳拳到铁",
+          "url": "https://www.douyin.com/hot/2576677",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "国新办举行新闻发布会，介绍2026年上半年工业和信息化发展情况。",
@@ -253,20 +380,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
         {
-          "title": "重点整治毒动画、规范平台推荐行为等，中央网信办部署开展未成年人网络保护专项行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33619311",
-          "source": "澎湃新闻",
+          "title": "用AI撬开沃什的嘴？华尔街机构推出“WarshGPT”",
+          "url": "https://www.cls.cn/detail/2430794",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "17时43分"
         },
         {
           "title": "中国地震台网自动测定：07月20日10时27分在云南曲靖市师宗县附近发生3.2级左右地震，最终结果以正式速报为准。 ​​​",
@@ -286,9 +413,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "痛屋变毒屋,吧唧放倒二次元",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356336&amp;topic_name=%E7%97%9B%E5%B1%8B%E5%8F%98%E6%AF%92%E5%B1%8B%2C%E5%90%A7%E5%94%A7%E6%94%BE%E5%80%92%E4%BA%8C%E6%AC%A1%E5%85%83",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "OpenAI称Kimi开源是减速主义",
@@ -297,7 +435,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -311,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "万泰生物：冻干重组呼吸道合胞病毒疫苗临床试验申请获受理",
+          "url": "https://flash.jin10.com/detail/20260720171458690800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
@@ -335,15 +484,26 @@
           "time_info": "10时46分"
         },
         {
-          "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
-          "url": "https://www.zhihu.com/question/2061405940272960418",
-          "source": "知乎",
+          "title": "上海市人工智能重点项目签约仪式举行",
+          "url": "https://wallstreetcn.com/livenews/3136738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "17时43分"
+        },
+        {
+          "title": "银狐病毒首犯被押解回国",
+          "url": "https://search.bilibili.com/all?keyword=%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92%E9%A6%96%E7%8A%AF%E8%A2%AB%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "截至6月底，我国智能算力规模同比增长177%",
@@ -363,7 +523,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -374,7 +534,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -385,9 +545,42 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "魔法师的咒语其实是AI指令",
+          "url": "https://s.weibo.com/weibo?q=%E9%AD%94%E6%B3%95%E5%B8%88%E7%9A%84%E5%92%92%E8%AF%AD%E5%85%B6%E5%AE%9E%E6%98%AFAI%E6%8C%87%E4%BB%A4&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "52岁音乐人马山虎凌晨突发心梗去世",
+          "url": "https://www.baidu.com/s?wd=52%E5%B2%81%E9%9F%B3%E4%B9%90%E4%BA%BA%E9%A9%AC%E5%B1%B1%E8%99%8E%E5%87%8C%E6%99%A8%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "天数智芯发布新一代通用GPU旗舰产品天垓300，面向三类智能构建新一代通用算力底座",
+          "url": "https://wallstreetcn.com/livenews/3136726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "家长如何帮孩子“长个儿”",
@@ -399,6 +592,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "为何WAIC在上海签署协定",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95WAIC%E5%9C%A8%E4%B8%8A%E6%B5%B7%E7%AD%BE%E7%BD%B2%E5%8D%8F%E5%AE%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "克里姆林宫发言人佩斯科夫：俄罗斯听到欧洲政界人士关于恢复与莫斯科对话的诸多讨论，但这些讨论并未反映在实际政策中。",
+          "url": "https://flash.jin10.com/detail/20260720170637371800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "王祖贤AI人脸授权",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         }
       ]
     }
