@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T13:30:20.720716+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-07-25T15:34:50.177311+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 31,
+      "match_count": 42,
       "titles": [
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -23,11 +23,34 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 15时34分]"
+        },
+        {
+          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
+          "url": "https://wallstreetcn.com/livenews/3139727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "上半年农业农村经济发展势头良好",
+          "url": "https://www.toutiao.com/trending/7666351325885681190/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "SK海力士：与英伟达建立长期AI存储器合作伙伴关系。",
@@ -36,7 +59,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -58,9 +81,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3139724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 15时34分]"
         },
         {
           "title": "现代汽车集团会长郑义宣在旧金山AI峰会上发布“物理AI”愿景。",
@@ -69,9 +115,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "关于中日关系，石破茂又说了很多日本人不爱听的大实话",
@@ -81,8 +138,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时30分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 15时34分]"
         },
         {
           "title": "我把我学会的爱都给了孩子",
@@ -90,11 +147,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时30分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 15时34分]"
         },
         {
           "title": "重庆彭水山体崩塌灾害现场新搜寻出3名遇难者",
@@ -102,33 +160,48 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时30分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 15时34分]"
         },
         {
           "title": "工资交一半,老哥爱宠遭毒手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356494&amp;topic_name=%E5%B7%A5%E8%B5%84%E4%BA%A4%E4%B8%80%E5%8D%8A%2C%E8%80%81%E5%93%A5%E7%88%B1%E5%AE%A0%E9%81%AD%E6%AF%92%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
-        },
-        {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
+            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 15时34分]"
+        },
+        {
+          "title": "郭碧婷说什么叫我给人家生孩子",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E8%AF%B4%E4%BB%80%E4%B9%88%E5%8F%AB%E6%88%91%E7%BB%99%E4%BA%BA%E5%AE%B6%E7%94%9F%E5%AD%A9%E5%AD%90%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 15时34分]"
+        },
+        {
+          "title": "为什么中国父母会沉迷于让孩子吃苦？",
+          "url": "https://www.zhihu.com/question/620293603",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 15时34分]"
         },
         {
           "title": "山西洪洞发生黄土崩塌5人死亡",
@@ -142,26 +215,28 @@
           "time_info": "[13时29分 ~ 13时30分]"
         },
         {
-          "title": "郭碧婷说什么叫我给人家生孩子",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E8%AF%B4%E4%BB%80%E4%B9%88%E5%8F%AB%E6%88%91%E7%BB%99%E4%BA%BA%E5%AE%B6%E7%94%9F%E5%AD%A9%E5%AD%90%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职。 (央视新闻)",
+          "url": "https://wallstreetcn.com/livenews/3139711",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            10,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
+          "time_info": "[13时30分 ~ 15时34分]"
         },
         {
-          "title": "为什么中国父母会沉迷于让孩子吃苦？",
-          "url": "https://www.zhihu.com/question/620293603",
-          "source": "知乎",
+          "title": "中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍。 (央视新闻)",
+          "url": "https://wallstreetcn.com/livenews/3139709",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            12,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
+          "time_info": "[13时30分 ~ 15时34分]"
         },
         {
           "title": "三只狮子葬身洪水后动物园遭网暴",
@@ -192,9 +267,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
+          "url": "https://wallstreetcn.com/livenews/3139722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "韩国科学部：SK集团将与Anthropic就韩国境内的吉瓦（GW）级AI数据中心项目开展投资合作。",
@@ -203,7 +289,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -219,26 +305,26 @@
           "time_info": "10时29分"
         },
         {
-          "title": "华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职。 (央视新闻)",
-          "url": "https://wallstreetcn.com/livenews/3139711",
-          "source": "华尔街见闻-快讯",
+          "title": "杭州突发巨响有人称房子都颤了",
+          "url": "https://www.toutiao.com/trending/7666073987202400307/",
+          "source": "今日头条",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时30分"
+          "time_info": "15时34分"
         },
         {
-          "title": "中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍。 (央视新闻)",
-          "url": "https://wallstreetcn.com/livenews/3139709",
-          "source": "华尔街见闻-快讯",
+          "title": "紧急服务部门表示，俄罗斯对乌克兰苏梅的攻击造成三人死亡。",
+          "url": "https://flash.jin10.com/detail/20260725144545668800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时30分"
+          "time_info": "15时34分"
         },
         {
           "title": "据韩国媒体Newsis：韩国总统李在明与全球人工智能领袖举行“啤酒会”。",
@@ -247,9 +333,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
+          "url": "https://flash.jin10.com/detail/20260725140739337800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "据韩国媒体Newsis援引韩国总统顾问：韩国正推进SK电讯、英伟达等合作建设配备200万块GPU的AI数据中心。",
@@ -258,7 +355,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -302,9 +399,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "英伟达与SK集团推出5000亿美元AI计划",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8ESK%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BA5000%E4%BA%BF%E7%BE%8E%E5%85%83AI%E8%AE%A1%E5%88%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "林润泽回应因贪吃被送去农村变形",
@@ -335,9 +454,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "林润泽回应在家吃不饱饭去农村变形",
+          "url": "https://www.toutiao.com/trending/7666068877092192282/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "韩国法律保护,T1花圈不能撤",
