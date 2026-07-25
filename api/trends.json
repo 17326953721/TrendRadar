@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T17:45:50.254174+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-07-25T19:09:19.461196+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -13,11 +13,36 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 17时45分]"
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 19时09分]"
+        },
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 19时09分]"
+        },
+        {
+          "title": "上半年农业农村经济发展势头良好",
+          "url": "https://www.toutiao.com/trending/7666351325885681190/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 19时09分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -31,39 +56,55 @@
           "time_info": "[10时29分 ~ 13时30分]"
         },
         {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 17时45分]"
-        },
-        {
-          "title": "上半年农业农村经济发展势头良好",
-          "url": "https://www.toutiao.com/trending/7666351325885681190/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 17时45分]"
-        },
-        {
           "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
           "url": "https://wallstreetcn.com/livenews/3139736",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 19时09分]"
+        },
+        {
+          "title": "关于中日关系，石破茂又说了很多日本人不爱听的大实话",
+          "url": "https://news.ifeng.com/c/8v1pOgU8oeC",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 19时09分]"
+        },
+        {
+          "title": "我把我学会的爱都给了孩子",
+          "url": "https://www.douyin.com/hot/2584268",
+          "source": "抖音",
+          "ranks": [
+            18,
+            11,
+            12,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 19时09分]"
+        },
+        {
+          "title": "重庆彭水山体崩塌灾害现场新搜寻出3名遇难者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654735",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 19时09分]"
         },
         {
           "title": "SK海力士：与英伟达建立长期AI存储器合作伙伴关系。",
@@ -75,17 +116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
-        },
-        {
-          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://flash.jin10.com/detail/20260725172016965800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -110,6 +140,31 @@
           "time_info": "13时30分"
         },
         {
+          "title": "工资交一半,老哥爱宠遭毒手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356494&amp;topic_name=%E5%B7%A5%E8%B5%84%E4%BA%A4%E4%B8%80%E5%8D%8A%2C%E8%80%81%E5%93%A5%E7%88%B1%E5%AE%A0%E9%81%AD%E6%AF%92%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 19时09分]"
+        },
+        {
+          "title": "《新闻联播》正在直播",
+          "url": "https://www.toutiao.com/trending/7666415221980024330/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "现代汽车集团会长郑义宣在旧金山AI峰会上发布“物理AI”愿景。",
           "url": "https://flash.jin10.com/detail/20260725131131676800",
           "source": "金十数据",
@@ -121,67 +176,17 @@
           "time_info": "13时30分"
         },
         {
-          "title": "关于中日关系，石破茂又说了很多日本人不爱听的大实话",
-          "url": "https://news.ifeng.com/c/8v1pOgU8oeC",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 17时45分]"
-        },
-        {
-          "title": "我把我学会的爱都给了孩子",
-          "url": "https://www.douyin.com/hot/2584268",
-          "source": "抖音",
-          "ranks": [
-            18,
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 17时45分]"
-        },
-        {
-          "title": "重庆彭水山体崩塌灾害现场新搜寻出3名遇难者",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654735",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 17时45分]"
-        },
-        {
-          "title": "工资交一半,老哥爱宠遭毒手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356494&amp;topic_name=%E5%B7%A5%E8%B5%84%E4%BA%A4%E4%B8%80%E5%8D%8A%2C%E8%80%81%E5%93%A5%E7%88%B1%E5%AE%A0%E9%81%AD%E6%AF%92%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 17时45分]"
-        },
-        {
           "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
           "url": "https://wallstreetcn.com/livenews/3139727",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 19时09分]"
         },
         {
           "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
@@ -189,11 +194,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 19时09分]"
         },
         {
           "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
@@ -201,11 +207,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 19时09分]"
+        },
+        {
+          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://flash.jin10.com/detail/20260725172016965800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时34分 ~ 17时45分]"
+          "time_info": "[17时45分 ~ 19时09分]"
         },
         {
           "title": "华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职。 (央视新闻)",
@@ -214,11 +233,38 @@
           "ranks": [
             10,
             17,
-            26
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 19时09分]"
+        },
+        {
+          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
+          "url": "https://wallstreetcn.com/livenews/3139722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时30分 ~ 17时45分]"
+          "time_info": "[15时34分 ~ 19时09分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时34分 ~ 19时09分]"
         },
         {
           "title": "中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍。 (央视新闻)",
@@ -258,16 +304,16 @@
           "time_info": "[13时29分 ~ 15时34分]"
         },
         {
-          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
-          "url": "https://wallstreetcn.com/livenews/3139722",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯任命的州长表示，俄控扎波罗热地区旅游营地遭袭致8人死亡。",
+          "url": "https://flash.jin10.com/detail/20260725163702731800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            15
+            8,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时34分 ~ 17时45分]"
+          "time_info": "[17时45分 ~ 19时09分]"
         },
         {
           "title": "山西洪洞发生黄土崩塌5人死亡",
@@ -279,6 +325,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "科技七巨头单日抹去近9000亿美元！华尔街老将喊话：市场过度反应，地缘危机即买点",
+          "url": "https://wallstreetcn.com/articles/3777880",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 19时09分]"
         },
         {
           "title": "紧急服务部门表示，俄罗斯对乌克兰苏梅的攻击造成三人死亡。",
@@ -293,16 +350,16 @@
           "time_info": "[15时34分 ~ 17时45分]"
         },
         {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
+          "title": "美国女子吸毒精神错乱仰躺推车晃腿",
+          "url": "https://www.toutiao.com/trending/7666370454471180329/",
+          "source": "今日头条",
           "ranks": [
             20,
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时34分 ~ 17时45分]"
+          "time_info": "[17时45分 ~ 19时09分]"
         },
         {
           "title": "三只狮子葬身洪水后动物园遭网暴",
@@ -314,6 +371,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "AI已经摸不透柯洁了",
+          "url": "https://www.douyin.com/hot/2584747",
+          "source": "抖音",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 19时09分]"
         },
         {
           "title": "山西洪洞黄土崩塌致5人死亡",
@@ -360,15 +429,15 @@
           "time_info": "10时29分"
         },
         {
-          "title": "俄罗斯任命的州长表示，俄控扎波罗热地区旅游营地遭袭致8人死亡。",
-          "url": "https://flash.jin10.com/detail/20260725163702731800",
+          "title": "水利部针对7省区启动洪水防御Ⅳ级应急响应",
+          "url": "https://flash.jin10.com/detail/20260725180352589800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时45分"
+          "time_info": "19时09分"
         },
         {
           "title": "杭州突发巨响有人称房子都颤了",
@@ -380,17 +449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
-        },
-        {
-          "title": "科技七巨头单日抹去近9000亿美元！华尔街老将喊话：市场过度反应，地缘危机即买点",
-          "url": "https://wallstreetcn.com/articles/3777880",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "据韩国媒体Newsis：韩国总统李在明与全球人工智能领袖举行“啤酒会”。",
@@ -413,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "据韩国媒体Newsis援引韩国总统顾问：韩国正推进SK电讯、英伟达等合作建设配备200万块GPU的AI数据中心。",
@@ -459,24 +528,13 @@
           "time_info": "10时29分"
         },
         {
-          "title": "美国女子吸毒精神错乱仰躺推车晃腿",
-          "url": "https://www.toutiao.com/trending/7666370454471180329/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
           "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
           "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -501,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "孩子高考被交大医学院录取，但现在惧怕学医，打算放弃入学，复读后高考再选工科，如果你是家长会怎么做？",
+          "url": "https://www.zhihu.com/question/2063110932038001519",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "林润泽回应因贪吃被送去农村变形",
@@ -534,17 +603,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
-        },
-        {
-          "title": "AI已经摸不透柯洁了",
-          "url": "https://www.douyin.com/hot/2584747",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "林润泽回应在家吃不饱饭去农村变形",
