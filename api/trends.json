@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T20:02:32.416995+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-07-26T22:09:05.615949+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 66,
+      "match_count": 81,
       "titles": [
         {
           "title": "伊朗革命卫队披露美军死亡人数",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时01分 ~ 20时02分]"
+          "appearance_count": 8,
+          "time_info": "[14时01分 ~ 22时09分]"
         },
         {
           "title": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
@@ -28,22 +28,12 @@
             6,
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 20时02分]"
-        },
-        {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 14时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 22时09分]"
         },
         {
           "title": "新闻周刊对话王虹邓煜",
@@ -57,8 +47,65 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 20时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 22时09分]"
+        },
+        {
+          "title": "新闻周刊丨从大学同窗到菲尔兹“双星”，王虹与邓煜的数学追梦路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660639",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 22时09分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            20,
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 22时09分]"
+        },
+        {
+          "title": "工资交一半,老哥爱宠遭毒手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356494&amp;topic_name=%E5%B7%A5%E8%B5%84%E4%BA%A4%E4%B8%80%E5%8D%8A%2C%E8%80%81%E5%93%A5%E7%88%B1%E5%AE%A0%E9%81%AD%E6%AF%92%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            22,
+            23,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 22时09分]"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 14时02分]"
         },
         {
           "title": "基因编辑致女童死亡,上交回应",
@@ -81,49 +128,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时36分 ~ 14时02分]"
-        },
-        {
-          "title": "新闻周刊丨从大学同窗到菲尔兹“双星”，王虹与邓煜的数学追梦路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660639",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 20时02分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            20,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 20时02分]"
-        },
-        {
-          "title": "工资交一半,老哥爱宠遭毒手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356494&amp;topic_name=%E5%B7%A5%E8%B5%84%E4%BA%A4%E4%B8%80%E5%8D%8A%2C%E8%80%81%E5%93%A5%E7%88%B1%E5%AE%A0%E9%81%AD%E6%AF%92%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            22,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 20时02分]"
         },
         {
           "title": "APEC人工智能未来合作开启新路径",
@@ -163,6 +167,29 @@
           "time_info": "[14时01分 ~ 18时44分]"
         },
         {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 22时09分]"
+        },
+        {
+          "title": "不要长期向AI倾泻心事",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
+        },
+        {
           "title": "我把我学会的爱都给了孩子",
           "url": "https://www.douyin.com/hot/2584268",
           "source": "抖音",
@@ -174,6 +201,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时36分 ~ 16时38分]"
+        },
+        {
+          "title": "九寨沟突发泥石流 大批游客滞留",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E7%AA%81%E5%8F%91%E6%B3%A5%E7%9F%B3%E6%B5%81+%E5%A4%A7%E6%89%B9%E6%B8%B8%E5%AE%A2%E6%BB%9E%E7%95%99",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "咖啡店发现迷你毒蛇仅10厘米",
@@ -190,15 +228,29 @@
           "time_info": "[14时01分 ~ 20时02分]"
         },
         {
-          "title": "甘肃渭源突发山洪已致10人死亡",
-          "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E6%B8%AD%E6%BA%90%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%E5%B7%B2%E8%87%B410%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
+          "title": "中信建投：A股市场短期维持W型底部震荡 ，AI 仍是长期主线",
+          "url": "https://flash.jin10.com/detail/20260726213859697800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "22时09分"
+        },
+        {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 22时09分]"
         },
         {
           "title": "水利部将针对江西、湖南、广东省的洪水防御应急响应提升至Ⅲ级",
@@ -229,9 +281,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "甘肃渭源突发山洪已致10人死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E6%B8%AD%E6%BA%90%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%E5%B7%B2%E8%87%B410%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时09分]"
+        },
+        {
+          "title": "视频丨甘肃渭源一景区发生山洪灾害，已致10人遇难23人受伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662993",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时09分]"
         },
         {
           "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
@@ -268,17 +344,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时01分 ~ 18时44分]"
-        },
-        {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 20时02分]"
         },
         {
           "title": "立新能源：公司股价近期累计涨幅较大 存在快速下跌风险",
@@ -318,6 +383,19 @@
           "time_info": "[18时44分 ~ 20时02分]"
         },
         {
+          "title": "台网红馆长反对毒油事件",
+          "url": "https://www.douyin.com/hot/2585721",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 22时09分]"
+        },
+        {
           "title": "假如莫奈遇上AI机器人",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -355,19 +433,6 @@
           "time_info": "[10时36分 ~ 18时44分]"
         },
         {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 20时02分]"
-        },
-        {
           "title": "白岩松评父亲家丑外扬孩子抬不起头",
           "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%AF%84%E7%88%B6%E4%BA%B2%E5%AE%B6%E4%B8%91%E5%A4%96%E6%89%AC%E5%AD%A9%E5%AD%90%E6%8A%AC%E4%B8%8D%E8%B5%B7%E5%A4%B4",
           "source": "百度热搜",
@@ -390,6 +455,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时36分 ~ 14时02分]"
+        },
+        {
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时09分]"
         },
         {
           "title": "严浩翔对AI写rap词的反应",
@@ -439,16 +516,15 @@
           "time_info": "[18时44分 ~ 20时02分]"
         },
         {
-          "title": "台网红馆长反对毒油事件",
-          "url": "https://www.douyin.com/hot/2585721",
-          "source": "抖音",
+          "title": "台湾新北4.8级地震 福建多地有震感",
+          "url": "https://www.toutiao.com/trending/7666809391664676927/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时44分 ~ 20时02分]"
+          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "南部战区新闻发言人就菲律宾拉拢域外国家组织所谓“联合巡航”发表谈话",
@@ -461,6 +537,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时44分 ~ 20时02分]"
+        },
+        {
+          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
+          "url": "https://www.cls.cn/detail/2437146",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
+        },
+        {
+          "title": "基因编辑死亡女童原本只是认知发育迟缓",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E6%AD%BB%E4%BA%A1%E5%A5%B3%E7%AB%A5%E5%8E%9F%E6%9C%AC%E5%8F%AA%E6%98%AF%E8%AE%A4%E7%9F%A5%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
+        },
+        {
+          "title": "张雪峰前妻：遗产存信托给孩子",
+          "url": "https://www.toutiao.com/trending/7665876757832007723/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
+        },
+        {
+          "title": "甘肃省渭源县一景区发生山洪灾害，已造成3人遇难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662831",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
@@ -484,6 +604,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
+          "url": "https://www.zhihu.com/question/2064467113771791028",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
+        },
+        {
+          "title": "小狗护主咬死剧毒眼镜蛇 仅嘴角中毒",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%8B%97%E6%8A%A4%E4%B8%BB%E5%92%AC%E6%AD%BB%E5%89%A7%E6%AF%92%E7%9C%BC%E9%95%9C%E8%9B%87+%E4%BB%85%E5%98%B4%E8%A7%92%E4%B8%AD%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "AI坑惨手机圈",
@@ -552,6 +694,28 @@
           "time_info": "10时36分"
         },
         {
+          "title": "中国地震台网正式测定：07月26日20时36分在台湾新北市（北纬24.94度，东经121.82度）发生4.8级地震，震源深度95千米。",
+          "url": "https://flash.jin10.com/detail/20260726205341402800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "台湾宜兰县海域附近发生4.8级左右地震。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3139847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "如何看美国审查中国AI模型",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E5%AE%A1%E6%9F%A5%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -572,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "广东省财政厅、省应急管理厅向广东受灾地区拨付省级自然灾害救灾资金5000万元",
+          "url": "https://flash.jin10.com/detail/20260726205035904800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "英国人工智能大臣：芯片和无人机将成为“再工业化”战略的核心",
@@ -607,6 +782,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "中国地震台网自动测定：07月26日20时36分在台湾宜兰县海域附近（北纬24.90度，东经121.87度）发生4.8级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260726204044978800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "SK崔泰源：韩国需转型为“AI原生”国家",
           "url": "https://flash.jin10.com/detail/20260726091430894800",
           "source": "金十数据",
@@ -638,17 +824,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
-        },
-        {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
         },
         {
           "title": "上海交大医学院就女童接受基因编辑后死亡发情况说明，已成立工作组对事件进行全面调查，有哪些信息值得关注？",
@@ -690,7 +865,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -701,18 +876,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "视频丨甘肃渭源一景区发生山洪灾害，已致10人遇难23人受伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662993",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -745,7 +909,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -781,6 +945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
+          "url": "https://wallstreetcn.com/livenews/3139836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         }
       ]
     }
