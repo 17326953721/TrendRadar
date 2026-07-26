@@ -1,762 +1,242 @@
 {
-  "generated_at": "2026-07-25T22:37:14.860306+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-07-26T10:36:30.093936+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 63,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时29分 ~ 22时37分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            7,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时29分 ~ 22时37分]"
-        },
-        {
-          "title": "关于中日关系，石破茂又说了很多日本人不爱听的大实话",
-          "url": "https://news.ifeng.com/c/8v1pOgU8oeC",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时29分 ~ 22时37分]"
-        },
-        {
-          "title": "我把我学会的爱都给了孩子",
-          "url": "https://www.douyin.com/hot/2584268",
-          "source": "抖音",
-          "ranks": [
-            18,
-            11,
-            12,
-            10,
-            13,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时29分 ~ 22时37分]"
-        },
-        {
-          "title": "重庆彭水山体崩塌灾害现场新搜寻出3名遇难者",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654735",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时29分 ~ 22时37分]"
-        },
-        {
-          "title": "上半年农业农村经济发展势头良好",
-          "url": "https://www.toutiao.com/trending/7666351325885681190/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 20时32分]"
-        },
-        {
-          "title": "工资交一半,老哥爱宠遭毒手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356494&amp;topic_name=%E5%B7%A5%E8%B5%84%E4%BA%A4%E4%B8%80%E5%8D%8A%2C%E8%80%81%E5%93%A5%E7%88%B1%E5%AE%A0%E9%81%AD%E6%AF%92%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8,
-            9,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时29分 ~ 22时37分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时34分 ~ 22时37分]"
-        },
-        {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 13时30分]"
-        },
-        {
-          "title": "数读我国农业农村经济稳中向好",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E6%88%91%E5%9B%BD%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E7%BB%8F%E6%B5%8E%E7%A8%B3%E4%B8%AD%E5%90%91%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时36分 ~ 22时37分]"
-        },
-        {
-          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://wallstreetcn.com/livenews/3139736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 20时32分]"
-        },
-        {
-          "title": "SK海力士：与英伟达建立长期AI存储器合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260725131703808800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时30分"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "三星电子与博通签署谅解备忘录，涵盖至2030年在存储芯片、代工服务和先进封装领域的合作，金额可达2000亿美元。三星电子将与博通合作开发基于三星HBM技术的博通下一代人工智能加速器。三星电子将提供亚2纳米代工工艺和先进封装解决方案。",
-          "url": "https://flash.jin10.com/detail/20260725131150393800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时30分"
-        },
-        {
-          "title": "《新闻联播》正在直播",
-          "url": "https://www.toutiao.com/trending/7666415221980024330/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        },
-        {
-          "title": "现代汽车集团会长郑义宣在旧金山AI峰会上发布“物理AI”愿景。",
-          "url": "https://flash.jin10.com/detail/20260725131131676800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时30分"
-        },
-        {
-          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
-          "url": "https://wallstreetcn.com/livenews/3139727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 20时32分]"
-        },
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
           "url": "https://wallstreetcn.com/articles/3777926",
           "source": "华尔街见闻",
           "ranks": [
-            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "水利部将针对江西、湖南、广东省的洪水防御应急响应提升至Ⅲ级",
+          "url": "https://flash.jin10.com/detail/20260726100454324800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
+          "url": "https://wallstreetcn.com/articles/3777919",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+          "url": "https://wallstreetcn.com/articles/3777925",
+          "source": "华尔街见闻",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时37分]"
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
-          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3139724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 20时32分]"
-        },
-        {
-          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3139723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 20时32分]"
-        },
-        {
-          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://flash.jin10.com/detail/20260725172016965800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 20时32分]"
-        },
-        {
-          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
-          "url": "https://wallstreetcn.com/livenews/3139722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 20时32分]"
-        },
-        {
-          "title": "华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职。 (央视新闻)",
-          "url": "https://wallstreetcn.com/livenews/3139711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时30分 ~ 19时09分]"
-        },
-        {
-          "title": "孩子高考被交大医学院录取，但现在惧怕学医，打算放弃入学，复读后高考再选工科，如果你是家长会怎么做？",
-          "url": "https://www.zhihu.com/question/2063110932038001519",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时09分 ~ 22时37分]"
-        },
-        {
-          "title": "俄罗斯任命的州长表示，俄控扎波罗热地区旅游营地遭袭致8人死亡。",
-          "url": "https://flash.jin10.com/detail/20260725163702731800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 20时32分]"
-        },
-        {
-          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
-          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时37分]"
-        },
-        {
-          "title": "中核集团原党组副书记、总经理顾军严重违纪违法被开除党籍。 (央视新闻)",
-          "url": "https://wallstreetcn.com/livenews/3139709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 17时45分]"
-        },
-        {
-          "title": "美国女子吸毒精神错乱仰躺推车晃腿",
-          "url": "https://www.toutiao.com/trending/7666370454471180329/",
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
           "source": "今日头条",
           "ranks": [
-            20,
-            14,
-            23
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 20时32分]"
+          "appearance_count": 1,
+          "time_info": "10时36分"
         },
         {
-          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 22时37分]"
-        },
-        {
-          "title": "郭碧婷说什么叫我给人家生孩子",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E8%AF%B4%E4%BB%80%E4%B9%88%E5%8F%AB%E6%88%91%E7%BB%99%E4%BA%BA%E5%AE%B6%E7%94%9F%E5%AD%A9%E5%AD%90%23&t=31&band_rank=15&Refer=top",
+          "title": "AI算命 个人数据意识",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%AE%97%E5%91%BD%20%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE%E6%84%8F%E8%AF%86&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时34分]"
-        },
-        {
-          "title": "为什么中国父母会沉迷于让孩子吃苦？",
-          "url": "https://www.zhihu.com/question/620293603",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时34分]"
-        },
-        {
-          "title": "水利部针对7省区启动洪水防御Ⅳ级应急响应",
-          "url": "https://flash.jin10.com/detail/20260725180352589800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时32分]"
-        },
-        {
-          "title": "山西洪洞发生黄土崩塌5人死亡",
-          "url": "https://www.toutiao.com/trending/7666277153458192447/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
-        },
-        {
-          "title": "科技七巨头单日抹去近9000亿美元！华尔街老将喊话：市场过度反应，地缘危机即买点",
-          "url": "https://wallstreetcn.com/articles/3777880",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时09分]"
-        },
-        {
-          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
-          "url": "https://wallstreetcn.com/articles/3777898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时36分 ~ 22时37分]"
-        },
-        {
-          "title": "紧急服务部门表示，俄罗斯对乌克兰苏梅的攻击造成三人死亡。",
-          "url": "https://flash.jin10.com/detail/20260725144545668800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时34分 ~ 17时45分]"
-        },
-        {
-          "title": "爸爸带娃玩手机 孩子打翻烧水壶",
-          "url": "https://www.toutiao.com/trending/7665724480107233316/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时36分 ~ 22时37分]"
-        },
-        {
-          "title": "马斯克：中国很有可能成AI领导者",
-          "url": "https://www.toutiao.com/trending/7666381434109578761/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时32分]"
-        },
-        {
-          "title": "三只狮子葬身洪水后动物园遭网暴",
-          "url": "https://www.toutiao.com/trending/7665597252333223942/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
-        },
-        {
-          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时36分 ~ 22时37分]"
-        },
-        {
-          "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时36分 ~ 22时37分]"
-        },
-        {
-          "title": "AI已经摸不透柯洁了",
-          "url": "https://www.douyin.com/hot/2584747",
-          "source": "抖音",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时09分]"
-        },
-        {
-          "title": "山西洪洞黄土崩塌致5人死亡",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E6%B4%AA%E6%B4%9E%E9%BB%84%E5%9C%9F%E5%B4%A9%E5%A1%8C%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
-        },
-        {
-          "title": "SK集团与英伟达深化战略合作伙伴关系，涵盖AI工厂与下一代存储技术。",
-          "url": "https://flash.jin10.com/detail/20260725131053313800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时30分"
+          "time_info": "10时36分"
         },
         {
-          "title": "俄罗斯任命的州长表示，乌克兰扎波罗热地区俄罗斯控制区的假日营地袭击事件导致死亡人数上升至11人，其中包括四名儿童。",
-          "url": "https://flash.jin10.com/detail/20260725211024298800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        },
-        {
-          "title": "韩国科学部：SK集团将与Anthropic就韩国境内的吉瓦（GW）级AI数据中心项目开展投资合作。",
-          "url": "https://flash.jin10.com/detail/20260725131035027800",
+          "title": "海湾合作委员会面临危机，成员国难就伊朗问题达成一致",
+          "url": "https://flash.jin10.com/detail/20260726094333888800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时30分"
+          "time_info": "10时36分"
         },
         {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
+          "title": "新闻周刊对话王虹邓煜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E9%97%BB%E5%91%A8%E5%88%8A%E5%AF%B9%E8%AF%9D%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C",
+          "source": "bilibili 热搜",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "10时36分"
         },
         {
-          "title": "杭州突发巨响有人称房子都颤了",
-          "url": "https://www.toutiao.com/trending/7666073987202400307/",
-          "source": "今日头条",
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "店主卖 7.9 元手机壳时标注「荣耀 XX 型号」被荣耀索赔 38 万元，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2064405742971352764",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "10时36分"
         },
         {
-          "title": "据韩国媒体Newsis：韩国总统李在明与全球人工智能领袖举行“啤酒会”。",
-          "url": "https://flash.jin10.com/detail/20260725124217264800",
-          "source": "金十数据",
+          "title": "新闻周刊丨从大学同窗到菲尔兹“双星”，王虹与邓煜的数学追梦路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660639",
+          "source": "澎湃新闻",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时30分"
+          "time_info": "10时36分"
         },
         {
-          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
-          "url": "https://flash.jin10.com/detail/20260725140739337800",
+          "title": "SK崔泰源：韩国需转型为“AI原生”国家",
+          "url": "https://flash.jin10.com/detail/20260726091430894800",
           "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
+          "url": "https://wallstreetcn.com/livenews/3139779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "我把我学会的爱都给了孩子",
+          "url": "https://www.douyin.com/hot/2584268",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
+          "url": "https://www.zhihu.com/question/2064306906437571115",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "10时36分"
         },
         {
-          "title": "据韩国媒体Newsis援引韩国总统顾问：韩国正推进SK电讯、英伟达等合作建设配备200万块GPU的AI数据中心。",
-          "url": "https://flash.jin10.com/detail/20260725123126272800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时30分"
-        },
-        {
-          "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
-          "url": "https://wallstreetcn.com/livenews/3139690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "李在明：韩国将成为全球AI供应链中不可替代的核心国家",
-          "url": "https://flash.jin10.com/detail/20260725092900836800",
-          "source": "金十数据",
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "10时36分"
         },
         {
-          "title": "中国气象局启动重大气象灾害Ⅱ级应急响应",
-          "url": "https://flash.jin10.com/detail/20260725091934761800",
-          "source": "金十数据",
+          "title": "工资交一半,老哥爱宠遭毒手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356494&amp;topic_name=%E5%B7%A5%E8%B5%84%E4%BA%A4%E4%B8%80%E5%8D%8A%2C%E8%80%81%E5%93%A5%E7%88%B1%E5%AE%A0%E9%81%AD%E6%AF%92%E6%89%8B",
+          "source": "贴吧",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "10时36分"
         },
         {
-          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
-          "url": "https://wallstreetcn.com/livenews/3139752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        },
-        {
-          "title": "据韩联社：韩国互联网门户运营商Naver公司已获得英伟达和美国私募股权公司Brookfield总计100亿美元的投资承诺，用于资助其在韩国建设人工智能（AI）数据中心的计划。",
-          "url": "https://flash.jin10.com/detail/20260725122018676800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时30分"
-        },
-        {
-          "title": "英伟达与SK集团推出5000亿美元AI计划",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8ESK%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BA5000%E4%BA%BF%E7%BE%8E%E5%85%83AI%E8%AE%A1%E5%88%92%23&t=31&band_rank=20&Refer=top",
+          "title": "美国女子吸毒精神错乱仰躺推车晃腿",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%90%B8%E6%AF%92%E7%B2%BE%E7%A5%9E%E9%94%99%E4%B9%B1%E4%BB%B0%E8%BA%BA%E6%8E%A8%E8%BD%A6%E6%99%83%E8%85%BF&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "10时36分"
         },
         {
-          "title": "美国与英国讨论关于下周举办霍尔木兹海峡危机会议的计划。 两国会议将针对海峡问题研究（组建）潜在的国际联盟。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3139750",
-          "source": "华尔街见闻-快讯",
+          "title": "AI已经摸不透柯洁了",
+          "url": "https://www.douyin.com/hot/2584747",
+          "source": "抖音",
           "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时37分"
-        },
-        {
-          "title": "林润泽回应因贪吃被送去农村变形",
-          "url": "https://www.baidu.com/s?wd=%E6%9E%97%E6%B6%A6%E6%B3%BD%E5%9B%9E%E5%BA%94%E5%9B%A0%E8%B4%AA%E5%90%83%E8%A2%AB%E9%80%81%E5%8E%BB%E5%86%9C%E6%9D%91%E5%8F%98%E5%BD%A2",
-          "source": "百度热搜",
-          "ranks": [
-            23
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "10时36分"
         },
         {
-          "title": "OpenAI称将发布Hugging Face被黑事件技术报告",
-          "url": "https://flash.jin10.com/detail/20260725090502293800",
+          "title": "国务院新闻办公室将于2026年7月28日（星期二）上午10时举行“开局起步‘十五五’”系列主题新闻发布会，请国家税务总局局长胡静林介绍“十五五”时期税收改革发展有关情况，并答记者问。",
+          "url": "https://flash.jin10.com/detail/20260726083631144800",
           "source": "金十数据",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
-          "url": "https://wallstreetcn.com/livenews/3139701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时30分"
-        },
-        {
-          "title": "林润泽回应在家吃不饱饭去农村变形",
-          "url": "https://www.toutiao.com/trending/7666068877092192282/",
-          "source": "今日头条",
-          "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "韩国法律保护,T1花圈不能撤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356432&amp;topic_name=%E9%9F%A9%E5%9B%BD%E6%B3%95%E5%BE%8B%E4%BF%9D%E6%8A%A4%2CT1%E8%8A%B1%E5%9C%88%E4%B8%8D%E8%83%BD%E6%92%A4",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "10时36分"
         }
       ]
     }
