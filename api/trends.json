@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T13:24:39.781706+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-07-30T15:55:01.914003+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 30,
+      "match_count": 44,
       "titles": [
         {
           "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 15时55分]"
         },
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -25,11 +25,58 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 15时55分]"
+        },
+        {
+          "title": "硅谷烧书训AI,焚书坑儒2.0",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
+          "source": "贴吧",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时24分]"
+          "time_info": "[15时54分 ~ 15时55分]"
+        },
+        {
+          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 15时55分]"
+        },
+        {
+          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
+          "url": "https://wallstreetcn.com/articles/3778258",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 15时55分]"
+        },
+        {
+          "title": "稳步提升！“数”览我国民生兜底保障“成绩单”",
+          "url": "https://wallstreetcn.com/livenews/3142262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "据BNO新闻：波兰卢布林响起防空警报，有报道称导弹进入波兰领空，该报道未经证实。",
@@ -43,51 +90,51 @@
           "time_info": "10时09分"
         },
         {
+          "title": "1岁半女童熟睡时遭3岁男孩9次拿被褥捂住头，男孩家长：会对孩子开展教育",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33680950",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 15时55分]"
+        },
+        {
           "title": "乌称克里沃伊罗格市遭导弹袭击 已致6人死亡",
           "url": "https://wallstreetcn.com/livenews/3142145",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
         {
-          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
-          "source": "澎湃新闻",
+          "title": "澳大陆各州均检出H5N1型高致病性禽流感病毒",
+          "url": "https://wallstreetcn.com/livenews/3142258",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时24分]"
-        },
-        {
-          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
-          "url": "https://wallstreetcn.com/articles/3778258",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
             5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
-          "title": "1岁半女童熟睡时遭3岁男孩9次拿被褥捂住头，男孩家长：会对孩子开展教育",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33680950",
-          "source": "澎湃新闻",
+          "title": "“东北不丢孩子”含金量还在上升",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%9C%E5%8C%97%E4%B8%8D%E4%B8%A2%E5%AD%A9%E5%AD%90%E2%80%9D%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            6
+            29,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时55分]"
         },
         {
           "title": "新能源汽车智驾小蓝灯将禁用",
@@ -95,11 +142,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 15时55分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -107,11 +155,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 15时55分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -119,11 +168,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 15时55分]"
         },
         {
           "title": "赢学入脑,法国声称AI超中国",
@@ -131,11 +181,125 @@
           "source": "贴吧",
           "ranks": [
             16,
-            24
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 15时55分]"
+        },
+        {
+          "title": "美联储新闻发布会后：主席沃什信誉“碎了”，9月加息概率颇大！",
+          "url": "https://www.cls.cn/detail/2441032",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时55分]"
+        },
+        {
+          "title": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云？",
+          "url": "https://www.zhihu.com/question/2065536648381555046",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时55分]"
+        },
+        {
+          "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
+          "url": "https://wallstreetcn.com/articles/3778220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时55分]"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时55分]"
+        },
+        {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 13时24分]"
+          "time_info": "[15时54分 ~ 15时55分]"
+        },
+        {
+          "title": "我发现很多农村教堂并没有发鸡蛋，那为什么还有那么多老头老太太去信？",
+          "url": "https://www.zhihu.com/question/2065207564342654038",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
+        },
+        {
+          "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
+          "url": "https://www.cls.cn/detail/2441092",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
+        },
+        {
+          "title": "邓煜在北大读了两年后就转去了 MIT，这是什么样的转学政策？",
+          "url": "https://www.zhihu.com/question/2064145782496876151",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
+        },
+        {
+          "title": "AI 焚书",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E7%84%9A%E4%B9%A6&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
+        },
+        {
+          "title": "女子电梯内打人喊孩子帮忙 双方和解",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%B5%E6%A2%AF%E5%86%85%E6%89%93%E4%BA%BA%E5%96%8A%E5%AD%A9%E5%AD%90%E5%B8%AE%E5%BF%99+%E5%8F%8C%E6%96%B9%E5%92%8C%E8%A7%A3",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
         },
         {
           "title": "父母心寒,听泉炒股亏光养老钱",
@@ -150,13 +314,24 @@
           "time_info": "[10时09分 ~ 13时24分]"
         },
         {
+          "title": "地震后日本网友抹黑中国有何居心",
+          "url": "https://www.toutiao.com/trending/7668186333382184475/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
+        },
+        {
           "title": "中国地震台网正式测定：07月30日12时42分在印尼巴布亚省（南纬2.95度，东经138.65度）发生5.1级地震，震源深度20千米。",
           "url": "https://flash.jin10.com/detail/20260730130910520800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -178,20 +353,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
         {
-          "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
-          "url": "https://wallstreetcn.com/articles/3778220",
-          "source": "华尔街见闻",
+          "title": "日本熊本县灾害对策总部30日下午通报说，熊本县7.1级地震造成的死亡人数已上升至34人。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3142250",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "15时55分"
         },
         {
           "title": "捐日军罪证少年霸气回怼遭死亡威胁",
@@ -200,40 +375,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "美联储新闻发布会后：主席沃什信誉“碎了”，9月加息概率颇大！",
-          "url": "https://www.cls.cn/detail/2441032",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
-          "url": "https://www.zhihu.com/question/2065729146383071132",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云？",
-          "url": "https://www.zhihu.com/question/2065536648381555046",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -249,13 +391,24 @@
           "time_info": "10时09分"
         },
         {
+          "title": "外交部：强烈敦促日方早日彻底清除日遗化武毒害",
+          "url": "https://wallstreetcn.com/livenews/3142245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "据路透：消息人士称，卡塔尔能源公司今年已购买33船美国液化天然气（LNG）货物，以帮助抵消霍尔木兹危机期间的供应中断。卡塔尔能源公司加大了向亚洲交付美国现货液化天然气的力度，以维护客户关系。",
           "url": "https://flash.jin10.com/detail/20260730130038277800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -277,7 +430,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -288,7 +441,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -315,6 +468,28 @@
           "time_info": "10时09分"
         },
         {
+          "title": "养老服务消费补贴惠及约200万中度以上失能老年人",
+          "url": "https://wallstreetcn.com/livenews/3142237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "国家发改委定于7月31日（星期五）上午10:00，召开国家发展改革委7月份新闻发布会。（国家发改委网站）",
+          "url": "https://wallstreetcn.com/livenews/3142235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "日本财务大臣片山皋月：向市场充分解释我们的财政政策至关重要。",
           "url": "https://flash.jin10.com/detail/20260730095253736800",
           "source": "金十数据",
@@ -326,24 +501,13 @@
           "time_info": "10时09分"
         },
         {
-          "title": "“东北不丢孩子”含金量还在上升",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%9C%E5%8C%97%E4%B8%8D%E4%B8%A2%E5%AD%A9%E5%AD%90%E2%80%9D%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "AI公司被曝大量收购旧书",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%9B%9D%E5%A4%A7%E9%87%8F%E6%94%B6%E8%B4%AD%E6%97%A7%E4%B9%A6%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
