@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T21:16:10.910637+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-08-01T22:45:44.541722+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 90,
+      "match_count": 95,
       "titles": [
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时36分 ~ 21时16分]"
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 22时45分]"
         },
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -46,20 +46,6 @@
           "time_info": "[10时36分 ~ 21时16分]"
         },
         {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 21时16分]"
-        },
-        {
           "title": "休达移民危机持续升级：至少41人溺亡，西班牙调动军队",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688984",
           "source": "澎湃新闻",
@@ -73,6 +59,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时36分 ~ 21时16分]"
+        },
+        {
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            14,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 22时45分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -96,11 +97,52 @@
             24,
             26,
             29,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 21时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 22时45分]"
+        },
+        {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 22时45分]"
+        },
+        {
+          "title": "大米、蔗糖与三文鱼：厄尔尼诺现象如何加剧全球农业危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33691591",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时36分 ~ 22时45分]"
+        },
+        {
+          "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
+          "url": "https://www.zhihu.com/question/2066835566323136078",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 22时45分]"
         },
         {
           "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
@@ -114,16 +156,18 @@
           "time_info": "[10时36分 ~ 18时18分]"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             8,
-            7
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时36分 ~ 21时16分]"
+          "appearance_count": 7,
+          "time_info": "[16时17分 ~ 22时45分]"
         },
         {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
@@ -153,31 +197,60 @@
           "time_info": "[10时36分 ~ 21时16分]"
         },
         {
-          "title": "大米、蔗糖与三文鱼：厄尔尼诺现象如何加剧全球农业危机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33691591",
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            14,
+            17,
             13,
-            12,
-            11,
-            9
+            10,
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时36分 ~ 21时16分]"
+          "appearance_count": 7,
+          "time_info": "[16时17分 ~ 22时45分]"
         },
         {
-          "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
-          "url": "https://www.zhihu.com/question/2066835566323136078",
-          "source": "知乎",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
           "ranks": [
+            9,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 22时45分]"
+        },
+        {
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 22时45分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时54分 ~ 21时16分]"
+          "time_info": "[16时17分 ~ 22时45分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -200,19 +273,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 21时16分]"
         },
         {
           "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
@@ -238,19 +298,6 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时17分 ~ 21时16分]"
-        },
-        {
           "title": "新闻联播",
           "url": "https://www.douyin.com/hot/2593700",
           "source": "抖音",
@@ -260,20 +307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时42分 ~ 19时43分]"
-        },
-        {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时17分 ~ 21时16分]"
         },
         {
           "title": "水利部针对黑龙江省启动洪水防御Ⅳ级应急响应",
@@ -287,16 +320,17 @@
           "time_info": "13时54分"
         },
         {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
+          "title": "2034杯是孩子们的圆梦之旅",
+          "url": "https://www.douyin.com/hot/2592892",
+          "source": "抖音",
           "ranks": [
-            10,
-            9
+            18,
+            13,
+            21
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时17分 ~ 21时16分]"
+          "time_info": "[18时18分 ~ 22时45分]"
         },
         {
           "title": "四川阿坝红旗大桥垮塌灾害7人被立案侦查，28名公职人员被问责",
@@ -311,15 +345,15 @@
           "time_info": "[00时07分 ~ 16时17分]"
         },
         {
-          "title": "人工智能助力直肠癌个性化化疗",
-          "url": "https://wallstreetcn.com/livenews/3143612",
-          "source": "华尔街见闻-快讯",
+          "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
+          "url": "https://flash.jin10.com/detail/20260801222340904800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "22时45分"
         },
         {
           "title": "上汽通用五菱7月全球销量120050辆，7月新能源销量72695辆。",
@@ -333,31 +367,6 @@
           "time_info": "13时54分"
         },
         {
-          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
-          "url": "https://wallstreetcn.com/articles/3778475",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 21时16分]"
-        },
-        {
-          "title": "2034杯是孩子们的圆梦之旅",
-          "url": "https://www.douyin.com/hot/2592892",
-          "source": "抖音",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 21时16分]"
-        },
-        {
           "title": "印度石油公司高管：由于中东危机，公司目前约85%的石油来自现货市场，而此前这一比例为50%。",
           "url": "https://flash.jin10.com/detail/20260801154313145800",
           "source": "金十数据",
@@ -368,6 +377,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时17分 ~ 18时18分]"
+        },
+        {
+          "title": "西班牙首相就休达移民危机批评部分欧盟成员国",
+          "url": "https://wallstreetcn.com/livenews/3143598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 22时45分]"
         },
         {
           "title": "中国地震台网正式测定：8月1日9时29分，在青海海南州兴海县（北纬35.34度，东经99.53度）发生3.9级地震，震源深度10公里。",
@@ -406,16 +428,16 @@
           "time_info": "[18时18分 ~ 19时43分]"
         },
         {
-          "title": "西班牙首相就休达移民危机批评部分欧盟成员国",
-          "url": "https://wallstreetcn.com/livenews/3143598",
+          "title": "人工智能助力直肠癌个性化化疗",
+          "url": "https://wallstreetcn.com/livenews/3143612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            18
+            4,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时43分 ~ 21时16分]"
+          "time_info": "[21时16分 ~ 22时45分]"
         },
         {
           "title": "农民误信AI致百亩芝麻全毁",
@@ -441,6 +463,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时07分 ~ 13时54分]"
+        },
+        {
+          "title": "邵永灵：泽连斯基面临执政危机",
+          "url": "https://www.toutiao.com/trending/7669014600196558355/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 22时45分]"
+        },
+        {
+          "title": "意法德多国采取措施，应对西班牙飞地移民危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692406",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 22时45分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -478,6 +524,18 @@
           "time_info": "[00时07分 ~ 10时36分]"
         },
         {
+          "title": "大学生找暑假工变家教 老板孩子崩溃",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%BE%E6%9A%91%E5%81%87%E5%B7%A5%E5%8F%98%E5%AE%B6%E6%95%99+%E8%80%81%E6%9D%BF%E5%AD%A9%E5%AD%90%E5%B4%A9%E6%BA%83",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 22时45分]"
+        },
+        {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
           "url": "https://wallstreetcn.com/articles/3778376",
           "source": "华尔街见闻",
@@ -498,17 +556,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时42分 ~ 19时43分]"
-        },
-        {
-          "title": "邵永灵：泽连斯基面临执政危机",
-          "url": "https://www.toutiao.com/trending/7669014600196558355/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
         },
         {
           "title": "中方在联合国举行2026世界人工智能大会暨人工智能全球治理高级别会议吹风会",
@@ -532,17 +579,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
-          "title": "意法德多国采取措施，应对西班牙飞地移民危机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692406",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
         },
         {
           "title": "吉林省发布山洪灾害气象风险橙色预警",
@@ -661,17 +697,6 @@
           "time_info": "[13时54分 ~ 16时17分]"
         },
         {
-          "title": "大学生找暑假工变家教 老板孩子崩溃",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%BE%E6%9A%91%E5%81%87%E5%B7%A5%E5%8F%98%E5%AE%B6%E6%95%99+%E8%80%81%E6%9D%BF%E5%AD%A9%E5%AD%90%E5%B4%A9%E6%BA%83",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
-        },
-        {
           "title": "AI女团选秀108位参赛9人成团",
           "url": "https://s.weibo.com/weibo?q=AI%E5%A5%B3%E5%9B%A2%E9%80%89%E7%A7%80108%E4%BD%8D%E5%8F%82%E8%B5%9B9%E4%BA%BA%E6%88%90%E5%9B%A2&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -750,6 +775,28 @@
           "time_info": "13时54分"
         },
         {
+          "title": "多瑙河水位下降致能源短缺 匈牙利多措并举应对危机",
+          "url": "https://flash.jin10.com/detail/20260801213921445800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "日本熊本地区发生4.7级地震",
+          "url": "https://wallstreetcn.com/livenews/3143619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "00后AI股神清仓 血亏1400亿",
           "url": "https://www.baidu.com/s?wd=00%E5%90%8EAI%E8%82%A1%E7%A5%9E%E6%B8%85%E4%BB%93+%E8%A1%80%E4%BA%8F1400%E4%BA%BF",
           "source": "百度热搜",
@@ -792,6 +839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "美国地质调查局：日本松濑町以西3公里处发生了4.9级地震；震源深度10.0公里。",
+          "url": "https://flash.jin10.com/detail/20260801210635523800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "OpenAI可能会将其首次公开募股 (IPO) 推迟到明年。（华尔街日报）",
@@ -1012,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "杨丞琳照片被判AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E7%85%A7%E7%89%87%E8%A2%AB%E5%88%A4AI%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "AI男主都能带货了",
