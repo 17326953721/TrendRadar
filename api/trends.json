@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T18:18:25.485173+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-08-01T19:43:07.233059+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 78,
+      "match_count": 86,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 19时43分]"
         },
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -28,8 +28,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 18时18分]"
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 19时43分]"
+        },
+        {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 19时43分]"
         },
         {
           "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
@@ -54,6 +68,60 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时07分 ~ 16时17分]"
+        },
+        {
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 19时43分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 19时43分]"
+        },
+        {
+          "title": "救援不力?日本商场爆炸多人死亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356659&amp;topic_name=%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%3F%E6%97%A5%E6%9C%AC%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            24,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 19时43分]"
+        },
+        {
+          "title": "休达移民危机持续升级：至少41人溺亡，西班牙调动军队",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688984",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 19时43分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -90,20 +158,6 @@
           "time_info": "[00时07分 ~ 13时54分]"
         },
         {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 18时18分]"
-        },
-        {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
           "url": "https://wallstreetcn.com/articles/3778381",
           "source": "华尔街见闻",
@@ -115,16 +169,27 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
           "ranks": [
             8,
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时07分 ~ 18时18分]"
+          "time_info": "[10时36分 ~ 19时43分]"
+        },
+        {
+          "title": "新闻联播",
+          "url": "https://www.douyin.com/hot/2593700",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "水利部针对黑龙江省启动洪水防御Ⅳ级应急响应",
@@ -138,42 +203,33 @@
           "time_info": "13时54分"
         },
         {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
+          "title": "直击第12批国采开标，企业精算锚点博弈“复活”新规",
+          "url": "https://www.cls.cn/detail/2443076",
           "source": "财联社热门",
           "ranks": [
+            9,
+            11,
             10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 19时43分]"
+        },
+        {
+          "title": "大米、蔗糖与三文鱼：厄尔尼诺现象如何加剧全球农业危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33691591",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
             12,
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时07分 ~ 18时18分]"
-        },
-        {
-          "title": "救援不力?日本商场爆炸多人死亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356659&amp;topic_name=%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%3F%E6%97%A5%E6%9C%AC%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            24,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 18时18分]"
-        },
-        {
-          "title": "乌克兰基辅遭空袭9人死亡",
-          "url": "https://wallstreetcn.com/livenews/3143583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "[10时36分 ~ 19时43分]"
         },
         {
           "title": "四川阿坝红旗大桥垮塌灾害7人被立案侦查，28名公职人员被问责",
@@ -188,15 +244,15 @@
           "time_info": "[00时07分 ~ 16时17分]"
         },
         {
-          "title": "吉利汽车7月销量创同期新高，新能源出口销量同比增616%",
-          "url": "https://flash.jin10.com/detail/20260801173325858800",
-          "source": "金十数据",
+          "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
+          "url": "https://www.zhihu.com/question/2066835566323136078",
+          "source": "知乎",
           "ranks": [
-            4
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时54分 ~ 19时43分]"
         },
         {
           "title": "上汽通用五菱7月全球销量120050辆，7月新能源销量72695辆。",
@@ -210,29 +266,15 @@
           "time_info": "13时54分"
         },
         {
-          "title": "休达移民危机持续升级：至少41人溺亡，西班牙调动军队",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688984",
-          "source": "澎湃新闻",
+          "title": "西班牙首相就休达移民危机批评部分欧盟成员国",
+          "url": "https://wallstreetcn.com/livenews/3143598",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 18时18分]"
-        },
-        {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 18时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "印度石油公司高管：由于中东危机，公司目前约85%的石油来自现货市场，而此前这一比例为50%。",
@@ -247,6 +289,19 @@
           "time_info": "[16时17分 ~ 18时18分]"
         },
         {
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 19时43分]"
+        },
+        {
           "title": "中国地震台网正式测定：8月1日9时29分，在青海海南州兴海县（北纬35.34度，东经99.53度）发生3.9级地震，震源深度10公里。",
           "url": "https://wallstreetcn.com/livenews/3143537",
           "source": "华尔街见闻-快讯",
@@ -259,32 +314,53 @@
           "time_info": "[10时36分 ~ 13时54分]"
         },
         {
-          "title": "直击第12批国采开标，企业精算锚点博弈“复活”新规",
-          "url": "https://www.cls.cn/detail/2443076",
-          "source": "财联社热门",
+          "title": "乌克兰基辅遭空袭9人死亡",
+          "url": "https://wallstreetcn.com/livenews/3143583",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            11,
-            10,
-            12
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 18时18分]"
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时43分]"
         },
         {
-          "title": "大米、蔗糖与三文鱼：厄尔尼诺现象如何加剧全球农业危机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33691591",
-          "source": "澎湃新闻",
+          "title": "吉利汽车7月销量创同期新高，新能源出口销量同比增616%",
+          "url": "https://flash.jin10.com/detail/20260801173325858800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            14,
-            13,
-            12
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时43分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时36分 ~ 18时18分]"
+          "time_info": "[16时17分 ~ 19时43分]"
+        },
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 19时43分]"
         },
         {
           "title": "Aiming回应宫斗:对方先骂人",
@@ -300,15 +376,28 @@
           "time_info": "[00时07分 ~ 13时54分]"
         },
         {
-          "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
-          "url": "https://www.zhihu.com/question/2066835566323136078",
-          "source": "知乎",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
           "ranks": [
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时54分 ~ 18时18分]"
+          "time_info": "[18时18分 ~ 19时43分]"
+        },
+        {
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时43分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -346,6 +435,18 @@
           "time_info": "[00时07分 ~ 10时36分]"
         },
         {
+          "title": "2034杯是孩子们的圆梦之旅",
+          "url": "https://www.douyin.com/hot/2592892",
+          "source": "抖音",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时43分]"
+        },
+        {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
           "url": "https://wallstreetcn.com/articles/3778376",
           "source": "华尔街见闻",
@@ -357,28 +458,15 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
-          "source": "华尔街见闻",
+          "title": "如何评价OpenAI的数学能力",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E7%9A%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时17分 ~ 18时18分]"
-        },
-        {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 18时18分]"
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "市场不相信“神话”：“AI股神”死于杠杆？",
@@ -439,18 +527,6 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 18时18分]"
-        },
-        {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
           "url": "https://www.zhihu.com/question/2065499504187371980",
           "source": "知乎",
@@ -471,6 +547,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
+        },
+        {
+          "title": "如何看待 OpenAI 下一代模型 Astra 大量解决数学猜想？",
+          "url": "https://www.zhihu.com/question/2066915812980560727",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "头部AI再失控 Claude黑进三家公司",
@@ -517,6 +604,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 16时17分]"
+        },
+        {
+          "title": "农民误信AI致百亩芝麻全毁",
+          "url": "https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E8%AF%AF%E4%BF%A1AI%E8%87%B4%E7%99%BE%E4%BA%A9%E8%8A%9D%E9%BA%BB%E5%85%A8%E6%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "AI公司批量抢购旧书",
@@ -585,26 +683,15 @@
           "time_info": "10时36分"
         },
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
+          "title": "中方在联合国举行2026世界人工智能大会暨人工智能全球治理高级别会议吹风会",
+          "url": "https://wallstreetcn.com/livenews/3143594",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
-          "url": "https://wallstreetcn.com/articles/3778475",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "19时43分"
         },
         {
           "title": "解读爆火AI动画垃圾站",
@@ -649,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
+          "url": "https://wallstreetcn.com/livenews/3143592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "00后AI股神清仓血亏1400亿",
@@ -712,7 +810,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -739,6 +837,17 @@
           "time_info": "16时17分"
         },
         {
+          "title": "海南启动赤潮灾害Ⅲ级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3143587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "金十数据整理：昨日今晨重要新闻汇总（2026-08-01）",
           "url": "https://flash.jin10.com/detail/20260801090558713800",
           "source": "金十数据",
@@ -748,17 +857,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
-        },
-        {
-          "title": "2034杯是孩子们的圆梦之旅",
-          "url": "https://www.douyin.com/hot/2592892",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "韩国杠杆限制措施立竿见影，AI基金疑似被狙击？ | Plus日报",
@@ -778,7 +876,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -811,7 +909,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
