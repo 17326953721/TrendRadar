@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T16:33:55.867970+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-08-06T19:22:43.993982+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 32,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称不想让孩子像拜登那样摔下台",
@@ -19,13 +19,35 @@
           "time_info": "13时33分"
         },
         {
+          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
+          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "《新闻联播》正在直播",
+          "url": "https://www.toutiao.com/trending/7670869771625418286/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "日本地震遇难女子与婚纱一同下葬",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E5%A5%B3%E5%AD%90%E4%B8%8E%E5%A9%9A%E7%BA%B1%E4%B8%80%E5%90%8C%E4%B8%8B%E8%91%AC",
           "source": "百度热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -39,6 +61,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "市场消息：基于派拉蒙提供保证和具有法律约束力的承诺，英国竞争和市场管理局（CMA）决定不干预该公司与华纳兄弟探索公司(WBD.O)的交易。",
+          "url": "https://flash.jin10.com/detail/20260806190348138800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "新闻联播",
+          "url": "https://www.douyin.com/hot/2600021",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 19时22分]"
         },
         {
           "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
@@ -63,17 +119,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时24分 ~ 13时33分]"
-        },
-        {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 16时33分]"
         },
         {
           "title": "沃什面前只有两条路：要么引爆“金融危机2.0”，要么点燃“美元危机1.0”？",
@@ -123,6 +168,18 @@
           "time_info": "[10时24分 ~ 16时33分]"
         },
         {
+          "title": "澎湃回声｜汕头农业农村局：初步核实，涉事企业牛蛙货源来自长沙和湛江",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727891",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 19时22分]"
+        },
+        {
           "title": "孩子吵闹2小时乘客叹气反被家长怼",
           "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E5%90%B5%E9%97%B92%E5%B0%8F%E6%97%B6%E4%B9%98%E5%AE%A2%E5%8F%B9%E6%B0%94%E5%8F%8D%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%80%BC",
           "source": "百度热搜",
@@ -133,6 +190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时24分 ~ 13时33分]"
+        },
+        {
+          "title": "中方公布对美反制措施，专家：中美博弈进入“按规则出牌”阶段",
+          "url": "https://news.ifeng.com/c/8vMxuqocK7c",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "6G概念股异动拉升，广哈通信、武汉凡谷涨停，本川智能、信科移动、硕贝德、创远信科跟涨。",
@@ -168,6 +236,28 @@
           "time_info": "10时24分"
         },
         {
+          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
+          "url": "https://www.cls.cn/detail/2447281",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "英国央行：AI正在提升英国的生产率，但也对就业造成负面影响",
+          "url": "https://flash.jin10.com/detail/20260806185551254800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "“新疆喀什8.5级地震”系谣言",
           "url": "https://www.toutiao.com/trending/7670396561460953107/",
           "source": "今日头条",
@@ -190,6 +280,17 @@
           "time_info": "10时24分"
         },
         {
+          "title": "养老院即将关停 80岁老太无人接手",
+          "url": "https://www.toutiao.com/trending/7670349570833367082/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "兰州拉面纷纷改名青海拉面，背后有哪些商业博弈？会影响你的消费选择吗？",
           "url": "https://www.zhihu.com/question/2068309576659595271",
           "source": "知乎",
@@ -201,13 +302,24 @@
           "time_info": "10时24分"
         },
         {
+          "title": "智能体深入企业腹地，先把“笨活”干漂亮了",
+          "url": "https://www.cls.cn/detail/2447356",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "英报告指出AI存施害风险 呼吁严控其网络权限",
           "url": "https://wallstreetcn.com/livenews/3145908",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -223,15 +335,37 @@
           "time_info": "10时24分"
         },
         {
-          "title": "澎湃回声｜汕头农业农村局：初步核实，涉事企业牛蛙货源来自长沙和湛江",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33727891",
-          "source": "澎湃新闻",
+          "title": "中国地震台网正式测定：08月06日18时32分在甘肃张掖市肃南县（北纬38.35度，东经99.95度）发生3.9级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260806184113939800",
+          "source": "金十数据",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时33分"
+          "time_info": "19时22分"
+        },
+        {
+          "title": "戚薇真的把自己做成AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "孩子被冲走溺亡 家属质疑泄洪未通知",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A9%E5%AD%90%E8%A2%AB%E5%86%B2%E8%B5%B0%E6%BA%BA%E4%BA%A1+%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E6%B3%84%E6%B4%AA%E6%9C%AA%E9%80%9A%E7%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "OpenAI披露AI模型曾暗中交流数月，最终决定攻击Hugging Face",
@@ -262,9 +396,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "大熊猫“硗远”因病死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%86%8A%E7%8C%AB%E2%80%9C%E7%A1%97%E8%BF%9C%E2%80%9D%E5%9B%A0%E7%97%85%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-08-06）",
@@ -276,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "中国地震台网自动测定：08月06日18时32分在甘肃张掖市肃南县附近（北纬38.41度，东经99.93度）发生3.6级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260806183454438800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "小伙靠AI减肥 45天瘦40斤进了ICU",
@@ -295,7 +451,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -317,9 +473,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "戚薇用AI解锁末世",
+          "url": "https://www.douyin.com/hot/2599650",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "博主：美国封锁逼出中国最强AI路线",
