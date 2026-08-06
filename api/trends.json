@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T13:33:21.834465+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-08-06T16:33:55.867970+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普称不想让孩子像拜登那样摔下台",
@@ -14,9 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "日本地震遇难女子与婚纱一同下葬",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E5%A5%B3%E5%AD%90%E4%B8%8E%E5%A9%9A%E7%BA%B1%E4%B8%80%E5%90%8C%E4%B8%8B%E8%91%AC",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "沃什不说话、贝森特压美元，“卖出美国”幽灵在政策迷雾中重现",
@@ -28,6 +39,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 16时33分]"
         },
         {
           "title": "从“危机求援”到“全球外交”，乌克兰正发生重大转型",
@@ -49,8 +72,31 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 16时33分]"
+        },
+        {
+          "title": "沃什面前只有两条路：要么引爆“金融危机2.0”，要么点燃“美元危机1.0”？",
+          "url": "https://wallstreetcn.com/articles/3778736",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 16时33分]"
+        },
+        {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时33分]"
+          "time_info": "[13时33分 ~ 16时33分]"
         },
         {
           "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
@@ -65,15 +111,16 @@
           "time_info": "[10时24分 ~ 13时33分]"
         },
         {
-          "title": "沃什面前只有两条路：要么引爆“金融危机2.0”，要么点燃“美元危机1.0”？",
-          "url": "https://wallstreetcn.com/articles/3778736",
-          "source": "华尔街见闻",
+          "title": "中国模型集体出击，美媒：美国同行面临“死亡地带”",
+          "url": "https://news.ifeng.com/c/8vMFxuXb2WP",
+          "source": "凤凰网",
           "ranks": [
-            10
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时33分]"
+          "time_info": "[10时24分 ~ 16时33分]"
         },
         {
           "title": "孩子吵闹2小时乘客叹气反被家长怼",
@@ -121,17 +168,6 @@
           "time_info": "10时24分"
         },
         {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
           "title": "“新疆喀什8.5级地震”系谣言",
           "url": "https://www.toutiao.com/trending/7670396561460953107/",
           "source": "今日头条",
@@ -154,17 +190,6 @@
           "time_info": "10时24分"
         },
         {
-          "title": "中国模型集体出击，美媒：美国同行面临“死亡地带”",
-          "url": "https://news.ifeng.com/c/8vMFxuXb2WP",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
           "title": "兰州拉面纷纷改名青海拉面，背后有哪些商业博弈？会影响你的消费选择吗？",
           "url": "https://www.zhihu.com/question/2068309576659595271",
           "source": "知乎",
@@ -176,15 +201,15 @@
           "time_info": "10时24分"
         },
         {
-          "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
-          "source": "百度热搜",
+          "title": "英报告指出AI存施害风险 呼吁严控其网络权限",
+          "url": "https://wallstreetcn.com/livenews/3145908",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "16时33分"
         },
         {
           "title": "男子靠AI减肥45天瘦40斤险丧命",
@@ -196,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "澎湃回声｜汕头农业农村局：初步核实，涉事企业牛蛙货源来自长沙和湛江",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727891",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "OpenAI披露AI模型曾暗中交流数月，最终决定攻击Hugging Face",
@@ -215,9 +251,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "字节跳动整合豆包、飞书与火山引擎，AI业务重点转向ToB生产力",
+          "url": "https://wallstreetcn.com/livenews/3145896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-08-06）",
@@ -226,7 +273,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -237,9 +284,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "印度暴发金迪普拉病毒",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%9A%B4%E5%8F%91%E9%87%91%E8%BF%AA%E6%99%AE%E6%8B%89%E7%97%85%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "中国地震台网正式测定：08月06日11时48分在青海海南州兴海县（北纬35.38度，东经99.57度）发生3.2级地震，震源深度10千米。",
@@ -248,9 +306,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "日本熊本县发生4.0级地震",
+          "url": "https://wallstreetcn.com/livenews/3145891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "博主：美国封锁逼出中国最强AI路线",
@@ -259,7 +328,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
