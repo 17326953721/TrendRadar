@@ -1,33 +1,71 @@
 {
-  "generated_at": "2026-08-07T14:08:53.908419+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-08-07T15:53:00.746630+08:00",
+  "total_titles_processed": 767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 46,
+      "match_count": 55,
       "titles": [
         {
           "title": "无视说教,农村小孩哥耿直回复",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356850&amp;topic_name=%E6%97%A0%E8%A7%86%E8%AF%B4%E6%95%99%2C%E5%86%9C%E6%9D%91%E5%B0%8F%E5%AD%A9%E5%93%A5%E8%80%BF%E7%9B%B4%E5%9B%9E%E5%A4%8D",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时08分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时53分]"
         },
         {
           "title": "四川宜宾高县发生4.9级地震",
           "url": "https://www.douyin.com/hot/2600784",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时53分]"
+        },
+        {
+          "title": "ai漫剧男主唯一塌房方式被找到了",
+          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E7%94%B7%E4%B8%BB%E5%94%AF%E4%B8%80%E5%A1%8C%E6%88%BF%E6%96%B9%E5%BC%8F%E8%A2%AB%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3778805",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时34分 ~ 15时53分]"
+        },
+        {
+          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
+          "url": "https://www.cls.cn/detail/2448129",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时53分]"
         },
         {
           "title": "四川宜宾市高县发生4.9级地震",
@@ -36,18 +74,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "四川宜宾市高县发生4.9级地震",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%AB%98%E5%8E%BF%E5%8F%91%E7%94%9F4.9%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -63,6 +90,30 @@
           "time_info": "12时53分"
         },
         {
+          "title": "四川宜宾市高县发生4.9级地震",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%B8%82%E9%AB%98%E5%8E%BF%E5%8F%91%E7%94%9F4.9%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时53分]"
+        },
+        {
+          "title": "汪峰公司因AI从1100人减到400人",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时53分]"
+        },
+        {
           "title": "女子开一天一夜空调后二氧化碳中毒",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E4%B8%80%E5%A4%A9%E4%B8%80%E5%A4%9C%E7%A9%BA%E8%B0%83%E5%90%8E%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92",
           "source": "百度热搜",
@@ -73,6 +124,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 12时53分]"
+        },
+        {
+          "title": "孩子准备上大一了，一个月跟我要 1500 的生活费，会不会太多了？",
+          "url": "https://www.zhihu.com/question/2066558957930420222",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时53分]"
         },
         {
           "title": "泰国校园枪击事件凶手被发现已死亡 疑为自杀",
@@ -87,16 +151,29 @@
           "time_info": "[12时53分 ~ 14时08分]"
         },
         {
-          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3778805",
-          "source": "华尔街见闻",
+          "title": "新冠病毒检出率仍居首位但上升趋缓",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%A3%80%E5%87%BA%E7%8E%87%E4%BB%8D%E5%B1%85%E9%A6%96%E4%BD%8D%E4%BD%86%E4%B8%8A%E5%8D%87%E8%B6%8B%E7%BC%93",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            7
+            20,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时53分]"
+        },
+        {
+          "title": "戚薇AI短剧 雷霆视角",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时34分 ~ 14时08分]"
+          "time_info": "[14时08分 ~ 15时53分]"
         },
         {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
@@ -108,6 +185,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时34分 ~ 14时08分]"
+        },
+        {
+          "title": "实拍四川宜宾地震：网友称睡觉被摇醒",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%EF%BC%9A%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9D%A1%E8%A7%89%E8%A2%AB%E6%91%87%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时53分]"
         },
         {
           "title": "内娱第一人 戚薇开放形象AI授权",
@@ -123,6 +212,64 @@
           "time_info": "[10时34分 ~ 14时08分]"
         },
         {
+          "title": "泰国校园枪击案死亡人数升至7人",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B37%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时53分]"
+        },
+        {
+          "title": "泰国校园枪击案死亡人数升至7人",
+          "url": "https://www.toutiao.com/trending/7671128044149030922/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时53分]"
+        },
+        {
+          "title": "新生儿入住月子会所仅4天，突发颅内出血被送进ICU，宝妈：监控拍到护理人员扇婴儿耳光",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33731143",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时53分]"
+        },
+        {
+          "title": "宜宾地震",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时53分]"
+        },
+        {
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
           "title": "泰国校园枪击案已致2人死亡 枪手仍藏在学校附近",
           "url": "https://wallstreetcn.com/livenews/3146435",
           "source": "华尔街见闻-快讯",
@@ -135,16 +282,15 @@
           "time_info": "[12时53分 ~ 14时08分]"
         },
         {
-          "title": "孩子准备上大一了，一个月跟我要 1500 的生活费，会不会太多了？",
-          "url": "https://www.zhihu.com/question/2066558957930420222",
-          "source": "知乎",
+          "title": "物价飞涨,日本青年戒饭成潮流",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356864&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E9%9D%92%E5%B9%B4%E6%88%92%E9%A5%AD%E6%88%90%E6%BD%AE%E6%B5%81",
+          "source": "贴吧",
           "ranks": [
-            14,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时08分]"
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "半月内两起儿童基因编辑试验死亡事件曝光，业内警示：追求“全球首创”不能忽视临床安全与合规要求",
@@ -159,28 +305,37 @@
           "time_info": "[12时53分 ~ 14时08分]"
         },
         {
-          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
-          "url": "https://www.cls.cn/detail/2448129",
-          "source": "财联社热门",
+          "title": "四川宜宾地震网友称睡觉被摇醒",
+          "url": "https://www.toutiao.com/trending/7671132302990262291/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时08分]"
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
-          "title": "新冠病毒检出率仍居首位但上升趋缓",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%A3%80%E5%87%BA%E7%8E%87%E4%BB%8D%E5%B1%85%E9%A6%96%E4%BD%8D%E4%BD%86%E4%B8%8A%E5%8D%87%E8%B6%8B%E7%BC%93",
-          "source": "百度热搜",
+          "title": "被洪水泡过的瓶装水能喝？别冒险",
+          "url": "https://www.toutiao.com/trending/7670369856349061158/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            14
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时08分]"
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "我国地震高风险区有哪些",
@@ -193,6 +348,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 14时08分]"
+        },
+        {
+          "title": "Bsh1把毒蛇搬到说唱巅峰对决",
+          "url": "https://www.douyin.com/hot/2600864",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "男子结婚 8 年发现 3 娃非亲生，要求离婚、返还抚育开支并赔偿精神抚慰金，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2069009762692199687",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "中国AI偶像能飞",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "菲律宾经济部长：关注前方风险。厄尔尼诺现象和中东危机可能对复苏造成压力。",
@@ -234,18 +422,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "泰国校园枪击案死亡人数升至7人",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B37%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -259,28 +436,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
-        },
-        {
-          "title": "戚薇AI短剧 雷霆视角",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "泰国校园枪击案死亡人数升至7人",
-          "url": "https://www.toutiao.com/trending/7671128044149030922/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         },
         {
           "title": "澎湃回声｜汕头农业农村局：初步核实，涉事企业牛蛙货源来自长沙和湛江",
@@ -338,35 +493,13 @@
           "time_info": "10时34分"
         },
         {
-          "title": "宜宾地震",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "新生儿入住月子会所仅4天，突发颅内出血被送进ICU，宝妈：监控拍到护理人员扇婴儿耳光",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33731143",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
           "title": "美科研团队利用AI设计出可复制的新型噬菌体",
           "url": "https://wallstreetcn.com/livenews/3146444",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -393,24 +526,13 @@
           "time_info": "12时53分"
         },
         {
-          "title": "实拍四川宜宾地震：网友称睡觉被摇醒",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%EF%BC%9A%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%9D%A1%E8%A7%89%E8%A2%AB%E6%91%87%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
           "title": "戚薇 授权AI",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20%E6%8E%88%E6%9D%83AI&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -432,18 +554,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "汪峰公司因AI从1100人减到400人",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -465,7 +576,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -509,7 +620,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
