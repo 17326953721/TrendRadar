@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T17:37:02.845492+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-08-08T19:04:01.041717+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 17时37分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时04分]"
         },
         {
           "title": "《楚门的世界》中，妻子既然不爱楚门为什么反复提及要与楚门生一个孩子？",
@@ -28,11 +28,12 @@
             4,
             5,
             3,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 17时37分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时04分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -50,6 +51,20 @@
           "time_info": "[09时23分 ~ 16时38分]"
         },
         {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时35分 ~ 19时04分]"
+        },
+        {
           "title": "无视说教,农村小孩哥耿直回复",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356850&amp;topic_name=%E6%97%A0%E8%A7%86%E8%AF%B4%E6%95%99%2C%E5%86%9C%E6%9D%91%E5%B0%8F%E5%AD%A9%E5%93%A5%E8%80%BF%E7%9B%B4%E5%9B%9E%E5%A4%8D",
           "source": "贴吧",
@@ -58,11 +73,29 @@
             11,
             13,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 17时37分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时04分]"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            8,
+            14,
+            15,
+            19,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 19时04分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -74,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 17时37分]"
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 19时04分]"
         },
         {
           "title": "外设想赚钱,键盘鼠标排队涨价",
@@ -86,11 +119,12 @@
             15,
             17,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 17时37分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时04分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -100,11 +134,12 @@
             13,
             15,
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 17时37分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时04分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -114,11 +149,12 @@
             15,
             17,
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 17时37分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时04分]"
         },
         {
           "title": "湖南衡阳蒸湘区住建局民生服务热线刚开通两天就出现故障，官方：正抢修",
@@ -128,11 +164,12 @@
             16,
             18,
             19,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时23分 ~ 17时37分]"
+          "appearance_count": 13,
+          "time_info": "[09时23分 ~ 19时04分]"
         },
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -143,11 +180,12 @@
             20,
             22,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 17时37分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 19时04分]"
         },
         {
           "title": "物价飞涨,日本青年戒饭成潮流",
@@ -165,34 +203,17 @@
           "time_info": "[09时23分 ~ 17时37分]"
         },
         {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            10,
             9,
-            8
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 17时37分]"
-        },
-        {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            8,
-            14,
-            15,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 15时48分]"
+          "appearance_count": 8,
+          "time_info": "[14时49分 ~ 19时04分]"
         },
         {
           "title": "自媒体红利期只剩AI了",
@@ -206,19 +227,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时35分 ~ 17时37分]"
-        },
-        {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时49分 ~ 17时37分]"
         },
         {
           "title": "禁止“抱团”抬价！东北明确新能源集中报价仅限同省同集团",
@@ -250,6 +258,17 @@
           "time_info": "[13时42分 ~ 16时38分]"
         },
         {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
+        },
+        {
           "title": "黑龙江2026年第1号洪水洪峰预计今晚抵达同江站",
           "url": "https://wallstreetcn.com/livenews/3146951",
           "source": "华尔街见闻-快讯",
@@ -266,6 +285,19 @@
           "time_info": "[11时09分 ~ 16时38分]"
         },
         {
+          "title": "蔡皋领取国际安徒生奖，“在孩子们心底种下真善美的种子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33743181",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时48分 ~ 19时04分]"
+        },
+        {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
           "url": "https://www.cls.cn/detail/2448537",
           "source": "财联社热门",
@@ -278,17 +310,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时23分 ~ 13时42分]"
-        },
-        {
-          "title": "部分社交媒体因休达危机被欧盟委员会约谈",
-          "url": "https://wallstreetcn.com/livenews/3146988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "中国地震台网正式测定：08月08日11时45分在新疆阿克苏地区沙雅县发生4.5级地震，震源深度25千米。 ​​​",
@@ -318,17 +339,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时23分 ~ 13时42分]"
-        },
-        {
-          "title": "苹果官网显示，Apple智能可配合阿里巴巴千问模型工作。",
-          "url": "https://wallstreetcn.com/livenews/3146987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "中国地震台网正式测定：8月8日12时50分在美国阿拉斯加州发生5.2级地震，震源深度10千米。",
@@ -361,6 +371,20 @@
           "time_info": "[13时42分 ~ 17时37分]"
         },
         {
+          "title": "阳光电源：FCC政策主要限制新产品认证 公司目前在美销售的光伏逆变器、储能系统不受影响",
+          "url": "https://wallstreetcn.com/livenews/3146975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 19时04分]"
+        },
+        {
           "title": "哥伦比亚新总统宣布将加强打击毒品犯罪",
           "url": "https://flash.jin10.com/detail/20260808112824545800",
           "source": "金十数据",
@@ -390,29 +414,40 @@
           "time_info": "[09时24分 ~ 14时50分]"
         },
         {
-          "title": "阳光电源：FCC政策主要限制新产品认证 公司目前在美销售的光伏逆变器、储能系统不受影响",
-          "url": "https://wallstreetcn.com/livenews/3146975",
+          "title": "部分社交媒体因休达危机被欧盟委员会约谈",
+          "url": "https://wallstreetcn.com/livenews/3146988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 19时04分]"
+        },
+        {
+          "title": "苹果官网显示，Apple智能可配合阿里巴巴千问模型工作。",
+          "url": "https://wallstreetcn.com/livenews/3146987",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时48分 ~ 17时37分]"
-        },
-        {
-          "title": "蔡皋领取国际安徒生奖，“在孩子们心底种下真善美的种子”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33743181",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 19时04分]"
+        },
+        {
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
+          "source": "知乎",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时48分 ~ 17时37分]"
+          "time_info": "[17时36分 ~ 19时04分]"
         },
         {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
@@ -488,15 +523,15 @@
           "time_info": "[09时24分 ~ 11时09分]"
         },
         {
-          "title": "为什么体制内至今仍不鼓励用人工智能？",
-          "url": "https://www.zhihu.com/question/2042649810709239000",
-          "source": "知乎",
+          "title": "美国AI开始攻击真人了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
+          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "男子结婚 8 年发现 3 娃非亲生，要求离婚、返还抚育开支并赔偿精神抚慰金，如何从法律角度解读？",
@@ -508,6 +543,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
+          "title": "苹果AI",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "婆家称儿媳不赡养老人无权分工亡赔偿",
