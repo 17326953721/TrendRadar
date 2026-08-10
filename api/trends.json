@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-08-10T21:56:00.884829+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-08-10T22:57:03.272877+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 90,
+      "match_count": 99,
       "titles": [
+        {
+          "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
+          "url": "https://wallstreetcn.com/articles/3779065",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时57分 ~ 22时57分]"
+        },
+        {
+          "title": "赛博华佗!病毒吧主无偿帮人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357070&amp;topic_name=%E8%B5%9B%E5%8D%9A%E5%8D%8E%E4%BD%97%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E6%97%A0%E5%81%BF%E5%B8%AE%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时10分 ~ 22时57分]"
+        },
         {
           "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
           "url": "https://www.cls.cn/detail/2449732",
@@ -32,33 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时24分 ~ 21时56分]"
-        },
-        {
-          "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
-          "url": "https://wallstreetcn.com/articles/3779065",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时57分 ~ 21时56分]"
-        },
-        {
-          "title": "赛博华佗!病毒吧主无偿帮人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357070&amp;topic_name=%E8%B5%9B%E5%8D%9A%E5%8D%8E%E4%BD%97%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E6%97%A0%E5%81%BF%E5%B8%AE%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时10分 ~ 21时56分]"
+          "appearance_count": 14,
+          "time_info": "[13时24分 ~ 22时57分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时26分 ~ 21时56分]"
+          "appearance_count": 11,
+          "time_info": "[16时26分 ~ 22时57分]"
         },
         {
           "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
@@ -87,6 +87,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[13时24分 ~ 20时09分]"
+        },
+        {
+          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
+          "url": "https://www.cls.cn/detail/2450137",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时57分 ~ 22时57分]"
         },
         {
           "title": "浙江省甬江发生2026年第1号洪水",
@@ -112,11 +126,12 @@
             19,
             20,
             15,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时38分 ~ 21时56分]"
+          "appearance_count": 15,
+          "time_info": "[09时38分 ~ 22时57分]"
         },
         {
           "title": "勇哥遭快招公司死亡威胁",
@@ -132,8 +147,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时38分 ~ 21时56分]"
+          "appearance_count": 15,
+          "time_info": "[09时38分 ~ 22时57分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -146,21 +161,49 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时26分 ~ 21时56分]"
+          "appearance_count": 11,
+          "time_info": "[16时26分 ~ 22时57分]"
         },
         {
-          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
-          "url": "https://www.cls.cn/detail/2450137",
+          "title": "孙女用AI把奶奶P进《西游记》",
+          "url": "https://www.toutiao.com/trending/7672253690623508506/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            7,
+            6,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时26分 ~ 22时57分]"
+        },
+        {
+          "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
+          "url": "https://www.cls.cn/detail/2449895",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            8
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[17时57分 ~ 21时56分]"
+          "time_info": "[19时10分 ~ 22时57分]"
+        },
+        {
+          "title": "ai漫剧顶流已经出了8季了",
+          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E9%A1%B6%E6%B5%81%E5%B7%B2%E7%BB%8F%E5%87%BA%E4%BA%868%E5%AD%A3%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时10分 ~ 22时57分]"
         },
         {
           "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
@@ -172,20 +215,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时38分 ~ 13时25分]"
-        },
-        {
-          "title": "孙女用AI把奶奶P进《西游记》",
-          "url": "https://www.toutiao.com/trending/7672253690623508506/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            7,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时26分 ~ 20时09分]"
         },
         {
           "title": "获美法院初步禁令！药明康德司法反制1260H名单迎阶段胜利 年内博弈或趋缓",
@@ -217,11 +246,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 22时57分]"
         },
         {
           "title": "孙女用AI把奶奶P进《西游记》",
@@ -235,31 +265,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时57分 ~ 20时09分]"
-        },
-        {
-          "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
-          "url": "https://www.cls.cn/detail/2449895",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时10分 ~ 21时56分]"
-        },
-        {
-          "title": "ai漫剧顶流已经出了8季了",
-          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E9%A1%B6%E6%B5%81%E5%B7%B2%E7%BB%8F%E5%87%BA%E4%BA%868%E5%AD%A3%E4%BA%86%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时10分 ~ 21时56分]"
         },
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -414,6 +419,41 @@
           "time_info": "[19时10分 ~ 20时09分]"
         },
         {
+          "title": "哥伦比亚发生7.5级地震",
+          "url": "https://www.toutiao.com/trending/7672382183877296147/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 22时57分]"
+        },
+        {
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 22时57分]"
+        },
+        {
+          "title": "哥伦比亚发生7.5级地震",
+          "url": "https://www.douyin.com/hot/2604980",
+          "source": "抖音",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 22时57分]"
+        },
+        {
           "title": "中年吃够碳水的人更可能健康老去",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%B9%B4%E5%90%83%E5%A4%9F%E7%A2%B3%E6%B0%B4%E7%9A%84%E4%BA%BA%E6%9B%B4%E5%8F%AF%E8%83%BD%E5%81%A5%E5%BA%B7%E8%80%81%E5%8E%BB",
           "source": "百度热搜",
@@ -485,17 +525,6 @@
           "time_info": "[14时51分 ~ 16时26分]"
         },
         {
-          "title": "哥伦比亚发生7.5级地震",
-          "url": "https://www.toutiao.com/trending/7672382183877296147/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
           "title": "拐点已至！高盛：AI开始真正改写SaaS业绩，赢家与输家名单浮现",
           "url": "https://wallstreetcn.com/articles/3779070",
           "source": "华尔街见闻",
@@ -528,17 +557,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时51分]"
-        },
-        {
-          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
-          "url": "https://wallstreetcn.com/articles/3779081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "海南：支持上市公司依托海南自贸港政策优势优化产业发展布局",
@@ -587,6 +605,18 @@
           "time_info": "[17时57分 ~ 17时58分]"
         },
         {
+          "title": "哥伦比亚发生7.5级地震 震源深度80公里",
+          "url": "https://wallstreetcn.com/livenews/3147528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时57分]"
+        },
+        {
           "title": "国联民生：拟以1亿元-2亿元回购股份，回购股份价格不超过人民币13元/股。",
           "url": "https://wallstreetcn.com/livenews/3147455",
           "source": "华尔街见闻-快讯",
@@ -597,6 +627,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时11分 ~ 20时09分]"
+        },
+        {
+          "title": "实拍哥伦比亚地震：房屋边晃边塌",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9E%E6%8B%8D%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%9C%B0%E9%9C%87%EF%BC%9A%E6%88%BF%E5%B1%8B%E8%BE%B9%E6%99%83%E8%BE%B9%E5%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 22时57分]"
         },
         {
           "title": "刘耀文 漂亮孩子站中间",
@@ -611,14 +652,14 @@
         },
         {
           "title": "哥伦比亚发生7.5级地震",
-          "url": "https://www.douyin.com/hot/2604980",
-          "source": "抖音",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
+          "time_info": "[22时56分 ~ 22时57分]"
         },
         {
           "title": "凡人186集的文戏博弈",
@@ -665,6 +706,17 @@
           "time_info": "16时26分"
         },
         {
+          "title": "哥伦比亚佩雷拉市市长称地震已造成18人死亡。",
+          "url": "https://flash.jin10.com/detail/20260810224151050800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "Meta美股盘前涨近3%，此前公司发布轻量化版AI模型，单张显卡即可运行。",
           "url": "https://wallstreetcn.com/livenews/3147486",
           "source": "华尔街见闻-快讯",
@@ -674,6 +726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "据半岛电视台：伊朗总统佩泽希齐扬表示，美国和以色列利用人工智能数据攻击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260810224105875800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -687,26 +750,48 @@
           "time_info": "09时38分"
         },
         {
+          "title": "哥伦比亚总统德拉埃斯普列亚：将前往波哥大处理地震事宜。",
+          "url": "https://flash.jin10.com/detail/20260810223859526800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "微软(MSFT.O)上涨1.4%，公司将大幅提高人工智能芯片产量。Meta Platforms(META.O)上涨1.16%，公司推出轻量级AI模型Muse Glimmer。",
           "url": "https://flash.jin10.com/detail/20260810213058062800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
         {
-          "title": "哥伦比亚发生7.5级地震 震源深度80公里",
-          "url": "https://wallstreetcn.com/livenews/3147528",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌：为谷歌广告和谷歌分析添加人工智能和智能体功能。",
+          "url": "https://flash.jin10.com/detail/20260810223834412800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "中国长城在互动平台表示，公司擎天系列AI服务器可为相关业务提供算力支持，相关经营情况请以公司定期报告为准。",
+          "url": "https://flash.jin10.com/detail/20260810223751828800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时57分"
         },
         {
           "title": "券商晨会精华：AI制药大有可为，产业链有望持续受益",
@@ -748,9 +833,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "哥伦比亚西部乔科省（Chocó）诺维塔市（Nóvita）下辖小镇San Jose del Palmar南侧5公里发生7.4级地震。",
+          "url": "https://wallstreetcn.com/livenews/3147563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
@@ -781,9 +877,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "哥伦比亚马尼萨莱斯市市长报告称，地震已造成至少2人死亡。",
+          "url": "https://flash.jin10.com/detail/20260810222702010800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "AI前沿日报-8月10日",
@@ -825,7 +932,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -979,7 +1086,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1001,7 +1108,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1034,7 +1141,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
