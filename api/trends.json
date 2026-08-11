@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T18:49:52.252827+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-08-11T19:43:02.316918+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 94,
+      "match_count": 101,
       "titles": [
         {
           "title": "哥伦比亚地震已致上百人遇难",
@@ -16,8 +16,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 18时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 19时43分]"
+        },
+        {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 19时43分]"
         },
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -44,21 +58,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 18时49分]"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 18时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 19时43分]"
         },
         {
           "title": "委内瑞拉强震死亡人数上升至6301人",
@@ -90,6 +91,20 @@
           "time_info": "[09时28分 ~ 17时35分]"
         },
         {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            9,
+            6,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 19时43分]"
+        },
+        {
           "title": "城市竞争进入AI答案时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
           "source": "澎湃新闻",
@@ -100,8 +115,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 18时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 19时43分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 19时43分]"
         },
         {
           "title": "用AI重返那年相遇的青涩夏天",
@@ -113,11 +143,27 @@
             9,
             11,
             12,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时28分 ~ 18时49分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 19时43分]"
+        },
+        {
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7,
+            5,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时04分 ~ 19时43分]"
         },
         {
           "title": "AI在黎曼猜想上做出了什么突破",
@@ -147,31 +193,74 @@
           "time_info": "[09时28分 ~ 17时35分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
           "ranks": [
-            9,
+            13,
+            10,
+            8,
             6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 18时49分]"
+          "appearance_count": 8,
+          "time_info": "[15时04分 ~ 19时43分]"
         },
         {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
           "ranks": [
-            1,
-            7,
-            5,
-            13
+            10,
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 18时49分]"
+          "appearance_count": 8,
+          "time_info": "[15时04分 ~ 19时43分]"
+        },
+        {
+          "title": "余霜下厨做土豆,管哥吃中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357122&amp;topic_name=%E4%BD%99%E9%9C%9C%E4%B8%8B%E5%8E%A8%E5%81%9A%E5%9C%9F%E8%B1%86%2C%E7%AE%A1%E5%93%A5%E5%90%83%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时04分 ~ 19时43分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            16,
+            15,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时04分 ~ 19时43分]"
+        },
+        {
+          "title": "沈腾发老年徐福让孩子好好吃饭",
+          "url": "https://www.douyin.com/hot/2605515",
+          "source": "抖音",
+          "ranks": [
+            25,
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时04分 ~ 19时43分]"
         },
         {
           "title": "河南发布地质灾害气象风险预警",
@@ -203,20 +292,6 @@
           "time_info": "[09时28分 ~ 15时05分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 18时49分]"
-        },
-        {
           "title": "小狗被医院宣布死亡后自己跑回家",
           "url": "https://www.toutiao.com/trending/7672273576690827327/",
           "source": "今日头条",
@@ -231,71 +306,28 @@
           "time_info": "[09时28分 ~ 16时31分]"
         },
         {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
+          "title": "新闻联播",
+          "url": "https://www.douyin.com/hot/2606208",
           "source": "抖音",
           "ranks": [
-            10,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 18时49分]"
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 18时49分]"
-        },
-        {
-          "title": "余霜下厨做土豆,管哥吃中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357122&amp;topic_name=%E4%BD%99%E9%9C%9C%E4%B8%8B%E5%8E%A8%E5%81%9A%E5%9C%9F%E8%B1%86%2C%E7%AE%A1%E5%93%A5%E5%90%83%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 18时49分]"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            16,
-            15,
-            18
+            11,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时04分 ~ 18时49分]"
-        },
-        {
-          "title": "沈腾发老年徐福让孩子好好吃饭",
-          "url": "https://www.douyin.com/hot/2605515",
-          "source": "抖音",
-          "ranks": [
-            25,
-            27,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 18时49分]"
+          "time_info": "[16时31分 ~ 19时43分]"
         },
         {
           "title": "印度央行行长：敦促各银行对所有人工智能模型进行盘点，并制定经董事会批准的人工智能治理政策。",
@@ -315,7 +347,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -489,19 +521,6 @@
           "time_info": "[17时35分 ~ 18时49分]"
         },
         {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时49分]"
-        },
-        {
           "title": "上海：全面支撑大中小企业开展智能化改造升级",
           "url": "https://wallstreetcn.com/livenews/3147988",
           "source": "华尔街见闻-快讯",
@@ -633,6 +652,18 @@
           "time_info": "[17时35分 ~ 18时49分]"
         },
         {
+          "title": "水利部和中国气象局8月11日18时联合发布红色山洪灾害气象预警，预计河南中部局地发生山洪灾害可能性很大。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3148017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时43分]"
+        },
+        {
           "title": "官方辟谣凌海高温致28人死亡",
           "url": "https://www.douyin.com/hot/2604524",
           "source": "抖音",
@@ -642,6 +673,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "连线｜哥伦比亚十年最强地震：震中位于最贫困地区，新总统就职3天遇考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33757032",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "基本养老保险基金运营稳健",
@@ -722,6 +764,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "巴西央行：货币政策必须保持紧缩。",
+          "url": "https://flash.jin10.com/detail/20260811190522330800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "韩国部长表示，将采取一切可能的政策措施来降低市场波动性。",
           "url": "https://flash.jin10.com/detail/20260811091524063800",
           "source": "金十数据",
@@ -766,15 +819,15 @@
           "time_info": "13时53分"
         },
         {
-          "title": "水利部和中国气象局8月11日18时联合发布红色山洪灾害气象预警，预计河南中部局地发生山洪灾害可能性很大。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3148017",
+          "title": "金融监管总局：保险业对近期重大自然灾害累计已赔付76亿元",
+          "url": "https://wallstreetcn.com/livenews/3148043",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "19时43分"
         },
         {
           "title": "哥伦比亚因地震进入国家灾难状态",
@@ -876,6 +929,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "应急管理部针对北京启动国家地质灾害四级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3148037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "乘联分会：7月新能源车在国内总体乘用车的零售渗透率65.1%",
           "url": "https://flash.jin10.com/detail/20260811161004780800",
           "source": "金十数据",
@@ -907,6 +971,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "法国媒体机构全国新闻信息联盟：已向法国反垄断监管机构就谷歌(GOOG.O)的人工智能业务提出申诉。",
+          "url": "https://flash.jin10.com/detail/20260811185539534800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -981,7 +1056,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -1050,6 +1125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "金融监管总局：保险业对近期重大自然灾害累计已赔付76亿元",
+          "url": "https://flash.jin10.com/detail/20260811185207220800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "据半岛电视台：加沙地区因战争死亡人数已达73,387人。",
