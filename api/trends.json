@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T16:31:41.775589+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-08-11T17:35:01.467520+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 81,
+      "match_count": 91,
       "titles": [
         {
           "title": "哥伦比亚地震已致上百人遇难",
@@ -16,8 +16,24 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 17时35分]"
+        },
+        {
+          "title": "赛博华佗!病毒吧主无偿帮人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357070&amp;topic_name=%E8%B5%9B%E5%8D%9A%E5%8D%8E%E4%BD%97%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E6%97%A0%E5%81%BF%E5%B8%AE%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            6,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 17时35分]"
         },
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -29,21 +45,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时28分 ~ 15时05分]"
-        },
-        {
-          "title": "赛博华佗!病毒吧主无偿帮人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357070&amp;topic_name=%E8%B5%9B%E5%8D%9A%E5%8D%8E%E4%BD%97%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E6%97%A0%E5%81%BF%E5%B8%AE%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时31分]"
         },
         {
           "title": "委内瑞拉强震死亡人数上升至6301人",
@@ -70,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 17时35分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -83,8 +84,37 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 17时35分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 17时35分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时28分 ~ 17时35分]"
         },
         {
           "title": "AI在黎曼猜想上做出了什么突破",
@@ -101,31 +131,45 @@
           "time_info": "[11时20分 ~ 15时05分]"
         },
         {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
+          "title": "为什么那么多年轻人得了尿毒症？",
+          "url": "https://www.zhihu.com/question/2025229966229485529",
+          "source": "知乎",
           "ranks": [
-            10,
-            7,
-            9,
-            11
+            4,
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 17时35分]"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            11,
-            9,
-            8
+            1,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时28分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 17时35分]"
+        },
+        {
+          "title": "河南发布地质灾害气象风险预警",
+          "url": "https://www.douyin.com/hot/2605088",
+          "source": "抖音",
+          "ranks": [
+            20,
+            24,
+            27,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 17时35分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -156,31 +200,29 @@
           "time_info": "[09时28分 ~ 16时31分]"
         },
         {
-          "title": "为什么那么多年轻人得了尿毒症？",
-          "url": "https://www.zhihu.com/question/2025229966229485529",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 12时50分]"
-        },
-        {
-          "title": "河南发布地质灾害气象风险预警",
-          "url": "https://www.douyin.com/hot/2605088",
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
           "source": "抖音",
           "ranks": [
-            20,
-            24,
-            27,
-            30
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时28分 ~ 16时31分]"
+          "time_info": "[13时53分 ~ 17时35分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 17时35分]"
         },
         {
           "title": "印度央行行长：敦促各银行对所有人工智能模型进行盘点，并制定经董事会批准的人工智能治理政策。",
@@ -222,21 +264,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时04分 ~ 16时31分]"
         },
         {
           "title": "A股人形机器人概念股午后拉升，巨轮智能、北特科技直线涨停，斯菱智驱涨超17%，瑞迪智驱、禾川科技、安培龙、丰光精密等跟涨。",
@@ -267,9 +297,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "智光电气：网传完成英伟达AIDC BESS自测等消息不属实",
+          "url": "https://wallstreetcn.com/livenews/3147990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "连线亲历哥伦比亚地震华人",
@@ -305,6 +346,18 @@
           "time_info": "13时53分"
         },
         {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 17时35分]"
+        },
+        {
           "title": "TaiLung被永久禁赛有何内幕",
           "url": "https://search.bilibili.com/all?keyword=TaiLung%E8%A2%AB%E6%B0%B8%E4%B9%85%E7%A6%81%E8%B5%9B%E6%9C%89%E4%BD%95%E5%86%85%E5%B9%95",
           "source": "bilibili 热搜",
@@ -333,9 +386,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "上海：全面支撑大中小企业开展智能化改造升级",
+          "url": "https://wallstreetcn.com/livenews/3147988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "余霜下厨做土豆,管哥吃中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357122&amp;topic_name=%E4%BD%99%E9%9C%9C%E4%B8%8B%E5%8E%A8%E5%81%9A%E5%9C%9F%E8%B1%86%2C%E7%AE%A1%E5%93%A5%E5%90%83%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 17时35分]"
         },
         {
           "title": "孕妇胎监异常4天后剖宫产胎儿死亡",
@@ -348,6 +425,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时04分 ~ 16时31分]"
+        },
+        {
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 17时35分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 17时35分]"
         },
         {
           "title": "陈雪凝疑似生孩子了",
@@ -363,29 +466,16 @@
           "time_info": "[12时49分 ~ 15时05分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
+          "title": "沈腾发老年徐福让孩子好好吃饭",
+          "url": "https://www.douyin.com/hot/2605515",
           "source": "抖音",
           "ranks": [
-            9,
-            6
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 16时31分]"
-        },
-        {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 17时35分]"
         },
         {
           "title": "哥伦比亚华人称以为低血糖原来是地震",
@@ -412,28 +502,16 @@
           "time_info": "[11时20分 ~ 12时50分]"
         },
         {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            6
+            11,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时04分 ~ 16时31分]"
-        },
-        {
-          "title": "余霜下厨做土豆,管哥吃中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357122&amp;topic_name=%E4%BD%99%E9%9C%9C%E4%B8%8B%E5%8E%A8%E5%81%9A%E5%9C%9F%E8%B1%86%2C%E7%AE%A1%E5%93%A5%E5%90%83%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时04分 ~ 16时31分]"
+          "time_info": "[16时31分 ~ 17时35分]"
         },
         {
           "title": "河南发布红色山洪灾害气象风险预警",
@@ -461,40 +539,40 @@
           "time_info": "[09时28分 ~ 11时21分]"
         },
         {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
+          "title": "当老板意识到AI比人工贵",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E8%80%81%E6%9D%BF%E6%84%8F%E8%AF%86%E5%88%B0AI%E6%AF%94%E4%BA%BA%E5%B7%A5%E8%B4%B5&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            10
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时04分 ~ 16时31分]"
+          "time_info": "[16时31分 ~ 17时35分]"
         },
         {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
+          "title": "胎儿窒息死亡 医院改病历40余次",
+          "url": "https://www.baidu.com/s?wd=%E8%83%8E%E5%84%BF%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%8C%BB%E9%99%A2%E6%94%B9%E7%97%85%E5%8E%8640%E4%BD%99%E6%AC%A1",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            16
+            20,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时04分 ~ 16时31分]"
+          "time_info": "[16时31分 ~ 17时35分]"
         },
         {
-          "title": "沈腾发老年徐福让孩子好好吃饭",
-          "url": "https://www.douyin.com/hot/2605515",
-          "source": "抖音",
+          "title": "兄弟地震幸存47天后又遇7.5级地震",
+          "url": "https://www.baidu.com/s?wd=%E5%85%84%E5%BC%9F%E5%9C%B0%E9%9C%87%E5%B9%B8%E5%AD%9847%E5%A4%A9%E5%90%8E%E5%8F%88%E9%81%877.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
           "ranks": [
-            25,
-            27
+            27,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时04分 ~ 16时31分]"
+          "time_info": "[16时31分 ~ 17时35分]"
         },
         {
           "title": "涉及中国AI，日本自卫队极为担心",
@@ -564,13 +642,24 @@
           "time_info": "09时28分"
         },
         {
+          "title": "智光电气：网传完成英伟达AIDC BESS自测等消息不属实",
+          "url": "https://flash.jin10.com/detail/20260811171045913800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "乘联分会：7月新能源车零售同比下降3.9%",
           "url": "https://wallstreetcn.com/livenews/3147942",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -592,9 +681,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "上海：大力推动开源体系建设，推动智能软件、语料、算法、模型、智能体、人形机器人软硬件等开源项目在沪“首发”",
+          "url": "https://wallstreetcn.com/livenews/3147986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "韩国部长表示，将采取一切可能的政策措施来降低市场波动性。",
@@ -696,15 +796,15 @@
           "time_info": "13时53分"
         },
         {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
+          "title": "上海：大力推动开源体系建设，推动智能软件、语料、算法、模型、智能体、人形机器人软硬件等开源项目在沪“首发”",
+          "url": "https://flash.jin10.com/detail/20260811170611390800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "17时35分"
         },
         {
           "title": "韩国总统李在明：还应优先考虑非芯片人工智能领域，如小型模块化反应堆。",
@@ -729,13 +829,24 @@
           "time_info": "09时28分"
         },
         {
+          "title": "【上海：支持软件企业广泛使用Coding平台】上海市经济和信息化委员会印发《上海市软件和信息服务业发展“十五五”规划》。其中提到，推动软件产品AI化发展，加快工业制图、工程设计和生产排产等高价值场景的智能化升级，强化软件产品的智能感知、分析、决策与执行能力。促进软件企业智能化技改，支持软件企业广泛使用Coding平台，构建覆盖全流程、全链条的智能化研发生产线，探索将词元（Token）、数据治理、大模型部署及再训练等投入，纳入企业技术改造支持方向。",
+          "url": "https://wallstreetcn.com/livenews/3147978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "乘联分会：7月新能源车在国内总体乘用车的零售渗透率65.1%",
           "url": "https://flash.jin10.com/detail/20260811161004780800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -746,7 +857,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -795,28 +906,6 @@
           "time_info": "15时05分"
         },
         {
-          "title": "当老板意识到AI比人工贵",
-          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E8%80%81%E6%9D%BF%E6%84%8F%E8%AF%86%E5%88%B0AI%E6%AF%94%E4%BA%BA%E5%B7%A5%E8%B4%B5&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "胎儿窒息死亡 医院改病历40余次",
-          "url": "https://www.baidu.com/s?wd=%E8%83%8E%E5%84%BF%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1+%E5%8C%BB%E9%99%A2%E6%94%B9%E7%97%85%E5%8E%8640%E4%BD%99%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
           "title": "英伟达携手华尔街六巨头，承诺5000亿美元AI基建融资",
           "url": "https://flash.jin10.com/detail/20260811103319557800",
           "source": "金十数据",
@@ -826,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "工业富联：2026年上半年净利润同比增长95.99%，报告期内AI算力需求持续爆发",
+          "url": "https://flash.jin10.com/detail/20260811165549022800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "俄称对基辅等地发动打击 乌称袭击已致6人死亡",
@@ -848,6 +948,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "腾讯启动2027校招，增加多个AI原生岗位",
+          "url": "https://wallstreetcn.com/livenews/3147962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美记实拍费城街头多人因吸毒不省人事",
@@ -883,17 +994,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "兄弟地震幸存47天后又遇7.5级地震",
-          "url": "https://www.baidu.com/s?wd=%E5%85%84%E5%BC%9F%E5%9C%B0%E9%9C%87%E5%B9%B8%E5%AD%9847%E5%A4%A9%E5%90%8E%E5%8F%88%E9%81%877.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
           "title": "花旗：算力没变便宜，AI实际使用成本却在下降",
           "url": "https://flash.jin10.com/detail/20260811102510123800",
           "source": "金十数据",
@@ -903,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "据半岛电视台：加沙地区因战争死亡人数已达73,387人。",
+          "url": "https://flash.jin10.com/detail/20260811164609685800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "钱七虎谈盾构隧道工程的智能建造",
@@ -925,6 +1036,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "贵州轮胎：全资子公司取得摩洛哥半钢子午线轮胎智能制造项目的境外投资备案",
+          "url": "https://flash.jin10.com/detail/20260811164519313800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "取消涨价50%计划：Anthropic永久锁定Sonnet 5低价，AI代理成本趋稳",
