@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T15:22:09.722098+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-08-12T16:49:23.741818+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 16时49分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 16时49分]"
         },
         {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 16时49分]"
         },
         {
           "title": "这次不一样？今晚美国CPI数据 将拉开一场空前激烈的博弈……",
@@ -49,11 +50,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 16时49分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -64,8 +66,38 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 16时49分]"
+        },
+        {
+          "title": "赛博华佗!病毒吧主无偿帮人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357070&amp;topic_name=%E8%B5%9B%E5%8D%9A%E5%8D%8E%E4%BD%97%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E6%97%A0%E5%81%BF%E5%B8%AE%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18,
+            19,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 16时49分]"
+        },
+        {
+          "title": "余霜下厨做土豆,管哥吃中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357122&amp;topic_name=%E4%BD%99%E9%9C%9C%E4%B8%8B%E5%8E%A8%E5%81%9A%E5%9C%9F%E8%B1%86%2C%E7%AE%A1%E5%93%A5%E5%90%83%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            21,
+            22,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 16时49分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -82,32 +114,15 @@
           "time_info": "[09时46分 ~ 15时22分]"
         },
         {
-          "title": "赛博华佗!病毒吧主无偿帮人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357070&amp;topic_name=%E8%B5%9B%E5%8D%9A%E5%8D%8E%E4%BD%97%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E6%97%A0%E5%81%BF%E5%B8%AE%E4%BA%BA",
-          "source": "贴吧",
+          "title": "【腾讯控股：第二季度录得负自由现金流人民币138亿元，若剔除算力采购的预付款项，自由现金流为人民币376亿元】第二季，本集团录得负自由现金流人民币138亿元，此乃由于经营活动所产生的现金净额人民币527亿元，被资本开支付款人民币593亿元、媒体内容付款人民币50亿元及租赁负债付款人民币22亿元超额抵销。我们的经营现金流包括大额AI相关预付款项，用于提供基础设施以支持Hy模型升级、WorkBuddy及CodeBuddy推理的需求、微信AI举措，以及我们各项产品与服务的AI能力建设，同时满足外部客户对我们的云服务持续增长的需求。若剔除算力采购的预付款项，我们的自由现金流为人民币376亿元。",
+          "url": "https://wallstreetcn.com/livenews/3148530",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            18,
-            19,
-            22
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 15时22分]"
-        },
-        {
-          "title": "余霜下厨做土豆,管哥吃中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357122&amp;topic_name=%E4%BD%99%E9%9C%9C%E4%B8%8B%E5%8E%A8%E5%81%9A%E5%9C%9F%E8%B1%86%2C%E7%AE%A1%E5%93%A5%E5%90%83%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            21,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 15时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "AI产业给韩国人带来什么",
@@ -140,7 +155,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -154,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "阿里巴巴前AI架构师创办新公司 获腾讯和红杉投资",
+          "url": "https://wallstreetcn.com/livenews/3148525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
@@ -191,6 +217,19 @@
           "time_info": "[12时06分 ~ 15时22分]"
         },
         {
+          "title": "中598万男子称保密是怕影响妻子孩子",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD598%E4%B8%87%E7%94%B7%E5%AD%90%E7%A7%B0%E4%BF%9D%E5%AF%86%E6%98%AF%E6%80%95%E5%BD%B1%E5%93%8D%E5%A6%BB%E5%AD%90%E5%AD%A9%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 16时49分]"
+        },
+        {
           "title": "AI打开了我童年记忆的百宝箱",
           "url": "https://www.douyin.com/hot/2605425",
           "source": "抖音",
@@ -213,6 +252,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时49分]"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时49分]"
         },
         {
           "title": "如何评价米哈游旗下 AI 互动陪伴产品《BSide: Olivia Lin》宣告停止运营？",
@@ -239,18 +300,6 @@
           "time_info": "[09时46分 ~ 12时07分]"
         },
         {
-          "title": "中598万男子称保密是怕影响妻子孩子",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD598%E4%B8%87%E7%94%B7%E5%AD%90%E7%A7%B0%E4%BF%9D%E5%AF%86%E6%98%AF%E6%80%95%E5%BD%B1%E5%93%8D%E5%A6%BB%E5%AD%90%E5%AD%A9%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时22分]"
-        },
-        {
           "title": "C罗五个孩子出席婚礼",
           "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BA%94%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -273,28 +322,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 13时55分]"
-        },
-        {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
-        },
-        {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.douyin.com/hot/2607024",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "广东揭西通报2人跳桥死亡",
@@ -336,7 +363,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -358,7 +385,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -369,7 +396,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -402,9 +429,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "“千问AI Arena”上线 首个任务聚焦跨境电商",
+          "url": "https://wallstreetcn.com/livenews/3148509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "据NBC新闻：美国参议员艾米·克洛布哈尔赢得明尼苏达州民主党州长初选。",
@@ -440,13 +478,24 @@
           "time_info": "13时55分"
         },
         {
+          "title": "AI能否推动数学进入黄金年代",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%83%BD%E5%90%A6%E6%8E%A8%E5%8A%A8%E6%95%B0%E5%AD%A6%E8%BF%9B%E5%85%A5%E9%BB%84%E9%87%91%E5%B9%B4%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "中国汽车工业协会：新能源汽车月度新车销量占比首超60%",
           "url": "https://wallstreetcn.com/livenews/3148449",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -534,7 +583,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -559,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "美国东部强烈风暴致2人死亡",
+          "url": "https://wallstreetcn.com/livenews/3148489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "用AI重返那年相遇的青涩夏天",
