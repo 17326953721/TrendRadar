@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T09:46:20.100907+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-12T12:07:04.789191+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 22,
+      "match_count": 33,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -15,8 +15,44 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
+          "url": "https://www.cls.cn/detail/2451840",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
         },
         {
           "title": "孕妇胎监异常被安排 4 天后手术结果胎儿死亡，医院 40 余次篡改病历，法院判医院赔偿 14 万，如何解读？",
@@ -30,26 +66,16 @@
           "time_info": "09时46分"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
+          "title": "这次不一样？今晚美国CPI数据 将拉开一场空前激烈的博弈……",
+          "url": "https://www.cls.cn/detail/2451863",
+          "source": "财联社热门",
           "ranks": [
-            5
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
         },
         {
           "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
@@ -67,60 +93,177 @@
           "url": "https://www.douyin.com/hot/2605425",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
-          "url": "https://www.cls.cn/detail/2451840",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
           "url": "https://www.douyin.com/hot/2605459",
           "source": "抖音",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "这次不一样？今晚美国CPI数据 将拉开一场空前激烈的博弈……",
-          "url": "https://www.cls.cn/detail/2451863",
-          "source": "财联社热门",
-          "ranks": [
+            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "Agent经济学拐点：AI Agent电脑操作小时成本已低于离岸人力外包，准确率也更高",
-          "url": "https://wallstreetcn.com/articles/3779129",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
           "url": "https://www.cls.cn/detail/2451601",
           "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "赛博华佗!病毒吧主无偿帮人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357070&amp;topic_name=%E8%B5%9B%E5%8D%9A%E5%8D%8E%E4%BD%97%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E6%97%A0%E5%81%BF%E5%B8%AE%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "国行苹果AI支持机型",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "余霜下厨做土豆,管哥吃中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357122&amp;topic_name=%E4%BD%99%E9%9C%9C%E4%B8%8B%E5%8E%A8%E5%81%9A%E5%9C%9F%E8%B1%86%2C%E7%AE%A1%E5%93%A5%E5%90%83%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "C罗五个孩子出席婚礼",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BA%94%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "C罗结婚5个孩子出席婚礼",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E7%BB%93%E5%A9%9A5%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "马斯克押注智能体再出招：“数字同事”Grok Bot上线",
+          "url": "https://www.cls.cn/detail/2451756",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "如何评价米哈游旗下 AI 互动陪伴产品《BSide: Olivia Lin》宣告停止运营？",
+          "url": "https://www.zhihu.com/question/2070534573788751684",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "广东揭西通报2人跳桥死亡",
+          "url": "https://www.toutiao.com/trending/7672815906778955839/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "AI产业给韩国人带来什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E7%BB%99%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "小酒窝和爸爸在一起就像小孩子",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E5%92%8C%E7%88%B8%E7%88%B8%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%B0%B1%E5%83%8F%E5%B0%8F%E5%AD%A9%E5%AD%90%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "中598万男子称保密怕影响妻子孩子",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD598%E4%B8%87%E7%94%B7%E5%AD%90%E7%A7%B0%E4%BF%9D%E5%AF%86%E6%80%95%E5%BD%B1%E5%93%8D%E5%A6%BB%E5%AD%90%E5%AD%A9%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "曝小红书打造全新“AI导购”功能，官方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3148389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "Agent经济学拐点：AI Agent电脑操作小时成本已低于离岸人力外包，准确率也更高",
+          "url": "https://wallstreetcn.com/articles/3779129",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
@@ -173,37 +316,15 @@
           "time_info": "09时46分"
         },
         {
-          "title": "赛博华佗!病毒吧主无偿帮人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357070&amp;topic_name=%E8%B5%9B%E5%8D%9A%E5%8D%8E%E4%BD%97%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E6%97%A0%E5%81%BF%E5%B8%AE%E4%BA%BA",
-          "source": "贴吧",
+          "title": "AI乐观情绪推动芯片股大幅上涨 韩国股市连续第三个交易日走高",
+          "url": "https://flash.jin10.com/detail/20260812111447024800",
+          "source": "金十数据",
           "ranks": [
-            16
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "国行苹果AI支持机型",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "余霜下厨做土豆,管哥吃中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357122&amp;topic_name=%E4%BD%99%E9%9C%9C%E4%B8%8B%E5%8E%A8%E5%81%9A%E5%9C%9F%E8%B1%86%2C%E7%AE%A1%E5%93%A5%E5%90%83%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "12时07分"
         },
         {
           "title": "面壁智能启动IPO",
@@ -217,15 +338,26 @@
           "time_info": "09时46分"
         },
         {
-          "title": "C罗五个孩子出席婚礼",
-          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BA%94%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "法兴银行：预计AI资本支出下半年继续加速，或到2027年上半年才见峰值",
+          "url": "https://flash.jin10.com/detail/20260812111418795800",
+          "source": "金十数据",
           "ranks": [
-            24
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "12时07分"
+        },
+        {
+          "title": "A股AI应用方向早盘走高，省广集团、风语筑双双涨停，天龙集团涨超10%，引力传媒、福石控股、佳云科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
