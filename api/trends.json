@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T20:10:09.845195+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-08-12T21:58:21.157305+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 78,
+      "match_count": 88,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 20时10分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 21时58分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时55分 ~ 20时10分]"
+          "appearance_count": 9,
+          "time_info": "[13时55分 ~ 21时58分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -40,11 +40,12 @@
             5,
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 20时10分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 21时58分]"
         },
         {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
@@ -86,8 +87,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 20时10分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 21时58分]"
         },
         {
           "title": "余霜下厨做土豆,管哥吃中毒",
@@ -102,8 +103,41 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 20时10分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 21时58分]"
+        },
+        {
+          "title": "新能源汽车新车销量占比首超60%",
+          "url": "https://www.toutiao.com/trending/7673110698733637130/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 21时58分]"
+        },
+        {
+          "title": "新能源汽车月度新车销量占比首超60%",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%9C%88%E5%BA%A6%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E5%8D%A0%E6%AF%94%E9%A6%96%E8%B6%8560%25%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 21时58分]"
+        },
+        {
+          "title": "《新闻联播》播发朱镕基逝世",
+          "url": "https://www.toutiao.com/trending/7673096832658132489/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 21时58分]"
         },
         {
           "title": "AI科创润童心 网络安全伴成长",
@@ -139,28 +173,6 @@
           "time_info": "[19时22分 ~ 19时23分]"
         },
         {
-          "title": "新能源汽车新车销量占比首超60%",
-          "url": "https://www.toutiao.com/trending/7673110698733637130/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
-        },
-        {
-          "title": "新能源汽车月度新车销量占比首超60%",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%9C%88%E5%BA%A6%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E5%8D%A0%E6%AF%94%E9%A6%96%E8%B6%8560%25%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
-        },
-        {
           "title": "《新闻联播》正在直播",
           "url": "https://www.toutiao.com/trending/7673096832658132489/",
           "source": "今日头条",
@@ -170,17 +182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时22分 ~ 19时23分]"
-        },
-        {
-          "title": "《新闻联播》播发朱镕基逝世",
-          "url": "https://www.toutiao.com/trending/7673096832658132489/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
         },
         {
           "title": "新闻联播",
@@ -214,9 +215,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
+        },
+        {
+          "title": "腾讯总裁刘炽平再谈微信AI：微信会成为以AI为先的生态系统，有望转化成巨大的价值",
+          "url": "https://wallstreetcn.com/livenews/3148658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "【腾讯控股：第二季度录得负自由现金流人民币138亿元，若剔除算力采购的预付款项，自由现金流为人民币376亿元】第二季，本集团录得负自由现金流人民币138亿元，此乃由于经营活动所产生的现金净额人民币527亿元，被资本开支付款人民币593亿元、媒体内容付款人民币50亿元及租赁负债付款人民币22亿元超额抵销。我们的经营现金流包括大额AI相关预付款项，用于提供基础设施以支持Hy模型升级、WorkBuddy及CodeBuddy推理的需求、微信AI举措，以及我们各项产品与服务的AI能力建设，同时满足外部客户对我们的云服务持续增长的需求。若剔除算力采购的预付款项，我们的自由现金流为人民币376亿元。",
@@ -276,6 +288,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "新闻联播播报：朱镕基同志逝世",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%92%AD%E6%8A%A5%EF%BC%9A%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "阿里巴巴前AI架构师创办新公司 获腾讯和红杉投资",
           "url": "https://wallstreetcn.com/livenews/3148525",
           "source": "华尔街见闻-快讯",
@@ -285,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
+        },
+        {
+          "title": "腾讯总裁刘炽平谈AI资本开支增加：多款应用表现良好，已看到明显上行空间",
+          "url": "https://wallstreetcn.com/livenews/3148651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
@@ -395,6 +429,17 @@
           "time_info": "[09时46分 ~ 12时07分]"
         },
         {
+          "title": "央行：综合运用并适时调整货币政策工具 保持流动性充裕和社会融资条件相对宽松",
+          "url": "https://www.cls.cn/detail/2452559",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 21时58分]"
+        },
+        {
           "title": "如何评价米哈游旗下 AI 互动陪伴产品《BSide: Olivia Lin》宣告停止运营？",
           "url": "https://www.zhihu.com/question/2070534573788751684",
           "source": "知乎",
@@ -417,6 +462,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时46分 ~ 12时07分]"
+        },
+        {
+          "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
+          "url": "https://www.zhihu.com/question/2068973888067964954",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 21时58分]"
         },
         {
           "title": "C罗五个孩子出席婚礼",
@@ -478,17 +534,6 @@
           "time_info": "[19时23分 ~ 20时10分]"
         },
         {
-          "title": "央行：综合运用并适时调整货币政策工具 保持流动性充裕和社会融资条件相对宽松",
-          "url": "https://www.cls.cn/detail/2452559",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
-        },
-        {
           "title": "硕贝德：拟定增募资不超过10.96亿元，用于服务器散热模组项目、智能眼镜轻量化射频组件项目、低轨卫星通信天线及模组项目、补充流动资金。",
           "url": "https://wallstreetcn.com/livenews/3148587",
           "source": "华尔街见闻-快讯",
@@ -545,17 +590,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时23分 ~ 20时10分]"
-        },
-        {
-          "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？",
-          "url": "https://www.zhihu.com/question/2068973888067964954",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时09分 ~ 20时10分]"
         },
         {
           "title": "广东揭西通报2人跳桥死亡",
@@ -635,6 +669,28 @@
           "time_info": "09时46分"
         },
         {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "中国地震台网正式测定：08月12日20时48分在四川阿坝州汶川县（北纬30.93度，东经103.13度）发生3.0级地震，震源深度7千米。",
+          "url": "https://wallstreetcn.com/livenews/3148644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "达实智能：无参股宇树科技，无机器人业务",
           "url": "https://wallstreetcn.com/livenews/3148463",
           "source": "华尔街见闻-快讯",
@@ -663,7 +719,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -756,6 +812,39 @@
           "time_info": "16时49分"
         },
         {
+          "title": "三角洲AI夏日晚会",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "炸鸡店员工因爆单情绪崩溃倒地抽搐，工会：呼吸性碱中毒，找到新工作已离职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33766264",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "13天9板AI应用牛股被深交所重点监控，或申请停牌核查 | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260812210926333800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "中国汽车工业协会：新能源汽车月度新车销量占比首超60%",
           "url": "https://wallstreetcn.com/livenews/3148449",
           "source": "华尔街见闻-快讯",
@@ -765,6 +854,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "美股狂欢助推养老金 纽约五大基金跑赢目标",
+          "url": "https://flash.jin10.com/detail/20260812210916323800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "DeepSeek智能体要来了？公众号已完成注册认证",
@@ -842,6 +942,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "新能源汽车迎来两个“首次”突破",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "高盛：软件股开始兑现AI红利",
