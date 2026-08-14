@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-14T13:56:00.348183+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-08-14T15:21:41.816712+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时21分]"
+        },
         {
           "title": "亲戚 3200 卖给我的电脑，他说现在 2 手能卖 4000 多，能流畅运行生化危机 9 类型的游戏吗?",
           "url": "https://www.zhihu.com/question/2061559620792063850",
@@ -17,19 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时56分]"
-        },
-        {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时21分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -37,11 +38,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时21分]"
         },
         {
           "title": "AMD完成历史最大债券发行！47.5亿美元融资瞄准AI基础设施扩张",
@@ -60,11 +62,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时21分]"
         },
         {
           "title": "7月新增新冠确诊52.2万例 死亡1例",
@@ -72,11 +75,106 @@
           "source": "今日头条",
           "ranks": [
             5,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时21分]"
+        },
+        {
+          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779371",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时21分]"
+        },
+        {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时21分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            10,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时21分]"
+        },
+        {
+          "title": "仗义喜羊羊!病毒吧主火出圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357317&amp;topic_name=%E4%BB%97%E4%B9%89%E5%96%9C%E7%BE%8A%E7%BE%8A%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E7%81%AB%E5%87%BA%E5%9C%88",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时21分]"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            15,
+            22,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时21分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            22,
+            26,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时21分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 15时21分]"
         },
         {
           "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
@@ -91,105 +189,17 @@
           "time_info": "[09时46分 ~ 12时07分]"
         },
         {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时56分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            10,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时56分]"
-        },
-        {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时56分]"
-        },
-        {
-          "title": "仗义喜羊羊!病毒吧主火出圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357317&amp;topic_name=%E4%BB%97%E4%B9%89%E5%96%9C%E7%BE%8A%E7%BE%8A%21%E7%97%85%E6%AF%92%E5%90%A7%E4%B8%BB%E7%81%AB%E5%87%BA%E5%9C%88",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时56分]"
-        },
-        {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
-          "source": "抖音",
-          "ranks": [
-            15,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时56分]"
-        },
-        {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
-          "ranks": [
-            22,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时56分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 13时56分]"
-        },
-        {
           "title": "家长砸 30 万给孩子补课，中考 700 分选择上职校，如何看待中本贯通的这一选择？这种模式都适合哪些学生？",
           "url": "https://www.zhihu.com/question/2071340811296273541",
           "source": "知乎",
           "ranks": [
             14,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时21分]"
         },
         {
           "title": "男子驾车回地库碾到横卧醉汉致其死亡，检察院作出不起诉决定",
@@ -197,33 +207,59 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时21分]"
         },
         {
           "title": "俩孩子将超市内几十种杂粮混掺",
           "url": "https://www.toutiao.com/trending/7673335352706809899/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时21分]"
         },
         {
           "title": "法律从业者举报“鹅腿阿姨涉嫌刑事违法”引关注，市监部门：正在调查，会依法依规处理",
           "url": "https://m.thepaper.cn/newsDetail_forward_33778162",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时21分]"
+        },
+        {
+          "title": "【数读IPO】背靠宁德时代、比亚迪等，智能制造领域领军企业今日申购",
+          "url": "https://www.cls.cn/detail/2454007",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "time_info": "[12时07分 ~ 15时21分]"
+        },
+        {
+          "title": "AI用配音演员声线接广告",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%A8%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%A3%B0%E7%BA%BF%E6%8E%A5%E5%B9%BF%E5%91%8A&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 15时21分]"
         },
         {
           "title": "男子下地库碾到横卧醉汉致其死亡",
@@ -248,15 +284,15 @@
           "time_info": "12时07分"
         },
         {
-          "title": "【数读IPO】背靠宁德时代、比亚迪等，智能制造领域领军企业今日申购",
-          "url": "https://www.cls.cn/detail/2454007",
-          "source": "财联社热门",
+          "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
+          "url": "https://news.ifeng.com/c/8va6d6Ijs5m",
+          "source": "凤凰网",
           "ranks": [
-            12
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "15时21分"
         },
         {
           "title": "政策未能降低楼市热度 韩国总统支持率降至历史新低",
@@ -292,13 +328,24 @@
           "time_info": "12时07分"
         },
         {
+          "title": "百度文库网盘GenFlow官宣中文名“库库AI”",
+          "url": "https://wallstreetcn.com/livenews/3149529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "国家防减救灾委、应急管理部启动国家四级救灾应急响应，调拨中央救灾物资，指导支持河南做好暴雨洪涝灾害救灾救助工作。",
           "url": "https://wallstreetcn.com/livenews/3149486",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -347,6 +394,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "港股AI应用股午后跌幅扩大，MINIMAX跌超10%，智谱跌近6%。",
+          "url": "https://wallstreetcn.com/livenews/3149519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "法律从业者举报“鹅腿阿姨”涉嫌刑事违法引关注，市监部门：正在调查，会依法依规处理",
           "url": "https://m.thepaper.cn/newsDetail_forward_33778162",
           "source": "澎湃新闻",
@@ -369,6 +427,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "财政部：集成电路企业、工业母机企业发生非货币性资产交换5年内转让所取得资产的 应停止执行分期纳税政策",
+          "url": "https://flash.jin10.com/detail/20260814150410590800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "AI企业扎堆内蒙古抢风",
           "url": "https://s.weibo.com/weibo?q=%23AI%E4%BC%81%E4%B8%9A%E6%89%8E%E5%A0%86%E5%86%85%E8%92%99%E5%8F%A4%E6%8A%A2%E9%A3%8E%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -380,24 +449,13 @@
           "time_info": "09时46分"
         },
         {
-          "title": "AI用配音演员声线接广告",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%94%A8%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%A3%B0%E7%BA%BF%E6%8E%A5%E5%B9%BF%E5%91%8A&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
           "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
           "url": "https://wallstreetcn.com/livenews/3149477",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -441,9 +499,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "捷克央行会议纪要：委员会评估当前货币政策立场为适当的。",
+          "url": "https://flash.jin10.com/detail/20260814150234517800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美军否认“林肯”号航母人员死亡等传闻",
@@ -452,7 +521,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -466,6 +535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "捷克央行会议纪要：捷克央行行长表示，6月份的加息进一步收紧了货币政策环境，使得央行能够持续评估新数据。",
+          "url": "https://flash.jin10.com/detail/20260814150210916800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "日本千叶县强降雨已致6人死亡",
