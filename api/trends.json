@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T11:48:59.077749+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-08-17T22:25:55.354045+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "婆媳 养育 孩子 中年 危机 养老 突发 新闻 民生 政策 物价 退休金 赚钱 实用技能 博弈 法律 农村 新能源 灾害 中日 死亡 智能 AI 毒 地震 洪水",
-      "match_count": 30,
+      "match_count": 40,
       "titles": [
         {
           "title": "摩根大通警告明年或爆发全球粮食危机，食品通胀率将从 2.8% 升至 5%，粮价会大涨吗？会对国内有影响吗？",
@@ -41,6 +41,17 @@
           "time_info": "[10时41分 ~ 11时48分]"
         },
         {
+          "title": "大批AI博主停更了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "据印媒：印度比哈尔邦阿肖克达姆神庙发生踩踏式事故，已致六人死亡，另有多人受伤。",
           "url": "https://flash.jin10.com/detail/20260817103051350800",
           "source": "金十数据",
@@ -61,6 +72,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
+          "url": "https://www.zhihu.com/question/2071644037833135057",
+          "source": "知乎",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 22时25分]"
         },
         {
           "title": "东莞 17 亿元全额付款土地被无偿收回，官方公告称已解除出让合同，怎样从法律角度解读？",
@@ -158,6 +192,17 @@
           "time_info": "[10时41分 ~ 11时48分]"
         },
         {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "超强厄尔尼诺即将来袭 小摩警告：明年或爆发全球粮食危机",
           "url": "https://www.cls.cn/detail/2455265",
           "source": "财联社热门",
@@ -213,13 +258,24 @@
           "time_info": "10时41分"
         },
         {
+          "title": "新闻蒸馏器｜拆西墙补东墙，美军在西太平洋留下“航母真空”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33797607",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
           "url": "https://www.cls.cn/detail/2455546",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -230,7 +286,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -244,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "中国地震台网正式测定：08月17日10时02分在四川内江市隆昌市（北纬29.22度，东经105.21度）发生3.0级地震，震源深度5千米。",
@@ -263,18 +330,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
-          "url": "https://www.zhihu.com/question/2071644037833135057",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -296,9 +352,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：也门方面表示，解决危机的唯一安全且低成本的方式是结束封锁并停止干涉也门内政。",
+          "url": "https://flash.jin10.com/detail/20260817214959031800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "山西发布地质灾害黄色预警",
@@ -312,6 +379,39 @@
           "time_info": "10时41分"
         },
         {
+          "title": "英伟达：OpenAI已承诺到2030年大规模部署英伟达AI基础设施，现有及计划中的部署规模约为12吉瓦",
+          "url": "https://wallstreetcn.com/livenews/3150525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
+          "url": "https://wallstreetcn.com/livenews/3150523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "AI12分钟写完剧本 编剧要失业了吗",
+          "url": "https://www.baidu.com/s?wd=AI12%E5%88%86%E9%92%9F%E5%86%99%E5%AE%8C%E5%89%A7%E6%9C%AC+%E7%BC%96%E5%89%A7%E8%A6%81%E5%A4%B1%E4%B8%9A%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "涉中美AI，美被曝想逼多国“二选一”",
           "url": "https://wallstreetcn.com/livenews/3150130",
           "source": "华尔街见闻-快讯",
@@ -321,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "美团启动2027届校园招聘，新增十余种AI原生岗位",
+          "url": "https://wallstreetcn.com/livenews/3150521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "丁程鑫从不遮掩自己农村家庭背景",
